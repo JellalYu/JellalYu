@@ -37,7 +37,14 @@
 
 <br />
 
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/JellalYu">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JellalYu&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JellalYu&layout=compact&langs_count=8&theme=react"/>
+</a>
+</p>
 
 ---
 
@@ -68,23 +75,6 @@
 
 ➡️ [more blog posts...](https://jellalyu.github.io)
 
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-- [xxx](xxx)
-
-
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="JellalYu's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JellalYu&show_icons=true&hide_border=true" />
 
 </details>
 
