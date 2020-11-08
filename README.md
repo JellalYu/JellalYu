@@ -1,5 +1,3 @@
-# JellalYu
-
 ![](https://i.imgur.com/jt9vPfb.jpg)
 ## Hi there, I'm Jay 👋
 
@@ -15,7 +13,7 @@
 - 🌱 Experienced AWS cloud solution architect
 - 🥅 Experienced in AWS serverless application development with microservice architect
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
 
 
 ### &nbsp;Tech Stack 🛠 
