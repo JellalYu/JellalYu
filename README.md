@@ -8,11 +8,29 @@
 - 🌱 Experienced AWS cloud solution architect
 - 🥅 Experienced in AWS serverless application development with microservice architect
 
+---
+
+
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+
+### &nbsp;Tech Stack 🛠 
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)\
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 
 ### Connect with me:
 
@@ -22,24 +40,6 @@
 
 <br />
 
-
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][aws]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
-[<img align="left" alt="jupyter-notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />][jupyter]
-[<img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
-[<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][ubuntu]
-<br />
-<br />
 
 ---
 
@@ -68,7 +68,7 @@
 - [xxx](xxx)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://dragonH.github.io)
+➡️ [more blog posts...](https://jellalyu.github.io)
 
 ---
 
@@ -76,11 +76,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/dragonH/movie-api/pull/3) in [dragonH/movie-api](https://github.com/dragonH/movie-api)
-2. 🎉 Merged PR [#6](https://github.com/dragonH/shopping-site-practice/pull/6) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
-3. 🎉 Merged PR [#3](https://github.com/dragonH/shopping-site-practice/pull/3) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
-4. 🎉 Merged PR [#2](https://github.com/dragonH/movie-api/pull/2) in [dragonH/movie-api](https://github.com/dragonH/movie-api)
-5. 🎉 Merged PR [#7](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/7) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+- [xxx](xxx)
+
 
 <!--END_SECTION:activity-->
 
@@ -89,7 +86,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="dragonH's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dragonH&show_icons=true&hide_border=true" />
+  <img align="left" alt="JellalYu's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JellalYu&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -127,7 +124,6 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
 
 [youtube]: https://youtube.com/
 [linkedin]: https://linkedin.com/
