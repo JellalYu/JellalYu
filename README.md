@@ -64,7 +64,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [xxx](xxx)
+- [The Windowing Approach of Streaming Data](http://example.com/2020/10/05/text2.0/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jellalyu.github.io)
