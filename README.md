@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Aurora Global Database Expands Manageability Capabilities](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-global-database-expands-manageability-capabilities/)
-- [AWS DeepComposer launches new learning capsule on sequence modeling and Transformers](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-deepcomposer-launches-learning-capsule-sequence-modeling-transformers/)
-- [Amazon Aurora with PostgreSQL Compatibility supports data import from Amazon S3 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-with-postgresql-compatibility-supports-data-import/)
-- [New AWS Solutions Consulting Offer - Next-Generation Landing Zone](https://aws.amazon.com/about-aws/whats-new/2020/11/new-aws-solutions-consulting-offer-allcloud-nextgeneration-landingzone/)
-- [Amazon Connect Discounts Toll-Free Phone Number Pricing for the United States](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-discounts-toll-free-phone-number-pricing-united-states/)
+- [AWS Snowball Edge now supports importing virtual machine images to your deployed Snow devices](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-snowball-edge-supports-importing-virtual-machine-images-to-deployed-snow-devices/)
+- [AWS Snowball Edge now supports Windows operating systems](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-snowball-edge-supports-windows-operating-systems/)
+- [AWS DataSync announces fully automated transfers between AWS Storage services](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-datasync-announces-fully-automated-transfers-between-aws-storage-services/)
+- [AWS Transfer Family now supports shared services VPC environments](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-transfer-family-now-supports-shared-services-vpc-environments/)
+- [AWS Storage Gateway increases local storage cache by 4x for Tape and Volume Gateway](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-storage-gateway-increases-local-storage-cache-for-tape-and-file-gateway/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
