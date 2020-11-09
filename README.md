@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS DeepComposer launches new learning capsule on sequence modeling and Transformers](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-deepcomposer-launches-learning-capsule-sequence-modeling-transformers/)
 - [Amazon Aurora with PostgreSQL Compatibility supports data import from Amazon S3 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-with-postgresql-compatibility-supports-data-import/)
 - [New AWS Solutions Consulting Offer - Next-Generation Landing Zone](https://aws.amazon.com/about-aws/whats-new/2020/11/new-aws-solutions-consulting-offer-allcloud-nextgeneration-landingzone/)
 - [Amazon Connect Discounts Toll-Free Phone Number Pricing for the United States](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-discounts-toll-free-phone-number-pricing-united-states/)
 - [Amazon Aurora now supports PostgreSQL versions 10.12 and 9.6.17 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-supports-postgresql-versions-10-12-and-9-6-17-in-govcloud-regions/)
-- [Amazon Connect CTI Adapter for Salesforce now supports nine new languages](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-cti-adapter-for-salesforce-supports-nine-new-languages/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
