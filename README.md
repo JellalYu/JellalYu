@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon DocumentDB (with MongoDB compatibility) adds support for MongoDB 4.0 and transactions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-documentdb-with-mongodb-compatibility-adds-support-for-mongodb-4-and-transactions/)
-- [Amazon S3 Replication adds support for metrics and notifications](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-s3-replication-adds-support-for-metrics-and-notifications/)
-- [AWS Transfer Family now supports shared services VPC environments](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-transfer-family-now-supports-shared-services-vpc-environments/)
-- [Amazon CodeGuru Profiler simplifies profiling for AWS Lambda functions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-codeguru-profiler-simplifies-profiling-for-aws-lambda-functions/)
-- [AWS App Mesh introduces circuit breaker capabilities](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-app-mesh-introduces-circuit-breaker-capabilities/)
+- [AWS DeepComposer adds new Transformers algorithm that allows developers to extend an input melody](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-deepcomposer-adds-new-transformers-algorithm/)
+- [Announcing AWS App Mesh Controller for Kubernetes Version 1.2.0](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-aws-app-mesh-controller-for-kubernetes-version-1-2-0/)
+- [AWS Database Migration Service now supports Amazon DocumentDB (with MongoDB 4.0 compatibility) as a target](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-database-migration-service-now-supports-amazon-documentdb-with-mongodb-4-0-compatibility-as-a-target/)
+- [AWS Data Exchange now supports provider-controlled auto-renewal terms](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-data-exchange-supports-provider-controlled-auto-renewal-terms/)
+- [AWS Data Exchange introduces Private Products](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-data-exchange-introduces-private-products/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
