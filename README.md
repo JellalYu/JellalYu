@@ -50,16 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Aurora with PostgreSQL Compatibility supports data import from Amazon S3 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-with-postgresql-compatibility-supports-data-import/)
-- [New AWS Solutions Consulting Offer - Next-Generation Landing Zone](https://aws.amazon.com/about-aws/whats-new/2020/11/new-aws-solutions-consulting-offer-allcloud-nextgeneration-landingzone/)
-- [Amazon Connect Discounts Toll-Free Phone Number Pricing for the United States](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-discounts-toll-free-phone-number-pricing-united-states/)
-- [Amazon Aurora now supports PostgreSQL versions 10.12 and 9.6.17 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-supports-postgresql-versions-10-12-and-9-6-17-in-govcloud-regions/)
-- [Amazon Connect CTI Adapter for Salesforce now supports nine new languages](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-cti-adapter-for-salesforce-supports-nine-new-languages/)
-- [Amazon EventBridge introduces support for Event Replay](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-eventbridge-introduces-support-for-event-replay/)
-- [Amazon WorkDocs adds support for managing the color theme in-app on iOS](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-workdocs-support-managing-color-theme-in-app-ios/)
-- [Amazon ECS now supports Internet Protocol Version 6 (IPv6) in awsvpc networking mode](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-supports-ipv6-in-awsvpc-networking-mode/)
-- [Amazon Fraud Detector launches ability to delete additional resource types in AWS Console and SDK](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-fraud-detector-launches-ability-to-delete-additional-resource-types-in-aws-console-and-sdk/)
-- [Amazon Translate allows user to specify a part of the text to not be translated – Do Not Translate](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-translate-allows-user-to-specify-a-part-of-the-text-to-not-be-translated-do-not-translate/)
+- [Amazon Keyspaces now helps you update and store common data between multiple rows efficiently by using static columns](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-keyspaces-support-for-static-columns/)
+- [Announcing AWS DeepComposer’s next Chartbusters challenge, Keep Calm and Model On](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-aws-deepcomposers-next-chartbusters-challenge/)
+- [Now you can export your Amazon DynamoDB table data to your data lake in Amazon S3 to perform analytics at any scale](https://aws.amazon.com/about-aws/whats-new/2020/11/now-you-can-export-your-amazon-dynamodb-table-data-to-your-data-lake-in-amazon-s3-to-perform-analytics-at-any-scale/)
+- [AWS DeepComposer adds new Transformers algorithm that allows developers to extend an input melody](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-deepcomposer-adds-new-transformers-algorithm/)
+- [Announcing AWS App Mesh Controller for Kubernetes Version 1.2.0](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-aws-app-mesh-controller-for-kubernetes-version-1-2-0/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
@@ -69,7 +64,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [xxx](xxx)
+- [The Windowing Approach of Streaming Data](http://example.com/2020/10/05/text2.0/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jellalyu.github.io)
