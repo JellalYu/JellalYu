@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New – Deep Dive with Security: AWS Identity and Access Management (IAM)](https://aws.amazon.com/about-aws/whats-new/2020/11/new-deep-dive-with-security-aws-identity-and-access-managemen-iam/)
 - [Amazon Keyspaces now helps you update and store common data between multiple rows efficiently by using static columns](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-keyspaces-support-for-static-columns/)
 - [Announcing AWS DeepComposer’s next Chartbusters challenge, Keep Calm and Model On](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-aws-deepcomposers-next-chartbusters-challenge/)
 - [Now you can export your Amazon DynamoDB table data to your data lake in Amazon S3 to perform analytics at any scale](https://aws.amazon.com/about-aws/whats-new/2020/11/now-you-can-export-your-amazon-dynamodb-table-data-to-your-data-lake-in-amazon-s3-to-perform-analytics-at-any-scale/)
 - [AWS DeepComposer adds new Transformers algorithm that allows developers to extend an input melody](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-deepcomposer-adds-new-transformers-algorithm/)
-- [Announcing AWS App Mesh Controller for Kubernetes Version 1.2.0](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-aws-app-mesh-controller-for-kubernetes-version-1-2-0/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
