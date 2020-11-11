@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New self-paced courses for security and IoT on edX and Coursera](https://aws.amazon.com/about-aws/whats-new/2020/11/new-self-paced-courses-for-security-and-iot-on-edx-and-coursera/)
+- [Announcing a new digital curriculum: Break Free of Legacy Databases](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-a-new-digital-curriculum-break-free-of-legacy-databases/)
 - [Now privately connect to AWS Database Migration Service from Amazon Virtual Private Cloud](https://aws.amazon.com/about-aws/whats-new/2020/11/now-privately-connect-to-aws-database-migration-service-from-amazon-virtual-private-cloud/)
 - [Amazon Polly launches a British English Newscaster speaking Style](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-polly-launches-british-english-newscaster-speaking-style/)
 - [AWS Managed Services (AMS) now offers Infrastructure Auto-Tagging functionality](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-managed-services-ams-now-offers-infrastructure-auto-tagging-functionality/)
-- [New – Deep Dive with Security: AWS Identity and Access Management (IAM)](https://aws.amazon.com/about-aws/whats-new/2020/11/new-deep-dive-with-security-aws-identity-and-access-managemen-iam/)
-- [Amazon Keyspaces now helps you update and store common data between multiple rows efficiently by using static columns](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-keyspaces-support-for-static-columns/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
