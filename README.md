@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Now privately connect to AWS Database Migration Service from Amazon Virtual Private Cloud](https://aws.amazon.com/about-aws/whats-new/2020/11/now-privately-connect-to-aws-database-migration-service-from-amazon-virtual-private-cloud/)
 - [Amazon Polly launches a British English Newscaster speaking Style](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-polly-launches-british-english-newscaster-speaking-style/)
 - [AWS Managed Services (AMS) now offers Infrastructure Auto-Tagging functionality](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-managed-services-ams-now-offers-infrastructure-auto-tagging-functionality/)
 - [New – Deep Dive with Security: AWS Identity and Access Management (IAM)](https://aws.amazon.com/about-aws/whats-new/2020/11/new-deep-dive-with-security-aws-identity-and-access-managemen-iam/)
 - [Amazon Keyspaces now helps you update and store common data between multiple rows efficiently by using static columns](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-keyspaces-support-for-static-columns/)
-- [Announcing AWS DeepComposer’s next Chartbusters challenge, Keep Calm and Model On](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-aws-deepcomposers-next-chartbusters-challenge/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
