@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces support for TIME and TIMETZ data types](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-redshift-announces-support-time-timetz-data-types/)
 - [FreeRTOS now includes IoT and AWS libraries optimized for memory usage and modularity](https://aws.amazon.com/about-aws/whats-new/2020/11/freertos-includes-iot-aws-libraries-optimized-memory-usage-modularity/)
 - [Amazon Aurora increases maximum storage size to 128TB  in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-increases-maximum-storage-size-to-128tb-in-aws-govcloud-us-regions/)
 - [New self-paced courses for security and IoT on edX and Coursera](https://aws.amazon.com/about-aws/whats-new/2020/11/new-self-paced-courses-for-security-and-iot-on-edx-and-coursera/)
 - [Announcing a new digital curriculum: Break Free of Legacy Databases](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-a-new-digital-curriculum-break-free-of-legacy-databases/)
-- [Now privately connect to AWS Database Migration Service from Amazon Virtual Private Cloud](https://aws.amazon.com/about-aws/whats-new/2020/11/now-privately-connect-to-aws-database-migration-service-from-amazon-virtual-private-cloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
