@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly launches a new Australian English neural text-to-speech voice](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-polly-launches-new-australian-english-neural-text-to-speech-voice/)
+- [AWS Lambda now makes it easier to send logs to custom destinations](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-lambda-send-logs-custom-destinations/)
 - [Amazon Aurora now supports T3 and R5 instance types in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-supports-t3-r5-instance-types-aws-govcloud-regions/)
 - [Amazon Neptune now supports Event notifications](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-neptune-now-supports-event-notifications/)
 - [Amazon Redshift announces automatic refresh and query rewrite for materialized views](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-redshift-announces-automatic-refresh-and-query-rewrite-for-materialized-views/)
-- [AWS Amplify Hosting is now generally available in the Europe (Milan), Middle East (Bahrain), and Asia Pacific (Hong Kong) regions](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-amplify-hosting-generally-available-milan-bahrain-hong-kong-regions/)
-- [AWS Elemental Link adds features and service regions](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-elemental-link-adds-features-service-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
