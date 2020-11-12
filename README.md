@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now supports Olivia, Amazon Polly’s latest conversational text-to-speech voice](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-supports-olivia-amazon-pollys-latest-conversational-text-to-speech-voice/)
 - [Automated ABR (Adaptive Bit Rate) Configuration now available in AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2020/11/automated-abr-configuration-now-available-in-aws-elemental-mediaconvert/)
 - [AWS Managed Services (AMS) is now available in the AWS Europe (Paris) Region](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-managed-services-ams-now-available-in-europe-paris-region/)
 - [Amazon Polly launches a new Australian English neural text-to-speech voice](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-polly-launches-new-australian-english-neural-text-to-speech-voice/)
 - [AWS Lambda now makes it easier to send logs to custom destinations](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-lambda-send-logs-custom-destinations/)
-- [Amazon Aurora now supports T3 and R5 instance types in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-supports-t3-r5-instance-types-aws-govcloud-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
