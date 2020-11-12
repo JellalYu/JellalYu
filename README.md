@@ -64,6 +64,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Should we consider Multicollinearity in ML/DL?](http://example.com/2020/11/11/post/)
 - [The Windowing Approach of Streaming Data](http://example.com/2020/10/05/text2.0/)
 <!-- BLOG-POST-LIST:END -->
 
