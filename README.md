@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS CodePipeline Source Action for AWS CodeCommit Supports git clone](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-codepipeline-source-action-aws-codecommit-supports-git-clone/)
-- [Memcached 1.6.6 now available on Amazon ElastiCache](https://aws.amazon.com/about-aws/whats-new/2020/11/memcached-1-6-6-now-available-on-amazon-elasticache/)
-- [Automatic backups for Amazon Elastic File System using AWS Backup is now available in AWS Europe (Milan) and AWS Africa (Cape Town) regions](https://aws.amazon.com/about-aws/whats-new/2020/11/automatic-backups-amazon-elastic-file-system-aws-backup-aws-europe-regions/)
-- [AWS AppSync Now Available in Asia Pacific (Hong Kong), Middle East (Bahrain) and China (Ningxia)](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-appsync-now-available-in-asia-pacific-hong-kong-middle-east-bahrain-and-china-ningxia/)
-- [Simplified Amazon Elastic File System management console now available in AWS Europe (Milan), AWS Africa (Cape Town) and AWS China regions](https://aws.amazon.com/about-aws/whats-new/2020/11/simplified-amazon-elastic-file-system-management-console-available-milan-cape-town-china-regions/)
+- [AWS Amplify Hosting is now generally available in the Europe (Milan), Middle East (Bahrain), and Asia Pacific (Hong Kong) regions](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-amplify-hosting-generally-available-milan-bahrain-hong-kong-regions/)
+- [AWS Elemental Link adds features and service regions](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-elemental-link-adds-features-service-regions/)
+- [Introducing AWS Gateway Load Balancer](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-aws-gateway-load-balancer/)
+- [NICE DCV releases version 2020.2 with new session manager and performance enhancements for high frame rate interactive workloads](https://aws.amazon.com/about-aws/whats-new/2020/11/nice-dcv-releases-version-2020-2/)
+- [Announcing new AWS Wavelength Zones in Dallas and Miami](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-new-aws-wavelength-zones-in-dallas-and-miami/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
