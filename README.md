@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune now supports Event notifications](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-neptune-now-supports-event-notifications/)
 - [Amazon Redshift announces automatic refresh and query rewrite for materialized views](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-redshift-announces-automatic-refresh-and-query-rewrite-for-materialized-views/)
 - [AWS Amplify Hosting is now generally available in the Europe (Milan), Middle East (Bahrain), and Asia Pacific (Hong Kong) regions](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-amplify-hosting-generally-available-milan-bahrain-hong-kong-regions/)
 - [AWS Elemental Link adds features and service regions](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-elemental-link-adds-features-service-regions/)
 - [Introducing AWS Gateway Load Balancer](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-aws-gateway-load-balancer/)
-- [NICE DCV releases version 2020.2 with new session manager and performance enhancements for high frame rate interactive workloads](https://aws.amazon.com/about-aws/whats-new/2020/11/nice-dcv-releases-version-2020-2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
