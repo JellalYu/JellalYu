@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune now supports custom endpoints to access your workload](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-neptune-now-supports-custom-endpoints-to-access-your-workload/)
 - [Amazon EBS direct APIs for Snapshots now supports FIPS 140-2 compliant endpoints in the US Commercial and Canada (Central) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ebs-direct-apis-for-snapshots-supports-fips-140-2-compliant-endpoints-us-commercial-canada-regions/)
 - [Amazon Lex adds language support for French, Spanish, Italian and Canadian French](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-lex-adds-language-support-for-french-spanish-italian-and-canadian-french/)
 - [Updated digital course: AWS Cloud Practitioner Essentials](https://aws.amazon.com/about-aws/whats-new/2020/11/updated-digital-course-aws-cloud-practitioner-essentials/)
 - [Amazon VPC CNI plugin version 1.7 now default for Amazon EKS clusters](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-vpc-cni-plugin-version-1-7-now-default-for-amazon-eks-clusters/)
-- [AWS RoboMaker now supports tag-on-create for 3D simulation worlds](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-robomaker-supports-tag-on-create-3d-simulation-worlds/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
