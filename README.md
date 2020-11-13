@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Athena announces availability of engine version 2](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-athena-announces-availability-of-engine-version-2/)
+- [Amazon Kinesis Video Streams WebRTC SDK in C now supports client metrics](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-video-streams-webrtc-sdk-in-c-supports-client-metrics/)
 - [Amazon QuickSight now supports Column Level Security, Column Descriptions, and a new Oracle Connector](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-quicksight-supports-column-level-security-column-descriptions-new-oracle-connector/)
 - [Apply your business rules to Amazon Personalize recommendations on the fly](https://aws.amazon.com/about-aws/whats-new/2020/11/apply-business-rules-amazon-personalize-recommendations-on-the-fly/)
 - [Announcing Amazon Lightsail Containers, an easy way to run containerized applications on the cloud](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-amazon-lightsail-containers/)
-- [Amazon Neptune now supports custom endpoints to access your workload](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-neptune-now-supports-custom-endpoints-to-access-your-workload/)
-- [Amazon EBS direct APIs for Snapshots now supports FIPS 140-2 compliant endpoints in the US Commercial and Canada (Central) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ebs-direct-apis-for-snapshots-supports-fips-140-2-compliant-endpoints-us-commercial-canada-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
