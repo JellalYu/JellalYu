@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Join the Final Lap of the 2020 DeepRacer League at AWS re:Invent 2020](https://aws.amazon.com/about-aws/whats-new/2020/11/join-final-lap-deepracer-league-aws-reinvent-2020/)
+- [The AWS CDK EKS Construct Library is Now Available as a Developer Preview and Adds Support for cdk8s](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-cdk-eks-construct-library-available-developer-preview/)
 - [Amazon Aurora PostgreSQL Patches 1.7.6 / 2.5.6 / 3.2.6 now available](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-postgresql-patches-generally-available/)
 - [Amazon Kendra adds user tokens for secure search](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kendra-adds-user-tokens-for-secure-search/)
 - [Amazon Textract supports handwriting and five new languages](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-textract-supports-handwriting-and-five-new-langauges/)
-- [New AWS Solutions Consulting Offer - Atlassian Managed Hosting](https://aws.amazon.com/about-aws/whats-new/2020/11/new-aws-solutions-consulting-offer-kreuzwerker-atlassian-managed-hosting/)
-- [New AWS Solutions Consulting Offer - Open Banking Enablement Service](https://aws.amazon.com/about-aws/whats-new/2020/11/new-aws-solutions-consulting-offer-capgemini-open-banking-enablement-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
