@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Consulting Offer - Atlassian Managed Hosting](https://aws.amazon.com/about-aws/whats-new/2020/11/new-aws-solutions-consulting-offer-kreuzwerker-atlassian-managed-hosting/)
+- [New AWS Solutions Consulting Offer - Open Banking Enablement Service](https://aws.amazon.com/about-aws/whats-new/2020/11/new-aws-solutions-consulting-offer-capgemini-open-banking-enablement-service/)
 - [Amazon QuickSight launches new Chart Types, Table Improvements and more](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-quicksight-launches-new-chart-types-table-improvements-and-more/)
 - [Amazon Athena adds support for running SQL queries across relational, non-relational, object, and custom data sources.](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-what-s-new-for-athena-federated-query/)
 - [Network Load Balancer now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2020/11/network-load-balancer-supports-ipv6/)
-- [Amazon Athena announces availability of engine version 2](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-athena-announces-availability-of-engine-version-2/)
-- [Amazon Kinesis Video Streams WebRTC SDK in C now supports client metrics](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-video-streams-webrtc-sdk-in-c-supports-client-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
