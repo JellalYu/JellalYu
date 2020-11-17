@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Synthetics now supports Environment Variables](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-synthetics-supports-environment-variables/)
+- [Introducing Machine to Cloud Connectivity Framework v1.2](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-machine-cloud-connectivity-framework-v1-2/)
+- [AWS X-Ray now supports trace context propagation for Amazon Simple Storage Service (S3)](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-x-ray-supports-trace-context-propagation-amazon-simple-storage-service-s3/)
+- [AWS IoT Device Management enhances Secure Tunneling with new multiplexing capability, supporting multiple connections to a single device over a secure tunnel](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-device-management-enhances-secure-tunneling-with-new-multiplexing-capability-supporting-multiple-connections-to-a-single-device-over-a-secure-tunnel/)
 - [Amazon SageMaker Studio now supports multi-GPU instances](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-sagemaker-studio-supports-multi-gpu-instances/)
-- [AWS Step Functions now supports Amazon EKS service integration](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-step-functions-now-supports-amazon-eks-service-integration/)
-- [Announcing protection groups for AWS Shield Advanced](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-protection-groups-aws-shield-advanced/)
-- [Amazon Augmented AI is now a HIPAA eligible service](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-augmented-ai-now-hipaa-eligible-service/)
-- [Join the Final Lap of the 2020 DeepRacer League at AWS re:Invent 2020](https://aws.amazon.com/about-aws/whats-new/2020/11/join-final-lap-deepracer-league-aws-reinvent-2020/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
