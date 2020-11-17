@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Global Accelerator launches a new Edge location in Thailand](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-global-accelerator-launches-new-edge-location-thailand/)
+- [AWS KM - based Encryption is Now Available in Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-kms-based-encryption-available-amazon-sagemaker-studio/)
+- [Pause and Resume Workloads on T3 and T3a Instances with Amazon EC2 Hibernation](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-hibernation-on-t3-and-t3a/)
 - [AWS Step Functions now supports Amazon API Gateway service integration](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-step-functions-supports-amazon-api-gateway-service-integration/)
 - [Announcing new features for AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-new-features-aws-iot-sitewise/)
-- [AWS Trusted Advisor enables multi-account reporting of best practice recommendations with AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-trusted-advisor-enables-multi-account-reporting-of-best-practice-recommendations-with-aws-organizations/)
-- [AWS Partners: Learn how to engage customers in ML and AI opportunities!](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-partners-learn-how-to-engage-customers-in-ml-and-ai-opportunities/)
-- [Amazon CloudFront launches in Thailand](https://aws.amazon.com/about-aws/whats-new/2020/11/cloudfront-thailand/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
