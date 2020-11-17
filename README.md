@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New – Deep Dive with Security: AWS Identity and Access Management (IAM)](https://aws.amazon.com/about-aws/whats-new/2020/11/new-deep-dive-with-security-aws-identity-and-access-management-iam/)
 - [Amazon CloudWatch Synthetics now supports Environment Variables](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-synthetics-supports-environment-variables/)
 - [Introducing Machine to Cloud Connectivity Framework v1.2](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-machine-cloud-connectivity-framework-v1-2/)
 - [AWS X-Ray now supports trace context propagation for Amazon Simple Storage Service (S3)](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-x-ray-supports-trace-context-propagation-amazon-simple-storage-service-s3/)
 - [AWS IoT Device Management enhances Secure Tunneling with new multiplexing capability, supporting multiple connections to a single device over a secure tunnel](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-device-management-enhances-secure-tunneling-with-new-multiplexing-capability-supporting-multiple-connections-to-a-single-device-over-a-secure-tunnel/)
-- [Amazon SageMaker Studio now supports multi-GPU instances](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-sagemaker-studio-supports-multi-gpu-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
