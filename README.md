@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Step Functions now supports Amazon API Gateway service integration](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-step-functions-supports-amazon-api-gateway-service-integration/)
 - [Announcing new features for AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-new-features-aws-iot-sitewise/)
 - [AWS Trusted Advisor enables multi-account reporting of best practice recommendations with AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-trusted-advisor-enables-multi-account-reporting-of-best-practice-recommendations-with-aws-organizations/)
 - [AWS Partners: Learn how to engage customers in ML and AI opportunities!](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-partners-learn-how-to-engage-customers-in-ml-and-ai-opportunities/)
 - [Amazon CloudFront launches in Thailand](https://aws.amazon.com/about-aws/whats-new/2020/11/cloudfront-thailand/)
-- [New – Deep Dive with Security: AWS Identity and Access Management (IAM)](https://aws.amazon.com/about-aws/whats-new/2020/11/new-deep-dive-with-security-aws-identity-and-access-management-iam/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
