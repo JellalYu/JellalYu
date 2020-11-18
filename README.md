@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudFormation change sets now support nested stacks](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-cloudformation-change-sets-now-support-nested-stacks/)
 - [Amazon CloudWatch Synthetics now supports custom browser launch settings](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-synthetics-now-supports-custom-browser-launch-settings/)
 - [AWS IQ launches new functionality to support firms](https://aws.amazon.com/about-aws/whats-new/2020/11/-aws-iq-launches-new-functionality-to-support-firms/)
 - [AWS Firewall Manager now supports centralized management of AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-firewall-manager-supports-centralized-management-aws-network-firewall/)
 - [AWS Snowcone is now available in the AWS Europe (Frankfurt) Region](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-snowcone-available-in-frankfurt-region/)
-- [Amazon RDS on VMware Adds Support for Cross-Custom-Availability-Zone Read Replicas](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-vmware-adds-support-for-cross-custom-availability-zone-read-replicas/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
