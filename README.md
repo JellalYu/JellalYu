@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Honeycode supports single sign-on with popular identity providers](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-honeycode-supports-single-sign-on-with-popular-identity-providers/)
+- [AWS IoT Greengrass is now available in AWS GovCloud (US-East) Region](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-greengrass-available-aws-govcloud-us-east-region/)
+- [Amazon Chime SDK now supports enhanced audio and video features including Amazon Voice Focus](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-chime-sdk-supports-enhanced-audio-video-features-including-amazon-voice-focus/)
+- [Introducing Real-Time Live Sports Updates Using AWS AppSync](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-real-time-live-sports-updates-using-aws-appsync/)
 - [AWS ParallelCluster 2.10](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-parallelcluster-now-supports-NVIDIA-GPUDirect-RDMA/)
-- [Amazon RDS Performance Insights Supports SQL-level Metrics on Amazon RDS for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-performance-insights-supports-sql-level-metrics-amazon-rds-postgresql/)
-- [Amazon S3 Storage Lens delivers organization-wide visibility into object storage usage and activity trends](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-s3-storage-lens-delivers-organization-wide-visibility-into-object-storage-usage-and-activity-trends/)
-- [Now customize the idle session timeout value and stream session logs to Amazon CloudWatch Logs for Session Manager](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-customize-the-idle-session-timeout-and-stream-session-logs-t/)
-- [AWS Database Migration Service now supports C5, R5 and T3 instance types](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-next-generation-aws-database-migration-service-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
