@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing the AWS Network Firewall - a new managed service to deploy network security across your Amazon VPCs with just a few clicks](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-aws-network-firewall/)
+- [Amazon EC2 Fleet now supports deleting instant type fleets](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-fleet-now-supports-deleting-instant-type-fleets/)
+- [Amazon Connect now supports Amazon Lex chatbots for French, Spanish, Italian and Canadian French](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-now-supports-amazon-lex-chatbots-for-french-spanish-italian-and-canadian-french/)
 - [Amazon Honeycode supports single sign-on with popular identity providers](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-honeycode-supports-single-sign-on-with-popular-identity-providers/)
 - [AWS IoT Greengrass is now available in AWS GovCloud (US-East) Region](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-greengrass-available-aws-govcloud-us-east-region/)
-- [Amazon Chime SDK now supports enhanced audio and video features including Amazon Voice Focus](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-chime-sdk-supports-enhanced-audio-video-features-including-amazon-voice-focus/)
-- [Introducing Real-Time Live Sports Updates Using AWS AppSync](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-real-time-live-sports-updates-using-aws-appsync/)
-- [AWS ParallelCluster 2.10](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-parallelcluster-now-supports-NVIDIA-GPUDirect-RDMA/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
