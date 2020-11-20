@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cloud Map now supports FIPS 140-2 compliant endpoints](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-cloud-map-supports-fips-140-2-compliant-endpoints/)
+- [AWS IoT SiteWise now allows ingestion of data that is up to 7 days old](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-sitewise-now-allows-ingestion-of-data-up-to-7-days-in-past/)
 - [Amazon WorkDocs now supports Dark Mode on Android](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-workdocs-now-supports-dark-mode-on-android/)
 - [Amazon EventBridge announces improved resource policies for event buses](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-eventbridge-announces-improved-resource-policies-for-event-buses/)
 - [NICE EnginFrame releases version 2020.0 with refreshed UI and support for DCV session manager](https://aws.amazon.com/about-aws/whats-new/2020/11/nice-enginframe-releases-version-2020-0-refreshed-ui-support-for-dcv-session-manager/)
-- [Amazon Kinesis Data Analytics now supports the Apache Flink Dashboard](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-data-analytics-now-supports-the-apache-flink-dashboard/)
-- [Amazon Kinesis Data Analytics now supports Apache Flink v1.11](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-data-analytics-now-supports-apache-flink/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
