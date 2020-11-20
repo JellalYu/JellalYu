@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [NICE EnginFrame releases version 2020.0 with refreshed UI and support for DCV session manager](https://aws.amazon.com/about-aws/whats-new/2020/11/nice-enginframe-releases-version-2020-0-refreshed-ui-support-for-dcv-session-manager/)
+- [Amazon Kinesis Data Analytics now supports the Apache Flink Dashboard](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-data-analytics-now-supports-the-apache-flink-dashboard/)
+- [Amazon Kinesis Data Analytics now supports Apache Flink v1.11](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-data-analytics-now-supports-apache-flink/)
 - [AWS Announcing Windows Server version 20H2 AMIs for Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-announcing-windows-server-version-20h2-amis-for-amazon-ec2/)
 - [Amazon QuickSight launches persistence and cross dataset filters](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-quicksight-launches-cross-dataset-filters-persistence-more/)
-- [Announcing context management on Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-context-management-on-amazon-lex/)
-- [Control the evolution of data streams using the AWS Glue Schema Registry](https://aws.amazon.com/about-aws/whats-new/2020/11/control-evolution-data-streams-using-aws-glue-schema-registry/)
-- [Amazon EC2 Inf1 instances based on AWS Inferentia now available in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-inf1-instances-based-on-aws-inferentia-available-6-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
