@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Application Insights adds Java Application Monitoring](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-application-insights-adds-java-application-monitoring/)
+- [Amazon Connect adds additional call attributes to improve fraud detection and routing](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-adds-additional-call-attributes-to-improve-fraud-/)
+- [Amazon CodeGuru Reviewer announces tag support to better organize resources](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-codeguru-reviewer-announces-tag-support/)
+- [Amazon DocumentDB (with MongoDB compatibility) is now available in the South America (Sao Paulo) region](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-documentdb-with-mongodb-compatibility-available-in-south-america-sao-paulo-region/)
 - [AWS Cloud Map now supports FIPS 140-2 compliant endpoints](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-cloud-map-supports-fips-140-2-compliant-endpoints/)
-- [AWS IoT SiteWise now allows ingestion of data that is up to 7 days old](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-sitewise-now-allows-ingestion-of-data-up-to-7-days-in-past/)
-- [Amazon WorkDocs now supports Dark Mode on Android](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-workdocs-now-supports-dark-mode-on-android/)
-- [Amazon EventBridge announces improved resource policies for event buses](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-eventbridge-announces-improved-resource-policies-for-event-buses/)
-- [NICE EnginFrame releases version 2020.0 with refreshed UI and support for DCV session manager](https://aws.amazon.com/about-aws/whats-new/2020/11/nice-enginframe-releases-version-2020-0-refreshed-ui-support-for-dcv-session-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
