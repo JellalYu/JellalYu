@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Copilot CLI is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-copilot-cli-now-generally-available/)
-- [You now can restore Amazon DynamoDB tables even faster when recovering from data loss or corruption](https://aws.amazon.com/about-aws/whats-new/2020/11/you-now-can-restore-amazon-dynamodb-tables-even-faster-when-recovering-from-data-loss-or-corruption/)
-- [AWS Systems Manager now supports Amazon Virtual Private Cloud (Amazon VPC) endpoint policies](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-systems-manager-supports-vpc-endpoint-policies/)
-- [Amazon MSK now offers consumer lag metrics and select topic-level metrics for free](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-msk-offers-consumer-lag-metrics-select-topic-level-metrics-free/)
-- [AWS Client VPN adds support in additional Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-client-vpn-adds-support-in-additional-regions/)
+- [Now you can use Amazon Kinesis Data Streams to capture item-level changes in your Amazon DynamoDB tables](https://aws.amazon.com/about-aws/whats-new/2020/11/now-you-can-use-amazon-kinesis-data-streams-to-capture-item-level-changes-in-your-amazon-dynamodb-table/)
+- [You now can use a SQL-compatible query language to query, insert, update, and delete table data in Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2020/11/you-now-can-use-a-sql-compatible-query-language-to-query-insert-update-and-delete-table-data-in-amazon-dynamodb/)
+- [AWS Pricing Calculator now supports Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-pricing-calculator-now-supports-amazon-dynamodb/)
+- [Amazon SageMaker Studio is now expanded to AWS regions worldwide](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-sagemaker-studio-is-expanded-to-aws-regions-worldwide/)
+- [Amazon CloudWatch Synthetics launches enhancements for API monitoring](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-synthetics-launches-enhancements-for-api-monitoring/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
