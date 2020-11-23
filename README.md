@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager now supports Amazon Virtual Private Cloud (Amazon VPC) endpoint policies](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-systems-manager-supports-vpc-endpoint-policies/)
 - [Amazon MSK now offers consumer lag metrics and select topic-level metrics for free](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-msk-offers-consumer-lag-metrics-select-topic-level-metrics-free/)
 - [AWS Client VPN adds support in additional Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-client-vpn-adds-support-in-additional-regions/)
 - [AWS Single Sign-On adds Web Authentication (WebAuthn) support for user authentication with security keys and built-in biometric authenticators](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-single-sign-on-adds-web-authentication-webauthn-support-for-user-authentication-with-security-keys-and-built-in-biometric-authenticators/)
 - [Amazon CloudWatch Application Insights adds Java Application Monitoring](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-application-insights-adds-java-application-monitoring/)
-- [Amazon Connect adds additional call attributes to improve fraud detection and routing](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-adds-additional-call-attributes-to-improve-fraud-/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
