@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Polly NTTS voices now available in AWS GovCloud (US-West)](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-polly-ntts-voices-now-available-in-aws-govcloud-us-west/)
-- [AWS Database Migration Service now supports Aurora PostgreSQL Serverless as a target](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-database-migration-service-now-supports-aurora-postgresql-serverless/)
-- [Now you can use Amazon Kinesis Data Streams to capture item-level changes in your Amazon DynamoDB tables](https://aws.amazon.com/about-aws/whats-new/2020/11/now-you-can-use-amazon-kinesis-data-streams-to-capture-item-level-changes-in-your-amazon-dynamodb-table/)
-- [You now can use a SQL-compatible query language to query, insert, update, and delete table data in Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2020/11/you-now-can-use-a-sql-compatible-query-language-to-query-insert-update-and-delete-table-data-in-amazon-dynamodb/)
-- [AWS Pricing Calculator now supports Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-pricing-calculator-now-supports-amazon-dynamodb/)
+- [AWS Snowball is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-snowball-now-available-in-aws-africa-cape-town-region/)
+- [AWS CodeArtifact now supports NuGet](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-codeartifact-supports-nuget/)
+- [AWS License Manager allows enforcing licensing rules with shared AMIs across multiple AWS accounts](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-license-manager-allows-enforcing-licensing-rules-shared-amis-across-multiple-aws-accounts/)
+- [Amazon CloudWatch Container Insights now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-container-insights-now-available-in-aws-govcloud-us-regions/)
+- [Third-party software built for Amazon S3 is now available in the Amazon S3 Management Console, powered by AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2020/11/third-party-software-for-amazon-s3-available-in-amazon-s3-management-console-powered-by-aws-marketplace/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
