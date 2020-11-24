@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon RDS for Oracle now supports October 2020 Oracle Patch Set Updates (PSU) and Release Updates (RU), and allows setting database system events](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-for-oracle-now-supports-october-2020-oracle-patch-set-updates/)
-- [Amazon Elasticsearch Service announces support for Elasticsearch version 7.9](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-announces-support-for-elasticsearch-version-7-9/)
-- [Introducing Amazon Managed Workflows for Apache Airflow (MWAA)](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-amazon-managed-workflows-for-apache-airflow-mwaa/)
-- [AWS Storage Gateway now supports IBM Spectrum Protect 8.1.10 on Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-storage-gateway-now-supports-ibm-spectrum-protect-8-1-10-on-tape-gateway/)
-- [Amazon Elasticsearch Service revamps Kibana security user interface while integrating with other features](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-revamps-kibana-security-user-interface/)
+- [Amazon CloudWatch Synthetics now supports canary scripts in Python with Selenium framework](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-synthetics-supports-canary-scripts-python-with-selenium-framework/)
+- [AWS announces the launch of Amazon Comprehend Events](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-announces-launch-of-amazon-comprehend-events/)
+- [Amazon ECS Cluster Auto Scaling now offers more responsive scaling](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-cluster-auto-scaling-now-offers-more-responsive-scaling/)
+- [Amazon Elasticsearch Service now supports anomaly detection for high cardinality datasets](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-supports-anomaly-detection-high-cardinality-datasets/)
+- [Amazon Elasticsearch Service introduces Piped Processing Language (PPL)](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-introduces-piped-processing-language-ppl/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
