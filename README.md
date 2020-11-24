@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly NTTS voices now available in AWS GovCloud (US-West)](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-polly-ntts-voices-now-available-in-aws-govcloud-us-west/)
+- [AWS Database Migration Service now supports Aurora PostgreSQL Serverless as a target](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-database-migration-service-now-supports-aurora-postgresql-serverless/)
 - [Now you can use Amazon Kinesis Data Streams to capture item-level changes in your Amazon DynamoDB tables](https://aws.amazon.com/about-aws/whats-new/2020/11/now-you-can-use-amazon-kinesis-data-streams-to-capture-item-level-changes-in-your-amazon-dynamodb-table/)
 - [You now can use a SQL-compatible query language to query, insert, update, and delete table data in Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2020/11/you-now-can-use-a-sql-compatible-query-language-to-query-insert-update-and-delete-table-data-in-amazon-dynamodb/)
 - [AWS Pricing Calculator now supports Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-pricing-calculator-now-supports-amazon-dynamodb/)
-- [Amazon SageMaker Studio is now expanded to AWS regions worldwide](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-sagemaker-studio-is-expanded-to-aws-regions-worldwide/)
-- [Amazon CloudWatch Synthetics launches enhancements for API monitoring](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-synthetics-launches-enhancements-for-api-monitoring/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
