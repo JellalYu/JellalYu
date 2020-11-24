@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Application Insights adds Automatic Application Discovery](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-application-insights-adds-automatic-applications/)
 - [Amazon Translate announces the General Availability of Active Custom Translation - ACT](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-translate-announces-the-general-availability-of-active-custom-translation-act/)
 - [Amazon EC2 Auto Scaling now supports attaching multiple network interfaces at launch](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-auto-scaling-supports-attaching-multiple-network-interfaces-at-launch/)
 - [Amazon DocumentDB (with MongoDB compatibility) is now available in AWS China (Ningxia) Region, Operated by NWCD](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-documentdb-with-mongodb-compatibility-is-now-available-in-the-aws-china-region/)
 - [AWS Single Sign-On enables administrators to require users to set up MFA devices during sign-in](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-single-sign-on-enables-enforced-mfa-device-enrollment-during-sign-in/)
-- [AWS Snowball is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-snowball-now-available-in-aws-africa-cape-town-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
