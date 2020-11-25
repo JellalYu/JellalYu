@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon CloudWatch Synthetics now supports canary scripts in Python with Selenium framework](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-synthetics-supports-canary-scripts-python-with-selenium-framework/)
-- [AWS announces the launch of Amazon Comprehend Events](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-announces-launch-of-amazon-comprehend-events/)
-- [Amazon ECS Cluster Auto Scaling now offers more responsive scaling](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-cluster-auto-scaling-now-offers-more-responsive-scaling/)
-- [Amazon Elasticsearch Service now supports anomaly detection for high cardinality datasets](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-supports-anomaly-detection-high-cardinality-datasets/)
-- [Amazon Elasticsearch Service introduces Piped Processing Language (PPL)](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-introduces-piped-processing-language-ppl/)
+- [Amazon RDS Performance Insights supports an additional dimension to segment performance data on Amazon RDS for MySQL, Amazon Aurora with MySQL compatibility, and Amazon RDS for MariaDB](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-performance-insights-supports-dimensions-segment-performance-data-rds-mysql/)
+- [Amazon RDS Performance Insights supports additional dimensions to segment performance data on Amazon RDS for PostgreSQL and Amazon Aurora with PostgreSQL compatibility](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-performance-insights-supports-additional-dimensions-segment-performance-data/)
+- [Amazon Transcribe now supports Brazilian Portuguese, Japanese and Korean and 3 corresponding AWS regions for streaming transcription](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-transcribe-now-supports-brazilian-portuguese--japanese-and-korean/)
+- [Amazon ECS adds support for P4d instance types](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-adds-support-p4d-instance-types/)
+- [AWS App2Container now supports authenticated Windows applications deployment to EKS and Custom AWS Profiles](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-app2container-now-supports-authenticated-windows-application/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
