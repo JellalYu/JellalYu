@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon RDS Performance Insights supports an additional dimension to segment performance data on Amazon RDS for MySQL, Amazon Aurora with MySQL compatibility, and Amazon RDS for MariaDB](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-performance-insights-supports-dimensions-segment-performance-data-rds-mysql/)
-- [Amazon RDS Performance Insights supports additional dimensions to segment performance data on Amazon RDS for PostgreSQL and Amazon Aurora with PostgreSQL compatibility](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-performance-insights-supports-additional-dimensions-segment-performance-data/)
-- [Amazon Transcribe now supports Brazilian Portuguese, Japanese and Korean and 3 corresponding AWS regions for streaming transcription](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-transcribe-now-supports-brazilian-portuguese--japanese-and-korean/)
-- [Amazon ECS adds support for P4d instance types](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-adds-support-p4d-instance-types/)
-- [AWS App2Container now supports authenticated Windows applications deployment to EKS and Custom AWS Profiles](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-app2container-now-supports-authenticated-windows-application/)
+- [AWS Config now supports organization-wide resource data aggregation in a delegated administrator account](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-config-supports-organization-wide-resource-data-aggregation-delegated-administrator-account/)
+- [Amazon Transcribe Medical adds streaming transcription support for medical specialties: cardiology, oncology, neurology, radiology, and urology](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-transcribe-medical-streaming-transcription-support-medical-specialties/)
+- [AWS Single Sign-On enables attribute-based access control for workforce users to simplify permissions in AWS](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-single-sign-on-enables-attribute-based-access-control-simplify-permissions/)
+- [Amazon Connect Chat now supports interactive messages](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-chat-supports-interactive-messages/)
+- [Amazon Lex adds language support for German and Latin American Spanish](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-lex-adds-language-support-for-german-and-latin-american/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
