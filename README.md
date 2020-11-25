@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Managed Backup Retention for AWS CloudHSM](https://aws.amazon.com/about-aws/whats-new/2020/11/managed-backup-retention-for-aws-cloudhsm/)
 - [Amazon Elasticsearch Service revamps Kibana security user interface while integrating with other features](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-revamps-kibana-security-user-interface/)
 - [AWS Config now supports organization-wide resource data aggregation in a delegated administrator account](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-config-supports-organization-wide-resource-data-aggregation-delegated-administrator-account/)
 - [Amazon Transcribe Medical adds streaming transcription support for medical specialties: cardiology, oncology, neurology, radiology, and urology](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-transcribe-medical-streaming-transcription-support-medical-specialties/)
 - [AWS Single Sign-On enables attribute-based access control for workforce users to simplify permissions in AWS](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-single-sign-on-enables-attribute-based-access-control-simplify-permissions/)
-- [Amazon Connect Chat now supports interactive messages](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-chat-supports-interactive-messages/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
