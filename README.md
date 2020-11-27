@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Ground Station launches new antenna location in Hawaii, USA](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-ground-station-launches-new-antenna-location-in-hawaii-usa/)
+- [Amazon ECS Cluster Auto Scaling now supports specifying a custom instance warm-up time](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-cluster-auto-scaling-now-supports-specifying-a-custom-instance-warm-up-time/)
+- [Amazon ECS Capacity Providers Now Support Update Functionality](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-capacity-providers-now-support-update-functionality/)
 - [AWS Transfer Family supports AWS WAF for identity provider integrations](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-transfer-family-supports-aws-waf-identity-provider-integrations/)
 - [AWS IoT Analytics now supports notifications for and reprocessing of late data](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-analytics-now-supports-notifications-for-and-reprocessing-of-late-data/)
-- [Porting Assistant for .NET adds support for .NET 5](https://aws.amazon.com/about-aws/whats-new/2020/11/porting-assistant-net-adds-support-net-5/)
-- [AWS Batch now has integrated Amazon Linux 2 support](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-batch-now-has-integrated-amazon-linux-2-support/)
-- [Amazon Forecast now supports accuracy measurements for individual items](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-forecast-supports-accuracy-measurements-individual-items/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
