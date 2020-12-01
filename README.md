@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing new Amazon EC2 R5b instances featuring 60 Gbps of EBS Bandwidth and 260K IOPS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ec2-r5b-instances-featuring-60-gbps-of-ebs-bandwidth-and-260K-iops/)
+- [Announcing new AWS Wavelength Zone in Las Vegas](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-aws-wavelength-zone-las-vegas/)
+- [Introducing Amazon EC2 M5zn instances, with high frequency processors and 100 Gbps networking](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-m5zn-instances/)
+- [Introducing Amazon EC2 D3 and D3en, the next generation of dense HDD storage instances](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/)
 - [Announcing Amazon EC2 Mac instances for macOS](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-amazon-ec2-mac-instances-for-macos/)
-- [The Amazon Chime SDK now supports messaging](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-chime-sdk-supports-messaging/)
-- [Amazon CodeGuru Reviewer announces CodeQuality Detector to help manage technical debt and codebase maintainability](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-codeguru-reviewer-announces-codequality-detector/)
-- [AWS Systems Manager Change Calendar integrates with Amazon EventBridge to enable automated actions based on calendar state changes](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-systems-manager-change-calendar-integrates-with-amazon-eventbright/)
-- [AWS Ground Station launches new antenna location in Hawaii, USA](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-ground-station-launches-new-antenna-location-in-hawaii-usa/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
