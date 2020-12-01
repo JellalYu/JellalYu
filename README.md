@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Introducing new Amazon EC2 R5b instances featuring 60 Gbps of EBS Bandwidth and 260K IOPS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ec2-r5b-instances-featuring-60-gbps-of-ebs-bandwidth-and-260K-iops/)
-- [Announcing new AWS Wavelength Zone in Las Vegas](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-aws-wavelength-zone-las-vegas/)
-- [Introducing Amazon EC2 M5zn instances, with high frequency processors and 100 Gbps networking](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-m5zn-instances/)
-- [Introducing Amazon EC2 D3 and D3en, the next generation of dense HDD storage instances](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/)
-- [Announcing Amazon EC2 Mac instances for macOS](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-amazon-ec2-mac-instances-for-macos/)
+- [AWS announces AQUA for Amazon Redshift (preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-aqua-for-amazon-redshift-preview/)
+- [AWS Lambda changes duration billing granularity from 100ms down to 1ms](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-changes-duration-billing-granularity-from-100ms-to-1ms/)
+- [Amazon Connect Wisdom provides contact center agents the information they need to quickly solve customer issues](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-wisdom-provides-contact-center-agents-information-solve-customer-issues-preview/)
+- [Amazon CodeGuru Reviewer announces Security Detectors to help improve code security](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-codeguru-reviewer-announces-security-detectors-improve-code-security/)
+- [AWS announces Amazon DevOps Guru in Preview, an ML-powered cloud operations service to improve application availability for AWS workloads](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-devops-guru-in-preview-an-ml-powered-cloud-operations-service-to-improve-application-availability-for-aws-workloads/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
