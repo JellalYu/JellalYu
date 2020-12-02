@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight launches new session capacity pricing options, embedding without user management and a developer portal for embedded analytics](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-quicksight-launches-session-capacity-pricing-options-embedding-without-user-management-embedded-developer-portal/)
 - [Amazon Connect Wisdom provides contact center agents the information they need to quickly solve customer issues](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-wisdom-provides-contact-center-agents-information-solve-customer-issues-preview/)
 - [Introducing AWS Panorama for computer vision at the edge](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-panorama-for-computer-vision-at-the-edge/)
 - [Amazon Connect Voice ID provides real-time caller authentication for more secure calls](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-voice-id-provides-real-time-caller-authentication-for-more-secure-calls/)
 - [AWS announces Amazon DevOps Guru in Preview, an ML-powered cloud operations service to improve application availability for AWS workloads](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-devops-guru-in-preview-an-ml-powered-cloud-operations-service-to-improve-application-availability-for-aws-workloads/)
-- [AWS Lambda now supports up to 10 GB of memory and 6 vCPU cores for Lambda Functions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-supports-10gb-memory-6-vcpu-cores-lambda-functions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
