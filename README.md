@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon QuickSight launches new session capacity pricing options, embedding without user management and a developer portal for embedded analytics](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-quicksight-launches-session-capacity-pricing-options-embedding-without-user-management-embedded-developer-portal/)
-- [Amazon Connect Wisdom provides contact center agents the information they need to quickly solve customer issues](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-wisdom-provides-contact-center-agents-information-solve-customer-issues-preview/)
-- [Introducing AWS Panorama for computer vision at the edge](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-panorama-for-computer-vision-at-the-edge/)
-- [Amazon Connect Voice ID provides real-time caller authentication for more secure calls](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-voice-id-provides-real-time-caller-authentication-for-more-secure-calls/)
-- [AWS announces Amazon DevOps Guru in Preview, an ML-powered cloud operations service to improve application availability for AWS workloads](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-devops-guru-in-preview-an-ml-powered-cloud-operations-service-to-improve-application-availability-for-aws-workloads/)
+- [Amazon S3 Replication adds support for multiple destinations in the same, or different AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-replication-adds-support-for-multiple-destinations-in-the-same-or-different-aws-regions/)
+- [Amazon WorkSpaces Streaming Protocol now Generally Available](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-workspaces-streaming-protocol-generally-available/)
+- [Integrate Amazon Honeycode with popular SaaS applications, AWS services, and more](https://aws.amazon.com/about-aws/whats-new/2020/12/integrate-amazon-honeycode-with-popular-saas-applications-aws-services-and-more/)
+- [Amazon EKS adds built-in logging support for AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-eks-adds-built-in-logging-support-for-aws-fargate/)
+- [Amazon AppFlow now provides Amazon Connect Customer Profiles connectivity to several cloud applications](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-now-provides-amazon-connect-customer-profiles-connectivity-to-several-cloud-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
