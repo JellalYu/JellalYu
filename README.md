@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Three New Digital Courses for AWS Snowcone](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-three-new-digital-courses-for-aws-snowcone/)
 - [AWS Managed Services (AMS) supports AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-managed-services-ams-supports-aws-outposts/)
 - [AWS quadruples per-volume maximum capacity and performance on io2 volumes (in preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-quadruples-per-volume-maximum-capacity-and-performance-on-io2-volumes-in-preview/)
 - [Amazon EKS simplifies installation and management for Kubernetes cluster add-ons](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-eks-simplifies-installation-and-management-for-kubernetes-cluster-add-ons/)
 - [Announcing Amazon Elasticsearch Service support for AWS Glue Elastic Views](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-elasticsearch-service-support-aws-glue-elastic-views/)
-- [Amazon S3 Replication adds support for multiple destinations in the same, or different AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-replication-adds-support-for-multiple-destinations-in-the-same-or-different-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
