@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle and Amazon RDS for SQL Server now support R5b instance types in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-rds-for-oracle-amazon-rds-sql-server-support-r5b-instance-types-in-additional-aws-regions/)
+- [AWS CloudTrail provides more granular control of data event logging through advanced event selectors](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-cloudtrail-provides-more-granular-control-of-data-event-logging/)
 - [Announcing table charts for AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-table-charts-for-aws-iot-sitewise/)
 - [Amazon API Gateway now supports integration with Step Functions StartSyncExecution for HTTP APIs](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-api-gateway-supports-integration-with-step-functions-startsyncexecution-http-apis/)
 - [Amazon EMR now provides up to 30% lower cost and up to 15% improved performance for Spark workloads on Graviton2-based instances](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-emr-now-provides-up-to-30-lower-cost-and-up-to-15-improved-performance/)
-- [Amazon Connect adds inbound telephony for four Latin America countries](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-inbound-telephony-four-latin-america-countries/)
-- [AWS announces General Availability of Amazon GameLift Feature Update](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-general-availability-of-amazon-gamelift-feature-update/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
