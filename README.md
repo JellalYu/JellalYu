@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Data Exchange introduces flexible revision access controls for new products](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-data-exchange-introduces-flexible-revision-access-controls-for-new-products/)
 - [Amazon Connect Chat now supports Apple Business Chat (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-chat-now-supports-apple-business-chat-preview/)
 - [Announcing Amazon CloudWatch Lambda Insights (General Availability)](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-cloudwatch-lambda-insights-general-availability/)
 - [Serverless Batch Scheduling with AWS Batch and AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2020/12/severless-batch-scheduling-with-aws-batch-and-aws-fargate/)
 - [AWS Compute Optimizer now supports Amazon EBS volume recommendations](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-compute-optimizer-supports-amazon-ebs-volume-recommendations/)
-- [Amazon Aurora Serverless v1 with PostgreSQL compatibility now available in eight additional regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-aurora-serverless-v1-with-postgresql-compatibility-now-available-in-eight-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
