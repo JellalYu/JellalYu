@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EBS io2 volumes now support SAP workloads](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ebs-io2-volumes-support-sap-workloads/)
 - [Announcing Three New Digital Courses for AWS Snowcone](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-three-new-digital-courses-for-aws-snowcone/)
 - [AWS CloudTrail provides more granular control of data event logging through advanced event selectors](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-cloudtrail-provides-more-granular-control-of-data-event-logging/)
 - [AWS Transit Gateway Inter-region Peering is Now Available in Middle East (Bahrain), Africa (Cape Town), Asia Pacific (Hong Kong), and Europe (Milan) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-transit-gateway-inter-region-peering-available-additional-regions/)
 - [Amazon RDS for Oracle supports managed disaster recovery (DR) with Amazon RDS Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-rds-for-oracle-supports-managed-dr-with-cross-region-automated-backups/)
-- [Amazon Machine Images (AMIs) now support tag-on-create and tag-based access control](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-machine-images-support-tag-on-create-tag-based-access-control/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
