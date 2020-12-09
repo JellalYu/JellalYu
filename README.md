@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon CodeGuru Profiler adds Memory Profiling and Heap Summary](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-codeguru-profiler-adds-memory-profiling-heap-summary/)
-- [Amazon Braket now supports PennyLane](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-braket-now-supports-pennylane/)
-- [Amazon Braket tensor network simulator supports 50-qubit quantum circuits](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-braket-tensor-network-simulator-supports-50-qubit-quantum-circuits/)
-- [Amazon ECR announces cross region replication of images](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ecr-announces-cross-region-replication-of-images/)
-- [Detect bias in ML models and explain model behavior with Amazon SageMaker Clarify](https://aws.amazon.com/about-aws/whats-new/2020/12/detect-bias-in-ml-models-and-explain-model-behavior-with-amazon-sagemaker-clarify/)
+- [Amazon Redshift announces native console integration with partners (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-announces-native-console-integration-with-partners-preview/)
+- [Announcing new Amazon EC2 G4ad instances, powered by AMD Radeon Pro V520 GPUs, with the best price performance for graphics intensive applications in the cloud](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-amazon-ec2-g4ad-instances-powered-by-amd-radeon-pro-v520-gpus/)
+- [Announcing preview of AWS Lake Formation features: Transactions, Row-level Security, and Acceleration](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-preview-aws-lake-formation-features/)
+- [Amazon EMR Studio makes it easier for data scientists to build and deploy code](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-emr-introduces-amazon-emr-studio-makes-it-easier-for-data-scientists-to-build-and-depoy-code/)
+- [Amazon Redshift announces Automatic Table Optimization](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-announces-automatic-table-optimization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
