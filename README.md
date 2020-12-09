@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CodeGuru Profiler adds Memory Profiling and Heap Summary](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-codeguru-profiler-adds-memory-profiling-heap-summary/)
+- [Amazon Braket now supports PennyLane](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-braket-now-supports-pennylane/)
+- [Amazon Braket tensor network simulator supports 50-qubit quantum circuits](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-braket-tensor-network-simulator-supports-50-qubit-quantum-circuits/)
+- [Amazon ECR announces cross region replication of images](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ecr-announces-cross-region-replication-of-images/)
 - [Detect bias in ML models and explain model behavior with Amazon SageMaker Clarify](https://aws.amazon.com/about-aws/whats-new/2020/12/detect-bias-in-ml-models-and-explain-model-behavior-with-amazon-sagemaker-clarify/)
-- [Introducing Amazon HealthLake to make sense of health data](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-healthlake-to-make-sense-of-health-data/)
-- [Introducing Amazon SageMaker Data Wrangler – The fastest and easiest way to prepare data for machine learning](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-sagemaker-data-wrangler-the-fastest-and-easiest-way-to-prepare-data-for-machine-learning/)
-- [Introducing Amazon SageMaker Feature Store - a fully managed repository to store, discover, share and serve machine learning features](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-sagemaker-feature-store/)
-- [Introducing Amazon SageMaker Pipelines, first purpose built CI/CD service for machine learning](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-sagemaker-pipelines-first-purpose-built-ci-cd-service-machine-learning/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
