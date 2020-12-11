@@ -54,7 +54,7 @@
 - [Amazon API Gateway now supports integration with Step Functions StartSyncExecution for HTTP APIs](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-api-gateway-supports-integration-step-functions-startsyncexecution-http-apis/)
 - [Amazon EBS reduces the minimum volume size of Throughput Optimized HDD and Cold HDD Volumes by 75%](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ebs-reduces-minimum-volume-size-throughput-optimized-hdd-cold-hdd-volumes/)
 - [Amazon QuickSight now supports Amazon Elasticsearch Service, and adds new box plot and filled map visuals](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-quicksight-launches-now-supports-amazon-elasticsearch-service-and-adds-new-box-plot-and-filled-map-visuals/)
-- [Amazon Kendra adds support for custom synonyms](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-kendra-adds-support-for-custom-synonyms/)
+- [Amazon Virtual Private Cloud (VPC) announces Reachability Analyzer to simplify connectivity testing and troubleshooting](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-vpc-announces-reachability-analyzer-to-simplify-connectivity-testing-and-troubleshooting/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
