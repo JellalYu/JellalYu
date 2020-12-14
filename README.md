@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT SDK for Embedded C version 202012.00 includes over-the-air update (OTA) library and PKCS #11 implementation](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-sdk-for-embedded-c-version-202012-00-includes-over-the-air-update-ota-library-and-pkcs-number-11-implementation/)
 - [Announcing Unified Search in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-unified-search-aws-management-console/)
 - [Now Secure Your SageMaker Studio Access Using AWS PrivateLink and AWS IAM SourceIP Restrictions](https://aws.amazon.com/about-aws/whats-new/2020/12/secure-sagemaker-studio-access-using-aws-privatelink-aws-iam-sourceip-restrictions/)
 - [Amazon EC2 announces new network performance metrics for EC2 instances](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ec2-announces-new-network-performance-metrics-for-ec2-instances/)
 - [Announcing AWS Public Safety and Disaster Response Technology Partners](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-aws-public-safety-and-disaster-response-technology-partners/)
-- [Amazon EC2 announces Spot Blueprints, an infrastructure code template generator to get started with EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ec2-announces-spot-blueprints-an-infrastructure-code-template-generator-to-get-started-with-ec2-spot-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
