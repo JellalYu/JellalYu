@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Introducing AWS Systems Manager Change Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-change-manager/)
-- [Introducing AWS Systems Manager Fleet Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-fleet-manager/)
-- [Introducing AWS CloudShell](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-cloudshell/)
-- [Introducing AWS Systems Manager Application Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-application-manager/)
-- [AWS Single Sign-On now supports Microsoft Active Directory (AD) synchronization](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-single-sign-on-supports-microsoft-ad-synchronization/)
+- [Introducing AWS IoT Core for LoRaWAN: connect and manage LoRaWAN devices at scale easily and cost-effectively](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-iot-core-lorawan/)
+- [Manage Microsoft SQL Server workloads on Amazon EC2 using Application Manager capability in AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/manage-microsoft-sql-server-workloads-amazon-ec2-application-manager-capability-aws-systems-manager/)
+- [Deploy Microsoft Active Directory Infrastructure on Amazon EC2 using AWS Launch Wizard](https://aws.amazon.com/about-aws/whats-new/2020/12/deploy-microsoft-active-directory-infrastructure-on-amazon-ec2-using-aws-launch-wizard/)
+- [Announcing AWS IoT Device Defender ML Detect public preview](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-aws-iot-device-defender-ml-detect-public-preview/)
+- [Announcing AWS IoT SiteWise Edge (Preview), a new capability of AWS IoT SiteWise to collect, process, and monitor industrial equipment data on-premises](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-aws-iot-sitewise-edge-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
