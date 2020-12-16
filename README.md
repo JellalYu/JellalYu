@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda launches checkpointing for Amazon Kinesis and Amazon DynamoDB Streams](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-launches-checkpointing-for-amazon-kinesis-and-amazon-dynamodb-streams/)
 - [AWS SDK for JavaScript version 3 is now generally available](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-sdk-javascript-version-3-generally-available/)
 - [AWS Lambda now supports self-managed Apache Kafka as an event source](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-now-supports-self-managed-apache-kafka-as-an-event-source/)
 - [Announcing the first AWS Wavelength Zone in Tokyo, Japan](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-first-aws-wavelength-zone-tokyo-japan/)
 - [AWS Lambda now makes it easier to build analytics for Amazon Kinesis and Amazon DynamoDB Streams](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/)
-- [AWS Lambda launches checkpointing for Amazon Kinesis and Amazon DynamoDB Streams](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-launches-checkpointing-for-amazon-kinesis-and-amazon-dynamodb-streams/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
