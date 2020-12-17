@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Attribute-Based Access Control (ABAC) for the AWS Key Management Service](https://aws.amazon.com/about-aws/whats-new/2020/12/attribute-based-access-control-abac-aws-key-management-service/)
 - [EC2 Image Builder now supports container images](https://aws.amazon.com/about-aws/whats-new/2020/12/ec2-image-builder-supports-container-images/)
 - [Three new digital courses for AWS Partners](https://aws.amazon.com/about-aws/whats-new/2020/12/three-new-digital-courses-for-aws-partners/)
 - [AWS Lambda now makes it easier to build analytics for Amazon Kinesis and Amazon DynamoDB Streams](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/)
 - [Amazon FSx is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-fsx-available-govcloud-regions/)
-- [AWS Cost Anomaly Detection is now generally available](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-cost-anomaly-detection-now-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
