@@ -51,10 +51,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Three new digital courses for AWS Partners](https://aws.amazon.com/about-aws/whats-new/2020/12/three-new-digital-courses-for-aws-partners/)
+- [AWS Lambda now makes it easier to build analytics for Amazon Kinesis and Amazon DynamoDB Streams](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/)
 - [Amazon FSx is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-fsx-available-govcloud-regions/)
 - [AWS Cost Anomaly Detection is now generally available](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-cost-anomaly-detection-now-generally-available/)
 - [AWS announces Amazon Location Service (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-location-service-preview/)
-- [AWS Launch Wizard now supports SAP application software installation](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-launch-wizard-now-supports-sap-netweaver-software-installation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
