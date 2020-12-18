@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudFormation StackSets is now available in Africa (Cape Town), EU (Milan), and Middle East (Bahrain) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-cloudformation-stacksets-available-additional-regions/)
 - [Amazon Chime now supports joining meetings from Echo Show 8](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-chime-supports-joining-meetings-from-echo-show-8/)
 - [Join Zoom meetings with Alexa on Echo Show 8](https://aws.amazon.com/about-aws/whats-new/2020/12/join-zoom-meetings-with-alexa-on-echo-show-8/)
 - [Amazon Data Lifecycle Manager now automates copying EBS snapshots across accounts](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-data-lifecycle-manager-now-automates-copying-ebs-snapshots-across-accounts/)
 - [AWS Nitro Enclaves is now available in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-nitro-enclaves-is-now-available-in-6-additional-regions/)
-- [Amazon FSx now supports on-premises access from additional IP address ranges](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-fsx-now-supports-on-premises-access-from-additional-ip-address-ranges/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
