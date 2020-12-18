@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Data Lifecycle Manager now automates copying EBS snapshots across accounts](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-data-lifecycle-manager-now-automates-copying-ebs-snapshots-across-accounts/)
 - [AWS Nitro Enclaves is now available in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-nitro-enclaves-is-now-available-in-6-additional-regions/)
 - [Amazon FSx now supports on-premises access from additional IP address ranges](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-fsx-now-supports-on-premises-access-from-additional-ip-address-ranges/)
 - [AWS Well-Architected Guidance Engine now available in AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-well-architected-guidance-engine-now-available-in-aws-control-tower/)
 - [Introducing Amazon SageMaker ml.P4d instances for highest performance ML training in the cloud](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-sagemaker-ml-p4d-instances-for-highest-performance-ml-training-in-the-cloud/)
-- [AWS Cloud Map is now available in the AWS Africa (Cape Town) and Europe (Milan) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-cloud-map-is-now-available-in-the-aws-africa-cape-town-and-europe-milan-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
