@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Software providers on AWS Marketplace can now use the self-service management portal to update their Container products](https://aws.amazon.com/about-aws/whats-new/2020/12/software-providers-on-aws-marketplace-can-useself-service-management-portal-to-update-container-products/)
+- [Amazon Machine Image copy limits increased to 100 images per destination Region](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-machine-image-copy-limits-increased/)
 - [Amazon SageMaker Autopilot adds Deep Learning Models](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-sagemaker-autopilot-adds-deep-learning-models/)
 - [AWS Data Exchange now supports filtered views for provider products and data sets](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-data-exchange-supports-filtered-views-provider-products-data-sets/)
 - [Amazon AppFlow now stores credentials in customers’ AWS Secrets Manager account](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-stores-credentials-customers-aws-secrets-manager-account/)
-- [AWS Lambda now supports SASL/SCRAM authentication for functions triggered from Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-now-supports-sasl-scram-authentication-for-functions-triggered-from-amazon-msk/)
-- [AWS Data Exchange data sets now easily available for visual transformation using AWS Glue DataBrew via console integration](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-data-exchange-data-sets-available-visual-transformation-aws-glue-databrew-console-integration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
