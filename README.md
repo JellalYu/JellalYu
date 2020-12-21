@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Transcribe Medical now supports both streaming and batch transcription of multi-channel audio](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-transcribe-medical-now-supports-both-streaming-and-batch-transcription-of-multi-channel-audio/)
-- [EC2 Hibernation feature is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/ec2-hibernation-feature-is-now-available-in-aws-govcloud-us-regions/)
-- [AWS Load Balancer Controller version 2.1 now available with support for additional ELB configurations](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-load-balancer-controller-version-2-1-available-support-additional-elb-configurations/)
-- [Amazon AppFlow now provides data integration with Upsolver](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-provides-data-integration-upsolver/)
-- [Amazon Managed Blockchain now supports Ethereum (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-managed-blockchain-supports-ethereum/)
+- [AWS Pricing Calculator now supports Windows Server and SQL Server workload cost estimates](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-pricing-calculator-supports-windows-server-sql-server-workload-cost-estimates/)
+- [Now launch Amazon SageMaker Studio Notebooks backed by Spark in Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2020/12/now-launch-amazon-sagemaker-studio-notebooks-backed-spark-amazon-emr/)
+- [You now can use PartiQL with NoSQL Workbench to query, insert, update, and delete table data in Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2020/12/you-now-can-use-partiql-with-nosql-workbench-to-query-insert-update-and-delete-table-data-in-amazon-dynamodb/)
+- [Amazon Virtual Private Cloud (VPC) Now supports Tag on Create for Elastic IP addresses](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-virtual-private-cloud-vpc-supports-tag-on-create-elastic-ips-eip/)
+- [PartiQL for DynamoDB now is supported in 23 AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/partiql-for-dynamodb-now-is-supported-in-23-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
