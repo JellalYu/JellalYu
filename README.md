@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Software providers on AWS Marketplace can now use the self-service management portal to update their Container products](https://aws.amazon.com/about-aws/whats-new/2020/12/software-providers-on-aws-marketplace-can-useself-service-management-portal-to-update-container-products/)
-- [Amazon Machine Image copy limits increased to 100 images per destination Region](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-machine-image-copy-limits-increased/)
-- [Amazon SageMaker Autopilot adds Deep Learning Models](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-sagemaker-autopilot-adds-deep-learning-models/)
-- [AWS Data Exchange now supports filtered views for provider products and data sets](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-data-exchange-supports-filtered-views-provider-products-data-sets/)
-- [Amazon AppFlow now stores credentials in customers’ AWS Secrets Manager account](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-stores-credentials-customers-aws-secrets-manager-account/)
+- [Apache Kafka client resiliency testing made easier with an Amazon MSK reboot broker API](https://aws.amazon.com/about-aws/whats-new/2020/12/apache-kafka-client-resiliency-testing-easier-with-amazon-msk-reboot-broker-api/)
+- [AWS Systems Manager now enables advanced flow control for Automation runbook executions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-systems-manager-now-enables-advanced-flow-control-for-automation-runbook-executions/)
+- [AWS DeepComposer launches new learning capsule that dives deep into Transformer models](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-deepcomposer-launches-learning-capsule-dives-deep-transformer-models/)
+- [Amazon MQ now supports ActiveMQ version 5.15.14](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-mq-now-supports-activemq-version-5-15-14/)
+- [Porting Assistant for .NET supports automated code translation](https://aws.amazon.com/about-aws/whats-new/2020/12/porting-assistant-for-net-supports-automated-code-translation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
