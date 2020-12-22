@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon ECS announces the general availability of ECS Deployment Circuit Breaker](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ecs-announces-the-general-availability-of-ecs-deployment-circuit-breaker/)
-- [AWS Artifact makes compliance documents easy to  download and share](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-artifact-compliance-documents-easy-download-share/)
-- [Introducing Compliant Framework for Federal and DoD Workloads in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-compliant-framework-federal-dod-workloads-aws-govcloud-us/)
-- [AWS App2Container now supports remote execution of containerization workflows](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-app2container-supports-remote-execution-containerization-workflows/)
-- [Amazon EMR Release 6.2 now supports improved Apache HBase performance on Amazon S3, and Apache Hive ACID Transactions on HDFS and Amazon S3](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-emr-release-6-2-supports-apache-hbase-on-amazon-s3-apache-hive-acid-transactions-on-hfds-and-amazon-s3/)
+- [AWS WAF Now Available in AWS GovCloud (US-East) Region](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-waf-now-available-in-aws-govcloud-us-east-region/)
+- [Amazon EC2 M6g, C6g and R6g instances powered by AWS Graviton2 processors are now available in South America (Sao Paulo) and AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ec2-m6g-c6g-and-r6g-instances-powered-by-aws-graviton2-processors-are-now-available-in-south-america-and-aws-gov-cloud-regions/)
+- [AWS OpsHub for AWS Snow Family is now available for Linux](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-opshub-for-aws-snow-family-is-now-available-for-linux/)
+- [AWS Database Migration Service now supports parallel apply when using Redshift as a target during on-going replications](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-database-migration-service-supports-parallel-apply-cdc-mode-using-redshift-target/)
+- [Amazon GuardDuty adds three new threat detections to help you better protect your data stored in Amazon S3](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-guardduty-adds-three-new-threat-detections-to-help-you-better-protect-your-data-stored-in-amazon-s3/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
