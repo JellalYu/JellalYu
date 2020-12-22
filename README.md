@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS announces the general availability of ECS Deployment Circuit Breaker](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ecs-announces-the-general-availability-of-ecs-deployment-circuit-breaker/)
 - [AWS Artifact makes compliance documents easy to  download and share](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-artifact-compliance-documents-easy-download-share/)
 - [Introducing Compliant Framework for Federal and DoD Workloads in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-compliant-framework-federal-dod-workloads-aws-govcloud-us/)
 - [AWS App2Container now supports remote execution of containerization workflows](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-app2container-supports-remote-execution-containerization-workflows/)
 - [Amazon EMR Release 6.2 now supports improved Apache HBase performance on Amazon S3, and Apache Hive ACID Transactions on HDFS and Amazon S3](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-emr-release-6-2-supports-apache-hbase-on-amazon-s3-apache-hive-acid-transactions-on-hfds-and-amazon-s3/)
-- [AWS Glue launches AWS Glue Custom Connectors](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-glue-launches-aws-glue-custom-connectors/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
