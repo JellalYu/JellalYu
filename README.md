@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect CTI Adapter for Salesforce now supports Contact Lens](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-cti-adapter-for-salesforce-now-supports-contact-lens/)
+- [AWS Snow Family now supports the Amazon Linux 2 operating system](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-snowball-edge-supports-amazon-linux-2-operating-systems/)
 - [AWS Pricing Calculator now supports Windows Server and SQL Server workload cost estimates](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-pricing-calculator-supports-windows-server-sql-server-workload-cost-estimates/)
 - [Now launch Amazon SageMaker Studio Notebooks backed by Spark in Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2020/12/now-launch-amazon-sagemaker-studio-notebooks-backed-spark-amazon-emr/)
 - [You now can use PartiQL with NoSQL Workbench to query, insert, update, and delete table data in Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2020/12/you-now-can-use-partiql-with-nosql-workbench-to-query-insert-update-and-delete-table-data-in-amazon-dynamodb/)
-- [Amazon Virtual Private Cloud (VPC) Now supports Tag on Create for Elastic IP addresses](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-virtual-private-cloud-vpc-supports-tag-on-create-elastic-ips-eip/)
-- [PartiQL for DynamoDB now is supported in 23 AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/partiql-for-dynamodb-now-is-supported-in-23-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
