@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue launches AWS Glue Custom Connectors](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-glue-launches-aws-glue-custom-connectors/)
+- [AWS Config launches ability to save advanced queries](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-config-advanced-query-feature-adds-support-saving-queries/)
+- [Use AWS Secrets Manager to rotate your AWS Data Migration Service source and target database credentials](https://aws.amazon.com/about-aws/whats-new/2020/12/use-aws-secrets-manager-rotate-aws-data-migration-service-source-target-database-credentials/)
 - [Now compare different versions of your runbooks with AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-systems-manager-lets-you-compare-different-versions-runbook/)
 - [Announcing the General Availability of Amazon Corretto 11 for Linux on ARM32 and for Windows on x86 (32-bit)](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-the-general-availability-of-amazon-corretto-11-for-arm32-linux-on-arm32-and-for-windows-on-x86-32bit/)
-- [Amazon Connect now supports sharing attachments in chat](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-now-supports-sharing-attachments-in-chat/)
-- [Amazon Connect CTI Adapter for Salesforce now supports Contact Lens](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-cti-adapter-for-salesforce-now-supports-contact-lens/)
-- [AWS Snow Family now supports the Amazon Linux 2 operating system](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-snowball-edge-supports-amazon-linux-2-operating-systems/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
