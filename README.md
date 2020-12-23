@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New versions of MySQL and PostgreSQL now available on Amazon RDS for Outposts](https://aws.amazon.com/about-aws/whats-new/2020/12/new-versions-mysql-postgresql-available-amazon-rds-outposts/)
+- [AWS CodePipeline now available in Asia Pacific (Hong Kong) region](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-codepipeline-available-hong-kong/)
 - [Service Quotas now supports tagging and Attribute-Based Access Control (ABAC)](https://aws.amazon.com/about-aws/whats-new/2020/12/service-quotas-now-supports-tagging-and-attribute-based-access-control-abac/)
 - [Introducing Service Workbench on AWS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-service-workbench-on-aws/)
 - [Introducing Video on Demand on AWS v5.2](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-video-on-demand-on-aws-v5-2/)
-- [Customer Owned IP generally available for Amazon RDS on Outposts](https://aws.amazon.com/about-aws/whats-new/2020/12/customer-owned-ip-generally-available-amazon-rds-outposts/)
-- [Introducing FHIR Works on AWS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-fhir-works-on-aws/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
