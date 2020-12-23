@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Video on Demand on AWS v5.2](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-video-on-demand-on-aws-v5-2/)
+- [Customer Owned IP generally available for Amazon RDS on Outposts](https://aws.amazon.com/about-aws/whats-new/2020/12/customer-owned-ip-generally-available-amazon-rds-outposts/)
 - [Introducing FHIR Works on AWS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-fhir-works-on-aws/)
 - [FreeRTOS now supports over-the-air update (OTA) for multiple file types](https://aws.amazon.com/about-aws/whats-new/2020/12/freertos-now-supports-over-the-air-update-ota-for-multiple-file-types/)
 - [Amazon GameLift Updates Server SDK Supporting Unity 2020 and Unreal 4.25](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-gamelift-updates-server-sdk-supporting-unity-2020-unreal/)
-- [Amazon QuickSight enhances dashboard performance with Dynamic Querying and other dataset optimizations](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-quicksight-enhances-dashboard-performance-with-dynamic-querying-and-other-dataset-optimizations/)
-- [Introducing process check rules with AWS Config conformance packs](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-process-checks-aws-config-conformance-packs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
