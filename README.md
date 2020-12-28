@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing new AWS Wavelength Zones in Denver and Seattle](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-aws-wavelength-zones-denver-seattle/)
 - [AWS Service Catalog now supports TagOption Sharing](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-service-catalog-now-supports-tagoption-sharing/)
 - [Amazon Neptune now supports the db.r5.24xlarge instance type](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-neptune-now-supports-the-db-r5-24xlarge-instance-type/)
 - [Host resource groups now provides APIs along with the ability to add existing Dedicated Hosts to further simplify your BYOL experience](https://aws.amazon.com/about-aws/whats-new/2020/12/host-resource-groups-now-provides-apis-ability-to-add-existing-dedicated-hosts/)
 - [Provisioned product referencing is now available in AWS Service Catalog](https://aws.amazon.com/about-aws/whats-new/2020/12/provisioned-product-referencing-available-aws-service-catalog/)
-- [Announcing the first AWS Wavelength Zone in South Korea](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-first-aws-wavelength-zone-in-south-korea/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
