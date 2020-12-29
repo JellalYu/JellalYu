@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Publish Oracle Management Agent logs from Amazon RDS for Oracle to Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2020/12/publish-oracle-management-agent-logs-from-amazon-rds-for-oracle-to-amazon-cloudwatch-logs/)
 - [Amazon WorkDocs offers additional collaboration controls throughout its Android app](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-workdocs-offers-collaboration-controls-throughout-android-app/)
 - [Amazon AppStream 2.0 adds support for real-time audio-video](https://aws.amazon.com/about-aws/whats-new/2020/12/appstream-2-0-adds-support-for-realtime-audio-video/)
 - [Amazon QuickSight is now Available in Canada (Central) and South America (Sao Paulo) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-quicksight-available-canada-sao-paulo-regions/)
 - [Announcing new AWS Wavelength Zones in Denver and Seattle](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-aws-wavelength-zones-denver-seattle/)
-- [AWS Service Catalog now supports TagOption Sharing](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-service-catalog-now-supports-tagoption-sharing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
