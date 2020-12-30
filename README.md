@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodePipeline supports deployments with CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-codepipeline-supports-deployments-with-cloudformation-stacksets/)
+- [AWS IoT SiteWise Monitor now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-sitewise-monitor-supports-aws-cloudformation/)
 - [Amazon Elastic Container Service launches new management console](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-elastic-container-service-launches-new-management-console/)
 - [Introducing AWS Data Exchange Publisher Coordinator and Subscriber Coordinator](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-data-exchange-publisher-coordinator-and-subscribcriber-coordinator/)
 - [Amazon AppStream 2.0 adds support for real-time audio-video](https://aws.amazon.com/about-aws/whats-new/2020/12/appstream-2-0-adds-support-for-realtime-audio-video/)
-- [Amazon MSK adds support for Apache Kafka version 2.7.0](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-msk-adds-support-for-apache-kafka-version-2-7-0/)
-- [Publish Oracle Management Agent logs from Amazon RDS for Oracle to Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2020/12/publish-oracle-management-agent-logs-from-amazon-rds-for-oracle-to-amazon-cloudwatch-logs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
