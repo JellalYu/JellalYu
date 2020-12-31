@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Control Tower console shows more detail about external AWS Config rules](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-control-tower-console-shows-more-detail-about-external-aws-config-rules/)
 - [AWS CodePipeline supports deployments with CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-codepipeline-supports-deployments-with-cloudformation-stacksets/)
 - [AWS IoT SiteWise Monitor now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-sitewise-monitor-supports-aws-cloudformation/)
 - [Amazon Elastic Container Service launches new management console](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-elastic-container-service-launches-new-management-console/)
 - [Introducing AWS Data Exchange Publisher Coordinator and Subscriber Coordinator](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-data-exchange-publisher-coordinator-and-subscribcriber-coordinator/)
-- [Amazon AppStream 2.0 adds support for real-time audio-video](https://aws.amazon.com/about-aws/whats-new/2020/12/appstream-2-0-adds-support-for-realtime-audio-video/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
