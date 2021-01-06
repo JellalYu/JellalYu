@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppFlow now supports Salesforce Pardot](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-appflow-supports-salesforce-pardot/)
 - [Amazon SQS announces tiered pricing](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-sqs-announces-tiered-pricing/)
 - [New beta exam for AWS Certified SysOps Administrator - Associate](https://aws.amazon.com/about-aws/whats-new/2021/01/new-beta-exam-for-aws-certified-sysops-administrator-associate/)
 - [Amazon Connect launches new contact search page with an enhanced user experience](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-connect-launches-new-contact-search-page-with-an-enhanced-user-experience/)
 - [Amazon EC2 R5B Instances now certified for SAP workloads](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-r5b-instances-now-certified-for-sap-workloads/)
-- [AWS Certificate Manager is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-certificate-manager-is-now-fedramp-compliant/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
