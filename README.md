@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Step Functions adds support for AWS Glue DataBrew jobs to prepare data in analytics and machine learning workflows](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-step-functions-support-aws-glue-databrew-jobs-data-analytics-machine-learning-workflows/)
 - [Amazon EC2 Auto Scaling now allows to define 40 instance types when defining Mixed Instances Policy](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-auto-scaling-allows-define-40-instance-types-defining-mixed-instances-policy/)
 - [Amazon CloudSearch announces updates to its search instances](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudsearch-announces-updates-search-instances/)
 - [FreeRTOS includes pre-configured projects for software emulations of microcontroller cores using QEMU open source emulator](https://aws.amazon.com/about-aws/whats-new/2021/01/freertos-includes-pre-configured-projects-for-software-emulations-of-microcontroller-cores-using-qemu-open-source-emulator/)
 - [Amazon AppFlow now supports Salesforce Pardot](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-appflow-supports-salesforce-pardot/)
-- [Amazon SQS announces tiered pricing](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-sqs-announces-tiered-pricing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
