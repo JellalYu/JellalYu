@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 API now supports Internet Protocol Version 6 (IPv6)](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-api-supports-internet-protocol-version-6/)
 - [Amazon EMR now supports Apache Ranger for fine-grained data access control](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-emr-now-supports-apache-ranger-for-fine-grained-data-access-control/)
 - [AWS Cloud Map achieves PCI DSS Certification](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-cloud-map-achieves-pci-dss-certification/)
 - [AWS App Mesh achieves PCI DSS Certification](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-app-mesh-achieves-pci-dss-certification/)
 - [AWS CloudFormation now supports AWS DataSync](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-cloudformation-supports-aws-datasync/)
-- [Amazon API Gateway now supports data mapping in HTTP APIs](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-api-gateway-supports-data-mapping-http-apis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
