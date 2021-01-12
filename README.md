@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Snowcone now supports multicast streams and routing by providing instances with direct access to external networks](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-snowcone-now-supports-multicast-streams-and-routing-by-providing-instances-with-direct-access-to-external-networks/)
+- [Amazon Lightsail now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-lightsail-supports-ipv6/)
 - [Announcing  support for Methods via Uniform Function Call syntax in AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing--support-for-methods-via-uniform-function-call-syntax/)
 - [Amazon Redshift now supports fine-grained access control on COPY and UNLOAD commands](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-redshift-supports-fine-grained-access-control-copy-unload-commands/)
 - [Announcing the global expansion of AWS Contact Center Intelligence solutions](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-global-expansion-aws-contact-center-intelligence-solutions/)
-- [Customers can now tag resources in the Amazon Braket console](https://aws.amazon.com/about-aws/whats-new/2021/01/customers-can-now-tag-resources-in-the-amazon-braket-console-/)
-- [Monitor your Amazon Elastic File System (Amazon EFS) storage usage with Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/01/monitor-your-amazon-efs-storage-usage-with-amazon-cloudwatch/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
