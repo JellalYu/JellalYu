@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift now supports fine-grained access control on COPY and UNLOAD commands](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-redshift-supports-fine-grained-access-control-copy-unload-commands/)
+- [Announcing the global expansion of AWS Contact Center Intelligence solutions](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-global-expansion-aws-contact-center-intelligence-solutions/)
 - [Customers can now tag resources in the Amazon Braket console](https://aws.amazon.com/about-aws/whats-new/2021/01/customers-can-now-tag-resources-in-the-amazon-braket-console-/)
 - [Monitor your Amazon Elastic File System (Amazon EFS) storage usage with Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/01/monitor-your-amazon-efs-storage-usage-with-amazon-cloudwatch/)
 - [Amazon Aurora supports in-place upgrades from MySQL 5.6 to 5.7](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-aurora-supports-in-place-upgrades-mysql-5-6-to-5-7/)
-- [Amazon EC2 API now supports Internet Protocol Version 6 (IPv6)](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-api-supports-internet-protocol-version-6/)
-- [Amazon EMR now supports Apache Ranger for fine-grained data access control](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-emr-now-supports-apache-ranger-for-fine-grained-data-access-control/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
