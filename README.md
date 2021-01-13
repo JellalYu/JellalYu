@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppStream 2.0 now supports using smart cards for Active Directory domain login and streaming applications](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-appstream-2-0-now-supports-using-smart-cards-for-active-directory-domain-login-and-streaming-applications/)
 - [Amazon RDS for PostgreSQL Supports New Minor Versions 12.5, 11.10, 10.15, 9.6.20, and 9.5.24](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-rds-postgresql-supports-new-minor-versions/)
 - [Amazon SNS adds support for message archiving and analytics via Kinesis Data Firehose subscriptions](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-sns-adds-support-for-message-archiving-and-analytics-via-kineses-data-firehose-subscriptions/)
 - [AWS Snowcone now supports multicast streams and routing by providing instances with direct access to external networks](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-snowcone-now-supports-multicast-streams-and-routing-by-providing-instances-with-direct-access-to-external-networks/)
 - [Amazon Lightsail now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-lightsail-supports-ipv6/)
-- [Announcing  support for Methods via Uniform Function Call syntax in AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing--support-for-methods-via-uniform-function-call-syntax/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
