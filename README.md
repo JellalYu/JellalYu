@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New Amazon Builders’ Library Article: Making retries safe with idempotent APIs](https://aws.amazon.com/about-aws/whats-new/2021/01/new-abl-article-making-retries-safe-with-idempotent-APIs/)
 - [Amazon Rekognition Custom Labels is now available in the Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Seoul), and Asia Pacific (Tokyo) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-rekognition-custom-labels-available-additional-regions/)
 - [Amazon CloudWatch Container Insights now available on AWS Graviton2](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudwatch-container-insights-available-aws-graviton2/)
 - [Amazon EC2 X1 and X1e instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-x1-x1e-instances-now-available-additional-aws-regions/)
 - [Introducing update to Multi-Region Application Architecture](https://aws.amazon.com/about-aws/whats-new/2021/01/introducing-update-to-multi-region-application-architecture/)
-- [Amazon Cognito Identity Pools enables using user attributes from identity providers for access control to simplify permissions management in AWS](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cognito-identity-pools-now-enables-customers-to-use-attributes-from-identity-providers-to-simplify-permissions-management-to-aws-resources/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
