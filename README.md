@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Container Insights now available on AWS Graviton2](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudwatch-container-insights-available-aws-graviton2/)
 - [Amazon EC2 X1 and X1e instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-x1-x1e-instances-now-available-additional-aws-regions/)
 - [Introducing update to Multi-Region Application Architecture](https://aws.amazon.com/about-aws/whats-new/2021/01/introducing-update-to-multi-region-application-architecture/)
 - [Amazon Cognito Identity Pools enables using user attributes from identity providers for access control to simplify permissions management in AWS](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cognito-identity-pools-now-enables-customers-to-use-attributes-from-identity-providers-to-simplify-permissions-management-to-aws-resources/)
 - [Amplify DataStore launches support for sorting and selectively syncing app data](https://aws.amazon.com/about-aws/whats-new/2021/01/amplify-datastore-launches-support-sorting-selectively-syncing-app-data/)
-- [New digital course: Configuring and Deploying VPCs with Multiple Subnets](https://aws.amazon.com/about-aws/whats-new/2021/01/new-digital-course-configuring-and-deploying-vpcs-with-multiple-subnets/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
