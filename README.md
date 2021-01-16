@@ -52,9 +52,9 @@
 <!-- AWS-NEWS:START -->
 - [The graphical user interface of Porting Assistant for .NET is now open source](https://aws.amazon.com/about-aws/whats-new/2021/01/graphical-user-interface-of-porting-assistant-for-dotnet-now-open-source/)
 - [New Amazon Builders’ Library Article: Making retries safe with idempotent APIs](https://aws.amazon.com/about-aws/whats-new/2021/01/new-abl-article-making-retries-safe-with-idempotent-APIs/)
+- [New AWS Public Datasets available from the Illumina, the University of Alaska Fairbanks, IntelinAir, and others](https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-public-datasets-available/)
 - [Amazon Rekognition Custom Labels is now available in the Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Seoul), and Asia Pacific (Tokyo) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-rekognition-custom-labels-available-additional-regions/)
 - [Amazon CloudWatch Container Insights now available on AWS Graviton2](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudwatch-container-insights-available-aws-graviton2/)
-- [Amazon EC2 X1 and X1e instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-x1-x1e-instances-now-available-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
