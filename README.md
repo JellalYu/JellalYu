@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime SDKs for iOS and Android now support screen share](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-chime-sdk-ios-android-support-screen-share/)
 - [Amazon RDS for MariaDB now supports version 10.5.8](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-rds-for-mariadb-supports-version-10-5-8/)
 - [Amazon EC2 P4d Instances now available in the Europe (Ireland) region](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-p4d-instances-now-available-in-the-europe-ireland-region/)
 - [New self-paced course about designing data lakes on edX and Coursera](https://aws.amazon.com/about-aws/whats-new/2021/01/new-self-paced-course-about-designing-data-lakes-on-edx-and-coursera/)
 - [AWS Certificate Manager Private Certificate Authority now supports additional certificate customization](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-certificate-manager-private-certificate-authority-additional-certificate-customization/)
-- [AWS SDK for Go version 2 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-sdk-for-go-version-2-now-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
