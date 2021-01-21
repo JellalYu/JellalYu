@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [New partner training on migration, cloud governance, and machine learning](https://aws.amazon.com/about-aws/whats-new/2021/01/new-partner-training-on-migration-cloud-governance-and-machine-learning/)
+- [Amazon MSK now supports the ability to change the size or family of your Apache Kafka brokers](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-msk-now-supports-the-ability-to-change-the-size-or-family/)
 - [Amazon Keyspaces (for Apache Cassandra) now supports JSON syntax to help you read and write data from other systems more easily](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-keyspaces-for-apache-cassandra-now-supports-json-syntax/)
+- [Amazon Detective enhances IP Address Analytics](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-detective-enhances-ip-address-analytics/)
+- [New partner training on migration, cloud governance, and machine learning](https://aws.amazon.com/about-aws/whats-new/2021/01/new-partner-training-on-migration-cloud-governance-and-machine-learning/)
 - [Amazon FSx now supports FIPS 140-2 validated endpoints](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-fsx-supports-fips-validated-endpoints/)
-- [Announcing CDK Support for AWS Chalice](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-cdk-support-aws-chalice/)
-- [Resource Groups Tagging API launches ResourceARNList parameter for the GetResources operation](https://aws.amazon.com/about-aws/whats-new/2021/01/resource-groups-tagging-api-launches-resourcearnlist-parameter-getresources-operation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
