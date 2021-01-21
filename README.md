@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New partner training on migration, cloud governance, and machine learning](https://aws.amazon.com/about-aws/whats-new/2021/01/new-partner-training-on-migration-cloud-governance-and-machine-learning/)
+- [Amazon Keyspaces (for Apache Cassandra) now supports JSON syntax to help you read and write data from other systems more easily](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-keyspaces-for-apache-cassandra-now-supports-json-syntax/)
+- [Amazon FSx now supports FIPS 140-2 validated endpoints](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-fsx-supports-fips-validated-endpoints/)
 - [Announcing CDK Support for AWS Chalice](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-cdk-support-aws-chalice/)
 - [Resource Groups Tagging API launches ResourceARNList parameter for the GetResources operation](https://aws.amazon.com/about-aws/whats-new/2021/01/resource-groups-tagging-api-launches-resourcearnlist-parameter-getresources-operation/)
-- [Amazon ECS announces increased service quotas for tasks per service and services per cluster](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ecs-increased-service-quotas-tasks-per-service-services-per-cluster/)
-- [New AWS IoT Device Client simplifies onboarding to AWS IoT Core, AWS IoT Device Management, and AWS IoT Device Defender](https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-iot-device-client-simplifies-onboarding-to-aws-iot-core-aws-iot-device-management-and-aws-iot-device-defender/)
-- [Amazon Chime SDKs for iOS and Android now support screen share](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-chime-sdk-ios-android-support-screen-share/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
