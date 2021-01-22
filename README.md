@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing date and time functions and timezone support in AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-new-features-for-aws-iot-sitewise/)
 - [Amazon SQS now supports 1-Minute CloudWatch Metrics in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-sqs-supports-1-minute-cloudwatch-metrics-in-aws-govcloud-regions/)
 - [Amazon MSK now supports the ability to change the size or family of your Apache Kafka brokers](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-msk-now-supports-the-ability-to-change-the-size-or-family/)
 - [Amazon Detective enhances IP Address Analytics](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-detective-enhances-ip-address-analytics/)
 - [New partner training on migration, cloud governance, and machine learning](https://aws.amazon.com/about-aws/whats-new/2021/01/new-partner-training-on-migration-cloud-governance-and-machine-learning/)
-- [Amazon FSx now supports FIPS 140-2 validated endpoints](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-fsx-supports-fips-validated-endpoints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
