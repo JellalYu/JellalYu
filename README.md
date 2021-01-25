@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Shield Advanced now provides mitigation metrics and network traffic timelines](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-shield-advanced-now-provides-mitigation-metrics-and-network-traffic-timelines/)
 - [Amazon CloudWatch Agent now supports OpenTelemetry APIs and SDKs](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudwatch-agent-now-supports-opentelemetry-apis-and-sdks/)
 - [AWS App Mesh is now available in Africa (Cape Town) AWS Region](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-app-mesh-is-now-available-in-the-africa-cape-town-aws-region/)
 - [Amazon GuardDuty enhances security incident investigation workflows through new integration with Amazon Detective](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-guardduty-enhances-security-incident-investigation-workflows-through-new-integration-with-amazon-detective/)
 - [Amazon CloudWatch Agent Now Supports macOS on Amazon EC2 Mac instances](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudwatch-agent-now-supports-macos-on-amazon-ec2-mac-instances/)
-- [AWS Cloud Map Updates Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-cloud-map-updates-service-level-agreement/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
