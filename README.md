@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Timestream can now be used for workloads subject to HIPAA, ISO, and PCI DSS](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-timestream-can-now-be-used-for-workloads-subject-to-hipaa-iso-and-pci-dss/)
+- [Amazon SES now lets you assign a configuration set to an email identity](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ses-now-lets-you-assign-a-configuration-set-to-an-identity/)
 - [Amazon FSx is now available in the AWS Africa (Cape Town), Europe (Milan), and Middle East (Bahrain) Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-fsx-available-additional-regions/)
 - [AWS CodePipeline now available in Europe South (Milan) region](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-codepipeline-available-europe-south-milan-region/)
 - [Discover, review, and remediate unintended access to Secrets Manager secrets using IAM Access Analyzer](https://aws.amazon.com/about-aws/whats-new/2021/01/discover-review-remediate-unintended-access-secrets-manager-iam-access-analyzer/)
-- [Amazon Elasticsearch Service extends encryption at rest and node-to-node encryption to existing domains](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-elasticsearch-service-extends-data-encryption-rest-node-to-node-encryption-support-existing-domains/)
-- [AWS Security Hub adds 1 new integration globally and adds 5 integrations to AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-security-hub-adds-new-integration-globally-adds-5-integrations-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
