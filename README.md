@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch now adds Fluent Bit support for container logs from Amazon EKS and Kubernetes](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudwatch-now-adds-fluent-bit-support-for-container-logs-from-amazon-eks-and-kubernetes/)
 - [AWS Control Tower now available in Canada, Frankfurt, London, Stockholm and Singapore AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-control-tower-now-available-in-canada-frankfurt-london-stockholm-and-singapore-aws-regions/)
 - [Amazon Aurora supports in-place upgrades from PostgreSQL 11 to 12](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-aurora-supports-in-place-upgrades-postgresql-11-12/)
 - [Amazon Aurora supports PostgreSQL 12](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-aurora-supports-postgresql-12/)
 - [AWS Marketplace announces support for multiple Private Marketplace catalogs](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-marketplace-announces-support-for-multiple-private-marketplace-catalogs/)
-- [Amazon Timestream can now be used for workloads subject to HIPAA, ISO, and PCI DSS](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-timestream-can-now-be-used-for-workloads-subject-to-hipaa-iso-and-pci-dss/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
