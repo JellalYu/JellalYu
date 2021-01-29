@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue DataBrew now supports six additional delimiters for its datasets](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-glue-databrew-now-supports-six-additional-delimiters-for-its-datasets/)
+- [AWS Glue DataBrew is now available in six additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-glue-databrew-available-six-additional-aws-regions/)
 - [AWS RoboMaker supports data upload configurations in simulation jobs](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-robomaker-supports-data-upload-configurations-in-simulation-jobs/)
 - [AWS Control Tower now provides bulk account update](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-control-tower-provides-bulk-account-update/)
 - [AWS Control Tower now extends governance to existing OUs in your AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-control-tower-extends-governance-existing-ous-aws-organizations/)
-- [Amazon CloudWatch now adds Fluent Bit support for container logs from Amazon EKS and Kubernetes](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudwatch-now-adds-fluent-bit-support-for-container-logs-from-amazon-eks-and-kubernetes/)
-- [AWS Control Tower now available in Canada, Frankfurt, London, Stockholm and Singapore AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-control-tower-now-available-in-canada-frankfurt-london-stockholm-and-singapore-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
