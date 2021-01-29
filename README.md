@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GuardDuty introduces machine learning domain reputation model to expand threat detection and improve accuracy](https://aws.amazon.com/about-aws/whats-new/2021/amazon-guardduty-introduces-machine-learning-domain-reputation-model/)
+- [Amazon SNS now supports 1-minute CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-sns-now-supports-1-minute-cloudwatch-metrics/)
 - [Amazon Elastic File System triples read throughput](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-elastic-file-system-triples-read-throughput/)
 - [Amazon Managed Blockchain now supports resource tagging and tag-based access control](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-managed-blockchain-supports-resource-tagging-tag-based-access-control/)
 - [AWS Glue DataBrew now supports six additional delimiters for its datasets](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-glue-databrew-now-supports-six-additional-delimiters-for-its-datasets/)
-- [AWS Glue DataBrew is now available in six additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-glue-databrew-available-six-additional-aws-regions/)
-- [AWS RoboMaker supports data upload configurations in simulation jobs](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-robomaker-supports-data-upload-configurations-in-simulation-jobs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
