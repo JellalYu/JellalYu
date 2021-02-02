@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Insights is now generally available for AWS X-Ray](https://aws.amazon.com/about-aws/whats-new/2021/02/insights-is-now-generally-available-for-aws-x-ray/)
+- [Amazon S3 now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-s3-now-supports-aws-privatelink/)
 - [Launching Amazon Lex V2 console and APIs for an improved bot building experience](https://aws.amazon.com/about-aws/whats-new/2021/01/launching-amazon-lex-v2-console-apis-improved-bot-building-experience/)
 - [AWS Console Mobile Application adds support for new regions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-console-mobile-application-adds-support-new-regions/)
 - [Amazon CloudWatch Synthetics supports Amazon API Gateway in API blueprint](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-cloudwatch-synthetics-supports-amazon-api-gateway-api-blueprint/)
-- [Amazon Redshift delivers better cold query performance to three additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-redshift-delivers-cold-query-performance-additional-aws-regions/)
-- [AWS Launch Wizard now configures RHEL and SLES clustering for SAP application High Availability](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-launch-wizard-configures-rhel-sles-clustering-sap-application-high-availability/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
