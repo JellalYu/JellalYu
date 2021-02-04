@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing new AWS Wavelength Zone in Osaka, Japan](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-aws-wavelength-zones-osaka-Japan/)
 - [Amazon Connect is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-connect-available-aws-govcloud-us-west-region/)
 - [Amazon Virtual Private Cloud (VPC) customers can now customize reverse DNS for their Elastic IP addresses](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-virtual-private-cloud-vpc-customers-customize-reverse-dns-elastic-ips-eip/)
 - [AWS Lambda now supports Node.js 14](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-lambda-now-supports-node-js-14/)
 - [AWS Backup Events and Metrics now available in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-backup-events-metrics-available-amazon-cloudwatch/)
-- [AWS Elemental MediaLive adds support for VPC outputs](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-elemental-medialive-adds-support-for-vpc-outputs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
