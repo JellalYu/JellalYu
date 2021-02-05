@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Amazon EBS Local Snapshots on Outposts](https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-amazon-ebs-local-snapshots-on-outposts/)
+- [AWS App Mesh now supports mutual TLS authentication](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-app-mesh-supports-mutual-tls-authentication/)
+- [Announcing AWS App Mesh Controller for Kubernetes version 1.3.0 with mTLS support](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-aws-app-mesh-controller-for-kubernetes-version-1-3-0-with-mtls-support/)
 - [AWS Amplify Hosting adds monitoring capabilities with Amazon CloudWatch integration](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-amplify-hosting-adds-monitoring-capabilities-with-amazon-cloudwatch-integration/)
 - [AWS Copilot launches v1.2 providing more deployment capabilities](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-copilot-launches-v1-2-providing-more-deployment-capabilities/)
-- [Announcing new AWS Wavelength Zone in Osaka, Japan](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-aws-wavelength-zones-osaka-Japan/)
-- [Amazon Connect is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-connect-available-aws-govcloud-us-west-region/)
-- [Amazon Virtual Private Cloud (VPC) customers can now customize reverse DNS for their Elastic IP addresses](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-virtual-private-cloud-vpc-customers-customize-reverse-dns-elastic-ips-eip/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
