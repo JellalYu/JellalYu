@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS DeepComposer launches Transformer Notebook on GitHub](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-deepcomposer-launches-transformer-notebook-github/)
+- [AWS Glue is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-is-now-available-in-the-aws-africa-cape-town-region/)
 - [AWS Data Exchange enables subscribers to export full revisions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-data-exchange-enables-subscribers-to-export-full-revisions/)
 - [New digital curriculum: Managing Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/02/new-digital-curriculum-managing-amazon-s3/)
 - [Application Load Balancer now supports Application Cookie Stickiness](https://aws.amazon.com/about-aws/whats-new/2021/02/application-load-balancer-supports-application-cookie-stickiness/)
-- [You now can use PartiQL with DynamoDB local to query, insert, update, and delete table data in Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2021/02/you-now-can-use-partiql-with-dynamodb-local-to-query-insert-update-and-delete-table-data-in-amazon-dynamodb/)
-- [Amazon ECS Service Discovery Now Available in Africa (Cape Town) and Europe (Milan)](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ecs-service-discovery-available-africa-cape-town-europe-milan/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
