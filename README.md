@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue now provides column importance metrics in the FindMatches machine learning transform](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-provides-column-importance-metrics-findmatches-machine-learning-transform/)
+- [Announcing AMD instance support for Amazon GameLift FleetIQ](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-amd-instance-support-amazon-gamelift-fleetiq/)
 - [AWS Cloud9 launches visual source control integration for Git](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-cloud9-launches-visual-source-control-integration-for-git/)
 - [Amazon Keyspaces (for Apache Cassandra) now helps you automate table creation by supporting point-in-time recovery and tag settings in AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-keyspaces-for-apache-cassandra-supporting-point-in-time-recovery-tag-settings-aws-cloudformation/)
 - [AWS Lake Formation is now available in Asia Pacific (Hong Kong) region](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-lake-formation-is-now-available-in-asia-pacific-hong-kong-region/)
-- [AWS DeepComposer launches Transformer Notebook on GitHub](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-deepcomposer-launches-transformer-notebook-github/)
-- [AWS Glue is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-is-now-available-in-the-aws-africa-cape-town-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
