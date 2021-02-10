@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cloud9 launches visual source control integration for Git](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-cloud9-launches-visual-source-control-integration-for-git/)
 - [Amazon Keyspaces (for Apache Cassandra) now helps you automate table creation by supporting point-in-time recovery and tag settings in AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-keyspaces-for-apache-cassandra-supporting-point-in-time-recovery-tag-settings-aws-cloudformation/)
 - [AWS Lake Formation is now available in Asia Pacific (Hong Kong) region](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-lake-formation-is-now-available-in-asia-pacific-hong-kong-region/)
 - [AWS DeepComposer launches Transformer Notebook on GitHub](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-deepcomposer-launches-transformer-notebook-github/)
 - [AWS Glue is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-is-now-available-in-the-aws-africa-cape-town-region/)
-- [AWS Data Exchange enables subscribers to export full revisions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-data-exchange-enables-subscribers-to-export-full-revisions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
