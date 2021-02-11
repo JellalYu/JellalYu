@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 M5zn instances, with high frequency processors and 100 Gbps networking are now available in Asia Pacific (Singapore and Sydney)](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ec2-m5zn-instances-with-high-frequency-processors-and-100-gbps-networking-are-now-available-in-asia-pacific-singapore-and-sydney/)
 - [Introducing Amazon VPC Endpoints for AWS CloudHSM](https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-amazon-vpc-endpoints-aws-cloudhsm/)
 - [Amazon Lex is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-lex-available-aws-govcloud-us-west-region/)
 - [Amazon Timestream now offers cross table queries, query execution statistics, and more](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-timestream-offers-cross-table-queries-query-execution-statistics-more/)
 - [Introducing Serverless Image Handler v5.2](https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-serverless-image-handler-v5-2/)
-- [Amazon VPC Traffic Mirroring is now supported on select non-Nitro instance types](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-vpc-traffic-mirroring-supported-select-non-nitro-instance-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
