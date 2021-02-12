@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Scheduled Actions of Application Auto Scaling now support Local Time Zone](https://aws.amazon.com/about-aws/whats-new/2021/02/scheduled-actions-application-auto-scaling-support-local-time-zone/)
+- [Now Launch Amazon SageMaker Studio using AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/02/now-launch-amazon-sagemaker-studio-aws-cloudformation/)
 - [Amazon Aurora Global Database supports managed planned failover](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-aurora-global-database-supports-managed-planned-failover/)
 - [AWS Identity and Access Management now supports tags on additional resources](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-identity-and-access-management-now-supports-tags-on-additional-resources/)
 - [AWS Glue DataBrew now allows you to configure the size of the dataset when auto-generating data quality statistics](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-databrew-allows-configure-size-dataset-auto-generating-data-quality-statistics/)
-- [AWS Glue DataBrew supports transformations for seven additional datatypes](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-databrew-supports-transformations-seven-additional-datatypes/)
-- [Amazon EC2 M5zn instances, with high frequency processors and 100 Gbps networking are now available in Asia Pacific (Singapore and Sydney)](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ec2-m5zn-instances-with-high-frequency-processors-and-100-gbps-networking-are-now-available-in-asia-pacific-singapore-and-sydney/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
