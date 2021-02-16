@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Update content of inbound and outbound emails using AWS Lambda in Amazon WorkMail](https://aws.amazon.com/about-aws/whats-new/2021/02/update-content-inbound-outbound-emails-using-aws-lambda-amazon-workmail/)
 - [Announcing General Availability of Amplify Flutter, with new data and authentication support](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-general-availability-amplify-flutter-data-authentication-support/)
 - [Amazon DynamoDB Accelerator (DAX) now supports next generation, burstable general-purpose Amazon EC2 T3 instance types](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-dynamodb-accelerator-dax-now-supports-amazon-ec2-t3-instance-types/)
 - [Amazon Keyspaces (for Apache Cassandra) now supports PCI DSS compliance to help you run payment processing workloads more easily](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-keyspaces-for-apache-cassandra-now-supports-pci-dss-compliance/)
 - [AWS Elemental MediaLive expands its automatic input failover capabilities](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-elemental-medialive-expands-its-automatic-input-failover-capabilities/)
-- [Amazon S3 on Outposts adds a smaller storage tier](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-s3-on-outposts-adds-a-smaller-storage-tier/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
