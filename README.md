@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Synthetics supports canary events with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-cloudwatch-synthetics-supports-canary-events-with-amazon-eventbridge/)
 - [Updated digital training for AWS Partners on End User Computing and Machine Learning](https://aws.amazon.com/about-aws/whats-new/2021/02/updated-digital-training-for-aws-partners-on-end-user-computing-and-machine-learning/)
 - [Amazon ml.Inf1 instances are now available on Amazon SageMaker in 14 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ml-inf1-instances-are-now-available-on-amazon-sagemaker-in-14-additional-aws-regions/)
 - [AWS Glue Studio jobs can now update AWS Glue Data Catalog tables](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-studio-jobs-update-aws-glue-data-catalog-tables/)
 - [Amazon Redshift Query Editor now supports clusters with enhanced VPC routing, longer query run times, and all node types](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-redshift-query-editor-supports-clusters-with-enhanced-vpc-routing-query-run-times-node-types/)
-- [AWS Glue Studio now supports reading uncatalogued data from Amazon S3 and inferring its schema](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-studio-supports-reading-uncatalogued-data-s3-inferring-schema/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
