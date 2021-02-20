@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Support for KMS encryption on S3 buckets used by AWS Config](https://aws.amazon.com/about-aws/whats-new/2021/02/support-for-kms-encryption-on-s3-buckets-used-by-aws-config/)
 - [Now create Amazon SageMaker Studio presigned URL with custom expiration time](https://aws.amazon.com/about-aws/whats-new/2021/02/now-create-amazon-sagemaker-studio-presigned-url-custom-expiration-time/)
 - [Amazon RDS Publishes New Events for Multi-AZ Deployments](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-publishes-new-events-multi-az-deployments/)
 - [New AWS Solutions Consulting Offer - AI-Powered Inventory Management](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-consulting-offer-ai-powered-inventory-management/)
 - [Assign a Delegated Administrator to manage AWS CloudFormation StackSets across your AWS Organization](https://aws.amazon.com/about-aws/whats-new/2021/02/assign-delegated-administrator-manage-aws-cloudformation-stacksets-across-aws-organization/)
-- [Amazon CloudWatch Synthetics supports canary events with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-cloudwatch-synthetics-supports-canary-events-with-amazon-eventbridge/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
