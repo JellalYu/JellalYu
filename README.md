@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora PostgreSQL Patches 1.8.1 / 2.6.2 / 3.3.2 now available](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-aurora-postgresql-patches-now-available/)
 - [New AWS Solutions Implementation: IoT Static IP Endpoints](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-implementation-iot-static-ip-endpoints/)
 - [Amazon RDS for SQL Server now supports Always On Availability Groups for Standard Edition](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-for-sql-server-now-supports-always-on-availability-groups-for-standard-edition/)
 - [AWS Database Migration Service now supports MariaDB version 10.5](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-database-migration-service-supports-mariadb-version-10-5/)
 - [Amazon Elasticsearch Service add support for Reporting in Kibana](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-elasticsearch-service-support-reporting-kibana/)
-- [Introducing our new Solutions Training for Partners: Sales Best Practices courses](https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-our-new-solutions-training-for-partners-sales-best-practices-courses/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
