@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Elasticsearch Service now supports rollups, reducing storage costs for extended retention](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-elasticsearch-service-supports-rollups-reducing-storage-costs-extended-retention/)
 - [AWS Network Firewall Deployment Automations for AWS Transit Gateway is Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-network-firewall-solution-aws-transit-gateway-generally-available/)
 - [Announcing two new on-demand digital courses for Media Services](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-two-new-on-demand-digital-courses-for-media-services/)
 - [New digital curriculum: Build Modern Apps with Purpose-Built Databases](https://aws.amazon.com/about-aws/whats-new/2021/02/new-digital-curriculum-build-modern-apps-with-purpose-built-databases/)
 - [Amazon EC2 Auto Scaling now shows scaling history for deleted groups](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ec2-auto-scaling-shows-scaling-history-deleted-groups/)
-- [New troubleshooting feature now generally available for AWS IoT Events](https://aws.amazon.com/about-aws/whats-new/2021/02/new-troubleshooting-feature-generally-available-aws-iot-events/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
