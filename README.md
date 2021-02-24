@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing two new on-demand digital courses for Media Services](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-two-new-on-demand-digital-courses-for-media-services/)
+- [New digital curriculum: Build Modern Apps with Purpose-Built Databases](https://aws.amazon.com/about-aws/whats-new/2021/02/new-digital-curriculum-build-modern-apps-with-purpose-built-databases/)
 - [Amazon EC2 Auto Scaling now shows scaling history for deleted groups](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ec2-auto-scaling-shows-scaling-history-deleted-groups/)
 - [New troubleshooting feature now generally available for AWS IoT Events](https://aws.amazon.com/about-aws/whats-new/2021/02/new-troubleshooting-feature-generally-available-aws-iot-events/)
 - [Amazon EC2 Mac Instances now support macOS Big Sur](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ec2-mac-instances-now-support-macos-big-sur/)
-- [Access Amazon EFS file systems from EC2 Mac instances running macOS Big Sur](https://aws.amazon.com/about-aws/whats-new/2021/02/access-amazon-efs-file-systems-from-ec2-mac-instances-running-macos-big-sur/)
-- [Amazon Aurora PostgreSQL Patches 1.8.1 / 2.6.2 / 3.3.2 now available](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-aurora-postgresql-patches-now-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
