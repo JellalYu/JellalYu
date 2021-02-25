@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Consulting Offer - JumpStart for Amazon Textract](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-consulting-offer-jumpstart-amazon-textract/)
 - [New digital class and lab on DevOps on AWS](https://aws.amazon.com/about-aws/whats-new/2021/02/new-digital-class-and-lab-on-devops-on-aws/)
 - [Updated digital course on Coursera and edX - AWS Cloud Practitioner Essentials](https://aws.amazon.com/about-aws/whats-new/2021/02/updated-digital-course-on-coursera-and-edx-aws-cloud-practitioner-essentials/)
 - [Amazon RDS now supports PostgreSQL 13](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-now-supports-postgresql-13/)
 - [AWS Transfer Family is now available in AWS Middle East (Bahrain), AWS Asia Pacific (Hong Kong), and AWS Africa (Cape Town) Regions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-transfer-family-is-now-available-in-aws-middle-east-bahrain-aws-asia-pacific-hong-kong-and-aws-africa-cape-town-regions/)
-- [Automate quality inspection with Amazon Lookout for Vision — now generally available](https://aws.amazon.com/about-aws/whats-new/2021/02/automate-quality-inspection-amazon-lookout-vision-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
