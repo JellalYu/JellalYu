@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Launch Wizard now allows you to specify IP addresses for SAP deployments](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-launch-wizard-now-allows-you-to-specify-ip-addresses-for-sap-deployments/)
 - [AWS Config now supports Amazon container services](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-config-supports-amazon-container-services/)
 - [AWS Elemental MediaTailor now supports many media origins and paths within a single configuration with Configuration Aliases](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-elemental-mediatailor-supports-media-origins-paths-with-configuration-allases/)
 - [New AWS Solutions Consulting Offer - JumpStart for Amazon Textract](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-consulting-offer-jumpstart-amazon-textract/)
 - [New digital class and lab on DevOps on AWS](https://aws.amazon.com/about-aws/whats-new/2021/02/new-digital-class-and-lab-on-devops-on-aws/)
-- [Updated digital course on Coursera and edX - AWS Cloud Practitioner Essentials](https://aws.amazon.com/about-aws/whats-new/2021/02/updated-digital-course-on-coursera-and-edx-aws-cloud-practitioner-essentials/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
