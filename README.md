@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Get ready to roll! 2021 AWS DeepRacer League Season is now underway](https://aws.amazon.com/about-aws/whats-new/2021/03/2021-aws-deepracer-league-season-underway/)
+- [AWS AppConfig is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-appconfig-available-govcloud-regions/)
+- [Real-Time Contact Lens for Amazon Connect is now available in the Europe (London), Europe (Frankfurt), and Asia Pacific (Tokyo) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/real-time-contact-lens-for-amazon-connect-available-additional-regions/)
+- [Amazon Connect now supports 15 minute intervals for historical metric reporting](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-connect-supports-15-minute-intervals-for-historical-metric-reporting/)
 - [AWS CodePipeline now supports 1000 pipelines per account](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-codepipeline-supports-1000-pipelines-per-account/)
-- [Amazon CloudWatch Synthetics now supports cross region bucket access and upgraded dependencies](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-cloudwatch-synthetics-now-supports-cross-region-bucket-access-and-upgraded-dependencies/)
-- [AWS Gateway Load Balancer is now available in the US East (Ohio), Asia Pacific (Tokyo), and EU (Frankfurt and Stockholm) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-gateway-load-balancer-is-now-available-in-the-us-east-ohio-asia-pacific-tokyo-and-eu-frankfurt-and-stockholm-regions/)
-- [Amazon Connect Customer Profiles now supports data sources from Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-connect-customer-profiles-now-supports-data-sources-from-amazon-s3/)
-- [Amazon EKS now supports adding KMS envelope encryption to existing clusters to enhance security for secrets](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eks-supports-adding-kms-envelope-encryption-to-existing-clusters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
