@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS now supports adding KMS envelope encryption to existing clusters to enhance security for secrets](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eks-supports-adding-kms-envelope-encryption-to-existing-clusters/)
 - [Support for AS923-1 frequency band is now generally available for AWS IoT Core for LoRaWAN](https://aws.amazon.com/about-aws/whats-new/2021/02/support-as923-1-frequency-band-generally-available-aws-iot-core-lorawan/)
 - [AWS Launch Wizard now allows you to specify IP addresses for SAP deployments](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-launch-wizard-now-allows-you-to-specify-ip-addresses-for-sap-deployments/)
 - [AWS Config now supports Amazon container services](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-config-supports-amazon-container-services/)
 - [AWS Elemental MediaTailor now supports many media origins and paths within a single configuration with Configuration Aliases](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-elemental-mediatailor-supports-media-origins-paths-with-configuration-allases/)
-- [New AWS Solutions Consulting Offer - JumpStart for Amazon Textract](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-consulting-offer-jumpstart-amazon-textract/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
