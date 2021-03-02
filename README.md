@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Consulting Offer - Intelligent SAP Migration and Management on AWS](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-intelligent-sap-migration-management-aws/)
+- [Amazon Aurora Supports PostgreSQL 11.9, 10.14, and 9.6.19 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-aurora-supports-postgresql-aws-govcloud-us-regions/)
 - [Announcing General Availability of Ethereum on Amazon Managed Blockchain](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-ethereum-on-amazon-managed-blockchain/)
 - [AWS Glue DataBrew extends its datasets to support files without an explicit file extension or a header row](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-glue-databrew-extends-its-dataset/)
 - [Four new digital training offerings for AWS End User Computing](https://aws.amazon.com/about-aws/whats-new/2021/03/four-new-digital-training-offerings-for-aws-end-user-computing/)
-- [Announcing the newly expanded AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-the-newly-expanded-aws-asia-pacific-osaka-region/)
-- [Get ready to roll! 2021 AWS DeepRacer League Season is now underway](https://aws.amazon.com/about-aws/whats-new/2021/03/2021-aws-deepracer-league-season-underway/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
