@@ -64,9 +64,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubeflow Pipeline - 不只是 ML Pipeline](http://example.com/2020/11/11/post-kubeflow/)
-- [Should we consider Multicollinearity in ML/DL?](http://example.com/2020/11/11/post/)
-- [The Windowing Approach of Streaming Data](http://example.com/2020/10/05/text2.0/)
+- [Kubeflow Pipeline - 不只是 ML Pipeline](https://jellalyu.github.io/2020/11/11/post-kubeflow/)
+- [Should we consider Multicollinearity in ML/DL?](https://jellalyu.github.io/2020/11/11/post/)
+- [The Windowing Approach of Streaming Data](https://jellalyu.github.io/2020/10/05/text2.0/)
 <!-- BLOG-POST-LIST:END -->
 
 
