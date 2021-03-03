@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Elastic File System (Amazon EFS) is now available in the AWS Asia Pacific (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elastic-file-system-available-aws-osaka-region/)
 - [AWS Systems Manager OpsCenter now displays an aggregated view of all operational issues for a specified resource](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-systems-manager-opscenter-now-displays-an-aggregated-view-of-all-operational-issues-for-a-specified-resource/)
 - [New AWS Solutions Consulting Offer - Driving Digital Transformation with Sitecore](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-driving-digital-transformation-with-sitecore/)
 - [FreeRTOS demonstrates meeting a set of security criteria for IoT platforms](https://aws.amazon.com/about-aws/whats-new/2021/03/freertos-demonstrates-meeting-a-set-of-security-criteria-for-iot-platforms/)
 - [New Amazon SNS Console Now Available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/new-amazon-sns-console-available-aws-govcloud-us-regions/)
-- [Amazon EventBridge now supports propagation of X-Ray trace context](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eventbridge-now-supports-propagation-of-x-ray-trace-context/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
