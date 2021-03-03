@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New Amazon SNS Console Now Available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/new-amazon-sns-console-available-aws-govcloud-us-regions/)
 - [Amazon EventBridge now supports propagation of X-Ray trace context](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eventbridge-now-supports-propagation-of-x-ray-trace-context/)
 - [The AWS Lambda console now features a new navigation design](https://aws.amazon.com/about-aws/whats-new/2021/03/the-aws-lambda-console-now-features-a-new-navigation-design/)
 - [FreeRTOS Long Term Support now includes AWS IoT over-the-air update, AWS IoT Device Defender, and AWS IoT Jobs libraries](https://aws.amazon.com/about-aws/whats-new/2021/03/freertos-long-term-support-includes-aws-iot-over-the-air-update-iot-device-defender-iot-jobs-libraries/)
 - [Amazon Elasticsearch Service now supports tag-based authorization for configuration APIs](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticsearch-service-now-supports-tag-based-authorization-for-configuration-apis/)
-- [New AWS Solutions Consulting Offer - Intelligent SAP Migration and Management on AWS](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-intelligent-sap-migration-management-aws/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
