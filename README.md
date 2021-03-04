@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 P4d Instances now available in the US East (Ohio) and Asia Pacific (Tokyo) regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-p4d-instances-available-additional-regions/)
+- [Amazon Redshift launches RA3.16xlarge and RA3.4xlarge in AWS GovCloud (US) Regions and RA3.xlplus in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-redshift-launches-ra3-16xlarge-and-ra3-xlplus-in-aws-govcloud-us-regions/)
+- [AWS Solutions: Serverless Bot Framework adds Amazon Lex V2 Console and API integration for an improved bot building experience](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-solutions-serverless-bot-framework-adds-amazon-lex-v2-console-api-integration/)
 - [Amazon EMR on EKS is now available in US West (N. California), US East (Ohio), Canada (Central), EU (Frankfurt and London), Asia Pacific (Mumbai, Seoul, Singapore, Sydney, and Tokyo) regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-emr-on-eks-available-additional-regions/)
 - [AWS Certificate Manager now provides certificate expiry monitoring through Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-certificate-manager-provides-certificate-expiry-monitoring-through-amazon-cloudwatch/)
-- [Amazon VPC Flow Logs now reflects AWS Service name, Traffic Path and Flow Direction](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-vpc-flow-logs-now-reflects-aws-service-name-traffic-path-and-flow-direction/)
-- [Amazon Elastic File System (Amazon EFS) is now available in the AWS Asia Pacific (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elastic-file-system-available-aws-osaka-region/)
-- [AWS Systems Manager OpsCenter now displays an aggregated view of all operational issues for a specified resource](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-systems-manager-opscenter-now-displays-an-aggregated-view-of-all-operational-issues-for-a-specified-resource/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
