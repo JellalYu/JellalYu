@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EKS is now available in US West (N. California), US East (Ohio), Canada (Central), EU (Frankfurt and London), Asia Pacific (Mumbai, Seoul, Singapore, Sydney, and Tokyo) regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-emr-on-eks-available-additional-regions/)
 - [AWS Certificate Manager now provides certificate expiry monitoring through Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-certificate-manager-provides-certificate-expiry-monitoring-through-amazon-cloudwatch/)
 - [Amazon VPC Flow Logs now reflects AWS Service name, Traffic Path and Flow Direction](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-vpc-flow-logs-now-reflects-aws-service-name-traffic-path-and-flow-direction/)
 - [Amazon Elastic File System (Amazon EFS) is now available in the AWS Asia Pacific (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elastic-file-system-available-aws-osaka-region/)
 - [AWS Systems Manager OpsCenter now displays an aggregated view of all operational issues for a specified resource](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-systems-manager-opscenter-now-displays-an-aggregated-view-of-all-operational-issues-for-a-specified-resource/)
-- [New AWS Solutions Consulting Offer - Driving Digital Transformation with Sitecore](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-driving-digital-transformation-with-sitecore/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
