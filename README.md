@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue DataBrew adds binning, skewness, binarization, and transpose transformations for pre-processing data for machine learning and analytics](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-glue-databrew-adds-binning-skewness-binarization-transformations-pre-processing-data/)
+- [AWS IoT Device SDK for Embedded C now supports over-the-air update, AWS IoT Device Defender custom metrics, and multiple shadows for a single IoT device](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-iot-device-sdk-embedded-c-supports-over-the-air-update-custom-metrics-multiple-shadows/)
 - [AWS CloudFormation now supports Amazon S3 on Outposts](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cloudformation-supports-amazon-s3-on-outposts/)
 - [Amazon EventBridge introduces support for API Destinations](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eventbridge-introduces-support-for-api-destinations/)
 - [AWS Step Functions adds tooling support for YAML](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-step-functions-adds-tooling-support-for-yaml/)
-- [AWS Systems Manager Change Manager now supports multi-level approvals](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-systems-manager-change-manager-supports-multi-level-approvals/)
-- [AWS Secrets Manager now provides support to replicate secrets in AWS Secrets Manager to multiple AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-secrets-manager-provides-support-to-replicate-secrets-in-aws-secrets-manager-to-multiple-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
