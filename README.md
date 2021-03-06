@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now provides an out-of-the-box chat user interface for your website](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-connect-provides-out-of-box-chat-user-interface-website/)
+- [AWS Elemental MediaLive launches Workflow Wizard](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-elemental-medialive-launches-workflow-wizard/)
+- [Amazon EC2 D3 instances with dense local HDD storage now available in Asia Pacific (Singapore, Sydney and Tokyo), and Europe (Frankfurt) regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-d3-instances-with-dense-local-hdd-storage-now-available-in-asia-pacific-singapore-sydney-and-tokyo-and-europe-frankfurt-regions/)
 - [AWS Proton makes new fields available for Jinja parametrization](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-proton-makes-new-fields-available-for-jinja-parametrization/)
 - [AWS Proton now supports services without pipelines](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-proton-supports-services-without-pipelines/)
-- [AWS Proton now supports tagging capabilities](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-proton-now-supports-tagging-capabilities/)
-- [Amazon Quicksight Launches Sankey Diagram, Field folders and more](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-quicksight-launches-sankey-diagram-field-folders-more/)
-- [AWS Shield Advanced now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-shield-advanced-now-supports-resource-tagging/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
