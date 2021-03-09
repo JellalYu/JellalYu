@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL M6g and R6g instances now available in N. California, Canada, São Paulo, and London regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-for-postgresql-m6g-r6g-instances-available-additional-regions/)
+- [AWS Lambda adds four Trusted Advisor checks](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-lambda-adds-four-trusted-advisor-checks/)
+- [Amazon RDS for PostgreSQL supports managed disaster recovery (DR) with Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-for-postgresql-supports-managed-disaster-recovery-dr-with-cross-region-automated-backups/)
+- [Amazon WorkSpaces is available in the Asia Pacific (Mumbai) Region](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-workspaces-available-mumbai/)
 - [Announcing Kotlin-centric developer experience in Amplify Android](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-kotlin-centric-developer-experience-in-amplify-android/)
-- [AWS Security Hub adds 25 new controls to its Foundational Security Best Practices standard](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-security-hub-adds-25-new-controls-to-foundational-security-best-practices-standard/)
-- [Amazon Connect now provides an out-of-the-box chat user interface for your website](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-connect-provides-out-of-box-chat-user-interface-website/)
-- [AWS Elemental MediaLive launches Workflow Wizard](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-elemental-medialive-launches-workflow-wizard/)
-- [Amazon EC2 D3 instances with dense local HDD storage now available in Asia Pacific (Singapore, Sydney and Tokyo), and Europe (Frankfurt) regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-d3-instances-with-dense-local-hdd-storage-now-available-in-asia-pacific-singapore-sydney-and-tokyo-and-europe-frankfurt-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
