@@ -64,6 +64,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Predictive Maintenance](https://jellalyu.github.io/2021/03/11/Predictive-Maintenance/)
 - [Kubeflow Pipeline - 不只是 ML Pipeline](https://jellalyu.github.io/2020/11/11/post-kubeflow/)
 - [Should we consider Multicollinearity in ML/DL?](https://jellalyu.github.io/2020/11/11/post/)
 - [The Windowing Approach of Streaming Data](https://jellalyu.github.io/2020/10/05/text2.0/)
