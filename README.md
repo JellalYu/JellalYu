@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [IAM Access Analyzer now enables you to validate public and cross-account access before deploying permissions changes](https://aws.amazon.com/about-aws/whats-new/2021/03/iam-access-analyzer-validate-access-before-deploying-permissions-changes/)
+- [AWS Backup adds support for continuous backup and point-in-time recovery of Amazon RDS instances](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-backup-adds-support-for-continuous-backup-and-point-in-time-recovery-of-amazon-rds-instances/)
 - [Amazon Kinesis Video Streams updates media playback API service quotas to enable up to 10x more simultaneous consumers](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-kinesis-video-streams-updates-media-playback-api-service-quotas-to-enable-up-to-10x-more-simultaneous-consumers/)
 - [Announcing General Availability of Amazon Redshift Cross-database queries](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-amazon-redshift-cross-database-queries/)
 - [Announcing General Availability of Amazon Redshift Data Sharing](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-amazon-redshift-data-sharing/)
-- [Amazon Aurora Global Database Expands Availability to São Paulo and Stockholm](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-aurora-global-database-expands-availability-sao-paulo-stockholm/)
-- [Amazon Aurora PostgreSQL-Compatible edition supports simultaneous authentication with both Microsoft Active Directory (AD) and AWS Identity and Access Management (IAM)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-aurora-postgresql-compatible-edition-supports-simultaneous-authentication/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
