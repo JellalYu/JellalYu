@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Transcribe supports word-level confidence scores for streaming transcription](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-transcribe-supports-word-level-confidence-scores-for-streaming-transcription/)
 - [Amazon RDS for Oracle supports Oracle Management Agent (OMA) version 13.4 for Oracle Enterprise Manager Cloud Control 13cR4](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-for-oracle-supports-oma-version-13-4-for-oracle-manager-cloud-control-13cr4/)
 - [IAM Access Analyzer now enables you to validate public and cross-account access before deploying permissions changes](https://aws.amazon.com/about-aws/whats-new/2021/03/iam-access-analyzer-validate-access-before-deploying-permissions-changes/)
 - [AWS Backup adds support for continuous backup and point-in-time recovery of Amazon RDS instances](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-backup-adds-support-for-continuous-backup-and-point-in-time-recovery-of-amazon-rds-instances/)
 - [Amazon Kinesis Video Streams updates media playback API service quotas to enable up to 10x more simultaneous consumers](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-kinesis-video-streams-updates-media-playback-api-service-quotas-to-enable-up-to-10x-more-simultaneous-consumers/)
-- [Announcing General Availability of Amazon Redshift Cross-database queries](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-amazon-redshift-cross-database-queries/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
