@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Consulting Offer - Conversational AI Platform](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-conversational-ai-platform/)
 - [Amazon EC2 Auto Scaling adds support for local time zones for scheduled scaling](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-auto-scaling-adds-support-for-local-time-zones-for-scheduled-scaling/)
 - [New AWS Solutions Consulting Offer - Design and Implementation for Druva Data Protection Solutions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-solutions-consulting-offer-design-and-implementation-for-druva-data-protection-solutions/)
 - [New AWS Solutions Consulting Offer - Virtual Desktop Accelerator](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-solutions-consulting-offer-virtual-desktop-accelerator/)
 - [AWS Elemental MediaTailor introduces Channel Assembly for creating virtual linear OTT channels](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-elemental-mediatailor-introduces-channel-assembly-for-creating-virtual-linear-ott-channels/)
-- [Amazon Elasticsearch Service now publishes events to Amazon CloudWatch and Amazon EventBridge for service software updates](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticsearch-service-publishes-events-to-amazon-cloudwatch-amazon-eventbridge/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
