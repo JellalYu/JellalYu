@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Glacier announces a 40% price reduction for PUT and Lifecycle requests](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-s3-glacier-announces-price-reduction-for-put-and-lifecycle-requests/)
 - [Achieve up to 35% better price/performance with Amazon Aurora using new Graviton2 instances](https://aws.amazon.com/about-aws/whats-new/2021/03/achieve-up-to-35-percent-better-price-performance-with-amazon-aurora-using-new-graviton2-instances/)
 - [AWS Wavelength is now ISO 9001, 27001, 27017 and 27018 compliant](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-wavelength-iso-9001-27001-27107-27108-compliant/)
 - [New AWS Solutions Consulting Offer - Conversational AI Platform](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-conversational-ai-platform/)
 - [Amazon EC2 Auto Scaling adds support for local time zones for scheduled scaling](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-auto-scaling-adds-support-for-local-time-zones-for-scheduled-scaling/)
-- [New AWS Solutions Consulting Offer - Design and Implementation for Druva Data Protection Solutions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-solutions-consulting-offer-design-and-implementation-for-druva-data-protection-solutions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
