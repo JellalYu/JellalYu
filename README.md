@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing support for multiple containers on Amazon SageMaker Inference endpoints, leading to cost savings of up to 80%](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-support-for-multiple-containers-on-amazon-sageamker-inference-endpoints/)
+- [Announcing new operations plan AWS Managed Services Accelerate](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-new-operations-plan-aws-managed-services-accelerate/)
 - [Lower Cost Storage Classes for Amazon Elastic File System are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2021/03/lower-cost-storage-classes-for-amazon-elastic-file-system-are-now-available-in-additional-regions/)
 - [New AWS Solutions Consulting Offer - Build Cloud Foundations](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-solutions-consulting-offer-build-cloud-foundations/)
 - [New AWS Solutions Consulting Offer - Deploy Containers on AWS](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-solutions-consulting-offer-deploy-containers-on-aws/)
-- [Amazon RDS Proxy now supports database connectivity from multiple Amazon VPCs](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-proxy-supports-database-connectivity-from-multiple-amazon-vpcs/)
-- [Amazon RDS Proxy adds read-only endpoints for Amazon Aurora Replicas](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-proxy-adds-read-only-endpoints-for-amazon-aurora-replicas/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
