@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon ECS now allows you to execute commands in a container running on Amazon EC2 or AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ecs-now-allows-you-to-execute-commands-in-a-container-running-on-amazon-ec2-or-aws-fargate/)
 - [AWS Config Adds 3 New Config Rules for Amazon Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-config-adds-3-new-config-rules-for-amazon-secrets-manager/)
 - [AWS Cost Anomaly Detection now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cost-anomaly-detection-supports-aws-cloudformation/)
 - [AWS Glue DataBrew is now available in Asia Pacific (Seoul), North America (Montreal), and South America (Sao Paulo) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-glue-databrew-is-now-available-in-asia-pacific-seoul-north-america-montreal-and-south-america-sao-paulo-aws-regions/)
 - [Bundle Management APIs now generally available for Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-workspaces-introduces-bundle-management-apis/)
+- [Amazon S3 Glacier announces a 40% price reduction for PUT and Lifecycle requests](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-s3-glacier-announces-price-reduction-for-put-and-lifecycle-requests/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
