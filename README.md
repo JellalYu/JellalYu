@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Comprehend now identifies documents that contain personally identifiable information (PII)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-comprehend-identifies-documents-that-contain-pii/)
 - [IAM Access Analyzer now supports over 100 policy checks with actionable recommendations to help you author secure and functional policies](https://aws.amazon.com/about-aws/whats-new/2021/03/iam-access-analyzer-supports-over-100-policy-checks-with-actionable-recommendations/)
 - [AWS IoT SiteWise Monitor adds support for accessing Monitor portals using AWS Identity and Access Management (IAM) users and roles](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-iot-sitewise-monitor-adds-support-for-accessing-monitor-portals-using-aws-iam-users-and-roles/)
 - [Announcing new Amazon EC2 X2gd instances powered by AWS Graviton2 processors](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-new-amazon-ec2-x2gd-instances-powered-by-aws-graviton2-processors/)
 - [Announcing the General Availability of Amazon Corretto 16](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-amazon-corretto-16/)
-- [AWS Batch now available in the Africa (Cape Town) and the Asia-Pacific (Osaka) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-batch-now-available-in-the-africa-cape-town-and-the-asia-pacific-osaka-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
