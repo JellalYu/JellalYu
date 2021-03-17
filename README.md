@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS X-Ray Insights is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-x-ray-insights-available-govcloud/)
+- [AWS announces Developer Preview release of opinionated deployment tool for .NET CLI](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-announces-developer-preview-release-opinionated-deployment-tool-net-cli/)
+- [AWS announces General Availability of Six New Regions for Amazon GameLift](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-announces-general-availability-of-six-new-regions-for-amazon-gamelift/)
 - [New AWS SSO gallery app simplifies Azure AD set-up with AWS](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-sso-gallery-app-simplifies-azure-ad-set-up-with-aws/)
 - [Support for SRT protocol added to AWS Elemental MediaConnect](https://aws.amazon.com/about-aws/whats-new/2021/03/support-for-srt-protocol-added-to-aws-elemental-mediaconnect/)
-- [Amazon Connect launches new metric capabilities for measuring queue service levels](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-connect-launches-new-metric-capabilities-for-measuring-queue-service-levels/)
-- [Amazon Comprehend now identifies documents that contain personally identifiable information (PII)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-comprehend-identifies-documents-that-contain-pii/)
-- [IAM Access Analyzer now supports over 100 policy checks with actionable recommendations to help you author secure and functional policies](https://aws.amazon.com/about-aws/whats-new/2021/03/iam-access-analyzer-supports-over-100-policy-checks-with-actionable-recommendations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
