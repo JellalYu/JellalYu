@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QLDB Increases Verification APIs Throughput by an Order of Magnitude](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-qldb-increases-verification-apis-throughput-order-of-magnitude/)
 - [S3 Object Lambda allows you to add your own code to S3 GET requests to modify and process data as it is returned to an application](https://aws.amazon.com/about-aws/whats-new/2021/03/s3-object-lambda-allows-you-to-add-your-own-code-to-s3-get-requests-to-modify-and-process-data-as-it-is-returned-to-an-application/)
 - [AWS X-Ray Insights is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-x-ray-insights-available-govcloud/)
 - [AWS announces Developer Preview release of opinionated deployment tool for .NET CLI](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-announces-developer-preview-release-opinionated-deployment-tool-net-cli/)
 - [AWS announces General Availability of Six New Regions for Amazon GameLift](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-announces-general-availability-of-six-new-regions-for-amazon-gamelift/)
-- [New AWS SSO gallery app simplifies Azure AD set-up with AWS](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-sso-gallery-app-simplifies-azure-ad-set-up-with-aws/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
