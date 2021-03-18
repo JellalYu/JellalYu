@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Auto Scaling Instance Refresh now supports phased deployments](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-auto-scaling-instance-refresh-supports-phased-deployments/)
+- [Amazon RDS for MySQL now supports rollback protection for database major version upgrades](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-for-mysql-supports-rollback-protection/)
 - [New digital course: AWS Cloud Technical Essentials](https://aws.amazon.com/about-aws/whats-new/2021/03/new-digital-course-aws-cloud-technical-essentials/)
 - [AWS Launch Wizard now supports ‘No Rollback on Failure’](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-launch-wizard-now-supports-no-rollback-on-failure/)
 - [Amazon QLDB Increases Verification APIs Throughput by an Order of Magnitude](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-qldb-increases-verification-apis-throughput-order-of-magnitude/)
-- [S3 Object Lambda allows you to add your own code to S3 GET requests to modify and process data as it is returned to an application](https://aws.amazon.com/about-aws/whats-new/2021/03/s3-object-lambda-allows-you-to-add-your-own-code-to-s3-get-requests-to-modify-and-process-data-as-it-is-returned-to-an-application/)
-- [AWS X-Ray Insights is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-x-ray-insights-available-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
