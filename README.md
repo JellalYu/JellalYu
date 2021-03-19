@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Fargate updates platform version 1.4.0 to be the LATEST version](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-fargate-updates-platform-version-1-4-0-to-be-the-latest-version/)
 - [AWS Proton introduces deletion protection for in-use templates](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-proton-introduces-deletion-protectionfor-in-use-templates/)
 - [Amazon EKS reduces cluster creation time by 40%](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eks-reduces-cluster-creation-time-40-percent/)
 - [AWS Gateway Load Balancer is now available in additional 9 regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-gateway-load-balancer-is-now-available-in-additional-9-regions/)
 - [Amazon RDS for Oracle now supports January 2021 Patch Set Update (PSU) for Oracle Database 12.1](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-oracle-supports-january-2021-patch-set-update/)
-- [AWS Solutions Implementation - The Discovering Hot Topics Using Machine Learning solution adds the capability to filter and visualize Twitter topics based on geographical coordinates](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-solutions-implementation-discovering-topics-using-machine-learning-solution-adds-filter-visualize-twitter-topics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
