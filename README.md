@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports January 2021 Patch Set Update (PSU) for Oracle Database 12.1](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-oracle-supports-january-2021-patch-set-update/)
+- [AWS Solutions Implementation - The Discovering Hot Topics Using Machine Learning solution adds the capability to filter and visualize Twitter topics based on geographical coordinates](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-solutions-implementation-discovering-topics-using-machine-learning-solution-adds-filter-visualize-twitter-topics/)
 - [Amazon EC2 Auto Scaling Instance Refresh now supports phased deployments](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-auto-scaling-instance-refresh-supports-phased-deployments/)
 - [Amazon RDS for MySQL now supports rollback protection for database major version upgrades](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-for-mysql-supports-rollback-protection/)
 - [New digital course: AWS Cloud Technical Essentials](https://aws.amazon.com/about-aws/whats-new/2021/03/new-digital-course-aws-cloud-technical-essentials/)
-- [AWS Launch Wizard now supports ‘No Rollback on Failure’](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-launch-wizard-now-supports-no-rollback-on-failure/)
-- [Amazon QLDB Increases Verification APIs Throughput by an Order of Magnitude](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-qldb-increases-verification-apis-throughput-order-of-magnitude/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
