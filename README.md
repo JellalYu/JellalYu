@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Client VPN announces expanded presence inside six AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-client-vpn-announces-expanded-presence-inside-six-aws-regions/)
 - [AWS Database Migration Service now supports Db2 LUW version 11.5 as a source](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-database-migration-service-supports-db2-luw-version-11-5-as-source/)
 - [AWS IoT Core’s Apache Kafka action now supports username and password authentication for Amazon Managed Streaming for Apache Kafka (Amazon MSK)](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-iot-core-apache-kafka-action-supports-username-password-authentication-for-amazon-msk/)
 - [AWS Audit Manager now supports CIS AWS Foundations Benchmark v1.3.0, Level 1 and 2 as a new standard framework](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-audit-manager-now-supports-cis-aws-foundations-benchmark-v1-3-0-level-1/)
 - [AWS Fargate updates platform version 1.4.0 to be the LATEST version](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-fargate-updates-platform-version-1-4-0-to-be-the-latest-version/)
-- [AWS Proton introduces deletion protection for in-use templates](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-proton-introduces-deletion-protectionfor-in-use-templates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
