@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Inf1 instances based on AWS Inferentia now available in 4 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-inf1-instances-aws-inferentia-available-additional-regions/)
 - [Amazon QuickSight launches Custom Tooltips, Updates to Anomaly Detection, and More](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-quicksight-launches-custom-tooltips-updates-to-anomaly-detection-and-more/)
 - [Amazon EFS CSI driver now supports dynamic provisioning](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-efs-csi-driver-supports-dynamic-provisioning/)
 - [Amazon RDS for MariaDB M6g and R6g instances now available in N. California, Canada, São Paulo, and London regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-for-mariadb-m6g-r6g-instances-available-additional-regions/)
 - [Amazon Redshift Spectrum launches in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-redshift-spectrum-launches-in-4-additional-aws-regions/)
-- [Leverage state of the art Natural Language Processing with Hugging Face and Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2021/03/leverage-state-of-the-art-natural-language-processing-with-hugging-face-and-amazon-sagemaker/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
