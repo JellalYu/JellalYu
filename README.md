@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MariaDB M6g and R6g instances now available in N. California, Canada, São Paulo, and London regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-for-mariadb-m6g-r6g-instances-available-additional-regions/)
+- [Amazon Redshift Spectrum launches in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-redshift-spectrum-launches-in-4-additional-aws-regions/)
+- [Leverage state of the art Natural Language Processing with Hugging Face and Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2021/03/leverage-state-of-the-art-natural-language-processing-with-hugging-face-and-amazon-sagemaker/)
+- [Amazon EC2 M5n, M5dn, R5n, and R5dn instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-m5n-m5dn-r5n-r5dn-instances-additional-regions/)
 - [Amazon VPC Endpoints For Amazon EC2 Are Now Available In Asia Pacific (Osaka)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-vpc-endpoints-amazon-ec2-available-osaka-region/)
-- [Announcing AWS Media Intelligence solutions](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-aws-media-intelligence-solutions/)
-- [Amazon EC2 now supports UEFI boot when migrating virtual machines to EC2](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-now-supports-uefi-boot-when-migrating-virtual-machines-to-ec2/)
-- [Sellers can now manage versions and update information of their AMI and Container products through the AWS Marketplace Catalog API](https://aws.amazon.com/about-aws/whats-new/2021/03/sellers-manage-versions-update-information-ami-container-products-aws-marketplace-catalog-api/)
-- [AWS Client VPN announces expanded presence inside six AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-client-vpn-announces-expanded-presence-inside-six-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
