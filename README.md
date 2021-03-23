@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon VPC Endpoints For Amazon EC2 Are Now Available In Asia Pacific (Osaka)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-vpc-endpoints-amazon-ec2-available-osaka-region/)
 - [Announcing AWS Media Intelligence solutions](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-aws-media-intelligence-solutions/)
 - [Amazon EC2 now supports UEFI boot when migrating virtual machines to EC2](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-now-supports-uefi-boot-when-migrating-virtual-machines-to-ec2/)
 - [Sellers can now manage versions and update information of their AMI and Container products through the AWS Marketplace Catalog API](https://aws.amazon.com/about-aws/whats-new/2021/03/sellers-manage-versions-update-information-ami-container-products-aws-marketplace-catalog-api/)
 - [AWS Client VPN announces expanded presence inside six AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-client-vpn-announces-expanded-presence-inside-six-aws-regions/)
-- [AWS Database Migration Service now supports Db2 LUW version 11.5 as a source](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-database-migration-service-supports-db2-luw-version-11-5-as-source/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
