@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Updated classroom course: Advanced Architecting on AWS](https://aws.amazon.com/about-aws/whats-new/2021/03/updated-classroom-course-advanced-architecting-on-aws/)
 - [AWS Cost Categories now supports inherited and default values](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cost-categories-now-supports-inherited-and-default-values/)
 - [AWS Glue Studio now supports transforms defined in SQL](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-glue-studio-now-supports-transforms-defined-in-sql/)
 - [Amazon EC2 Inf1 instances based on AWS Inferentia now available in 4 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-inf1-instances-aws-inferentia-available-additional-regions/)
 - [Amazon QuickSight launches Custom Tooltips, Updates to Anomaly Detection, and More](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-quicksight-launches-custom-tooltips-updates-to-anomaly-detection-and-more/)
-- [Amazon EFS CSI driver now supports dynamic provisioning](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-efs-csi-driver-supports-dynamic-provisioning/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
