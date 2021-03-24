@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Now available AWS SSO credential profile support in the AWS Toolkit for VS Code](https://aws.amazon.com/about-aws/whats-new/2021/03/now-available-aws-sso-credential-profile-support-aws-toolkit-vs-code/)
+- [Now you can use AWS CloudTrail to log data-plane API activity to monitor, alarm, and archive item-level activity in your Amazon DynamoDB tables](https://aws.amazon.com/about-aws/whats-new/2021/03/now-you-can-use-aws-cloudtrail-to-log-data-plane-api-activity-in-your-amazon-dynamodb-tables/)
 - [Updated classroom course: Advanced Architecting on AWS](https://aws.amazon.com/about-aws/whats-new/2021/03/updated-classroom-course-advanced-architecting-on-aws/)
 - [AWS Cost Categories now supports inherited and default values](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cost-categories-now-supports-inherited-and-default-values/)
 - [AWS Glue Studio now supports transforms defined in SQL](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-glue-studio-now-supports-transforms-defined-in-sql/)
-- [Amazon EC2 Inf1 instances based on AWS Inferentia now available in 4 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-inf1-instances-aws-inferentia-available-additional-regions/)
-- [Amazon QuickSight launches Custom Tooltips, Updates to Anomaly Detection, and More](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-quicksight-launches-custom-tooltips-updates-to-anomaly-detection-and-more/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
