@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Now available AWS SSO credential profile support in the AWS Toolkit for VS Code](https://aws.amazon.com/about-aws/whats-new/2021/03/now-available-aws-sso-credential-profile-support-aws-toolkit-vs-code/)
-- [Now you can use AWS CloudTrail to log data-plane API activity to monitor, alarm, and archive item-level activity in your Amazon DynamoDB tables](https://aws.amazon.com/about-aws/whats-new/2021/03/now-you-can-use-aws-cloudtrail-to-log-data-plane-api-activity-in-your-amazon-dynamodb-tables/)
-- [Updated classroom course: Advanced Architecting on AWS](https://aws.amazon.com/about-aws/whats-new/2021/03/updated-classroom-course-advanced-architecting-on-aws/)
-- [AWS Cost Categories now supports inherited and default values](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cost-categories-now-supports-inherited-and-default-values/)
-- [AWS Glue Studio now supports transforms defined in SQL](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-glue-studio-now-supports-transforms-defined-in-sql/)
+- [Create forecasting systems faster with automated workflows and notifications in Amazon Forecast](https://aws.amazon.com/about-aws/whats-new/2021/03/create-forecasting-systems-faster-with-automated-workflows-and-notifications-in-amazon-forecast/)
+- [AWS Backup adds support for bulk deletion of recovery points](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-backup-adds-support-for-bulk-deletion-of-recovery-points/)
+- [Amazon AppFlow now supports Zendesk as a destination](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-appflow-supports-zendesk-as-destination/)
+- [Amazon Kendra adds new partner search connectors from Perficient](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-kendra-adds-new-partner-search-connectors-from-perficient/)
+- [Amazon Elasticsearch Service announces Auto-Tune feature for improved performance and application availability](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticsearch-service-announces-auto-tune-feature-improved-performance-application-availability/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
