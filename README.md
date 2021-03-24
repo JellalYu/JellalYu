@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [NICE DCV releases web client SDK for building customized web applications](https://aws.amazon.com/about-aws/whats-new/2021/03/nice-dcv-releases-web-client-sdk-for-building-customized-web-applications/)
+- [AWS CloudTrail Adds Logging of Data Events for Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cloudtrail-adds-logging-of-data-events-for-amazon-dynamoDB/)
+- [Amazon Elasticsearch Service announces Auto-Tune feature for improved performance and application availability](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticsearch-service-announces-auto-tune-feature-improved-performance-application-availability/)
 - [Create forecasting systems faster with automated workflows and notifications in Amazon Forecast](https://aws.amazon.com/about-aws/whats-new/2021/03/create-forecasting-systems-faster-with-automated-workflows-and-notifications-in-amazon-forecast/)
 - [AWS Backup adds support for bulk deletion of recovery points](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-backup-adds-support-for-bulk-deletion-of-recovery-points/)
-- [Amazon AppFlow now supports Zendesk as a destination](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-appflow-supports-zendesk-as-destination/)
-- [Amazon Kendra adds new partner search connectors from Perficient](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-kendra-adds-new-partner-search-connectors-from-perficient/)
-- [Amazon Elasticsearch Service announces Auto-Tune feature for improved performance and application availability](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticsearch-service-announces-auto-tune-feature-improved-performance-application-availability/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
