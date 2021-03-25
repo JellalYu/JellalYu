@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly NTTS voices now available in Canada (Central), and Asia Pacific (Seoul)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-polly-ntts-voices-available-canada-seoul/)
+- [Amazon ElastiCache for Redis now supports highly available clusters on AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticache-for-redis-supports-highly-available-clusters-aws-local-zones/)
+- [Amazon Kinesis Data Analytics now supports Python with Apache Flink v1.11](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-kinesis-data-analytics-now-supports-python-with-apache-flink-v1-11/)
 - [Amazon and Red Hat announce the General Availability of Red Hat OpenShift Service on AWS (ROSA)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-and-red-hat-announce-general-availability-rosa/)
 - [AWS Snowcone is now available in the AWS Asia Pacific (Sydney) Region in Australia](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-snowcone-available-sydney-region/)
-- [Announcing General Availability of AWS IoT Device Defender ML Detect](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-aws-iot-device-defender-ml-detect/)
-- [Amazon Timestream now supports Amazon VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-timestream-now-supports-amazon-vpc-endpoints/)
-- [AWS Elemental MediaTailor now supports Enhanced Debug Logs and other enhancements *](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-elemental-mediatailor-supports-enhanced-debug-logs-other-enhacements/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
