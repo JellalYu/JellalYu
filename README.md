@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker now supports private Docker registry authentication](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-sagemaker-now-supports-private-docker-registry-authentication/)
+- [Amazon Forecast enables AWS Resource Groups](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-forecast-enables-aws-resource-groups/)
 - [New AWS Solutions Consulting Offer - WorkSpaces Manager for Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-workspaces-manager-for-amazon-workspaces/)
 - [AWS DevOps Monitoring Dashboard solution is Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-devops-monitoring-dashboard-solution-is-generally-available/)
 - [Lower Cost Storage Classes for Amazon Elastic File System are now available in Asia (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/03/lower-cost-storage-classes-for-amazon-elastic-file-system-are-now-available-in-asia-osaka-region/)
-- [AWS Security Hub integrates with Amazon Macie to automatically ingest sensitive data findings for improved centralized security posture management](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-security-hub-integrates-amazon-macie-automatically-ingest-sensitive-data-findings/)
-- [Detect anomalies in your metrics, and diagnose issues quickly with Amazon Lookout for Metrics – now generally available](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-lookout-for-metrics-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
