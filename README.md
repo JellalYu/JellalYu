@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS now supports P4d instances](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eks-supports-p4d-instances/)
+- [Amazon WorkDocs offers additional sharing controls throughout its Android app](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-workdocs-additional-sharing-controls-throughout-android-app/)
 - [Amazon API Gateway now provides IAM condition keys for governing endpoint, authorization, and logging configurations](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-api-gateway-provides-iam-condition-keys-governing-endpoint-authorization-logging-configurations/)
 - [Amazon SageMaker now supports private Docker registry authentication](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-sagemaker-now-supports-private-docker-registry-authentication/)
 - [Amazon Forecast enables AWS Resource Groups](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-forecast-enables-aws-resource-groups/)
-- [New AWS Solutions Consulting Offer - WorkSpaces Manager for Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-workspaces-manager-for-amazon-workspaces/)
-- [AWS DevOps Monitoring Dashboard solution is Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-devops-monitoring-dashboard-solution-is-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
