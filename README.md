@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Consulting Offer - Pipeline Factory](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-pipeline-factory/)
+- [CloudWatch Container Insights for Amazon ECS now available in the AWS Africa (Cape Town) region](https://aws.amazon.com/about-aws/whats-new/2021/03/cloudwatch-container-insights-amazon-ecs-available-aws-africa-cape-town-region/)
 - [Amazon EKS now supports Elastic Fabric Adapter](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eks-supports-elastic-fabric-adapter/)
 - [Amazon EKS now supports P4d instances](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eks-supports-p4d-instances/)
 - [Amazon WorkDocs offers additional sharing controls throughout its Android app](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-workdocs-additional-sharing-controls-throughout-android-app/)
-- [Amazon API Gateway now provides IAM condition keys for governing endpoint, authorization, and logging configurations](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-api-gateway-provides-iam-condition-keys-governing-endpoint-authorization-logging-configurations/)
-- [Amazon SageMaker now supports private Docker registry authentication](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-sagemaker-now-supports-private-docker-registry-authentication/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
