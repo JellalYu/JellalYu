@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Pinpoint Announces Improved Journey Controls](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-pinpoint-announces-improved-journey-controls/)
 - [Announcing new training for building data lakes on AWS](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-new-training-for-building-data-lakes-on-AWS/)
 - [AWS Data Exchange providers can now copy product metadata from their existing products to a new product](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-data-exchange-providers-can-copy-product-metadata-from-existing-products-to-new-products/)
 - [Amazon SageMaker Autopilot adds Model Explainability](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-sagemaker-autopilot-adds-model-explainability/)
 - [Amazon EMR now supports Amazon EC2 Instance Metadata Service v2](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-emr-now-supports-amazon-ec2-instance-metadata-service-v2/)
-- [New AWS Solutions Consulting Offer - AMI Factory](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-ami-factory/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
