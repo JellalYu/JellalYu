@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Global Accelerator launches a new Edge location in Indonesia](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-global-accelerator-launches-a-new-edge-location-in-indonesia/)
 - [AWS announces General Availability of Amazon GameLift Queue notifications](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-announces-general-availability-of-amazon-gamelift-queue-notifications/)
 - [AWS Config adds pagination support for advanced queries that contain aggregate functions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-config-adds-pagination-support-for-advanced-queries/)
 - [AWS Security Hub now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-security-hub-now-available-in-aws-asia-pacific-osaka-region/)
 - [AWS WAF adds support for Custom Responses](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-waf-adds-support-custom-responses/)
-- [AWS WAF adds support for Request Header Insertion](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-waf-adds-support-request-header-insertion/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
