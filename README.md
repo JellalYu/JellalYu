@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing new training for building data lakes on AWS](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-new-training-for-building-data-lakes-on-AWS/)
+- [AWS Data Exchange providers can now copy product metadata from their existing products to a new product](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-data-exchange-providers-can-copy-product-metadata-from-existing-products-to-new-products/)
+- [Amazon SageMaker Autopilot adds Model Explainability](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-sagemaker-autopilot-adds-model-explainability/)
 - [Amazon EMR now supports Amazon EC2 Instance Metadata Service v2](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-emr-now-supports-amazon-ec2-instance-metadata-service-v2/)
 - [New AWS Solutions Consulting Offer - AMI Factory](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-ami-factory/)
-- [AWS Global Accelerator launches a new Edge location in Indonesia](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-global-accelerator-launches-a-new-edge-location-in-indonesia/)
-- [AWS announces General Availability of Amazon GameLift Queue notifications](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-announces-general-availability-of-amazon-gamelift-queue-notifications/)
-- [AWS Config adds pagination support for advanced queries that contain aggregate functions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-config-adds-pagination-support-for-advanced-queries/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
