@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Pinpoint Announces Improved Journey Controls](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-pinpoint-announces-improved-journey-controls/)
-- [Announcing new training for building data lakes on AWS](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-new-training-for-building-data-lakes-on-AWS/)
-- [AWS Data Exchange providers can now copy product metadata from their existing products to a new product](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-data-exchange-providers-can-copy-product-metadata-from-existing-products-to-new-products/)
-- [Amazon SageMaker Autopilot adds Model Explainability](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-sagemaker-autopilot-adds-model-explainability/)
-- [Amazon EMR now supports Amazon EC2 Instance Metadata Service v2](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-emr-now-supports-amazon-ec2-instance-metadata-service-v2/)
+- [Bring Your Own IP for Amazon Virtual Private Cloud is Now Available in Four Additional Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/bring-your-own-ip-amazon-virtual-private-cloud-available-additional-regions/)
+- [Prepare data from Amazon Redshift and other JDBC-supported databases/data warehouses in AWS Glue DataBrew through native connectors](https://aws.amazon.com/about-aws/whats-new/2021/04/prepare-data-from-amazon-redshift-other-databases-in-aws-glue-databrew/)
+- [Announcing support for IAM Condition Keys and CMK for custom models for Amazon Comprehend](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-support-iam-condition-keys-cmk-custom-models-amazon-comprehend/)
+- [AWS WAF now supports Labels to improve rule customization and reporting](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-waf-supports-labels-to-improve-rule-customiazation-and-reporting/)
+- [AWS Firewall Manager now supports centralized deployment of the new AWS WAF Bot Control across your organization](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-firewall-manager-supports-centralized-deployment-new-aws-waf-bot-control/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
