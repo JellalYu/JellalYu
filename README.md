@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon WorkSpaces now supports smart cards with the WorkSpaces macOS client application](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-workspaces-now-supports-smart-cards-with-the-workspaces-macos-client-application/)
 - [Amazon WorkSpaces webcam support now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-workspaces-webcam-support-generally-available/)
 - [Amazon MQ is now available in the Japan (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-mq-available-japan-osaka-region/)
 - [New options to trigger Amazon SageMaker Pipeline executions](https://aws.amazon.com/about-aws/whats-new/2021/04/new-options-trigger-amazon-sagemaker-pipeline-executions/)
 - [Amazon VPC Flow Logs announces out-of-the-box integration with Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-vpc-flow-logs-announces-out-of-box-integration-with-amazon-athena/)
-- [Bring Your Own IP for Amazon Virtual Private Cloud is Now Available in Four Additional Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/bring-your-own-ip-amazon-virtual-private-cloud-available-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
