@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Macie now available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-macie-now-available-in-aws-asia-pacific-osaka-region/)
 - [AWS Systems Manager Run Command now displays more logs and enables log download from the console](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-run-command-now-displays-more-logs-enables-log-downloads-from-console/)
 - [New AWS Solutions Consulting Offer - Design and Build Applications at Speed with DAPx](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-consulting-offer-design-build-applications-speed-dapx/)
 - [Amazon WorkSpaces now supports smart cards with the WorkSpaces macOS client application](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-workspaces-now-supports-smart-cards-with-the-workspaces-macos-client-application/)
 - [Amazon WorkSpaces webcam support now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-workspaces-webcam-support-generally-available/)
-- [Amazon MQ is now available in the Japan (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-mq-available-japan-osaka-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
