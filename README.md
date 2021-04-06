@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager Parameter Store now supports removal of parameter labels](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-parameter-store-now-supports-removal-of-parameter-labels/)
+- [AWS Batch simplifies permissions by introducing Service-Linked Roles](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-batch-simplifies-permissions-introducing-service-linked-roles/)
+- [Amazon EC2 now allows you to copy Amazon Machine Images across AWS GovCloud, AWS China and other AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ec2-allows-copy-amazon-machine-images-across-aws-govcloud-aws-china-other-regions/)
 - [Amazon CodeGuru announces a new, lower and predictable Pricing Model for CodeGuru Reviewer](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-codeguru-announces-new-lower-predictable-pricing-model-codeguru-reviewer/)
 - [Python Support for Amazon CodeGuru Reviewer is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/04/python-support-amazon-codeguru-reviewer-now-generally-available/)
-- [AWS Glue now supports cross-account reads from Amazon Kinesis Data Streams](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-now-supports-cross-account-reads-from-amazon-kinesis-data-streams/)
-- [New instructor-led course: Developing Serverless Solutions on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/new-instructor-led-course-developing-serverless-solutions-on-aws/)
-- [AWS Elemental MediaLive now supports HTML 5 motion graphics overlay](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-elemental-medialive-now-supports-html-5-motion-graphics-overlay/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
