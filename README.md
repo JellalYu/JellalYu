@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CodeGuru announces a new, lower and predictable Pricing Model for CodeGuru Reviewer](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-codeguru-announces-new-lower-predictable-pricing-model-codeguru-reviewer/)
+- [Python Support for Amazon CodeGuru Reviewer is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/04/python-support-amazon-codeguru-reviewer-now-generally-available/)
+- [AWS Glue now supports cross-account reads from Amazon Kinesis Data Streams](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-now-supports-cross-account-reads-from-amazon-kinesis-data-streams/)
 - [New instructor-led course: Developing Serverless Solutions on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/new-instructor-led-course-developing-serverless-solutions-on-aws/)
 - [AWS Elemental MediaLive now supports HTML 5 motion graphics overlay](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-elemental-medialive-now-supports-html-5-motion-graphics-overlay/)
-- [Amazon Macie now available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-macie-now-available-in-aws-asia-pacific-osaka-region/)
-- [AWS Systems Manager Run Command now displays more logs and enables log download from the console](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-run-command-now-displays-more-logs-enables-log-downloads-from-console/)
-- [New AWS Solutions Consulting Offer - Design and Build Applications at Speed with DAPx](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-consulting-offer-design-build-applications-speed-dapx/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
