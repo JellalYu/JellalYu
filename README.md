@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [IAM Access Analyzer makes it easier to implement least privilege permissions by generating IAM policies based on access activity](https://aws.amazon.com/about-aws/whats-new/2021/04/iam-access-analyzer-easier-implement-least-privilege-permissions-generating-iam-policies-access-activity/)
+- [Amazon Interactive Video Service adds support for recording live streams to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-interactive-video-service-adds-support-recording-live-streams-amazon-s3/)
+- [Amazon ElastiCache now supports Tag-Based Access Control](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-elasticache-supports-tag-based-access-control/)
 - [Amplify iOS now available via Swift Package Manager (SPM)](https://aws.amazon.com/about-aws/whats-new/2021/04/amplify-ios-now-available-via-swift-package-manager-spm/)
 - [Amazon MQ now supports RabbitMQ version 3.8.11](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-mq-now-supports-rabbitmq-version-3-8-11/)
-- [You can now deploy CloudFormation Stacks concurrently across multiple AWS regions using AWS CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2021/04/deploy-cloudformation-stacks-concurrently-across-multiple-aws-regions-using-aws-cloudformation-stacksets/)
-- [AWS Backup now supports cost allocation tags for Amazon EFS Backups](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-backup-now-supports-cost-allocation-tags-for-amazon-efs-backups/)
-- [Data management is now generally available in the AWS Amplify Admin UI](https://aws.amazon.com/about-aws/whats-new/2021/04/data-management-is-now-generally-available-in-the-aws-amplify-admin-ui/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
