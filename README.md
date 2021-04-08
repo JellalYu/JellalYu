@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Textract announces quality updates to its tables extraction feature](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-textract-announces-quality-update-table-extraction-feature/)
+- [AWS Control Tower introduces changes to preventive S3 guardrails and updates to S3 bucket encryption protocols](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-control-tower-introduces-changes-to-preventive-s3-guardrails-and-updates-to-s3-bucket-encryption-protocols/)
+- [Amazon GuardDuty Now Available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-guardduty-now-available-in-aws-asia-pacific-osaka-region/)
 - [New AWS Solutions Consulting Offer - Application Modernization and Migration to AWS Cloud](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-consulting-offer-application-modernization-migration-aws/)
 - [Amazon EC2 Auto Scaling introduces Warm Pools to accelerate scale out while saving money](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ec2-auto-scaling-introduces-warm-pools-accelerate-scale-out-while-saving-money/)
-- [AWS Control Tower now available in Mumbai, Seoul and Tokyo AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-control-tower-now-available-in-mumbai-seoul-and-tokyo-aws-regions/)
-- [AWS IoT Analytics adds schema inference support for Apache Parquet based data stores](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-iot-analytics-adds-schema-inference-support-for-apache-parquet-based-data-stores/)
-- [AWS Step Functions adds new data flow simulator for modelling input and output processing](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-step-functions-adds-new-data-flow-simulator-for-modelling-input-and-output-processing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
