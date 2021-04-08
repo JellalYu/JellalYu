@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Multi-Attach for Provisioned IOPS io2 Now Available in Thirteen Additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/multi-attach-for-provisioned-iops-io2-now-available-in-additional-regions/)
 - [AWS Audit Manager now offers a new standard framework for NIST 800-53 (Rev. 5) Low-Moderate-High](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-audit-manager-now-offers-a-new-standard-framework-for-nist-800-53-rev-5-low-moderate-high/)
 - [Amazon EC2 G4ad instances, powered by AMD Radeon Pro V520 GPUs, are now available in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ec2-g4ad-instances-available-in-additional-regions/)
 - [AWS Glue now supports missing value imputation based on machine learning](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-now-supports-missing-value-imputation-based-on-machine-learning/)
 - [Amazon Route 53 Resolver DNS Firewall Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-route-53-resolver-dns-firewall-generally-available/)
-- [IAM Access Analyzer makes it easier to implement least privilege permissions by generating IAM policies based on access activity](https://aws.amazon.com/about-aws/whats-new/2021/04/iam-access-analyzer-easier-implement-least-privilege-permissions-generating-iam-policies-access-activity/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
