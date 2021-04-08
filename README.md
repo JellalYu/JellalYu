@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Updated classroom course: AWS Cloud Practitioner Essentials](https://aws.amazon.com/about-aws/whats-new/2021/04/updated-classroom-course-aws-cloud-practitioner-essentials/)
+- [Amazon Keyspaces (for Apache Cassandra) now offers FIPS 140-2 compliant endpoints to help you run highly regulated workloads more easily](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-keyspaces-for-apache-cassandra-now-offers-fips-140-2-compliant-endpoints/)
 - [Amazon Athena now presents query execution plans to aid tuning](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-athena-now-presents-query-execution-plans-to-aid-tuning/)
 - [New AWS Solutions Consulting Offer - RegCloud: ControllerView® on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-consulting-offer-regcloud-controllerview-on-aws/)
 - [Detect abnormal equipment behavior with Amazon Lookout for Equipment — now generally available](https://aws.amazon.com/about-aws/whats-new/2021/04/detect-abnormal-equipment-behavior-amazon-lookout-equipment-generally-available/)
-- [Customers can now use ServiceNow to track operational items related to AWS resources](https://aws.amazon.com/about-aws/whats-new/2021/04/customers-can-now-use-servicenow-to-track-operational-items-related-to-aws-resources/)
-- [Amazon EC2 instances featuring AMD EPYC processors are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ec2-instances-featuring-amd-epyc-processors-are-now-available-in-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
