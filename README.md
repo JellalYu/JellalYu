@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Multi-Attach for Provisioned IOPS io2 Now Available in Thirteen Additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/multi-attach-for-provisioned-iops-io2-now-available-in-additional-regions/)
-- [AWS Audit Manager now offers a new standard framework for NIST 800-53 (Rev. 5) Low-Moderate-High](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-audit-manager-now-offers-a-new-standard-framework-for-nist-800-53-rev-5-low-moderate-high/)
-- [Amazon EC2 G4ad instances, powered by AMD Radeon Pro V520 GPUs, are now available in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ec2-g4ad-instances-available-in-additional-regions/)
-- [AWS Glue now supports missing value imputation based on machine learning](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-now-supports-missing-value-imputation-based-on-machine-learning/)
-- [Amazon Route 53 Resolver DNS Firewall Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-route-53-resolver-dns-firewall-generally-available/)
+- [Amazon Athena now presents query execution plans to aid tuning](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-athena-now-presents-query-execution-plans-to-aid-tuning/)
+- [New AWS Solutions Consulting Offer - RegCloud: ControllerView® on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-consulting-offer-regcloud-controllerview-on-aws/)
+- [Detect abnormal equipment behavior with Amazon Lookout for Equipment — now generally available](https://aws.amazon.com/about-aws/whats-new/2021/04/detect-abnormal-equipment-behavior-amazon-lookout-equipment-generally-available/)
+- [Customers can now use ServiceNow to track operational items related to AWS resources](https://aws.amazon.com/about-aws/whats-new/2021/04/customers-can-now-use-servicenow-to-track-operational-items-related-to-aws-resources/)
+- [Amazon EC2 instances featuring AMD EPYC processors are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ec2-instances-featuring-amd-epyc-processors-are-now-available-in-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
