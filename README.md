@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS RoboMaker now supports the ability to configure tools for simulation jobs](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-robomaker-now-supports-the-ability-to-configure-tools-for-simulation-jobs/)
+- [Amazon RDS for SQL Server now supports Extended Events](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-sql-server-supports-extended-events/)
 - [Updated classroom course: AWS Cloud Practitioner Essentials](https://aws.amazon.com/about-aws/whats-new/2021/04/updated-classroom-course-aws-cloud-practitioner-essentials/)
 - [Amazon Keyspaces (for Apache Cassandra) now offers FIPS 140-2 compliant endpoints to help you run highly regulated workloads more easily](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-keyspaces-for-apache-cassandra-now-offers-fips-140-2-compliant-endpoints/)
 - [Amazon Athena now presents query execution plans to aid tuning](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-athena-now-presents-query-execution-plans-to-aid-tuning/)
-- [New AWS Solutions Consulting Offer - RegCloud: ControllerView® on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-consulting-offer-regcloud-controllerview-on-aws/)
-- [Detect abnormal equipment behavior with Amazon Lookout for Equipment — now generally available](https://aws.amazon.com/about-aws/whats-new/2021/04/detect-abnormal-equipment-behavior-amazon-lookout-equipment-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
