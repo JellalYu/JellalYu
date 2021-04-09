@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudFormation Command Line Interface (CFN-CLI) now supports TypeScript](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-cloudformation-command-line-interface-now-supports-typescript/)
+- [New AWS Solutions Implementation: Amazon S3 Glacier Re:Freezer](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-implementation-amazon-s3-glacier-re-freezer/)
 - [Service Quotas is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/service-quotas-available-aws-govcloud-us-regions/)
 - [Amazon AppStream 2.0 adds support for fully managed image updates](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-appstream-2-0-adds-support-fully-managed-image-updates/)
 - [AWS Firewall Manager Now Available in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-firewall-manager-available-aws-govcloud-regions/)
-- [Amazon Textract announces quality updates to its tables extraction feature](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-textract-announces-quality-update-table-extraction-feature/)
-- [AWS Control Tower introduces changes to preventive S3 guardrails and updates to S3 bucket encryption protocols](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-control-tower-introduces-changes-to-preventive-s3-guardrails-and-updates-to-s3-bucket-encryption-protocols/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
