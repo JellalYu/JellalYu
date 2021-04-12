@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MySQL M6g and R6g instances now available in N. California, Canada, São Paulo, and London regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-for-mysql-m6g-and-r6g-instances-now-available-in-n-california-canada-sao-paulo-and-london-regions/)
 - [Internet Group Management Protocol (IGMP) Multicast on AWS Transit Gateway is now available in major AWS regions worldwide](https://aws.amazon.com/about-aws/whats-new/2021/04/internet-group-management-protocol-igmp-multicast-on-aws-transit-gateway-is-now-available-in-major-aws-regions-worldwide/)
 - [Amazon RDS Data API now available in Asia Pacific (Seoul) and Canada (Central) AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rsd-data-api-now-available-in-asia-pacific-seoul-and-canada-central-aws-regions/)
 - [AWS Transit Gateway Connect is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-transit-gateway-connect-available-additional-aws-regions/)
 - [Amazon CloudWatch Lambda Insights Now Supports AWS Lambda Container Images (General Availability)](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-cloudwatch-lambda-insights-now-supports-aws-lambda-container-images-general-availability/)
-- [AWS CloudFormation Command Line Interface (CFN-CLI) now supports TypeScript](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-cloudformation-command-line-interface-now-supports-typescript/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
