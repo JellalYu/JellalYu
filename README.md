@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Identity and Access Management now makes it easier to relate a user's IAM role activity to their corporate identity](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-identity-and-access-management-now-makes-it-easier-to-relate-a-users-iam-role-activity-to-their-corporate-identity/)
+- [Amazon RDS for PostgreSQL supports new minor versions 13.2, 12.6, 11.11, 10.16, 9.6.21, and 9.5.25](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-for-postgresql-supports-new-minor-versions/)
+- [AWS Batch increases job scheduling and EC2 instance scaling performance](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-batch-increases-job-scheduling-and-ec2-instance-scaling-performance/)
 - [Amazon Interactive Video Service adds new Cloudwatch Metrics](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-interactive-video-service-adds-new-cloudwatch-metrics/)
 - [Updated classroom course: Systems Operations on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/updated-classroom-course-systems-operations-on-aws/)
-- [AWS CloudFormation Modules now Provides YAML and Delimiter Support](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-cloudformation-modules-provides-yaml-delimiter-support/)
-- [New digital rewards and racer profile personalization features on the AWS DeepRacer console](https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-rewards-racer-profile-personalization-features-aws-deepracer-console/)
-- [Amazon FSx and AWS Backup announce support for copying file system backups across AWS Regions and AWS accounts](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-fsx-aws-backup-announce-support-copying-file-system-backups-across-regions-accounts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
