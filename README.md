@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Updated classroom course: Systems Operations on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/updated-classroom-course-systems-operations-on-aws/)
 - [AWS CloudFormation Modules now Provides YAML and Delimiter Support](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-cloudformation-modules-provides-yaml-delimiter-support/)
 - [New digital rewards and racer profile personalization features on the AWS DeepRacer console](https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-rewards-racer-profile-personalization-features-aws-deepracer-console/)
 - [Amazon FSx and AWS Backup announce support for copying file system backups across AWS Regions and AWS accounts](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-fsx-aws-backup-announce-support-copying-file-system-backups-across-regions-accounts/)
 - [Amazon Redshift now supports data sharing when producer clusters are paused](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-redshift-supports-data-sharing-producer-clusters-paused/)
-- [NICE DCV releases version 2021.0 with Webcam redirection and printer redirection](https://aws.amazon.com/about-aws/whats-new/2021/04/nice-dcv-releases-version-2021-0-webcam-redirection-printer-redirection/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
