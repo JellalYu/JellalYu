@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New digital rewards and racer profile personalization features on the AWS DeepRacer console](https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-rewards-racer-profile-personalization-features-aws-deepracer-console/)
 - [Amazon FSx and AWS Backup announce support for copying file system backups across AWS Regions and AWS accounts](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-fsx-aws-backup-announce-support-copying-file-system-backups-across-regions-accounts/)
 - [Amazon Redshift now supports data sharing when producer clusters are paused](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-redshift-supports-data-sharing-producer-clusters-paused/)
 - [NICE DCV releases version 2021.0 with Webcam redirection and printer redirection](https://aws.amazon.com/about-aws/whats-new/2021/04/nice-dcv-releases-version-2021-0-webcam-redirection-printer-redirection/)
 - [AWS Console Mobile Application adds support for Asia Pacific (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-console-mobile-application-adds-support-for-asia-pacific-osaka-region/)
-- [Amazon RDS for MySQL M6g and R6g instances now available in N. California, Canada, São Paulo, and London regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-for-mysql-m6g-and-r6g-instances-now-available-in-n-california-canada-sao-paulo-and-london-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
