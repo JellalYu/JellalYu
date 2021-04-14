@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL Integrates with AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-postgresql-integrates-aws-lambda/)
 - [New digital course: Getting Started with Data Analytics on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-course-getting-started-with-data-analytics-on-aws/)
 - [Amazon Connect launches audio device settings for the custom Contact Control Panel (CCP)](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-connect-launches-audio-device-setting-custom-contact-control-panels/)
 - [Amazon Connect allows contact center managers to configure agent settings in a custom Contact Control Panel (CCP)](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-connect-manage-agent-settings-custom-contact-control-panel/)
 - [AWS announces general availability of AQUA for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-announces-general-availability-of-aqua-for-amazon-redshift/)
-- [AWS CodeCommit is Now Available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-codecommit-now-available-asia-pacific-osaka-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
