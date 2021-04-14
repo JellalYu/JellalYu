@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudShell is now available in the Asia Pacific (Mumbai), Asia Pacific (Sydney), and Europe (Frankfurt) regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-cloudshell-is-now-available-in-the-asia-pacific-mumbai-asia-pacific-sydney-and-europe-frankfurt-regions/)
 - [AWS Identity and Access Management now makes it easier to relate a user's IAM role activity to their corporate identity](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-identity-and-access-management-now-makes-it-easier-to-relate-a-users-iam-role-activity-to-their-corporate-identity/)
 - [Amazon RDS for PostgreSQL supports new minor versions 13.2, 12.6, 11.11, 10.16, 9.6.21, and 9.5.25](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-for-postgresql-supports-new-minor-versions/)
 - [AWS Batch increases job scheduling and EC2 instance scaling performance](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-batch-increases-job-scheduling-and-ec2-instance-scaling-performance/)
 - [Amazon Interactive Video Service adds new Cloudwatch Metrics](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-interactive-video-service-adds-new-cloudwatch-metrics/)
-- [Updated classroom course: Systems Operations on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/updated-classroom-course-systems-operations-on-aws/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
