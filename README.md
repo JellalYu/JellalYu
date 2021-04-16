@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [You can now use macros and transforms in CloudFormation templates to create AWS CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2021/04/you-can-now-use-macros-and-transforms-in-cloudformation-templates-to-create-aws-cloudformation-stacksets/)
 - [Amazon Elasticsearch Service now supports integration with Microsoft Power BI](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-elasticsearch-service-now-supports-integration-with-microsoft-power-bi/)
 - [AWS Data Exchange launches post-subscription wizard to configure revision exports to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-data-exchange-launches-post-subscription-wizard-to-configure-revision-exports-to-amazon-s3/)
 - [Amazon RDS for PostgreSQL Supports pg_bigm extension for faster full text search](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-for-postgresql-supports-pg-bigm-extension-for-faster-full-text-search/)
 - [Amazon EventBridge introduces support for cross-Region event bus targets](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-eventbridge-introduces-support-cross-region-event-bus-targets/)
-- [New free ML training for business and technical leaders](https://aws.amazon.com/about-aws/whats-new/2021/04/new-free-ml-training-for-business-and-technical-leaders/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
