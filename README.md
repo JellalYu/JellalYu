@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR Release 5.33 now supports 10 new instance types](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-emr-release-5-33-now-supports-new-instance-types/)
+- [Amazon Textract achieves FedRAMP compliance](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-textract-achieves-fedramp-compliance/)
 - [You now can use AWS CloudTrail to log Amazon DynamoDB Streams data-plane API activity](https://aws.amazon.com/about-aws/whats-new/2021/04/you-now-can-use-aws-cloudtrail-to-log-amazon-dynamodb-streams-da/)
 - [Now visualize and report patch compliance using AWS Systems Manager Patch Manager](https://aws.amazon.com/about-aws/whats-new/2021/04/now-visualize-report-patch-compliance-aws-systems-manager-patch-manager/)
 - [Amazon Rekognition launches tagging support for collections, stream processors, and Custom Labels](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rekognition-launches-tagging-support-for-collections-stream-processors-and-custom-labels/)
-- [AWS Chatbot now expands coverage of AWS Services monitored through Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-chatbot-now-expands-coverage-of-aws-services-monitored-through-amazon-eventbridge/)
-- [Amazon S3 on Outposts Events now available in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-s3-on-outposts-events-now-available-in-amazon-cloudwatch/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
