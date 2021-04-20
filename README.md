@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue Studio is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-studio-now-available-aws-africa-cape-town-region/)
 - [Amazon EMR Studio is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-emr-studio-is-now-generally-available/)
 - [Announcing General Availability of Amazon Athena ML powered by Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-general-availability-of-amazon-athena-ml-powered-by-amazon-sagemaker/)
 - [Amazon SageMaker announces a price reduction by up to 14% on instances and SageMaker Savings Plans with up to 64% cost saving](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-sagemaker-announces-a-price-reduction-in-instances-and-sagemaker-savings-plan/)
 - [Amazon EMR Release 5.33 now supports 10 new instance types](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-emr-release-5-33-now-supports-new-instance-types/)
-- [Amazon Textract achieves FedRAMP compliance](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-textract-achieves-fedramp-compliance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
