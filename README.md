@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing general availability of Amazon Redshift native console integration with partners](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-general-availability-of-amazon-redshift-native-console-integration-with-partners/)
+- [Amazon Elasticsearch Service announces support for Asynchronous Support](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-elasticsearch-service-announces-support-asynchronous-support/)
 - [Announcing availability of AWS Outposts in the Philippines and Brunei](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-availability-of-aws-outposts-in-the-philippines-and-brunei/)
 - [AWS Cloud9 now supports Amazon Linux 2 environments](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-cloud9-now-supports-amazon-linux-2-environments/)
 - [AWS Glue Studio is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-studio-now-available-aws-africa-cape-town-region/)
-- [Amazon EMR Studio is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-emr-studio-is-now-generally-available/)
-- [Announcing General Availability of Amazon Athena ML powered by Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-general-availability-of-amazon-athena-ml-powered-by-amazon-sagemaker/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
