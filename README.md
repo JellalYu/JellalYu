@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Moving Graphs for CloudWatch Dashboards](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-moving-graphs-for-cloudwatch-dashboards/)
 - [Announcing availability of Red Hat Enterprise Linux with High availability for Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-availability-red-hat-enterprise-linux-high-availability-amazon-ec2/)
 - [Announcing open source robotics projects for AWS DeepRacer](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-open-source-robotics-projects-aws-deepracer/)
 - [AWS Proton allows adding and removing instances from an existing service](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-proton-allows-adding-and-removing-instances-from-an-existing-service/)
 - [AWS Proton adds an API to cancel deployments](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-proton-adds-an-api-to-cancel-deployments/)
-- [AWS Proton introduces customer-managed environments](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-proton-introduces-customer-managed-environments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
