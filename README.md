@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Alexa for Business now available on Zoom Rooms appliances](https://aws.amazon.com/about-aws/whats-new/2021/04/alexa-for-business-now-available-on-zoom-rooms-appliances/)
+- [Amazon Kendra launches dynamic relevance tuning](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-kendra-launches-dynamic-relevance-tuning/)
 - [Amazon Translate increases the size limit of Parallel data from 1GB to 5GB](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-translate-increases-the-size-limit-of-parallel-datafrom-1gb-to-5gb/)
 - [Amazon SNS grows the set of message filtering operators](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-sns-grows-the-set-of-message-filtering-operators/)
 - [Amazon RDS Now Supports PostgreSQL 13 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-now-supports-postgresql-13-aws-govcloud-regions/)
-- [AWS announces data sink capability for the Glue connectors](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-announces-data-sink-capability-for-the-glue-connectors/)
-- [AWS Transit Gateway is Now Available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-transit-gateway-available-aws-asia-pacific-osaka-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
