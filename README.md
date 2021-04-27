@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing open source robotics projects for AWS DeepRacer](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-open-source-robotics-projects-aws-deepracer/)
+- [AWS Proton allows adding and removing instances from an existing service](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-proton-allows-adding-and-removing-instances-from-an-existing-service/)
+- [AWS Proton adds an API to cancel deployments](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-proton-adds-an-api-to-cancel-deployments/)
+- [AWS Proton introduces customer-managed environments](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-proton-introduces-customer-managed-environments/)
 - [Achieve faster database failover with Amazon Web Services JDBC Driver for PostgreSQL, now in preview](https://aws.amazon.com/about-aws/whats-new/2021/04/achieve-faster-database-failover-with-amazon-web-services-jdbc-driver-for-postgresql-now-in-preview/)
-- [Introducing Performance Dashboard on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/introducing-performance-dashboard-aws/)
-- [Alexa for Business now available on Zoom Rooms appliances](https://aws.amazon.com/about-aws/whats-new/2021/04/alexa-for-business-now-available-on-zoom-rooms-appliances/)
-- [Amazon Kendra launches dynamic relevance tuning](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-kendra-launches-dynamic-relevance-tuning/)
-- [Amazon Translate increases the size limit of Parallel data from 1GB to 5GB](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-translate-increases-the-size-limit-of-parallel-datafrom-1gb-to-5gb/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
