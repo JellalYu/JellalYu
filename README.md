@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Snowcone is now available in the AWS Canada (Central) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-snowcone-is-now-available-in-the-aws-canada-central-region/)
 - [Amazon MSK adds support for Apache Kafka version 2.8.0](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-msk-adds-support-apache-kafka-version-2-8-0/)
 - [Announcing general availability of Amazon Redshift native JSON and semi-structured data support](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-general-availability-of-amazon-redshift-native-json-and-semi-structured-data-support/)
 - [New digital course: AWS Network Connectivity Options](https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-course-aws-network-connectivity-options/)
 - [AWS Nitro Enclaves now supports Windows operating system](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-nitro-enclaves-supports-windows-operating-system/)
-- [AWS Systems Manager OpsCenter and Explorer now integrate with AWS Security Hub for diagnosis and remediation of security findings](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-opscenter-explorer-integrate-aws-security-hub-diagnosis-remediation-security-findings/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
