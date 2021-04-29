@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Managed Services (AMS) now offers a new feature enabling customers to purchase AMS separate from infrastructure services through their preferred Solution Provider](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-managed-services-ams-offers-new-feature-enabling-customers-to-purchase-ams-separate-from-infrastructure-services-through-their-preferred-solution-provider/)
+- [AWS SAM CLI now supports AWS CDK applications - public preview](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-sam-cli-supports-aws-sdk-applications-public-preview/)
 - [Amazon CloudWatch Monitoring Framework for Apache is generally available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-cloudwatch-monitoring-framework-for-apache-is-generally-available/)
 - [Amazon Connect reduces telephony rates in Cyprus, Belgium, and Portugal](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-connect-reduces-telephony-rates-cyprus-belgium-portugal/)
 - [AWS Network Firewall is now available in ten more regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-network-firewall-is-now-available-in-more-regions/)
-- [Amazon RDS for SQL Server Now Supports High Availability in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-for-sql-server-now-supports-high-availability-in-aws-asia-pacific-osaka-region/)
-- [AWS Snow Family now enables you to order, track, and manage long-term pricing Snow jobs](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-snow-family-enables-order-track-manage-long-term-pricing-snow-jobs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
