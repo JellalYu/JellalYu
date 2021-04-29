@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SNS now supports setting attributes required for India DLT requirements when sending SMS using local routes in India](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-sns-now-supports-setting-attributes-required-for-india-dlt-requirements-when-sending-sms-using-local-routes-in-india/)
+- [AWS Glue DataBrew announces native console integration with Amazon AppFlow to connect to data from SaaS (Software as a Service) applications and AWS services (in Preview)](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-databrew-announces-native-console-integration-with-amazon-appflow-to-connect-to-data-from-saas-applications-and-aws-services-in-preview/)
 - [Introducing AWS for Media and Entertainment](https://aws.amazon.com/about-aws/whats-new/2021/04/introducing-aws-for-media-and-entertainment/)
 - [AWS announces general availability of Amazon Nimble Studio](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-announces-general-availability-amazon-nimble-studio/)
 - [AWS Glue now supports client authentication for Apache Kafka streams](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-now-supports-client-authentication-for-apache-kafka-streams/)
-- [AWS Audit Manager now offers a new standard framework for GxP EU Annex 11](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-audit-manager-offers-new-standard-framework-gxp-eu-annex-11/)
-- [Database Activity Streams now available for Amazon Aurora in Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/database-activity-streams-now-available-for-amazon-aurora-in-asia-pacific-osaka-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
