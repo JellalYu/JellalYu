@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK adds support for Apache Kafka version 2.6.2](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-msk-adds-support-for-apache-kafka-version-2-6-2/)
 - [Amazon SNS now supports setting attributes required for India DLT requirements when sending SMS using local routes in India](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-sns-now-supports-setting-attributes-required-for-india-dlt-requirements-when-sending-sms-using-local-routes-in-india/)
 - [AWS Glue DataBrew announces native console integration with Amazon AppFlow to connect to data from SaaS (Software as a Service) applications and AWS services (in Preview)](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-databrew-announces-native-console-integration-with-amazon-appflow-to-connect-to-data-from-saas-applications-and-aws-services-in-preview/)
 - [Introducing AWS for Media and Entertainment](https://aws.amazon.com/about-aws/whats-new/2021/04/introducing-aws-for-media-and-entertainment/)
 - [AWS announces general availability of Amazon Nimble Studio](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-announces-general-availability-amazon-nimble-studio/)
-- [AWS Glue now supports client authentication for Apache Kafka streams](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-now-supports-client-authentication-for-apache-kafka-streams/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
