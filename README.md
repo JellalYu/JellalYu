@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server Now Supports High Availability in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-for-sql-server-now-supports-high-availability-in-aws-asia-pacific-osaka-region/)
 - [AWS Snow Family now enables you to order, track, and manage long-term pricing Snow jobs](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-snow-family-enables-order-track-manage-long-term-pricing-snow-jobs/)
 - [Amazon Redshift announces support for hierarchical data queries with Recursive CTE](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-redshift-announces-support-for-heirarchical-data-queries-with-recursive-cte/)
 - [AWS Instance Scheduler v1.4 adds support for multiple stack deployments and GovCloud US Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-instance-scheduler-adds-support-for-multiple-stack-deployments-and-govcloud-us-regions/)
 - [New digital course: Amazon Elastic Block Store Primer](https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-course-amazon-elastic-block-store-primer/)
-- [AWS Distro for OpenTelemetry adds support for AWS managed Lambda Layer and other features](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-distro-opentelemetry-adds-support-aws-managed-lambda-layer-other-features/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
