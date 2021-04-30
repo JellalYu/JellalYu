@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EC2 Image Builder supports Auto Scaling launch template](https://aws.amazon.com/about-aws/whats-new/2021/04/ec2-image-builder-supports-auto-scaling-launch-template/)
+- [AWS Systems Manager Fleet Manager is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-fleet-manager-available-aws-govcloud-us-regions/)
 - [Announcing support for linear interpolation in AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-support-interpolation-aws-iot-sitewise/)
 - [Amazon Chime SDK now supports video prioritization policies](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-chime-sdk-now-supports-video-prioritization-policies/)
 - [AWS Cloud Development Kit (AWS CDK) v2 and Go CDK is now available for Developer Preview](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-cloud-development-kit-aws-cdk--v2-and-go-cdk-is-now-available-for-developer-preview/)
-- [Amazon Redshift announces preview of cross-account data sharing](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-redshift-announces-preview-of-cross-account-data-sharing/)
-- [AWS Lambda@Edge now supports Node 14.x](https://aws.amazon.com/about-aws/whats-new/2021/04/lambda-edge-support-node14/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
