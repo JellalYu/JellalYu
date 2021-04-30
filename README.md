@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kinesis Data Analytics for Apache Flink introduces custom maintenance windows in preview](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-kinesis-data-analytics-for-apache-flink-introduces-custom-maintenance-windows-in-preview/)
 - [AWS RoboMaker announces support for Robot Operating System (ROS) 2 Foxy and Gazebo 11](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-robomaker-announces-support-for-robot-operating-system-ros-2-foxy-and-gazebo-11/)
 - [New Developer Desktop Feature in AWS RoboMaker Integrated Development Environment (IDE)](https://aws.amazon.com/about-aws/whats-new/2021/04/new-developer-desktop-feature-in-aws-robomaker-integrated-development-environment-ide/)
 - [New AWS Solutions Implementation: AWS Blueprints](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-implementation-aws-blueprints/)
 - [Amazon Monitron Service is Now Available in the Europe (Ireland) region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-monitron-service-is-now-available-in-the-europe-ireland-region/)
-- [Amazon Connect reduces 26 rates in Latin America](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-connect-reduces-26-rates-latin-america/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
