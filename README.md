@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle and Amazon RDS for PostgreSQL now support Amazon RDS Encrypted Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-oracle-and-amazon-rds-for-postgresql-now-support-amazon-rds-encrypted-cross-region-automated-backups/)
+- [AWS Transit Gateway Network Manager is now available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-transit-gateway-network-manager-now-available-aws-asia-pacific-osaka-region/)
+- [Amazon DynamoDB local now supports the AWS SDK for Java 2.x](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-dynamodb-local-now-supports-the-aws-sdk-for-java-2-x/)
 - [Easily clean up unused resources in Amazon Forecast using hierarchical deletion](https://aws.amazon.com/about-aws/whats-new/2021/05/easily-clean-up-unused-resources-in-amazon-forecast-using-hierarchical-deletion/)
 - [Amazon Redshift announces support for hierarchical data queries with Recursive CTE](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-redshift-announces-support-for-hierarchical-data-queries-with-recursive-cte/)
-- [Amazon CloudFront announces CloudFront Functions, a lightweight edge compute capability](https://aws.amazon.com/about-aws/whats-new/2021/05/cloudfront-functions/)
-- [S3 Object Lambda is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/s3-object-lambda-available-aws-govcloud-us-regions/)
-- [Amazon Connect CTI Adapter for Salesforce adds programmable buttons with CTI Actions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-connect-cti-adapter-for-salesforce-adds-programmable-buttons-with-cti-actions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
