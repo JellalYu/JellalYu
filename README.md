@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Easily clean up unused resources in Amazon Forecast using hierarchical deletion](https://aws.amazon.com/about-aws/whats-new/2021/05/easily-clean-up-unused-resources-in-amazon-forecast-using-hierarchical-deletion/)
+- [Amazon Redshift announces support for hierarchical data queries with Recursive CTE](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-redshift-announces-support-for-hierarchical-data-queries-with-recursive-cte/)
+- [Amazon CloudFront announces CloudFront Functions, a lightweight edge compute capability](https://aws.amazon.com/about-aws/whats-new/2021/05/cloudfront-functions/)
 - [S3 Object Lambda is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/s3-object-lambda-available-aws-govcloud-us-regions/)
 - [Amazon Connect CTI Adapter for Salesforce adds programmable buttons with CTI Actions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-connect-cti-adapter-for-salesforce-adds-programmable-buttons-with-cti-actions/)
-- [Amazon Connect Customer Profiles launches Identity Resolution in Preview to detect and merge duplicate customer profiles](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-connect-customer-profiles-launches-identity-resolution-in-preview-to-detect-and-merge-duplicate-customer-profiles/)
-- [New AWS Solutions Consulting Offer - Cloud Assessment and Design](https://aws.amazon.com/about-aws/whats-new/2021/05/new-aws-solutions-consulting-offer-cloud-assessment-design/)
-- [Amazon Kinesis Data Analytics for Apache Flink introduces custom maintenance windows in preview](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-kinesis-data-analytics-for-apache-flink-introduces-custom-maintenance-windows-in-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
