@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Identity and Access Management (IAM) now makes it easier for you to manage permissions for AWS services accessing your resources](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-identity-and-access-management-now-makes-it-easier-for-you-to-manage-permissions-for-aws-services-accessing-your-resources/)
 - [Introducing Amazon FinSpace, a fully managed service to store, prepare, and analyze data for the financial services industry (FSI)](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-amazon-finspace-a-fully-managed-service-to-store-prepare-and-analyze-data-for-the-financial-services-industry-fsi/)
 - [Amazon RDS for Oracle and Amazon RDS for PostgreSQL now support Amazon RDS Encrypted Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-oracle-and-amazon-rds-for-postgresql-now-support-amazon-rds-encrypted-cross-region-automated-backups/)
 - [AWS Transit Gateway Network Manager is now available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-transit-gateway-network-manager-now-available-aws-asia-pacific-osaka-region/)
 - [Amazon DynamoDB local now supports the AWS SDK for Java 2.x](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-dynamodb-local-now-supports-the-aws-sdk-for-java-2-x/)
-- [Easily clean up unused resources in Amazon Forecast using hierarchical deletion](https://aws.amazon.com/about-aws/whats-new/2021/05/easily-clean-up-unused-resources-in-amazon-forecast-using-hierarchical-deletion/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
