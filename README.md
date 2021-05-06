@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager OpsCenter and Explorer now integrate with AWS Security Hub for diagnosis and remediation of security findings](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-opscenter-explorer-integrate-aws-security-hub-diagnosis-remediation-security-findings/)
 - [AWS Audit Manager now offers three new frameworks - NIST Cybersecurity Framework version 1.1, AWS Foundational Security Best Practices, and AWS Well-Architected framework](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-audit-manager-now-offers-three-new-frameworks/)
 - [Updated AWS IoT Device Tester for AWS IoT Greengrass is now available](https://aws.amazon.com/about-aws/whats-new/2021/05/updated-aws-Iot-device-tester-for-aws-Iot-greengrass-is-now-available/)
 - [AWS Nitro Enclaves is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-nitro-enclaves-available-aws-govcloud-us-regions/)
 - [Amazon CodeGuru Reviewer now supports customer-managed customer master keys](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-codeguru-reviewer-now-supports-customer-managed-customer-master-keys/)
-- [Host Resource Groups for EC2 Dedicated Hosts now support AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/05/host-resource-groups-for-ec2-dedicated-hosts-now-support-aws-cloudformation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
