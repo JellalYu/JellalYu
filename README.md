@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Synthetics supports cron expression for scheduling](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-synthetics-supports-cron-expression-for-scheduling/)
 - [Introducing IAM Access Control for Apache Kafka on Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-iam-access-control-amazon-msk/)
 - [Amazon CloudFront announces price cuts in India and Asia Pacific regions](https://aws.amazon.com/about-aws/whats-new/2021/05/cloudfront-price-cut-india-apac/)
 - [AWS Transit Gateway Connect is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-transit-gateway-connect-is-now-available-in-additional-aws-regions/)
 - [AWS Systems Manager OpsCenter and Explorer now integrate with AWS Security Hub for diagnosis and remediation of security findings](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-opscenter-explorer-integrate-aws-security-hub-diagnosis-remediation-security-findings/)
-- [AWS Audit Manager now offers three new frameworks - NIST Cybersecurity Framework version 1.1, AWS Foundational Security Best Practices, and AWS Well-Architected framework](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-audit-manager-now-offers-three-new-frameworks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
