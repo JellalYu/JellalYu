@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EBS Container Storage Interface (CSI) driver is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-ebs-container-storage-interface-driver-is-now-generally-available/)
 - [Prepare data for machine learning faster and easier on Amazon SageMaker Data Wrangler with support for more data sources and distributed jobs](https://aws.amazon.com/about-aws/whats-new/2021/05/prepare-data-machine-learning-faster-easier-amazon-sagemaker-data-wrangler-support-more-data-sources-distributed-jobs/)
 - [Amazon MQ now supports ActiveMQ version 5.15.15](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-mq-supports-activemq-version-5-15-15/)
 - [Amazon CloudWatch Synthetics supports cron expression for scheduling](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-synthetics-supports-cron-expression-for-scheduling/)
 - [Introducing IAM Access Control for Apache Kafka on Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-iam-access-control-amazon-msk/)
-- [Amazon CloudFront announces price cuts in India and Asia Pacific regions](https://aws.amazon.com/about-aws/whats-new/2021/05/cloudfront-price-cut-india-apac/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
