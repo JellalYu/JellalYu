@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Use Kubernetes Pod Templates with EMR on EKS to simplify running Spark workloads and control costs](https://aws.amazon.com/about-aws/whats-new/2021/05/use-kubernetes-pod-templates-emr-eks-simplify-running-spark-workloads-control-costs/)
+- [Amazon SageMaker Automatic Model Tuning now supports up to 10x faster tuning and enables exploring up to 20X more models](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-automatic-model-tuning-supports-up-to-10x-faster-tuning-and-exploring-up-to-20x-more-models/)
+- [AWS Organizations launches new console experience](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-organizations-launches-new-console-experience/)
 - [Amazon EBS Container Storage Interface (CSI) driver is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-ebs-container-storage-interface-driver-is-now-generally-available/)
 - [Prepare data for machine learning faster and easier on Amazon SageMaker Data Wrangler with support for more data sources and distributed jobs](https://aws.amazon.com/about-aws/whats-new/2021/05/prepare-data-machine-learning-faster-easier-amazon-sagemaker-data-wrangler-support-more-data-sources-distributed-jobs/)
-- [Amazon MQ now supports ActiveMQ version 5.15.15](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-mq-supports-activemq-version-5-15-15/)
-- [Amazon CloudWatch Synthetics supports cron expression for scheduling](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-synthetics-supports-cron-expression-for-scheduling/)
-- [Introducing IAM Access Control for Apache Kafka on Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-iam-access-control-amazon-msk/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
