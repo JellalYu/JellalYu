@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Migration Evaluator announces a faster way to project AWS cloud costs with Quick Insights](https://aws.amazon.com/about-aws/whats-new/2021/05/migration-evaluator-announces-faster-way-project-aws-cloud-costs-quick-insights/)
+- [Amazon Athena drivers now support Azure AD and PingFederate authentication](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-athena-drivers-now-support-azure-ad-and-pingfederate-authentication/)
 - [Amazon SageMaker now supports Elastic Fabric Adapter for distributed training](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-supports-elastic-fabric-adapter-distributed-training/)
 - [Support for Kantar watermarking is now available with AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2021/05/support-kantar-watermarking-available-aws-elemental-mediaconvert/)
 - [Amazon RDS for SQL Server supports Managed Disaster Recovery (DR) with Amazon RDS Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-sql-server-supports-managed-disaster-recovery-with-amazon-rds-cross-region-automated-backups/)
-- [Use Kubernetes Pod Templates with Amazon EMR on Amazon EKS to simplify running Spark workloads and control costs](https://aws.amazon.com/about-aws/whats-new/2021/05/use-kubernetes-pod-templates-emr-eks-simplify-running-spark-workloads-control-costs/)
-- [Amazon SageMaker Automatic Model Tuning now supports up to 10x faster tuning and enables exploring up to 20X more models](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-automatic-model-tuning-supports-up-to-10x-faster-tuning-and-exploring-up-to-20x-more-models/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
