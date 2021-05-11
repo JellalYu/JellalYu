@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Certificate Manager Private Certificate Authority is now available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-certificate-manager-private-certificate-authority-is-now-available-in-the-asia-pacific-osaka-region/)
 - [Amazon EMR on EKS is now available in the EU (Paris and Stockholm) region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-on-eks-is-now-available-in-the-eu-paris-and-stockholm-region/)
 - [New digital training and AWS Certification Guide for AWS End User Computing](https://aws.amazon.com/about-aws/whats-new/2021/05/new-digital-training-and-aws-certification-guide-for-aws-end-user-computing/)
 - [Announcing the General Availability of AWS Local Zones in Boston, Houston, and Miami](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-general-availability-aws-local-zones-boston-houston-miami/)
 - [Amazon Fraud Detector now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-fraud-detector-supports-aws-cloudformation/)
-- [Introducing Incident Manager from AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-incident-manager-aws-systems-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
