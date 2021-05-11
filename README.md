@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New digital training and AWS Certification Guide for AWS End User Computing](https://aws.amazon.com/about-aws/whats-new/2021/05/new-digital-training-and-aws-certification-guide-for-aws-end-user-computing/)
 - [Announcing the General Availability of AWS Local Zones in Boston, Houston, and Miami](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-general-availability-aws-local-zones-boston-houston-miami/)
 - [Amazon Fraud Detector now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-fraud-detector-supports-aws-cloudformation/)
 - [Introducing Incident Manager from AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-incident-manager-aws-systems-manager/)
 - [Migration Evaluator announces a faster way to project AWS cloud costs with Quick Insights](https://aws.amazon.com/about-aws/whats-new/2021/05/migration-evaluator-announces-faster-way-project-aws-cloud-costs-quick-insights/)
-- [Amazon Athena drivers now support Azure AD and PingFederate authentication](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-athena-drivers-now-support-azure-ad-and-pingfederate-authentication/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
