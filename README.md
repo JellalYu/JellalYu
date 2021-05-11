@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lake Formation now supports Tag-based access control (TBAC)](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-lake-formation-now-supports-tag-based-access-control/)
+- [Amazon Kinesis Data Analytics now supports RollbackApplication, ListApplicationVersions, and DescribeApplicationVersion APIs in preview](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-kinesis-data-analytics-supports-rollbackapplication-listapplicationversions-describeapplicationversion-apis/)
+- [Amazon EKS managed node groups adds support for Kubernetes node taints](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-eks-managed-node-groups-adds-support-kubernetes-node-taints/)
+- [Announcing Amazon RDS for SQL Server on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-amazon-rds-for-sql-server-on-aws-outposts/)
 - [AWS Certificate Manager Private Certificate Authority is now available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-certificate-manager-private-certificate-authority-is-now-available-in-the-asia-pacific-osaka-region/)
-- [Amazon EMR on EKS is now available in the EU (Paris and Stockholm) region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-on-eks-is-now-available-in-the-eu-paris-and-stockholm-region/)
-- [New digital training and AWS Certification Guide for AWS End User Computing](https://aws.amazon.com/about-aws/whats-new/2021/05/new-digital-training-and-aws-certification-guide-for-aws-end-user-computing/)
-- [Announcing the General Availability of AWS Local Zones in Boston, Houston, and Miami](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-general-availability-aws-local-zones-boston-houston-miami/)
-- [Amazon Fraud Detector now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-fraud-detector-supports-aws-cloudformation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
