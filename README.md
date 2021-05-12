@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect adds near real-time insights into voice call, chat, and task activity](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-connect-adds-near-real-time-insights-into-voice-call-chat-and-task-activity/)
 - [Now use AWS Systems Manager Change Calendar to prevent desired-state updates during critical events](https://aws.amazon.com/about-aws/whats-new/2021/05/now-use-aws-systems-manager-change-calendar-to-prevent-desired-state-updates-during-critical-events/)
 - [Amazon CloudWatch Now Supports Composite Alarms in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-now-supports-composite-alarms-in-aws-govcloud-us-regions/)
 - [Amazon Athena adds built-in support for cross-account AWS Glue Data Catalogs](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-athena-adds-built-in-support-for-cross-account-aws-glue-data-catalogs/)
 - [Learn how to develop applications with Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2021/05/learn-how-to-develop-applications-with-amazon-dynamodb/)
-- [AWS Solutions Implementation - The Improving Forecast Accuracy with Machine Learning solution adds contextual featurizations and visualization functionalities to enrich forecast insight](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-solutions-implementation-forecast-accuracy-machine-learning-solution-adds-contextual-featurizations-visualization-functionalities/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
