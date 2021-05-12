@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Solutions Implementation - The Improving Forecast Accuracy with Machine Learning solution adds contextual featurizations and visualization functionalities to enrich forecast insight](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-solutions-implementation-forecast-accuracy-machine-learning-solution-adds-contextual-featurizations-visualization-functionalities/)
+- [New patch releases for Amazon Aurora PostgreSQL are now available](https://aws.amazon.com/about-aws/whats-new/2021/05/new-patch-releases-for-amazon-aurora-postgresql-are-now-available/)
+- [AWS announces that all AWS Federal Information Processing Standard (FIPS) endpoints now only accept a minimum of Transport Layer Security (TLS) 1.2 connections](https://aws.amazon.com/about-aws/whats-new/2021/05/all-aws-federal-information-processing-standard-endpoints-only-accept-minimum-transport-layer-security-1-2-connections/)
 - [Introducing the new Machine Downtime Monitor on AWS solution](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-the-new-machine-downtime-monitor-on-aws-solution/)
 - [Introducing Distributed Load Testing v1.3](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-distributed-load-testing-v1-3/)
-- [Four new EC2 High Memory instances with up to 12TB of memory are now available with On-Demand and Savings Plan purchase options](https://aws.amazon.com/about-aws/whats-new/2021/05/four-ec2-high-memory-instances-with-up-to-12tb-memory-available-with-on-demand-and-savings-plan-purchase-options/)
-- [AWS SaaS Boost released as an open source project](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-saas-boost-released-as-an-open-source-project/)
-- [Amazon Transcribe improves live subtitling with partial results stabilization](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-transcribe-improves-live-subtitling-partial-results-stabilization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
