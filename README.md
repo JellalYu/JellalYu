@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Transcribe improves live subtitling with partial results stabilization](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-transcribe-improves-live-subtitling-partial-results-stabilization/)
 - [Amazon EC2 P4d instances now available in Europe (Frankfurt) and Asia Pacific (Seoul) regions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-ec2-p4d-instances-now-available-in-europe-frankfurt-and-asia-pacific-seoul-regions/)
 - [AWS Lake Formation now supports Tag-based access control (TBAC)](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-lake-formation-now-supports-tag-based-access-control/)
 - [Amazon Kinesis Data Analytics now supports RollbackApplication, ListApplicationVersions, and DescribeApplicationVersion APIs in preview](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-kinesis-data-analytics-supports-rollbackapplication-listapplicationversions-describeapplicationversion-apis/)
 - [Amazon EKS managed node groups adds support for Kubernetes node taints](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-eks-managed-node-groups-adds-support-kubernetes-node-taints/)
-- [Announcing Amazon RDS for SQL Server on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-amazon-rds-for-sql-server-on-aws-outposts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
