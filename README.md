@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Data API now supports FIPS 140-2 validated endpoints](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-data-api-now-supports-fips-140-2-validated-endpoints/)
+- [AWS Premium Support launches Support Automation Workflow (SAW) runbooks for self-service diagnosis and remediation](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-premium-support-launches-support-automation-workflow-runbooks-for-self-service-diagnosis-remediation/)
+- [Amazon Transcribe Medical now provides automatic Protected Health Information (PHI) identification for batch processing](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-transcribe-medical-provides-automatic-protected-health-information-identification-batch-processing/)
 - [Announcing PostgreSQL 12.5 support for Amazon RDS on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-postgresql-12-5-support-for-amazon-rds-on-aws-outposts/)
 - [Amazon Kendra now available in Asia-Pacific (Singapore) AWS region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-kendra-now-available-in-asia-pacific-singapore-aws-region/)
-- [Amazon Elasticsearch Service announces a new lower cost storage tier](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-elasticsearch-service-announces-a-new-lower-cost-storage-tier/)
-- [Amazon EMR 6.3 now supports Apache Ranger for fine-grained data access control](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-6-3-now-supports-apache-ranger-for-fine-grained-data-access-control/)
-- [AWS WAF adds support for log filtering](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-waf-adds-support-for-log-filtering/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
