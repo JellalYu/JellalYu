@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transit Gateway Connect is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-transit-gateway-connect-is-now-available-in-aws-govcloud-us-regions/)
+- [Amazon Lex is now available in the AWS Canada (Central) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-lex-available-aws-canada-central-region/)
 - [Amazon Macie supports criteria-based bucket selection for sensitive data discovery jobs](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-macie-supports-criteria-based-bucket-selection-sensitive-data-discovery-jobs/)
 - [New AWS Solutions Consulting Offer - Enterprise Cloud Foundation Accelerator](https://aws.amazon.com/about-aws/whats-new/2021/05/new-aws-solutions-consulting-offer-enterprise-cloud-foundation-accelerator/)
 - [Amazon DynamoDB global tables now support AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-dynamodb-global-tables-now-support-aws-cloudformation/)
-- [Amazon WorkDocs adds filtering to the activity feed for both iOS and Android](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-workdocs-adds-filtering-activity-feed-ios-android/)
-- [AWS Step Functions now supports custom events to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-step-functions-now-supports-amazon-custom-events-eventbridge/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
