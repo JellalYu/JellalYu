@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DynamoDB global tables now support AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-dynamodb-global-tables-now-support-aws-cloudformation/)
+- [Amazon WorkDocs adds filtering to the activity feed for both iOS and Android](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-workdocs-adds-filtering-activity-feed-ios-android/)
 - [AWS Step Functions now supports custom events to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-step-functions-now-supports-amazon-custom-events-eventbridge/)
 - [Amazon RDS Data API now supports FIPS 140-2 validated endpoints](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-data-api-now-supports-fips-140-2-validated-endpoints/)
 - [AWS Premium Support launches Support Automation Workflow (SAW) runbooks for self-service diagnosis and remediation](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-premium-support-launches-support-automation-workflow-runbooks-for-self-service-diagnosis-remediation/)
-- [Amazon Transcribe Medical now provides automatic Protected Health Information (PHI) identification for batch processing](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-transcribe-medical-provides-automatic-protected-health-information-identification-batch-processing/)
-- [Announcing PostgreSQL 12.5 support for Amazon RDS on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-postgresql-12-5-support-for-amazon-rds-on-aws-outposts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
