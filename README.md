@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing general availability of AWS Application Migration Service](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-general-availability-of-aws-application-migration-service/)
+- [AWS Amplify Hosting announces server-side rendering (SSR) support for Next.js web apps](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-amplify-hosting-announces-server-side-rendering-support-for-next-js-web-apps/)
 - [AWS Elemental MediaConnect adds CDI and JPEG XS support](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-elemental-mediaconnect-adds-cdi-and-jpeg-xs-support/)
 - [AWS CloudFormation Guard 2.0 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-cloudformation-guard-2-0-is-now-generally-available/)
 - [AWS Transit Gateway Connect is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-transit-gateway-connect-is-now-available-in-aws-govcloud-us-regions/)
-- [Amazon Lex is now available in the AWS Canada (Central) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-lex-available-aws-canada-central-region/)
-- [Amazon Macie supports criteria-based bucket selection for sensitive data discovery jobs](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-macie-supports-criteria-based-bucket-selection-sensitive-data-discovery-jobs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
