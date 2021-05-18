@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS and EKS Distro now support Kubernetes version 1.20](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-eks-eks-distro-supports-kubernetes-version-1-20/)
 - [AWS Database Migration Service now supports Apache Kafka TLS and Authentication](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-database-migration-service-supports-apache-kafka-tls-authentication/)
 - [Announcing the general availability of AWS IoT Core Device Advisor](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-general-availability-aws-iot-core-device-advisor/)
 - [AWS Compute Optimizer Now Supports Exporting Amazon EBS and AWS Lambda Recommendations to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-compute-optimizer-supports-exporting-amazon-ebs-aws-lambda-recommendations-amazon-s3/)
 - [Announcing general availability of AWS Application Migration Service](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-general-availability-of-aws-application-migration-service/)
-- [AWS Amplify Hosting announces server-side rendering (SSR) support for Next.js web apps](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-amplify-hosting-announces-server-side-rendering-support-for-next-js-web-apps/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
