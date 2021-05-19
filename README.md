@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing AWS Copilot v1.7 with support for AWS App Runner and more](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-copilot-launches-v17-with-support-for-aws-app-runner-and-more/)
 - [AWS Announces AWS App Runner](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-announces-aws-app-runner/)
 - [AWS License Manager now provides historical license usage reporting](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-license-manager-now-provides-historical-license-usage-reporting/)
 - [Amazon EKS and EKS Distro now support Kubernetes version 1.20](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-eks-eks-distro-supports-kubernetes-version-1-20/)
 - [AWS Database Migration Service now supports Apache Kafka TLS and Authentication](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-database-migration-service-supports-apache-kafka-tls-authentication/)
-- [Announcing the general availability of AWS IoT Core Device Advisor](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-general-availability-aws-iot-core-device-advisor/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
