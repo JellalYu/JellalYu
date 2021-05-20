@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Toolkit for Visual Studio Code adds Java and Go Support for Serverless Applications](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-toolkit-visual-studio-code-adds-java-go-support/)
 - [Amazon Route 53 Resolver Endpoints for Hybrid Cloud Are Now Available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-route-53-resolver-endpoints-for-hybrid-cloud-now-available-in-asia-pacific-osaka-region/)
 - [Amazon EC2 Auto Scaling Introduces Predictive Scaling as a Native Scaling Policy](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-ec2-auto-scaling-introduces-predictive-scaling-native-scaling-policy/)
 - [Amazon EventBridge now supports sharing events between event buses in the same account and Region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-eventbridge-supports-sharing-events-between-event-buses-same-account-region/)
 - [Amazon SageMaker Autopilot adds automatic deployment support for the best trained model](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-autopilot-adds-automatic-deployment-support-for-the-best-trained-model/)
-- [AWS Load Balancer Controller version 2.2 now available with support for NLB instance targeting](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-load-balancer-controller-version-2-2-available-support-nlb-instance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
