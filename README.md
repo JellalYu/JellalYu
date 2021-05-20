@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lex now supports resource-based policies for bots and aliases](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-lex-now-supports-resource-based-policies-for-bots-and-aliases/)
+- [Amazon EMR on EKS is now available in the South America (São Paulo) region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-eks-available-sao-paulo-region/)
+- [WkWebView now supported with Amazon Chime SDK for JavaScript](https://aws.amazon.com/about-aws/whats-new/2021/05/wkwebview-now-supported-with-amazon-chime-sdk-for-javascript/)
 - [Amazon CloudWatch Application Insights now supports container monitoring](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-application-insights-now-supports-container-monitoring/)
 - [Amazon Lightsail is now available in the AWS Europe (Stockholm) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-lightsail-is-now-available-in-aws-europe-stockholm-region/)
-- [AWS customers can now self opt-in to AWS Wavelength Zones](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-customers-now-self-opt-in-aws-wavelength-zones/)
-- [EKS Add-Ons Now Supports CoreDNS and kube-proxy](https://aws.amazon.com/about-aws/whats-new/2021/05/eks-add-ons-now-support-coredns-kube-proxy/)
-- [Amazon SageMaker now offers new flexibility in configuring the model building pipelines](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-offers-new-flexibility-configuring-model-building-pipelines/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
