@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Compute Optimizer enhances EC2 instance type recommendations](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-compute-optimizer-enhances-ec2-instance-type-recommendations/)
+- [AWS Outposts launches support for EC2 Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-outposts-launches-support-for-ec2-capacity-reservations/)
+- [Amazon EMR now supports Amazon EC2 On-Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-now-supports-amazon-ec2-on-demand-capacity-reservations/)
 - [Amazon Lumberyard Beta 1.28 is Now Available](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-lumberyard-beta-1-28-is-now-available/)
 - [AWS Lambda Extensions are now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-lambda-extensions-now-generally-available/)
-- [Amazon CloudWatch Logs service limits can now be managed with AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-logs-service-limits-can-now-be-managed-with-aws-service-quotas/)
-- [Amazon EC2 M5zn instances, with high frequency processors and 100 Gbps networking are now available in Asia Pacific (Seoul)](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-ec2-m5zn-instances-high-frequency-processors-100-gbps-networking-are-available-in-asia-pacific-seoul/)
-- [Announcing Amazon Forecast Weather Index for South America](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-amazon-forecast-weather-index-for-south-america/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
