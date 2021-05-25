@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transit Gateway Network Manager is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-transit-gateway-network-manager-available-aws-govcloud-us-regions/)
+- [Amazon RDS for Oracle supports multitenant container database](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-oracle-supports-multitenant-container-database/)
 - [Fleet Hub for AWS IoT Device Management, a new, easy way to monitor & interact with IoT device fleets, is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/05/fleet-hub-monitor-interact-iot-device-fleets-now-generally-available/)
 - [AWS IoT Device Management launches Job Templates in Preview to make deployment of fleet-wide remote operations faster, easier, and more secure](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-iot-device-management-launches-job-templates-in-preview/)
 - [AWS Transfer Family now supports Microsoft Active Directory](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-transfer-family-now-supports-microsoft-active-directory/)
-- [Amazon SageMaker Pipelines is now integrated with Amazon SageMaker Experiments](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-pipelines-now-integrated-amazon-sagemaker-experiments/)
-- [Amazon MSK adds support for Apache Kafka version 2.7.1](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-msk-adds-support-for-apache-kafka-version-2-7-1/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
