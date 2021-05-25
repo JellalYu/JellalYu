@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Updated classroom course: Migrating to AWS](https://aws.amazon.com/about-aws/whats-new/2021/05/updated-classroom-course-migrating-to-aws/)
 - [Amazon Braket introduces quantum circuit noise simulator, DM1](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-braket-introduces-quantum-circuit-noise-simulator-dm1/)
 - [AWS Data Exchange now supports custom payment schedules for private offers](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-data-exchange-now-supports-custom-payment-schedules-for-private-offers/)
 - [AWS Compute Optimizer enhances EC2 instance type recommendations](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-compute-optimizer-enhances-ec2-instance-type-recommendations/)
 - [AWS Outposts launches support for EC2 Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-outposts-launches-support-for-ec2-capacity-reservations/)
-- [Amazon EMR now supports Amazon EC2 On-Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-now-supports-amazon-ec2-on-demand-capacity-reservations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
