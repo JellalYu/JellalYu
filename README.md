@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppFlow now expands its features with Marketo](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-appflow-now-expands-its-features-with-marketo/)
+- [AWS Database Migration Service now supports PostgreSQL version 13 in preview mode](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-database-migration-service-now-supports-postgresql-version-13-in-preview-mode/)
 - [AWS Transit Gateway Network Manager is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-transit-gateway-network-manager-available-aws-govcloud-us-regions/)
 - [Amazon RDS for Oracle supports multitenant container database](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-oracle-supports-multitenant-container-database/)
-- [Fleet Hub for AWS IoT Device Management, a new, easy way to monitor & interact with IoT device fleets, is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/05/fleet-hub-monitor-interact-iot-device-fleets-now-generally-available/)
-- [AWS IoT Device Management launches Job Templates in Preview to make deployment of fleet-wide remote operations faster, easier, and more secure](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-iot-device-management-launches-job-templates-in-preview/)
-- [AWS Transfer Family now supports Microsoft Active Directory](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-transfer-family-now-supports-microsoft-active-directory/)
+- [Announcing general availability of AWS Application Migration Service](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-general-availability-of-aws-application-migration-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
