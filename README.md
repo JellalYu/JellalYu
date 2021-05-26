@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New self-paced courses for cloud procurement, .NET, and Amazon CodeGuru available](https://aws.amazon.com/about-aws/whats-new/2021/05/new-self-paced-courses-for-cloud-procurement-NET-and-amazon-codeguru-available/)
+- [Amazon Aurora MySQL Improves Availability of Read Replicas](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-aurora-mysql-improves-availability-read-replicas/)
+- [Amazon Aurora with MySQL Compatibility Supports T3.large Instances](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-aurora-mysql-compatibility-supports-t3-large-instances/)
 - [Amazon AppFlow now expands its features with Marketo](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-appflow-now-expands-its-features-with-marketo/)
 - [AWS Database Migration Service now supports PostgreSQL version 13 in preview mode](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-database-migration-service-now-supports-postgresql-version-13-in-preview-mode/)
-- [AWS Transit Gateway Network Manager is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-transit-gateway-network-manager-available-aws-govcloud-us-regions/)
-- [Amazon RDS for Oracle supports multitenant container database](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-oracle-supports-multitenant-container-database/)
-- [Announcing general availability of AWS Application Migration Service](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-general-availability-of-aws-application-migration-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
