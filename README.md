@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub now supports bidirectional integration with Atlassian Jira Service Management](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-security-hub-supports-bidirectional-integration-with-atlassian-jira-service-management/)
+- [Amazon MQ for RabbitMQ is now available in Amazon Web Services China Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-mq-for-rabbitmq-is-now-available-in-amazon-web-services-china-regions/)
 - [New self-paced courses for cloud procurement, .NET, and Amazon CodeGuru available](https://aws.amazon.com/about-aws/whats-new/2021/05/new-self-paced-courses-for-cloud-procurement-NET-and-amazon-codeguru-available/)
 - [Amazon Aurora MySQL Improves Availability of Read Replicas](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-aurora-mysql-improves-availability-read-replicas/)
 - [Amazon Aurora with MySQL Compatibility Supports T3.large Instances](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-aurora-mysql-compatibility-supports-t3-large-instances/)
-- [Amazon AppFlow now expands its features with Marketo](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-appflow-now-expands-its-features-with-marketo/)
-- [AWS Database Migration Service now supports PostgreSQL version 13 in preview mode](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-database-migration-service-now-supports-postgresql-version-13-in-preview-mode/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
