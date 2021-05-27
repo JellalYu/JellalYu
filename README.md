@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly Launches a new Korean Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-polly-launches-a-new-korean-neural-text-to-speech-voice/)
+- [Amazon API Gateway REST APIs integrates with Step Functions Synchronous Express Workflows](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-api-gateway-rest-apis-integrates-with-step-funtions-synchronous-express-workflows/)
 - [AWS Wavelength is now System and Organization Controls (SOC) compliant](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-wavelength-is-now-system-and-organization-controls-soc-compliant/)
 - [Amazon Elastic Container Service Anywhere is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-elastic-container-service-anywhere-is-now-generally-available/)
 - [Announcing Amazon Kinesis Data Analytics Studio: Interactively query data streams and develop stream processing applications powered by Apache Flink](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-kinesis-data-analytics-studio-query-data-streams-develop-stream-processing-applications/)
-- [Amazon Lightsail DNS now supports pointing root domains to Lightsail Container Services](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-lightsail-dns-supports-pointing-root-domains-lightsail-container-services/)
-- [EC2 High Memory instances with up to 12TB of memory are now available in two additional regions with On-Demand and Savings Plan purchase options](https://aws.amazon.com/about-aws/whats-new/2021/05/ec2-high-memory-instances-to-12tb-memory-available-additional-regions-with-on-demand-savings-plan-purchase-options/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
