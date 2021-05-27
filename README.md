@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces general availability of Amazon Redshift ML](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-announces-general-availability-of-amazon-redshift-ml/)
 - [Amazon Polly Launches a new Korean Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-polly-launches-a-new-korean-neural-text-to-speech-voice/)
 - [Amazon API Gateway REST APIs integrates with Step Functions Synchronous Express Workflows](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-api-gateway-rest-apis-integrates-with-step-funtions-synchronous-express-workflows/)
 - [AWS Wavelength is now System and Organization Controls (SOC) compliant](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-wavelength-is-now-system-and-organization-controls-soc-compliant/)
 - [Amazon Elastic Container Service Anywhere is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-elastic-container-service-anywhere-is-now-generally-available/)
-- [Announcing Amazon Kinesis Data Analytics Studio: Interactively query data streams and develop stream processing applications powered by Apache Flink](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-kinesis-data-analytics-studio-query-data-streams-develop-stream-processing-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
