@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Logs announces Dimension support for Metric Filters](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-logs-announces-dimension-support-for-metric-filters/)
+- [Introducing AWS App Runner Integration in the AWS Toolkit for JetBrains IDEs](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-aws-app-runner-integration-in-the-aws-toolkit-for-jetbrains-ides/)
 - [Amazon FSx for Lustre now supports data compression](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-fsx-for-lustre-now-supports-data-compression/)
 - [Amazon SQS Now Supports a High Throughput Mode for FIFO Queues](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sqs-now-supports-a-high-throughput-mode-for-fifo-queues/)
 - [Alarms feature now generally available for AWS IoT SiteWise and AWS IoT Events](https://aws.amazon.com/about-aws/whats-new/2021/05/alarms-feature-now-generally-available-for-aws-iot-sitewise-and-aws-iot-events/)
-- [Amazon CloudWatch Synthetics is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-synthetics-is-now-available-in-the-aws-asia-pacific-osaka-region/)
-- [Amazon Kendra releases Query Suggestions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-kendra-releases-query-suggestions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
