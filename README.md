@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Implementation: Disaster Recovery for AWS IoT](https://aws.amazon.com/about-aws/whats-new/2021/06/new-aws-solutions-implementation--disaster-recovery-for-aws-iot/)
+- [Amazon QLDB supports IAM-based access policy for PartiQL queries and ledger tables](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-qldb-supports-iam-based-access-policy-for-partiql-queries-and-ledger-tables/)
 - [NICE DCV releases version 2021.1 with accurate audio/video synchronization](https://aws.amazon.com/about-aws/whats-new/2021/06/nice-dcv-releases-version-2021-1-with-accurate-audio-video-synchronization/)
 - [NICE DCV releases web client SDK 1.0.1](https://aws.amazon.com/about-aws/whats-new/2021/06/nice-dcv-releases-web-client-sdk-1-0-1/)
 - [Amazon RDS for Oracle now supports April 2021 Patch Set Update (PSU) for Oracle Database 12.1](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-oracle-supports-april-2021-patch-set-update-for-oracle-database-12-1/)
-- [Announcing Amazon CloudWatch Resource Health](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-amazon-cloudwatch-resource-health/)
-- [Amazon SageMaker Autopilot adds automatic cross validation to improve model quality on smaller datasets by up to 35%](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-autopilot-adds-automatic-cross-validation-to-im/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
