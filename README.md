@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [New AWS Solutions Implementation: Disaster Recovery for AWS IoT](https://aws.amazon.com/about-aws/whats-new/2021/06/new-aws-solutions-implementation--disaster-recovery-for-aws-iot/)
-- [Amazon QLDB supports IAM-based access policy for PartiQL queries and ledger tables](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-qldb-supports-iam-based-access-policy-for-partiql-queries-and-ledger-tables/)
-- [NICE DCV releases version 2021.1 with accurate audio/video synchronization](https://aws.amazon.com/about-aws/whats-new/2021/06/nice-dcv-releases-version-2021-1-with-accurate-audio-video-synchronization/)
-- [NICE DCV releases web client SDK 1.0.1](https://aws.amazon.com/about-aws/whats-new/2021/06/nice-dcv-releases-web-client-sdk-1-0-1/)
-- [Amazon RDS for Oracle now supports April 2021 Patch Set Update (PSU) for Oracle Database 12.1](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-oracle-supports-april-2021-patch-set-update-for-oracle-database-12-1/)
+- [Amazon SNS now supports SMS Sandbox and displays available origination IDs in your account](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-sns-now-supports-sms-sandbox-and-displays-available-origination-ids-in-your-account/)
+- [AWS WAF and AWS Shield Advanced are available in Asia Pacific (Osaka)](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-waf-and-aws-shield-advanced-are-available-in-asia-pacific-osaka/)
+- [Amazon Location Service is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-location-service-is-now-generally-available/)
+- [Amazon API Gateway now supports synchronous invocations of Express Workflows using REST APIs](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-api-gateway-now-supports-synchronous-invocations-of-express-workflows-using-rest-apis/)
+- [Amazon Polly Launches a new Canadian French Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-polly-launches-a-new-canadian-french-neural-text-to-speech-voice/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
