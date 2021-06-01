@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Keyspaces now supports customer managed customer master keys (CMKs) for encryption of data at rest to help you meet your compliance and regulatory requirements](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-keyspaces-now-supports-customer-managed-customer-master-k/)
 - [Amazon SNS now supports SMS Sandbox and displays available origination IDs in your account](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-sns-now-supports-sms-sandbox-and-displays-available-origination-ids-in-your-account/)
 - [AWS WAF and AWS Shield Advanced are available in Asia Pacific (Osaka)](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-waf-and-aws-shield-advanced-are-available-in-asia-pacific-osaka/)
 - [Amazon Location Service is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-location-service-is-now-generally-available/)
 - [Amazon API Gateway now supports synchronous invocations of Express Workflows using REST APIs](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-api-gateway-now-supports-synchronous-invocations-of-express-workflows-using-rest-apis/)
-- [Amazon Polly Launches a new Canadian French Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-polly-launches-a-new-canadian-french-neural-text-to-speech-voice/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
