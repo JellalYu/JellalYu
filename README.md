@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transit Gateway Updates Service Level Agreement to 99.99%](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-transit-gateway-updates-service-level-agreement/)
+- [Identify and Copy existing objects to use S3 Bucket Keys, reducing the costs of Server-Side Encryption with AWS Key Management Service (SSE-KMS)](https://aws.amazon.com/about-aws/whats-new/2021/06/identify-and-copy-existing-objects-to-use-s3-bucket-keys-reducing-the-costs-of-server-side-encryption-with-aws-key-management-service-sse-kms/)
 - [AWS Lambda Extensions are now Generally Available in all commercial regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-lambda-extensions-are-now-generally-available-in-all-commercial-regions/)
 - [Amazon GameLift Adds SDK Support and Updates for Unreal 4.26](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-gamelift-adds-sdk-support-and-updates-for-unreal/)
 - [Amazon Rekognition Custom Labels adds support for deploying models via the Console](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rekognition-custom-labels-adds-support-for-deploying-models-via-the-console/)
-- [Announcing Global Clusters for Amazon DocumentDB (with MongoDB compatibility)](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-global-clusters-for-amazon-documentdb-with-mongodb-compatibility/)
-- [Amazon RDS for PostgreSQL Supports New Minor Versions 13.2, 12.6, 11.11, 10.16, 9.6.21, and 9.5.25 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-for-postgresql-supports-new-minor-versions-in-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
