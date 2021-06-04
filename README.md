@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backint Agent version 1.04 now available](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-backint-agent-version-1-04-now-available/)
 - [Amazon RDS for SQL Server now supports Business Intelligence Suite in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-sql-server-supports-business-intelligence-suite-in-aws-govcloud-us-regions/)
 - [AWS Security Hub adds 16 new controls to its Foundational Security Best Practices standard for enhanced cloud security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-security-hub-adds-16-new-controls-to-its-foundational-securi/)
 - [Amazon SageMaker model registry now supports rollback of deployed models](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-model-registry-now-supports-rollback-of-deployed-models/)
 - [AWS Systems Manager Session Manager plugin for the AWS CLI is now open source](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-systems-manager-session-manager-plugin-for-the-aws-cli-is-now-opensource/)
-- [New LoRaWAN gateway management features generally available for AWS IoT Core for LoRaWAN](https://aws.amazon.com/about-aws/whats-new/2021/06/new-lorawan-gateway-management-features-generally-available-for-aws-iot-core-for-lorawan/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
