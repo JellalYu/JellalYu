@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR Studio is now available in 13 regions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-studio-is-now-available-in-13-regions/)
 - [Amazon CloudWatch releases a C# client library for Embedded Metric Format](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-cloudwatch-releases-a-c-client-library-for-embedded-metric-format/)
 - [Announcing R5d instances and lookup cache for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-r5d-instances-and-lookup-cache-for-amazon-neptune/)
 - [AWS Glue Studio now allows you to specify streaming ETL job settings](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-glue-studio-now-allows-you-to-specify-streaming-etl-job-settings/)
 - [Amazon Neptune simplifies in-console experience to help customers get started faster](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-neptune-simplifies-in-console-experience-to-help-customers-get-started-faster/)
-- [AWS Backint Agent version 1.04 now available](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-backint-agent-version-1-04-now-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
