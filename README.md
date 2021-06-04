@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch releases a C# client library for Embedded Metric Format](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-cloudwatch-releases-a-c-client-library-for-embedded-metric-format/)
+- [Announcing R5d instances and lookup cache for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-r5d-instances-and-lookup-cache-for-amazon-neptune/)
+- [AWS Glue Studio now allows you to specify streaming ETL job settings](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-glue-studio-now-allows-you-to-specify-streaming-etl-job-settings/)
+- [Amazon Neptune simplifies in-console experience to help customers get started faster](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-neptune-simplifies-in-console-experience-to-help-customers-get-started-faster/)
 - [AWS Backint Agent version 1.04 now available](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-backint-agent-version-1-04-now-available/)
-- [Amazon RDS for SQL Server now supports Business Intelligence Suite in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-sql-server-supports-business-intelligence-suite-in-aws-govcloud-us-regions/)
-- [AWS Security Hub adds 16 new controls to its Foundational Security Best Practices standard for enhanced cloud security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-security-hub-adds-16-new-controls-to-its-foundational-securi/)
-- [Amazon SageMaker model registry now supports rollback of deployed models](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-model-registry-now-supports-rollback-of-deployed-models/)
-- [AWS Systems Manager Session Manager plugin for the AWS CLI is now open source](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-systems-manager-session-manager-plugin-for-the-aws-cli-is-now-opensource/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
