@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker model registry now supports rollback of deployed models](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-model-registry-now-supports-rollback-of-deployed-models/)
 - [AWS Systems Manager Session Manager plugin for the AWS CLI is now open source](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-systems-manager-session-manager-plugin-for-the-aws-cli-is-now-opensource/)
 - [New LoRaWAN gateway management features generally available for AWS IoT Core for LoRaWAN](https://aws.amazon.com/about-aws/whats-new/2021/06/new-lorawan-gateway-management-features-generally-available-for-aws-iot-core-for-lorawan/)
 - [AWS Solutions Implementation - AWS MLOps Framework adds multi-account support to help improve governance and security of ML workloads](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-solutions-implementation-aws-mlops-framework-adds-multi-account-support-to-help-improve-governance-and-security-of-ml-workloads/)
 - [AWS Transit Gateway Updates Service Level Agreement to 99.99%](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-transit-gateway-updates-service-level-agreement/)
-- [Identify and Copy existing objects to use S3 Bucket Keys, reducing the costs of Server-Side Encryption with AWS Key Management Service (SSE-KMS)](https://aws.amazon.com/about-aws/whats-new/2021/06/identify-and-copy-existing-objects-to-use-s3-bucket-keys-reducing-the-costs-of-server-side-encryption-with-aws-key-management-service-sse-kms/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
