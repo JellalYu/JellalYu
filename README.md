@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MQ now supports ActiveMQ version 5.16.2](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-mq-now-supports-activemq/)
+- [Amazon RDS M6g and R6g instances now available for MySQL, MariaDB, and PostgreSQL in AWS GovCloud (US), Asia Pacific (Seoul), and Europe (Stockholm) regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-m6g-and-r6g-instances-now-available-for-mysql-mariadb-and-postogresql-in-aws-govcloud-asia-pacific-and-europe-regions/)
 - [AWS China (Beijing) Region Adds the Third Availability Zone](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-china-beijing-region-adds-the-third-availability-zone/)
 - [AWS Audit Manager is now available in the Asia Pacific (Mumbai) and Canada (Central) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-audit-manager--is-now-available-in-asia-pacific-mumbai-and-canada-central-regions/)
 - [New AWS Solutions Consulting Offer - Financial Services Security and Compliance Framework](https://aws.amazon.com/about-aws/whats-new/2021/06/new-aws-solutions-consulting-offer-financial-security-and-compliance-framework/)
-- [Announcing new PostgreSQL 13.2, 13.1, and 12.6 version support for Amazon RDS on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-new-postgresql-13-2-13-1-and-12-6-support-amazon-rds-on-aws-outposts/)
-- [AWS Glue Studio now includes a code editor for customizing your job scripts](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-glue-studio-now-includes-a-code-editor-for-customizing-your-job-scripts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
