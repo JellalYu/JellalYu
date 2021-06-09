@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Cognito is now available in the Middle East (BAH) Region](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-cognito-is-now-available-in-the-middle-east-region/)
+- [Easily install and manage Amazon EFS utilities on your instances with Quick Setup](https://aws.amazon.com/about-aws/whats-new/2021/06/easily-install-and-manage-amazon-efs-utilities-on-your-instances-with-quick-setup/)
 - [AWS Systems Manager is now FedRAMP-High Compliant](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-systems-manager-is-now-fedramp-high-compliant/)
 - [Amazon FSx for Windows File Server now supports file access auditing](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-fsx-for-windows-file-server-now-supports-file-access-auditing/)
 - [Amazon Aurora R6g instance types, powered by AWS Graviton2 processors, now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-r6g-instance-types-powered-awsgraviton2-processors-available-aws-govcloud-us-regions/)
-- [Amazon SageMaker Data Wrangler now supports Snowflake as a data source](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-sagemaker-data-wrangler-now-supports-snowflake-as-a-data-source/)
-- [Amazon MQ now supports ActiveMQ version 5.16.2](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-mq-now-supports-activemq/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
