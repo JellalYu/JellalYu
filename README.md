@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaConnect adds support for input source selection and priority](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-elemental-mediaconnect-adds-support-for-input-source-selection-priority/)
+- [AWS Client VPN launches in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-client-vpn-launches-in-aws-govcloud-us-regions/)
 - [Amazon Lex increases limits for Intents and Slot Types](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-lex-increases-limits-for-intents-and-slot-types/)
 - [AWS Managed Microsoft Active Directory (AD) and AD Connector now support AD authentication with AWS Transfer Family](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-directory-service-now-supports-active-directory-authentication-with-aws-transfer-family/)
 - [Read multiple records simultaneously from Amazon SageMaker Feature Store using the new BatchGetRecord API](https://aws.amazon.com/about-aws/whats-new/2021/06/read-multiple-records-simultaneously-amazon-sagemaker-feature-store-using-batchgetrecord-api/)
-- [Amazon Cognito now supports targeted sign out through refresh token revocation](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-cognito-now-supports-targeted-sign-out-through-refresh-token-revocation/)
-- [AWS Removes NAT Gateway’s Dependence on Internet Gateway for Private Communications](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-removes-nat-gateways-dependence-on-internet-gateway-for-private-communications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
