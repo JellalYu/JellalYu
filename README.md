@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces a new shell for F1 instances with increased FPGA resources and data transfer speeds](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-a-new-shell-for-f1-instances-with-increased-fpga-resources-and-data-transfer-speeds/)
+- [Amazon MQ is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-mq-is-now-available-in-aws-govcloud-us-regions/)
+- [KMS Multi-Region Keys](https://aws.amazon.com/about-aws/whats-new/2021/06/kms-multi-region-keys/)
 - [AWS Amplify announces support for IAM permissions boundaries on Amplify-generated IAM roles](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-amplify-announces-support-for-iam-permissions-boundaries-on-amplify-generated-iam-roles/)
 - [Amazon Personalize now unlocks information in unstructured text for recommendations](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-personalize-now-unlocks-information-in-unstructured-text-for-recommendations/)
-- [AWS Copilot launches v1.8 with improved support for load balanced web services and VPCs](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-copilot-launches-v1-8-with-improved-support-for-load-balanced-web-services-and-vpcs/)
-- [Amazon RDS for PostgreSQL Supports Extension Allowlists](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-for-postgresql-supports-extension-allowlists/)
-- [Amazon Lex announces support for multi-valued slots](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-lex-announces-support-for-multi-valued-slots/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
