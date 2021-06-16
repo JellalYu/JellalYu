@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lex announces support for multi-valued slots](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-lex-announces-support-for-multi-valued-slots/)
 - [AWS Announces General Availability of AWS Wavelength in London](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-general-availability-of-aws-wavelength-in-london/)
 - [AWS Resource Access Manager enables granular access control with additional managed permissions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-resource-access-manager-enables-granular-access-control-additional-managed-permissions/)
 - [AWS Certificate Manager Private Certificate Authority now supports more flexibility for CAs shared across accounts](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-certificate-manager-private-certificate-authority-now-supports-more-flexibility-for-cas-shared-across-accounts/)
 - [Announcing AWS App Mesh Controller for Kubernetes Version 1.4.0 with Ingress Enhancements](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-aws-app-mesh-controller-for-kubernetes-with-ingress-enhancements/)
-- [Amazon Polly Launches a new German Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-polly-launches-a-new-german-neural-text-to-speech-voice/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
