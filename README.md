@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra adds support for new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-kendra-adds-support-for-new-aws-regions/)
+- [AWS Gateway Load Balancer is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-gateway-load-balancer-is-now-available-in-the-aws-govcloud-us-regions/)
 - [AWS announces a new shell for F1 instances with increased FPGA resources and data transfer speeds](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-a-new-shell-for-f1-instances-with-increased-fpga-resources-and-data-transfer-speeds/)
 - [Amazon MQ is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-mq-is-now-available-in-aws-govcloud-us-regions/)
 - [KMS Multi-Region Keys](https://aws.amazon.com/about-aws/whats-new/2021/06/kms-multi-region-keys/)
-- [AWS Amplify announces support for IAM permissions boundaries on Amplify-generated IAM roles](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-amplify-announces-support-for-iam-permissions-boundaries-on-amplify-generated-iam-roles/)
-- [Amazon Personalize now unlocks information in unstructured text for recommendations](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-personalize-now-unlocks-information-in-unstructured-text-for-recommendations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
