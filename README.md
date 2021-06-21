@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaLive now converts image-based subtitles to text-based captions for mobile device playback](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-elemental-medialive-now-converts-inage-based-subtitles-to-text-based-captions-for-mobile-device-playback/)
 - [Amazon Aurora Serverless v1 supports fast database cloning](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-serverless-v1-supports-fast-database-cloning/)
 - [Amazon Aurora Supports PostgreSQL 12.6, 11.11, 10.16, and 9.6.21](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-supports-postgresql-12-6-11-11-10-16-and-9-6-21/)
 - [Amazon Aurora PostgreSQL supports the pg_bigm extension for faster full text search](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-postgresql-supports-pg-bigm-extension-for-faster-full-text-search/)
 - [Amazon Aurora PostgreSQL Supports the pg_proctab Extension to access PostgreSQL system stats](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-postgresql-supports-pg-proctab-extension-access-postgresql-system-stats/)
-- [Amazon Aurora PostgreSQL supports the pg_partman extension for managing time or serial id based table partitioning](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-postgre-sql-supports-pgpartman-extension-managing-time-serial-id-table-partitioning/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
