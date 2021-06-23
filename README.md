@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports additional memory configurations of the r5 instance class](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-for-oracle-now-supports-additional-memory-configurations-of-the-r5-instance-class/)
+- [AWS Client VPN launches desktop client for Linux](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-client-vpn-launches-desktop-client-for-linux/)
+- [AWS Outposts is now supported in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-outposts-is-now-supported-in-aws-asia-pacific-osaka-region/)
 - [Amazon Translate now supports XML Localization Interchange File Format - XLIFF documents](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-translate-now-supports-xml-localization-interchange-file-format-xliff-documents/)
 - [Updated classroom course and new digital course: AWS Technical Essentials](https://aws.amazon.com/about-aws/whats-new/2021/06/updated-classroom-course-and-new-digital-course-aws-technical-essentials/)
-- [Connect to your Amazon CloudWatch data to detect anomalies and diagnose their root causes using Amazon Lookout for Metrics](https://aws.amazon.com/about-aws/whats-new/2021/06/connect-your-amazon-cloudwatch-data-detect-anomalies-diagnose-their-root-causes-using-amazon-lookout-metrics/)
-- [Amazon Connect Customer Profiles launches in Canada(Central) region](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-connect-customer-profiles-launches-in-canada-central-region/)
-- [Announcing a new Public Registry for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-a-new-public-registry-for-aws-cloudformation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
