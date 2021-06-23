@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Connect to your Amazon CloudWatch data to detect anomalies and diagnose their root causes using Amazon Lookout for Metrics](https://aws.amazon.com/about-aws/whats-new/2021/06/connect-your-amazon-cloudwatch-data-detect-anomalies-diagnose-their-root-causes-using-amazon-lookout-metrics/)
 - [Amazon Connect Customer Profiles launches in Canada(Central) region](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-connect-customer-profiles-launches-in-canada-central-region/)
 - [Announcing a new Public Registry for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-a-new-public-registry-for-aws-cloudformation/)
 - [Amazon RDS supports MariaDB Audit Plugin for MySQL version 8.0](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-supports-mariadb-audit-plugin-for-mysql-version-8-0/)
 - [Amazon Keyspaces (for Apache Cassandra) now helps you monitor and improve application read/write performance and throughput by using new Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-keyspaces--for-apache-cassandra--now-helps-you-monitor-an/)
-- [AWS Elemental MediaLive now converts image-based subtitles to text-based captions for mobile device playback](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-elemental-medialive-now-converts-inage-based-subtitles-to-text-based-captions-for-mobile-device-playback/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
