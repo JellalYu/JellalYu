@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda support for Amazon Elastic File System now available in Asia Pacific (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-lambda-support-for-amazon-elastic-file-system-now-available-in-asia-pacific-osaka-region/)
+- [Amazon SageMaker Now Supports ml.G4dn instances for Batch Transform and Processing Jobs](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-now-supports-mlg4dn-instances-for-batch-transform-and-processing-jobs/)
 - [Amazon RDS for Oracle now supports additional memory configurations of the r5 instance class](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-for-oracle-now-supports-additional-memory-configurations-of-the-r5-instance-class/)
 - [AWS Client VPN launches desktop client for Linux](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-client-vpn-launches-desktop-client-for-linux/)
 - [AWS Outposts is now supported in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-outposts-is-now-supported-in-aws-asia-pacific-osaka-region/)
-- [Amazon Translate now supports XML Localization Interchange File Format - XLIFF documents](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-translate-now-supports-xml-localization-interchange-file-format-xliff-documents/)
-- [Updated classroom course and new digital course: AWS Technical Essentials](https://aws.amazon.com/about-aws/whats-new/2021/06/updated-classroom-course-and-new-digital-course-aws-technical-essentials/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
