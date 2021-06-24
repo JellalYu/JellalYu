@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Configure GitHub Actions workflows with a new GitHub Action for building serverless applications](https://aws.amazon.com/about-aws/whats-new/2021/06/configure-github-actions-workflows-with-new-github-action-for-building-serverless-applications/)
+- [Managed Database Auditing with Amazon RDS Database Activity Streams for Amazon RDS for Oracle](https://aws.amazon.com/about-aws/whats-new/2021/06/managed-database-auditing-with-amazon-rds-database-activity-streams-for-amazon-rds-for-oracle/)
 - [Amazon Textract announces quality updates to its forms extraction feature](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-textract-announces-quality-updates-to-its-forms-extraction-feature/)
 - [Sellers, consulting partners, and data providers from Hong Kong and Qatar now available in AWS Marketplace and AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2021/06/sellers-consulting-partners-and-data-providers-from-hong-kong-and-qatar-now-available-in-aws-marketplace-and-aws-data-exchange/)
 - [AWS Control Tower announces accessibility, console and performance improvements](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-control-tower-announces-accessibility-console-and-performance-improvements/)
-- [AWS Managed Services (AMS) now offers self-service operational reporting across all your AMS managed accounts](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-managed-services-ams-now-offers-self-service-operational-reporting-across-all-your-ams-managed-accounts/)
-- [AWS Lambda support for Amazon Elastic File System now available in Asia Pacific (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-lambda-support-for-amazon-elastic-file-system-now-available-in-asia-pacific-osaka-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
