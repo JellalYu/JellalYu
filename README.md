@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AQUA for Amazon Redshift launches in three additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aqua-for-amazon-redshift-launches-in-three-additional-aws-regions/)
 - [Amazon EMR now supports up to thirty instance type configurations in Instance Fleets](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-emr-now-supports-up-to-thirty-instance-type-configurations-in-instance-fleets/)
 - [AWS Announces AWS BugBust](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-aws-bugbust/)
 - [AWS Purchase Order Management now supports a TRN filter for AWS Europe](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-purchase-order-management-now-supports-a-trn-filter-for-aws-europe/)
 - [Amazon Redshift now supports case-insensitive collation with column level overrides](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-redshift-now-supports-case-insensitive-collation-with-column-level-overrides/)
-- [Amazon DocumentDB (with MongoDB compatibility) Now Supports r5.8xlarge and r5.16xlarge Instances](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-documentdb-with-mongodb-compatibility-now-supports-large-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
