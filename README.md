@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [CloudWatch adds 14 new Metric math functions](https://aws.amazon.com/about-aws/whats-new/2021/06/cloudwatch-adds-new-metric-math-functions/)
 - [Amazon Connect launches API to configure quick connects programmatically](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-connect-launches-api-configure-quick-connects-programmatically/)
 - [AWS SAM launches machine learning inference templates for AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-sam-launches-machine-learning-inference-templates-for-aws-lambda/)
 - [Amazon DynamoDB Accelerator (DAX) now supports encryption in transit of data between your applications and DAX clusters, and between the nodes within a DAX cluster](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-dynamodb-accelerator--dax--now-supports-encryption-in-tra/)
 - [Amazon QLDB is now available in the Europe (London) region](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-qldb-is-now-available-in-the-europe-london-region/)
-- [AWS Network Firewall is now available in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-network-firewall-is-now-available-in-aws-govcloud-us/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
