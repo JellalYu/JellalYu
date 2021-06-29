@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Support for additional MXF mezzanine output formats now available with AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2021/06/support-for-additional-mfx-mezzanine-output-formats-available-with-aws-elemental-mediaconvert/)
 - [AWS WAF adds 15 new text transformations](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-waf-adds-15-new-text-transformations/)
 - [Amazon Connect Chat now supports Apple Business Chat (Generally Available)](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-connect-chat-now-supports-apple-business-chat-generally-available/)
 - [Amazon Neptune now supports copying DB cluster resources tags to DB snapshots](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-neptune-now-supports-copying-db-cluster-resources-tags-to-db-snapshots/)
 - [Amazon Rekognition Custom Labels adds support for KMS encryption of custom model training data](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rekognition-custom-labels-adds-support-for-kms-encryption-of-custom-model-training-data/)
-- [Amazon EC2 Inf1 instances - New features, improved performance and lower prices](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-ec2-inf1-instances-new-features-improved-performance-and-lower-prices/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
