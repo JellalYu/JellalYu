@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudFormation Modules are now available in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-cloudformation-modules-are-now-available-in-aws-govcloud-us/)
+- [AWS Lambda now supports SASL/PLAIN authentication for functions triggered from self-managed Apache Kafka](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-lambda-now-supports-sasl-plain-authentication-for-functions-triggered-from-self-managed-apache-kafka/)
 - [Support for HDR10+ for HEVC outputs is now available with AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2021/06/support-for-hdr10plus-for-hevc-outputs-available-with-aws-elemental-mediaconvert/)
 - [AWS Systems Manager now supports free text search for a node in the Session Manager console](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-systems-manager-supports-free-text-search-for-node-in-session-manager-console/)
 - [Support for additional MXF mezzanine output formats now available with AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2021/06/support-for-additional-mfx-mezzanine-output-formats-available-with-aws-elemental-mediaconvert/)
-- [AWS WAF adds 15 new text transformations](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-waf-adds-15-new-text-transformations/)
-- [Amazon Connect Chat now supports Apple Business Chat (Generally Available)](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-connect-chat-now-supports-apple-business-chat-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
