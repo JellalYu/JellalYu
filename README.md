@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Firewall Manager is now available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-firewall-manager-is-now-available-in-asia-pacific-osaka-region/)
+- [IAM Access Analyzer adds new policy checks to help validate conditions during IAM policy authoring](https://aws.amazon.com/about-aws/whats-new/2021/06/iam-access-analyzer-adds-new-policy-checks-help-validate-conditions-during-iam-policy-authoring/)
 - [AWS CloudFormation Modules are now available in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-cloudformation-modules-are-now-available-in-aws-govcloud-us/)
 - [AWS Lambda now supports SASL/PLAIN authentication for functions triggered from self-managed Apache Kafka](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-lambda-now-supports-sasl-plain-authentication-for-functions-triggered-from-self-managed-apache-kafka/)
 - [Support for HDR10+ for HEVC outputs is now available with AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2021/06/support-for-hdr10plus-for-hevc-outputs-available-with-aws-elemental-mediaconvert/)
-- [AWS Systems Manager now supports free text search for a node in the Session Manager console](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-systems-manager-supports-free-text-search-for-node-in-session-manager-console/)
-- [Support for additional MXF mezzanine output formats now available with AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2021/06/support-for-additional-mfx-mezzanine-output-formats-available-with-aws-elemental-mediaconvert/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
