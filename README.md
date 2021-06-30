@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GameLift announces BatchDistance rule update to FlexMatch](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-gamelift-announces-batchdistance-rule-update-to-flexmatch/)
 - [AWS DataSync can now copy system access control lists (SACLs) to Amazon FSx for Windows File Server](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-datasync-can-now-copy-system-access-control-lists-sacls-to-amazon-fsx-for-windows-file-server/)
 - [AWS introduces new framework-specific Deep Learning AMIs and backwards-compatible images](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-introduces-framework-specific-deep-learning-amis-backwards-compatible-images/)
 - [New AWS Solutions Implementation: Tag Tamer](https://aws.amazon.com/about-aws/whats-new/2021/06/new-aws-solutions-implementation-tag-tamer/)
 - [Sellers, consulting partners, and data providers from Hong Kong and Qatar now available in AWS Marketplace and AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2021/06/sellers-consulting-partners-and-data-providers-from-hong-kong-and-qatar-now-available-in-aws-marketplace-and-aws-data-exchange/)
-- [AWS Firewall Manager is now available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-firewall-manager-is-now-available-in-asia-pacific-osaka-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
