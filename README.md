@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS ParallelCluster now supports Ubuntu 20.04](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-parallelcluster-now-supports-ubuntu/)
 - [AWS Glue DataBrew now supports writing datasets from job runs directly into the AWS Glue Data Catalog](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-glue-databrew-now-supports-writing-datasets-from-jobs-directly-into-the-aws-glue-data-catalog/)
 - [AWS Amplify launches new full-stack CI/CD capabilities](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-amplify-launches-new-full-stack-ci-cd-capabilities/)
 - [AWS Amplify CLI adds support for storing environment variables and secrets accessed by AWS Lambda functions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-amplify-cli-adds-support-for-storing-environment-variables-and-secrets-accessed-by-aws-lambda-functions/)
 - [Sellers, consulting partners, and data providers from Hong Kong and Qatar now available in AWS Marketplace and AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2021/06/sellers-consulting-partners-and-data-providers-from-hong-kong-and-qatar-now-available-in-aws-marketplace-and-aws-data-exchange/)
-- [Amazon RDS for MariaDB supports new minor versions 10.2.37, 10.3.28, 10.4.18, and 10.5.9.](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-mariadb-supports-new-minor-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
