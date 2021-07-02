@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue Studio now provides data previews during visual job authoring](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-studio-now-provides-data-previews-during-visual-job-authoring/)
 - [Announcing Amazon Kendra Smaller Units and Price Drop](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-amazon-kendra-smaller-units-and-price-drop/)
 - [AWS ParallelCluster now supports Ubuntu 20.04](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-parallelcluster-now-supports-ubuntu/)
 - [AWS Glue DataBrew now supports writing datasets from job runs directly into the AWS Glue Data Catalog](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-glue-databrew-now-supports-writing-datasets-from-jobs-directly-into-the-aws-glue-data-catalog/)
 - [AWS Amplify launches new full-stack CI/CD capabilities](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-amplify-launches-new-full-stack-ci-cd-capabilities/)
-- [AWS Amplify CLI adds support for storing environment variables and secrets accessed by AWS Lambda functions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-amplify-cli-adds-support-for-storing-environment-variables-and-secrets-accessed-by-aws-lambda-functions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
