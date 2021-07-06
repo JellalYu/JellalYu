@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amplify Admin UI now supports importing existing Amazon Cognito User Pools and Identity Pools](https://aws.amazon.com/about-aws/whats-new/2021/07/amplify-admin-ui-now-supports-importing-existing-amazon-cognito-user-pools-and-identity-pools/)
+- [Amazon MQ for RabbitMQ now supports the consistent hash exchange type](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-mq-for-rabbitmq-now-supports-the-consistent-hash-exchange-type/)
 - [Amazon Athena adds parameterized queries to improve reusability and security](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-athena-adds-parameterized-queries-to-improve-reusability-and-security/)
 - [CloudWatch Container Insights for Amazon ECS now available in the AWS Middle East (Bahrain) region](https://aws.amazon.com/about-aws/whats-new/2021/07/cloudwatch-container-insights-for-amazon-ecs-available-in-aws-middle-east-bahrain-region/)
 - [Amazon Redshift launches RA3 in Hong Kong and China Regions (Beijing, Ningxia)](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-redshift-launches-ra3-in-hong-kong-and-china-regions-beijing-ningxia/)
-- [AWS Elemental MediaPackage extends its metadata passthrough capabilities](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-elemental-mediapackage-extends-its-metadata-passthrough-capabilities/)
-- [Amazon EKS managed node groups now supports parallel node upgrades](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-eks-managed-node-groups-now-supports-parallel-node-upgrades/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
