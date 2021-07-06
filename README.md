@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [CloudWatch Container Insights for Amazon ECS now available in the AWS Middle East (Bahrain) region](https://aws.amazon.com/about-aws/whats-new/2021/07/cloudwatch-container-insights-for-amazon-ecs-available-in-aws-middle-east-bahrain-region/)
 - [Amazon Redshift launches RA3 in Hong Kong and China Regions (Beijing, Ningxia)](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-redshift-launches-ra3-in-hong-kong-and-china-regions-beijing-ningxia/)
 - [AWS Elemental MediaPackage extends its metadata passthrough capabilities](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-elemental-mediapackage-extends-its-metadata-passthrough-capabilities/)
 - [Amazon EKS managed node groups now supports parallel node upgrades](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-eks-managed-node-groups-now-supports-parallel-node-upgrades/)
 - [AWS Glue Studio now provides data previews during visual job authoring](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-studio-now-provides-data-previews-during-visual-job-authoring/)
-- [Announcing Amazon Kendra Smaller Units and Price Drop](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-amazon-kendra-smaller-units-and-price-drop/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
