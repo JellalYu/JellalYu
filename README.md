@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 adds Resource Identifiers and Tags for VPC Security Group Rules](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-adds-resource-identifiers-tags-vpc-security-groups-rules/)
 - [AWS Lambda now supports Amazon MQ for RabbitMQ as an event source](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-lambda-now-supports-amazon-mq-for-rabbitmq-as-an-event-source/)
 - [The Amazon Chime SDK adds media capture pipelines to enable capture of meeting video, audio, and content streams](https://aws.amazon.com/about-aws/whats-new/2021/07/the-amazon-chime-sdk-adds-media-capture-pipelines-to-enable-capture-of-meeting-video-audio-and-content-streams/)
 - [Announcing the General Availability of AWS Local Zones in Dallas and Philadelphia](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-the-general-availability-of-aws-local-zones-in-dallas-and-philadelphia/)
 - [Amazon RDS for Oracle Supports Oracle Management Agent (OMA) version 13.5 for Oracle Enterprise Manager Cloud Control 13cR5](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-oracle-supports-oracle-management-agent-version-13-5-for-oracle-enterprise-manager-cloud-control-13cr5/)
-- [AWS AppConfig now enables customers to compare two application configuration versions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-appconfig-now-enables-customers-to-compare-two-application-configuration-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
