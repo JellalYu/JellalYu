@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Firewall Manager now supports central monitoring of VPC routes for AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-firewall-manager-supports-central-monitoring-of-vpc-routes-for-aws-network-firewall/)
 - [AWS IoT Core for LoRaWAN is now available in Sydney, Tokyo, and Oregon AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-core-for-lorawan-is-now-available-in-sydney-tokyo-and-oregon-aws-regions/)
 - [AWS lowers data processing charges for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-lowers-data-processing-charges-aws-privatelink/)
 - [AWS Amplify allows you to mix and match authorization modes in DataStore](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-amplify-mix-match-authorization-modes-datastore/)
 - [AWS Systems Manager Application Manager now supports full lifecycle management of AWS CloudFormation templates and stacks](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-systems-manager-application-manager-now-supports-full-lifecycle-management-of-aws-cloudformation-templates-and-stacks/)
-- [New digital course: Amazon S3 Business Continuity and Disaster Recovery](https://aws.amazon.com/about-aws/whats-new/2021/07/new-digital-course-amazon-s3-business-continuity-and-disaster-recovery/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
