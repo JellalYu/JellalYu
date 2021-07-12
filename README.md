@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cloud Map supports configuring negative caching for DNS queries](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-cloud-map-supports-configuring-negative-caching-for-dns-queries/)
+- [Amazon RDS for PostgreSQL Supports New Minor Versions 13.3, 12.7, 11.12, 10.17, and 9.6.22](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-for-postgresql-supports-new-minor-versions/)
 - [Amplify Flutter now supports Null Safety](https://aws.amazon.com/about-aws/whats-new/2021/07/amplify-flutter-now-supports-null-safety/)
 - [AWS AppSync Now Available in Asia Pacific (Osaka)](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-appsync-now-available-in-asia-pacific-osaka/)
 - [AWS Organizations increases quotas for tag policies](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-organizations-increases-quotas-tag-policies/)
-- [Amazon ml.Inf1 instances are now available on Amazon SageMaker in 4 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ml-inf1-instances-available-amazon-sagemaker-4-additional-aws-regions/)
-- [AWS Now Allows Customers To Pay For Their Usage in Advance](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-allows-customers-pay-their-usage-in-advance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
