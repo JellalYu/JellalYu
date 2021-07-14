@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS DeepRacer announces DeepRacer LIVE races](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-deepracer-announces-deepracer-live-races/)
 - [AWS Glue DataBrew is now available in AWS Asia Pacific (Hong Kong) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-available-aws-asia-pacific-hong-kong-region/)
 - [Now view inventory and patch compliance of stopped instances using AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2021/07/now-view-inventory-and-patch-compliance-of-stopped-instances-using-aws-systems-manager/)
 - [Amazon SageMaker Pipeline introduces a automatic hyperparameter tuning step](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-sagemaker-pipeline-introduces-a-automatic-hyperparameter-tuning-step/)
 - [AWS IoT Core for LoRaWAN now supports VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-core-lorawan-supports-vpc-endpoints/)
-- [NoSQL Workbench for Amazon DynamoDB now helps you run frequent operations more easily to modify and access table data](https://aws.amazon.com/about-aws/whats-new/2021/07/nosql-workbench-for-amazon-dynamodb-now-helps-you-run-frequent-o/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
