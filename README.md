@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Directory Service for Microsoft Active Directory and AD Connector are now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-directory-service-microsoft-active-directory-ad-connector-available-aws-asia-pacific-osaka-region/)
+- [Mark individual best practices as not applicable within the AWS Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2021/07/mark-individual-best-practices-as-not-applicable-within-the-aws-well-architected-tool/)
 - [AWS Certificate Manager provides expanded usage of imported ECDSA and RSA Certificates](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-certificate-manager-provides-expanded-usage-imported-ecdsa-rsa-certificates/)
 - [Amazon CloudFront now supports ECDSA certificates for HTTPS connections to viewers](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-cloudfront-now-supports-ecdsa-certificates-for-https-connections-to-viewers/)
 - [Amazon Kendra releases Principal Store for secure search](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-kendra-releases-principal-store-secure-search/)
-- [Amazon Lightsail now offers object storage for storing static content](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-lightsail-now-offers-object-storage-for-storing-static-content/)
-- [EC2 Image Builder now supports parameters in components for creating custom images](https://aws.amazon.com/about-aws/whats-new/2021/07/ec2-image-builder-supports-parameters-components-creating-custom-images/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
