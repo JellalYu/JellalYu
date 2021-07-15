@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaPackage Now Available in US East (Ohio) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-elemental-mediapackage-available-east-ohio-region/)
 - [New datasets available on the Registry of Open Data from the National Library of Medicine, Digital Earth Africa, Amazon, and others](https://aws.amazon.com/about-aws/whats-new/2021/07/new-public-datasets-available/)
 - [Amazon Lex launches support for Indian English](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-lex-launches-support-indian-english/)
 - [Amazon Data Lifecycle Manager launches new console experience](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-data-lifecycle-manager-launches-new-console-experience/)
 - [AWS App Mesh Constructs for AWS CDK are now generally available](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-app-mesh-constructs-for-aws-cdk-are-now-generally-available/)
-- [AWS Private Certificate Authority introduces integration with Kubernetes](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-private-certificate-authority-introduces-integration-with-kubernetes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
