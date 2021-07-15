@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing availability of event-driven workflows with AWS Glue and Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-availability-event-driven-workflows-aws-glue-amazon-eventbridge/)
+- [FreeRTOS AWS reference integrations now include FreeRTOS 202012.01 LTS libraries](https://aws.amazon.com/about-aws/whats-new/2021/07/freertos-aws-reference-integrations-now-include-freertos-lts-libraries/)
+- [Introducing AWS for Health](https://aws.amazon.com/about-aws/whats-new/2021/07/introducing-aws-for-health/)
 - [AWS CloudFormation now supports more stacks per AWS account](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-cloudformation-now-supports-more-stacks-per-aws-account/)
 - [Amazon HealthLake is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-healthlake-generally-available/)
-- [AWS IoT Core now supports VPC Endpoints](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-core-supports-vpc-endpoints/)
-- [AWS Directory Service for Microsoft Active Directory and AD Connector are now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-directory-service-microsoft-active-directory-ad-connector-available-aws-asia-pacific-osaka-region/)
-- [Mark individual best practices as not applicable within the AWS Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2021/07/mark-individual-best-practices-as-not-applicable-within-the-aws-well-architected-tool/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
