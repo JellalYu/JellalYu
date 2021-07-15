@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS App Mesh Constructs for AWS CDK are now generally available](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-app-mesh-constructs-for-aws-cdk-are-now-generally-available/)
+- [AWS Private Certificate Authority introduces integration with Kubernetes](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-private-certificate-authority-introduces-integration-with-kubernetes/)
+- [AWS IoT SiteWise is expanding its transforms and formula expressions capabilities](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-sitewise-expanding-transforms-formula-expressions-capabilities/)
 - [Announcing availability of event-driven workflows with AWS Glue and Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-availability-event-driven-workflows-aws-glue-amazon-eventbridge/)
 - [FreeRTOS AWS reference integrations now include FreeRTOS 202012.01 LTS libraries](https://aws.amazon.com/about-aws/whats-new/2021/07/freertos-aws-reference-integrations-now-include-freertos-lts-libraries/)
-- [Introducing AWS for Health](https://aws.amazon.com/about-aws/whats-new/2021/07/introducing-aws-for-health/)
-- [AWS CloudFormation now supports more stacks per AWS account](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-cloudformation-now-supports-more-stacks-per-aws-account/)
-- [Amazon HealthLake is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-healthlake-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
