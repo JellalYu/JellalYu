@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS License Manager announces distribution to AWS Organizations ID for AWS Marketplace customers](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-license-manager-announces-distribution-aws-organizations-id-aws-marketplace-customers/)
+- [AWS Systems Manager Automation now supports upgrade of SQL Server 2012](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-systems-manager-automation-supports-upgrade-sql-server/)
 - [AWS Glue DataBrew is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-hipaa-eligible/)
 - [AWS IoT SiteWise launches support for AWS PrivateLink for control plane APIs](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-sitewise-launches-support-aws-privatelink-control-plane-apis/)
 - [Amazon EC2 now supports custom time windows for Scheduled Events](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-supports-custom-time-windows-scheduled-events/)
-- [New AWS Solutions Implementation: Simple File Manager for Amazon EFS](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-solutions-implementation-simple-file-manager-amazon-efs/)
-- [AWS Elemental MediaPackage Now Available in US East (Ohio) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-elemental-mediapackage-available-east-ohio-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
