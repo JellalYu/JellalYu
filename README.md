@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Implementation: Tamper Proof Quality Data Using Amazon QLDB](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-solutions-implementation-tamper-proof-quality-data-using-amazon-qldb/)
 - [Amazon Athena expands Apache Hudi support](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-athena-expands-apache-hudi-support/)
 - [Amazon MQ now supports updating the maintenance window time](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-mq-supports-updating-maintenance-window-time/)
 - [AWS customers can now view all the labels supported by Amazon Rekognition](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-customers-view-all-labels-supported-amazon-rekognition/)
 - [Amazon SageMaker Edge Manager now integrates with AWS IoT Greengrass to simplify deployment to fleets of edge devices](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-sagemaker-edge-manager-integrates-aws-iot-greengrass-simplify-deployment-fleets-edge-devices/)
-- [AWS License Manager announces distribution to AWS Organizations ID for AWS Marketplace customers](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-license-manager-announces-distribution-aws-organizations-id-aws-marketplace-customers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
