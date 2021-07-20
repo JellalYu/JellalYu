@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift Data Sharing is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-redshift-data-sharing-available-aws-govcloud-us-regions/)
 - [AWS announces a new AWS Training Partner program](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-announces-a-new-aws-training-partner-program/)
 - [Amazon Transcribe now supports streaming transcription in Amazon Web Services China](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-transcribe-now-supports-streaming-transcription-amazon-web-services-china/)
 - [AWS Announces General Availability of Amazon EBS io2 Block Express Volumes](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-announces-general-availability-amazon-ebs-block-express-volumes/)
 - [New AWS Solutions Implementation: Tamper Proof Quality Data Using Amazon QLDB](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-solutions-implementation-tamper-proof-quality-data-using-amazon-qldb/)
-- [Amazon Athena expands Apache Hudi support](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-athena-expands-apache-hudi-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
