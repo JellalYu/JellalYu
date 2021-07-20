@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS and EKS Distro now support Kubernetes version 1.21](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-eks-eks-distro-support-kubernetes/)
+- [AWS CodeBuild is now available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-codebuild-is-now-available-in-aws-asia-pacific-osaka-region/)
 - [AWS IQ now supports chat response directly through email](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iq-supports-chat-response-directly-through-email/)
 - [Introducing AWS Edit in the Cloud](https://aws.amazon.com/about-aws/whats-new/2021/07/introducing-aws-edit-in-the-cloud/)
 - [AWS RoboMaker WorldForge now supports adding doors to indoor residential simulation worlds](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-robomaker-worldforge-supports-adding-doors-indoor-residential-simulation-worlds/)
-- [Amazon RDS Cross-Region Automated Backups Regional Expansion](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-cross-region-automated-backups-regional-expansion/)
-- [Amazon Redshift Data Sharing is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-redshift-data-sharing-available-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
