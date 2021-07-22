@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Virtual Private Cloud (VPC) customers can now assign IP prefixes to their EC2 instances](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-virtual-private-cloud-vpc-customers-can-assign-ip-prefixes-ec2-instances/)
+- [Simplify CI/CD configuration for serverless applications and your favorite CI/CD system — Public Preview](https://aws.amazon.com/about-aws/whats-new/2021/07/simplify-ci-cd-configuration-serverless-applications-your-favorite-ci-cd-system-public-preview/)
 - [Amazon Aurora PostgreSQL supports the pg_bigm extension for faster full text search in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-aurora-postgresql-supports-the-pg-bigm-extension-for-faster-full-text-search-in-aws-govcloud-us-regions/)
 - [Amazon Aurora PostgreSQL supports pg_cron extension for scheduling database jobs in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-aurora-postgresql-supports-pg-cron-extension-scheduling-database-jobs-aws-govcloud-us-regions/)
 - [Amazon Aurora Supports PostgreSQL 12.6, 11.11, 10.16, and 9.6.21 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-aurora-supports-postgresql-12-6-11-11-10-16-and-9-6-21-in-aws-govcloud-us-regions/)
-- [Announcing Automatic Revision Publishing for AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-automatic-revision-publishing-aws-data-exchange/)
-- [Amazon Athena announces data source connector for Power BI](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-athena-announces-data-source-connector-for-power-bi/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
