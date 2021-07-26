@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS App2Container now supports containerization of complex multi-tier Windows applications](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-app2container-now-supports-containerization-of-complex-multi-tier-windows-applications/)
+- [Updated versions of AWS IoT Device Tester for FreeRTOS and AWS IoT Device Tester for AWS IoT Greengrass are now available](https://aws.amazon.com/about-aws/whats-new/2021/07/updated-versions-aws-iot-device-tester-freertos-aws-iot-device-tester-aws-iot-greengrass-available/)
 - [Amazon S3 Access Points aliases allow any application that requires an S3 bucket name to easily use an access point](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-s3-access-points-aliases-allow-application-requires-s3-bucket-name-easily-use-access-point/)
 - [Amazon Connect CTI Adapter for Salesforce now provides guided setup](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-connect-cti-adapter-for-salesforce-now-provides-guided-setup/)
 - [Amazon SageMaker Autopilot and Automatic Model Tuning now support more refined access control using Condition Key Policies](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-sagemaker-autopilot-automatic-model-tuning-support-refined-access-control-using-condition-key-policies/)
-- [Amazon SageMaker JumpStart introduces new vision models for image feature vector extraction and object detection](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-sagemaker-jumpstart-introduces-new-vision-models-image-feature-vector-extraction-object-detection/)
-- [Amazon Aurora PostgreSQL supports the pg_partman extension for managing time or serial id based table partitioning in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-aurora-postgresql-supports-pg-partman-extension-managing-time-serial-id-base-table-partitioning-govcloud-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
