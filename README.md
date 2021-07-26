@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora PostgreSQL supports the pg_partman extension for managing time or serial id based table partitioning in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-aurora-postgresql-supports-pg-partman-extension-managing-time-serial-id-base-table-partitioning-govcloud-regions/)
 - [Discovering Hot Topics Using Machine Learning solution now allows businesses to analyze news article content for sentiment and topic analysis](https://aws.amazon.com/about-aws/whats-new/2021/07/discovering-hot-topics-using-machine-learning-solution-allows-businesses-analyze-news-article-content-sentiment-topic-analysis/)
 - [AWS Glue DataBrew now supports writing prepared data directly into JDBC-supported destinations](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-supports-writing-prepared-data-directly-into-jdbc-supported-destinations/)
 - [AWS Glue DataBrew adds the ability to specify which data quality statistics are generated for your datasets](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-adds-ability-specify-which-data-quality-statistics-generated-datasets/)
 - [Amazon Kendra releases WorkDocs Connector](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-kendra-releases-workdocs-connector/)
-- [Amazon QLDB supports customer managed KMS keys](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-qldb-supports-customer-managed-kms-keys/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
