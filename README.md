@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect CTI Adapter for Salesforce adds out-of-the-box chat user interface support to Salesforce Experience Cloud](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-connect-cti-adapter-salesforce-chat--user-interface-support-salesforce-experience-cloud/)
+- [AWS Snowcone now supports multicast streams and routing by providing instances with direct access to external networks](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-snowcone-now-supports-multicast-streams-and-routing-by-providing-instances-with-direct-access-to-external-networks/)
+- [Amazon Interactive Video Service adds SDK for live broadcasting from iOS and Android devices](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-interactive-video-service-adds-live-broadcasting-ios-android/)
 - [AWS Network Firewall achieves PCI DSS Compliance](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-network-firewall-achieves-pci-dss-compliance/)
 - [Amazon VPC CNI plugin increases pods per node limits](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-vpc-cni-plugin-increases-pods-per-node-limits/)
-- [AWS CloudTrail now supports logging of data events for Amazon EBS direct APIs](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-cloudtrail-supports-logging-data-events-amazon-ebs-direct-apis/)
-- [AWS Snowball now supports multicast streams and routing by providing instances with direct access to external networks](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-snowball-supports-multicast-streams-routing-providing-instances-direct-access-external-networks/)
-- [Amazon Virtual Andon 2.2 – A digital notification system for manufacturers](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-virtual-andon-2-2-digital-notification-system-manufacturers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
