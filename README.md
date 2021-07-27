@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Firewall achieves PCI DSS Compliance](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-network-firewall-achieves-pci-dss-compliance/)
+- [Amazon VPC CNI plugin increases pods per node limits](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-vpc-cni-plugin-increases-pods-per-node-limits/)
+- [AWS CloudTrail now supports logging of data events for Amazon EBS direct APIs](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-cloudtrail-supports-logging-data-events-amazon-ebs-direct-apis/)
 - [AWS Snowball now supports multicast streams and routing by providing instances with direct access to external networks](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-snowball-supports-multicast-streams-routing-providing-instances-direct-access-external-networks/)
 - [Amazon Virtual Andon 2.2 – A digital notification system for manufacturers](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-virtual-andon-2-2-digital-notification-system-manufacturers/)
-- [Announcing the General Availability of AWS Local Zones in Denver](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-the-general-availability-of-aws-local-zones-in-denver/)
-- [New course available: MLOps Engineering on AWS](https://aws.amazon.com/about-aws/whats-new/2021/07/new-course-available-mlops-engineering-on-aws/)
-- [New exam for AWS Certified SysOps Administrator - Associate](https://aws.amazon.com/about-aws/whats-new/2021/07/new-exam-for-aws-certified-sysops-administrator-associate/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
