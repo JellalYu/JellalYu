@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Control Tower now provides support for KMS Encryption](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-control-tower-provides-support-kms-encryption/)
-- [AWS MLOps Framework solution now supports Amazon SageMaker model registry and AWS Organizations Delegated Administrator Account to improve ML model management and governance](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-mlops-framework-solution-supports-amazon-sagemaker-model-registry-aws-organizations-delegated-administrator-account/)
-- [You can now import your AWS CloudFormation stacks into a CloudFormation stack set](https://aws.amazon.com/about-aws/whats-new/2021/07/you-can-now-import-your-aws-cloudformation-stacks-into-a-cloudformation-stack-set/)
-- [Amazon CodeGuru Profiler announces new automated onboarding process for AWS Lambda functions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-codeguru-profiler-announces-automated-onboarding-process-aws-lambda-functions/)
-- [AWS Service Catalog announces improvements to the Getting Started Library](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-service-catalog-announces-improvements-getting-started-library/)
+- [AWS Amplify now supports Sign in with Apple](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-amplify-now-supports-sign-in-with-apple/)
+- [AWS Glue DataBrew is now available in AWS Europe (Milan) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-is-now-available-in-aws-europe-milan-region/)
+- [AWS DataSync is now available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-datasync-now-available-aws-osaka-region/)
+- [Amazon DynamoDB Accelerator (DAX) is now available in the China (Beijing) Region, operated by Sinnet](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-dynamodb-accelerator-dax-is-now-available-in-the-china-beijing-region/)
+- [Amazon DynamoDB global tables are now available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-dynamodb-global-tables-are-now-available-in-the-asia-paci/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
