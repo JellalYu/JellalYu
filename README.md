@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Placement Groups are now available on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-placement-groups-are-now-available-on-aws-outposts/)
+- [Amazon Data Lifecycle Manager now supports CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-data-lifecycle-manager-supports-cloudwatch-metrics/)
 - [AWS Amplify now supports Sign in with Apple](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-amplify-now-supports-sign-in-with-apple/)
 - [AWS Glue DataBrew is now available in AWS Europe (Milan) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-is-now-available-in-aws-europe-milan-region/)
 - [AWS DataSync is now available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-datasync-now-available-aws-osaka-region/)
-- [Amazon DynamoDB Accelerator (DAX) is now available in the China (Beijing) Region, operated by Sinnet](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-dynamodb-accelerator-dax-is-now-available-in-the-china-beijing-region/)
-- [Amazon DynamoDB global tables are now available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-dynamodb-global-tables-are-now-available-in-the-asia-paci/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
