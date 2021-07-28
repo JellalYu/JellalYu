@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Single Sign-On is now available in the Europe CDG (Paris) region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-single-sign-on-is-now-available-in-the-europe-cdg-paris-region/)
 - [AWS Single Sign-On is now available in the Europe CDG (Paris) region](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-single-sign-on-is-now-available-in-the-europe-cdg-paris-region/)
 - [FreeRTOS 202107.00 includes SNTP library for time information in IoT applications](https://aws.amazon.com/about-aws/whats-new/2021/07/freertos-202107-00-includes-sntp-library-time-information-tot-applications/)
 - [Amazon Lex announces support for UK Postal Code built-in slot type](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-lex-announces-support-uk-postal-code-built-in-slot-type/)
 - [Amazon Route 53 announces Route 53 Application Recovery Controller](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-route-53-announces-route-53-application-recovery-controller/)
-- [Announcing support for JOIN operation in AWS IoT Analytics Data Stores](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-support-join-operation-aws-iot-analytics-data-stores/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
