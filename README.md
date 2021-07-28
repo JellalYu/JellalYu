@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CodeGuru Profiler announces new automated onboarding process for AWS Lambda functions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-codeguru-profiler-announces-automated-onboarding-process-aws-lambda-functions/)
 - [AWS Service Catalog announces improvements to the Getting Started Library](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-service-catalog-announces-improvements-getting-started-library/)
 - [Announcing CDK Pipelines GA, CI/CD for CDK Apps](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-cdk-pipelines-ga-ci-cd-cdk-apps/)
 - [Announcing availability of AWS Outposts in Argentina, Chile, and Peru](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-availability-aws-outposts-argentina-chile-peru/)
 - [Announcing new AWS Developer Specializations on Coursera](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-new-aws-developer-specializations-on-coursera/)
-- [AWS MLOps Framework solution now supports Amazon SageMaker model registry and AWS Organizations Delegated Administrator Account to improve ML model management and governance](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-mlops-framework-solution-supports-amazon-sagemaker-model-registry-aws-organizations-delegated-administrator-account/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
