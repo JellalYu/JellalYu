@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune now supports the openCypher query language](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-neptune-supports-opencypher/)
 - [Amazon Neptune ML is now generally available with support for edge predictions, automation, and more](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-neptune-ml-generally-available-support-edge-predictions-automation-and-more/)
 - [Amazon CloudWatch adds support for trimmed mean statistics](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-cloudwatch-supports-trimmed-mean-statistics/)
 - [Amazon Neptune announces support for SPARQL 1.1 Graph Store HTTP Protocol](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-neptune-announces-support-sparql-1-1-graph-store-http-protocol/)
 - [Amazon EC2 D3 instances with dense local HDD storage now available in Europe (London) region](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-d3-instances-dense-local-hdd-storage-available-europe-london-region/)
-- [Amazon EC2 Placement Groups are now available on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-placement-groups-are-now-available-on-aws-outposts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
