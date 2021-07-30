@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server Now Supports Two New Parameter Changes For Full-Text Search](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-sql-server-supports-two-new-parameter-changes-full-text-search/)
 - [Amazon Elastic Block Store now supports idempotent volume creation](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-elastic-block-store-now-supports-indempotent-volume-creation/)
 - [AWS Security Hub adds 10 new controls to its Foundational Security Best Practices standard for enhanced cloud security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-security-hub-adds-10-controls-foundational-security-best-practices-standard-enhanced-cloud-security-posture-monitoring/)
 - [Amazon Keyspaces (for Apache Cassandra) now automatically optimizes client connections made through AWS PrivateLink to improve availability and read/write throughput](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-keyspaces-for-apache-cassandra-now-automatically-optimi/)
 - [Amazon Rekognition Custom Labels makes it easy for customers to learn how to train machine learning models by providing tutorial videos, and sample datasets](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rekognition-custom-labels-customers-learn-train-machine-learning-models-providing-tutorial-videos-sample-datasets/)
-- [The Amazon DynamoDB Accelerator (DAX) SDK for Java 2.x is now available](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-dynamodb-accelerator-dax-sdk-for-java-2-x-is-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
