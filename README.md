@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon WorkSpaces Adds Support for USB YubiKey Universal 2nd Factor (U2F) Authentication on PCoIP Windows WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-workspaces-support-usb-yubikey-universal-second-factor-u2f-authentication-pcoip-windows-workspaces/)
+- [Agents can now set their next status while still on an active contact in Amazon Connect](https://aws.amazon.com/about-aws/whats-new/2021/07/agents-set-next-status-while-on-active-contact-amazon-connect/)
 - [AWS IoT Core Credential Provider now supports security tokens that are valid up to 12 hours](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-core-credential-provider-supports-security-tokens-valid-12-hours/)
 - [Amazon WorkSpaces now offers web access with WorkSpaces Streaming Protocol (WSP)](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-workspaces-now-offers-web-access-with-workspaces-streaming-protocol-wsp/)
 - [AWS AppSync now supports custom authorization with AWS Lambda for GraphQL APIs](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-appsync-supports-custom-authorization-with-aws-lambda-graphsql-apis/)
-- [Amazon RDS for Oracle now supports Oracle Time Zone File Auto Upgrade](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-oracle-supports-oracle-time-zone-file-auto-upgrade/)
-- [AWS Control Tower announces improvements to guardrail naming and descriptions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-control-tower-announces-improvements-guardrail-naming-descriptions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
