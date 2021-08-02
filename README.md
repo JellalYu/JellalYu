@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra is now IRAP assessed at PROTECTED level](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-kendra-now-irap-assessed-protected-level/)
 - [AWS Storage Gateway now supports Quest NetVault Backup 13 on Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-storage-gateway-supports-quest-netvault-backup-13-tape-gateway/)
 - [Amazon Redshift simplifies the use of JDBC/ODBC with authentication profile](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-redshift-simplifies-use-jdbc-odbc-authentication-profile/)
 - [Amazon WorkSpaces Adds Support for USB YubiKey Universal 2nd Factor (U2F) Authentication on PCoIP Windows WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-workspaces-support-usb-yubikey-universal-second-factor-u2f-authentication-pcoip-windows-workspaces/)
 - [Agents can now set their next status while still on an active contact in Amazon Connect](https://aws.amazon.com/about-aws/whats-new/2021/07/agents-set-next-status-while-on-active-contact-amazon-connect/)
-- [AWS IoT Core Credential Provider now supports security tokens that are valid up to 12 hours](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-core-credential-provider-supports-security-tokens-valid-12-hours/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
