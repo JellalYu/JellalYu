@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Copilot now supports custom domain names for App Runner Services and other enhancements](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-copilot-supports-custom-domain-names-app-runner-services-other-enhancements/)
+- [Amazon SageMaker Pipelines now supports invoking AWS Lambda Functions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-pipelines-supports-invoking-aws-lambda-functions/)
+- [Amazon GameLift announces General Availability of Game Server Hosting and Multiplayer Services in AWS China (Ningxia) Region, operated by NWCD](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-gamelift-announces-general-availability-game-server-hosting-multiplayer-services-aws-china-ningxia-region/)
 - [AWS License Manager now supports Delegated Administrator](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-license-manager-supports-delegated-administrator/)
 - [Announcing Amazon Transcribe Call Analytics API for conversation insights](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-amazon-transcribe-call-analytics-api-conversation-insights/)
-- [Managed entitlements now available for AWS Data Exchange products in AWS License Manager](https://aws.amazon.com/about-aws/whats-new/2021/08/managed-entitlements-available-aws-data-exchange-products-aws-license-manager/)
-- [AWS Cloud9 introduces new features to browse CloudWatch Logs, S3, and use EC2 instance profiles](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-cloud9-introduces-features-browse-cloudwatch-logs-s3-ec2-instance-profiles/)
-- [New AWS Solutions Implementation: SQL-based ETL with Apache Spark on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2021/08/new-aws-solutions-implementation-sql-based-etl-apache-spark-amazon-eks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
