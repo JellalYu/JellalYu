@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cloud9 introduces new features to browse CloudWatch Logs, S3, and use EC2 instance profiles](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-cloud9-introduces-features-browse-cloudwatch-logs-s3-ec2-instance-profiles/)
+- [New AWS Solutions Implementation: SQL-based ETL with Apache Spark on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2021/08/new-aws-solutions-implementation-sql-based-etl-apache-spark-amazon-eks/)
 - [AWS Data Streaming Solution for Amazon MSK adds support for AWS IAM to streamline access control management](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-data-streaming-solution-amazon-msk-support-aws-iam-streamline-access-control-management/)
 - [Announcing Amplify Geo (Developer Preview) for AWS Amplify](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-amplify-geo-developer-preview-aws-amplify/)
 - [Amazon Redshift extends Automatic Table Optimization to support Column Compression Encoding](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-redshift-automatic-table-optimization-column-compression-encoding/)
-- [AWS SiteWise now supports custom time intervals for metric aggregations](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-sitewise-supports-custom-time-intervals-metric-aggregations/)
-- [Amazon EKS now supports Multus](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-eks-now-supports-multus/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
