@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Auto Scaling enhances Instance Refresh with configuration checks, Launch Template validation, and Amazon EventBridge notifications](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-auto-scaling-enhances-instance-refresh-configuration-checks-launch-template-validation-amazon-eventbridge-notifications/)
+- [Amazon CloudWatch Synthetics supports visual monitoring](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-cloudwatch-synthetics-supports-visual-monitoring/)
 - [Amazon FSx is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-fsx-is-now-available-in-the-aws-asia-pacific-osaka-region/)
 - [Private Connectivity for AWS NAT Gateway is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/private-connectivity-aws-nat-gateway-available-aws-govcloud-us-regions/)
 - [AWS Lambda now supports up to 10 GB of memory and 6 vCPU cores in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-lambda-supports-10-gb-memory-6-vcpu-cores-aws-govcloud-us-regions/)
-- [Athena can now write query results in Parquet, Avro, ORC and JSON formats](https://aws.amazon.com/about-aws/whats-new/2021/08/athena-can-write-query-results-parquet-avro-orc-json-formats/)
-- [Introducing 79 new resource types in the CloudFormation Registry](https://aws.amazon.com/about-aws/whats-new/2021/08/introducing-79-new-resource-types-cloudformation-registry/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
