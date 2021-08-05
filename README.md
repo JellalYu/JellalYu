@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-fsx-is-now-available-in-the-aws-asia-pacific-osaka-region/)
+- [Private Connectivity for AWS NAT Gateway is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/private-connectivity-aws-nat-gateway-available-aws-govcloud-us-regions/)
+- [AWS Lambda now supports up to 10 GB of memory and 6 vCPU cores in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-lambda-supports-10-gb-memory-6-vcpu-cores-aws-govcloud-us-regions/)
 - [Athena can now write query results in Parquet, Avro, ORC and JSON formats](https://aws.amazon.com/about-aws/whats-new/2021/08/athena-can-write-query-results-parquet-avro-orc-json-formats/)
 - [Introducing 79 new resource types in the CloudFormation Registry](https://aws.amazon.com/about-aws/whats-new/2021/08/introducing-79-new-resource-types-cloudformation-registry/)
-- [Amazon S3 on Outposts now supports sharing across multiple accounts](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-s3-outposts-supports-sharing-across-multiple-accounts/)
-- [Announcing new AWS Wavelength Zones in Chicago, Houston, and Phoenix](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-new-aws-wavelength-zones-chicago-houston-phoenix/)
-- [Optimize personalized recommendations for the business metric of your choice with Amazon Personalize](https://aws.amazon.com/about-aws/whats-new/2021/08/optimize-personalized-recommendations-business-metric-choice-amazon-personalize/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
