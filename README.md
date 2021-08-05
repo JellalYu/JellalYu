@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing new AWS Wavelength Zones in Chicago, Houston, and Phoenix](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-new-aws-wavelength-zones-chicago-houston-phoenix/)
+- [Optimize personalized recommendations for the business metric of your choice with Amazon Personalize](https://aws.amazon.com/about-aws/whats-new/2021/08/optimize-personalized-recommendations-business-metric-choice-amazon-personalize/)
+- [Announcing Amazon CloudWatch cross account alarms](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-amazon-cloudwatch-cross-account-alarms/)
 - [Introducing Machine to Cloud Connectivity Framework v3.0](https://aws.amazon.com/about-aws/whats-new/2021/08/introducing-machine-cloud-connectivity-framework-v3-0/)
 - [AWS Copilot now supports custom domain names for App Runner Services and other enhancements](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-copilot-supports-custom-domain-names-app-runner-services-other-enhancements/)
-- [Amazon SageMaker Pipelines now supports invoking AWS Lambda Functions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-pipelines-supports-invoking-aws-lambda-functions/)
-- [Amazon GameLift announces General Availability of Game Server Hosting and Multiplayer Services in AWS China (Ningxia) Region, operated by NWCD](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-gamelift-announces-general-availability-game-server-hosting-multiplayer-services-aws-china-ningxia-region/)
-- [AWS License Manager now supports Delegated Administrator](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-license-manager-supports-delegated-administrator/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
