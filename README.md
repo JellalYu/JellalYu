@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager OpsCenter launches operational insights to identify duplicate items and event sources with unusual activity](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-systems-manager-opscenter-operational-insights-identify-duplicate-items-event-sources-unusual-activity/)
+- [Now enable auto-approval of change requests and expedite changes with AWS Systems Manager Change Manager](https://aws.amazon.com/about-aws/whats-new/2021/08/enable-auto-approval-change-requests-expedite-changes-aws-systems-manager-change-manager/)
 - [Amazon RDS Proxy can now be created in a shared Virtual Private Cloud (VPC)](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rds-proxy-created-shared-virtual-private-cloud-vpc/)
 - [Amazon Rekognition Video segment detection now supports four new segment types, improves accuracy](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rekognition-video-segment-detection-supports-new-segment-types-improves-accuracy/)
 - [Amazon Athena is now available in the AWS Asia Pacific (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-athena-available-aws-asia-pacific-osaka-region/)
-- [Contact Lens for Amazon Connect can now categorize contacts with contact attributes and integrates with Tasks and EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/08/contact-lens-amazon-connect-categorize-contacts-contact-attributes-integrates-tasks-eventbridge/)
-- [Amazon EC2 Auto Scaling enhances Instance Refresh with configuration checks, Launch Template validation, and Amazon EventBridge notifications](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-auto-scaling-enhances-instance-refresh-configuration-checks-launch-template-validation-amazon-eventbridge-notifications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
