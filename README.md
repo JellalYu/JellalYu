@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS interactive EC2 Serial Console is now available in more commercial regions and AWS GovCloud (US) regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-interactive-ec2-serial-console-available-commercial-regions-aws-govcloud-us-regions/)
 - [AWS Amplify Hosting announces support for Next.js version 11](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-amplify-hosting-support-next-js-version-11/)
 - [AWS WAF now offers managed rule group versioning](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-waf-offers-managed-rule-group-versioning/)
 - [Train custom entity recognition models with fewer training documents with Amazon Comprehend](https://aws.amazon.com/about-aws/whats-new/2021/08/train-custom-entity-recognition-models-fewer-training-documents-amazon-comprehend/)
 - [Amazon WorkSpaces announces the availability of quota information through Service Quotas](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-workspaces-availability-quota-information-through-service-quotas/)
-- [AWS Systems Manager OpsCenter launches operational insights to identify duplicate items and event sources with unusual activity](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-systems-manager-opscenter-operational-insights-identify-duplicate-items-event-sources-unusual-activity/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
