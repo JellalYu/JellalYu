@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker introduces one-click model inference and fine-tuning for Hugging Face models in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-one-click-model-inference-fine-tuning-hugging-face-models-amazon-sagemaker-jumpstart/)
 - [Amazon CloudWatch Logs now supports Usage Metrics](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-cloudwatch-logs-now-supports-usage-metrics/)
 - [AWS interactive EC2 Serial Console is now available in more commercial regions and AWS GovCloud (US) regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-interactive-ec2-serial-console-available-commercial-regions-aws-govcloud-us-regions/)
 - [AWS Amplify Hosting announces support for Next.js version 11](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-amplify-hosting-support-next-js-version-11/)
 - [AWS WAF now offers managed rule group versioning](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-waf-offers-managed-rule-group-versioning/)
-- [Train custom entity recognition models with fewer training documents with Amazon Comprehend](https://aws.amazon.com/about-aws/whats-new/2021/08/train-custom-entity-recognition-models-fewer-training-documents-amazon-comprehend/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
