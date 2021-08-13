@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue DataBrew now supports numerical format transformations](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-supports-numerical-format-transformations/)
+- [AWS Glue DataBrew now supports writing prepared data into AWS Lake Formation based AWS Glue Data Catalog tables](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-lake-formation-aws-glue-data-catalog-tables/)
 - [Announcing S3 Transfer Manager Preview release in the AWS SDK for Java 2.x](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-s3-transfer-manager-preview-release-in-the-aws-sdk-for-java/)
 - [Amazon API Gateway now supports mutual TLS with certificates from third-party CAs and ACM Private CA](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-api-gateway-now-supports-mutual-tls-certificates-from-third-party-cas-and-acm-private-ca/)
 - [AWS Glue DataBrew now supports writing prepared data into Tableau Hyper format](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-tableau-hyper-format/)
-- [AWS Glue DataBrew now supports logical conditions as transformations](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-logical-conditions-transformations/)
-- [CodeBuild Supports Publicly Viewable Build Results](https://aws.amazon.com/about-aws/whats-new/2021/08/codebuild-supports-publicly-viewable-build-results/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
