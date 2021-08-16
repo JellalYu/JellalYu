@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda adds support for Python 3.9](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-lambda-adds-support-python-3-9/)
 - [AWS Elastic Beanstalk supports Capacity Rebalancing for Amazon EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-elastic-beanstalk-capacity-rebalancing-amazon-ec2-spot-instances/)
 - [Amazon RDS for SQL Server now supports Automatic Minor Version Upgrades](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rds-sql-server-supports-automatic-minor-version-upgrades/)
 - [Amazon EC2 Inf1 instances now supports TensorFlow 2](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-inf1-instances-supports-tensorflow-2/)
 - [Announcing General Availability of Amazon Redshift Cross-account Data Sharing](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-general-availability-amazon-redshift-cross-account-data-sharing/)
-- [AWS Glue DataBrew now supports writing prepared data into AWS Lake Formation-based AWS Glue Data Catalog S3 tables](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-lake-formation-aws-glue-data-catalog-tables/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
