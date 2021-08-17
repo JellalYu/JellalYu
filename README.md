@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New release of AWS IoT Device SDK for Embedded C simplifies authentication and provisioning of IoT devices](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-sdk-embedded-c/)
+- [AWS Marketplace enhances ISV self-service authorization of Consulting Partners](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-marketplace-enhances-isv-self-service-authorization-consulting-partners/)
 - [AWS Directory Service now supports smart card authentication with AD Connector for Amazon WorkSpaces in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-directory-service-supports-smart-card-authentication-ad-connector-amazon-workspaces-additional-aws-regions/)
 - [Introducing Amazon EC2 M6i instances](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/)
 - [Detect multicollinearity and easily export results in a few clicks with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2021/08/detect-multicollinearity-amazon-sagemaker-data-wrangler/)
-- [AWS Lambda adds support for Python 3.9](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-lambda-adds-support-python-3-9/)
-- [AWS Elastic Beanstalk supports Capacity Rebalancing for Amazon EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-elastic-beanstalk-capacity-rebalancing-amazon-ec2-spot-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
