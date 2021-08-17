@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 customers can now use ED25519 keys for authentication during instance connectivity operations](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-customers-ed25519-keys-authentication/)
+- [AWS Transfer Family expands compatibility for FTPS/FTP clients and increases limit for number of servers](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-transfer-family-ftps-ftp-clients-number-servers/)
 - [Fully customizable action space now available in AWS DeepRacer Console](https://aws.amazon.com/about-aws/whats-new/2021/08/customizable-action-space-aws-deepracer-console/)
 - [Amazon CodeGuru Profiler extends visualizations capability with a new  compare option for application profile](https://aws.amazon.com/about-aws/whats-new/2021/08/codeguru-extends-capability-application-profile/)
 - [Amazon WorkSpaces Renews Windows Desktop Experience with Windows Server 2019 bundles and 64-bit Microsoft Office 2019](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-workspaces-renews-windows-desktop-experience-windows-server-2019-bundles-64-bit-microsoft-office-2019/)
-- [AWS CDK releases v1.111.0 - v1.116.0 with updates for unit testing and CDK Pipelines support](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-cdk-testing-support-cdk-pipelines/)
-- [AWS Systems Manager Fleet Manager now offers report generation for Managed Instances](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-systems-manager-fleet-manager-managed-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
