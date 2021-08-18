@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Customer Profiles is now HIPPA eligible](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-connect-customer-profiles-hippa-eligible/)
 - [Announcing regional launch of IoT Analytics in Asia Pacific (Mumbai) region](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-regional-launch-iot-analytics-asia-pacific-mumbai-region/)
 - [AWS Security Hub adds 18 new controls to its Foundational Security Best Practices standard and 8 new partners for enhanced cloud security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-security-hub-adds-18-new-controls-foundational-security-best-practices-standard-8-new-partners-enhanced-cloud-security-posture-monitoring/)
 - [AWS Glue Studio is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-studio-now-available-aws-govcloud-us-regions/)
 - [Amazon EC2 customers can now use ED25519 keys for authentication during instance connectivity operations](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-customers-ed25519-keys-authentication/)
-- [AWS Transfer Family expands compatibility for FTPS/FTP clients and increases limit for number of servers](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-transfer-family-ftps-ftp-clients-number-servers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
