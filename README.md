@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon MemoryDB for Redis](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-memorydb-redis/)
+- [Amazon EC2 Hibernation adds support for C5d, M5d, and R5d Instances](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-hibernation-c5d-m5d-r5d-instances/)
 - [Introducing optimized Spark 3.1 runtime for data integration with AWS Glue 3.0](https://aws.amazon.com/about-aws/whats-new/2021/08/spark-3-1-runtime-aws-glue-3-0/)
 - [Amazon SageMaker notebook instance now supports Amazon Linux 2](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-notebook-amazon-linux-2/)
 - [AWS Cost Categories introduces Split Charge rules for allocation of shared costs](https://aws.amazon.com/about-aws/whats-new/2021/08/cost-categories-split-charge-rules-allocation/)
-- [AWS Managed Services (AMS) Accelerate Operations Plan is now available in the AWS Europe (Stockholm) Region](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-managed-services-accelerate-operations-plan-aws-europe-stockholm-region/)
-- [Redshift spatial performance enhancements and new spatial functions](https://aws.amazon.com/about-aws/whats-new/2021/08/redshift-spatial-performance-spatial-functions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
