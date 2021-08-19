@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker notebook instance now supports Amazon Linux 2](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-notebook-amazon-linux-2/)
+- [AWS Cost Categories introduces Split Charge rules for allocation of shared costs](https://aws.amazon.com/about-aws/whats-new/2021/08/cost-categories-split-charge-rules-allocation/)
+- [AWS Managed Services (AMS) Accelerate Operations Plan is now available in the AWS Europe (Stockholm) Region](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-managed-services-accelerate-operations-plan-aws-europe-stockholm-region/)
 - [Redshift spatial performance enhancements and new spatial functions](https://aws.amazon.com/about-aws/whats-new/2021/08/redshift-spatial-performance-spatial-functions/)
 - [Amazon Connect Customer Profiles is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-connect-customer-profiles-hipaa-eligible/)
-- [Announcing regional launch of IoT Analytics in Asia Pacific (Mumbai) region](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-regional-launch-iot-analytics-asia-pacific-mumbai-region/)
-- [AWS Security Hub adds 18 new controls to its Foundational Security Best Practices standard and 8 new partners for enhanced cloud security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-security-hub-adds-18-new-controls-foundational-security-best-practices-standard-8-new-partners-enhanced-cloud-security-posture-monitoring/)
-- [AWS Glue Studio is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-studio-now-available-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
