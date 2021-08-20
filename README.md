@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Supports PostgreSQL 9.6.22, 10.17, 11.12, and 12.7](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-aurora-supports-postgresql-new-versions/)
+- [Amazon Aurora PostgreSQL now supports oracle_fdw extension](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-aurora-postgresql-supports-oracle-fdw-extension/)
 - [Introducing Amazon SageMaker Asynchronous Inference, a new inference option for workloads with large payload sizes and long inference processing times](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-asynchronous-new-inference-option/)
 - [IAM Access Analyzer helps you generate IAM policies based on access activity found in your organization trail](https://aws.amazon.com/about-aws/whats-new/2021/08/iam-access-analyzer-generate-iam-policies/)
 - [Announcing Amazon Forecast Weather Index for Asia-Pacific](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-forecast-weather-index-asia-pacific/)
-- [Amazon ElastiCache for Redis now supports auto scaling](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-elasticache-redis/)
-- [EC2 VM Import/Export now supports migration of virtual machines with Unified Extensible Firmware Interface (UEFI) boot to AWS](https://aws.amazon.com/about-aws/whats-new/2021/08/ec2-vm-import-export-unified-extensible-firmware-interface-aws/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
