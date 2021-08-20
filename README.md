@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon Forecast Weather Index for Asia-Pacific](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-forecast-weather-index-asia-pacific/)
+- [Amazon ElastiCache for Redis now supports auto scaling](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-elasticache-redis/)
 - [EC2 VM Import/Export now supports migration of virtual machines with Unified Extensible Firmware Interface (UEFI) boot to AWS](https://aws.amazon.com/about-aws/whats-new/2021/08/ec2-vm-import-export-unified-extensible-firmware-interface-aws/)
 - [Announcing Amazon MemoryDB for Redis](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-memorydb-redis/)
 - [Amazon EC2 Hibernation adds support for C5d, M5d, and R5d Instances](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-hibernation-c5d-m5d-r5d-instances/)
-- [Introducing optimized Spark 3.1 runtime for data integration with AWS Glue 3.0](https://aws.amazon.com/about-aws/whats-new/2021/08/spark-3-1-runtime-aws-glue-3-0/)
-- [Amazon SageMaker notebook instance now supports Amazon Linux 2](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-notebook-amazon-linux-2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
