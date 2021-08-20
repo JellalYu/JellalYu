@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Amazon SageMaker Asynchronous Inference, a new inference option for workloads with large payload sizes and long inference processing times](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-asynchronous-new-inference-option/)
 - [IAM Access Analyzer helps you generate IAM policies based on access activity found in your organization trail](https://aws.amazon.com/about-aws/whats-new/2021/08/iam-access-analyzer-generate-iam-policies/)
 - [Announcing Amazon Forecast Weather Index for Asia-Pacific](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-forecast-weather-index-asia-pacific/)
 - [Amazon ElastiCache for Redis now supports auto scaling](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-elasticache-redis/)
 - [EC2 VM Import/Export now supports migration of virtual machines with Unified Extensible Firmware Interface (UEFI) boot to AWS](https://aws.amazon.com/about-aws/whats-new/2021/08/ec2-vm-import-export-unified-extensible-firmware-interface-aws/)
-- [Announcing Amazon MemoryDB for Redis](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-memorydb-redis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
