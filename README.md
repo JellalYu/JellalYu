@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Greengrass v2.4 release includes new features for provisioning large device fleets and managing device software resources](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-greengrass-v-2-4/)
 - [Send data from SAP applications to AWS services using Amazon Appflow](https://aws.amazon.com/about-aws/whats-new/2021/08/sap-applications-aws-services-amazon-appflow/)
 - [Amazon Aurora Supports PostgreSQL 9.6.22, 10.17, 11.12, and 12.7](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-aurora-supports-postgresql-new-versions/)
 - [Amazon Aurora PostgreSQL now supports oracle_fdw extension](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-aurora-postgresql-supports-oracle-fdw-extension/)
 - [Introducing Amazon SageMaker Asynchronous Inference, a new inference option for workloads with large payload sizes and long inference processing times](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-asynchronous-new-inference-option/)
-- [IAM Access Analyzer helps you generate IAM policies based on access activity found in your organization trail](https://aws.amazon.com/about-aws/whats-new/2021/08/iam-access-analyzer-generate-iam-policies/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
