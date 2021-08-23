@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Database Migration Service now supports automatic segmentation using MongoDB and Amazon DocumentDB (with MongoDB compatibility) as a source](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-segmentation-mongodb/)
+- [Amazon Data Lifecycle Manager now automates deprecation of Amazon Machine Images (AMIs)](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-data-lifecycle-manager-automates-deprecation-ami/)
 - [Amazon EC2 M6i instances are now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances-us-west-asia-pacific/)
 - [AWS Database Migration Service now supports MongoDB 4.2 and 4.4 as sources](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-service-mongodb-4-2-and-4-4/)
 - [AWS Database Migration Service now supports parallel threads when using Redshift as a target during full load](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-service-redshift-target/)
-- [AWS Database Migration Service now supports Redis as a target](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-service-supports-redis-target/)
-- [AWS IoT Greengrass v2.4 release includes new features for provisioning large device fleets and managing device software resources](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-greengrass-v-2-4/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
