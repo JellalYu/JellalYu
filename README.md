@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Database Migration Service now supports MongoDB 4.2 and 4.4 as sources](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-service-mongodb-4-2-and-4-4/)
+- [AWS Database Migration Service now supports parallel threads when using Redshift as a target during full load](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-service-redshift-target/)
+- [AWS Database Migration Service now supports Redis as a target](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-service-supports-redis-target/)
 - [AWS IoT Greengrass v2.4 release includes new features for provisioning large device fleets and managing device software resources](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-greengrass-v-2-4/)
 - [Send data from SAP applications to AWS services using Amazon Appflow](https://aws.amazon.com/about-aws/whats-new/2021/08/sap-applications-aws-services-amazon-appflow/)
-- [Amazon Aurora Supports PostgreSQL 9.6.22, 10.17, 11.12, and 12.7](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-aurora-supports-postgresql-new-versions/)
-- [Amazon Aurora PostgreSQL now supports oracle_fdw extension](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-aurora-postgresql-supports-oracle-fdw-extension/)
-- [Introducing Amazon SageMaker Asynchronous Inference, a new inference option for workloads with large payload sizes and long inference processing times](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-asynchronous-new-inference-option/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
