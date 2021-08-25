@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK adds metrics for increased visibility of capacity](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-msk-adds-metrics-increased-visibility-capacity/)
 - [Amazon RDS for PostgreSQL Supports Boolean DB Parameter Expressions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rds-postgresql-boolean-parameter/)
 - [Comprehend launches support for tagging with analysis jobs](https://aws.amazon.com/about-aws/whats-new/2021/08/comprehend-launches-support-tagging-analysis-jobs/)
 - [Amazon Elasticsearch Service now supports three Availability Zone deployments in AWS GovCloud (US-EAST) Region](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-elasticsearch-service-availability-zone-deployments-aws-govcloud-us-east-region/)
 - [AWS IoT Core now supports MQTT retained messages](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-core-supports-mqtt-retained-messages/)
-- [Amazon Transcribe now supports resource tagging for better access control](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-transcribe-resource-tagging/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
