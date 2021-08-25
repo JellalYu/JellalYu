@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Comprehend launches support for tagging with analysis jobs](https://aws.amazon.com/about-aws/whats-new/2021/08/comprehend-launches-support-tagging-analysis-jobs/)
+- [Amazon Elasticsearch Service now supports three Availability Zone deployments in AWS GovCloud (US-EAST) Region](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-elasticsearch-service-availability-zone-deployments-aws-govcloud-us-east-region/)
 - [AWS IoT Core now supports MQTT retained messages](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-core-supports-mqtt-retained-messages/)
 - [Amazon Transcribe now supports resource tagging for better access control](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-transcribe-resource-tagging/)
 - [Amazon Polly launches Aria, a New Zealand English neural text-to-speech voice](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-polly-launches-aria-new-zealand-english-neural-text-speech-voice/)
-- [Introducing the new AWS Level 1 MSSP Competency](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-level-1-mssp-competency/)
-- [Introducing AWS Backup Audit Manager](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-backup-audit-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
