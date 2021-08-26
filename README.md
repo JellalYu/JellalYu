@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora supports PostgreSQL 13](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-aurora-postgresql-13/)
+- [Amazon Textract announces reduced pricing of up to 32% on AnalyzeDocument and DetectDocumentText requests in eight global AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-textract-reduced-pricing-analyzedocument-detectdocumenttext-region-expansion/)
 - [AWS Snowcone is now available in the AWS Asia Pacific (Singapore) and AWS Asia Pacific (Tokyo) regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snowcone-aws-asia-pacific/)
 - [Amazon SageMaker Model Registry now supports Inference Pipelines](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-model-registry-inference-pipelines/)
 - [The new Amazon DynamoDB console is now your default experience to help you manage data and resources more easily](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-dynamodb-console-manage-data-resources/)
-- [IPv6 endpoints are now available for the Amazon EC2 Instance Metadata Service, Amazon Time Sync Service, and Amazon VPC DNS Server](https://aws.amazon.com/about-aws/whats-new/2021/08/Ipv6-amazon-ec2-metadata-time-sync-vpc-dns/)
-- [IAM Access Analyzer helps you generate fine-grained policies that specify the required actions for more than 50 services](https://aws.amazon.com/about-aws/whats-new/2021/08/iam-access-analyzer-expands-services/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
