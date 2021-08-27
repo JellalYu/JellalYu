@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing custom widgets for CloudWatch dashboards](https://aws.amazon.com/about-aws/whats-new/2021/08/custom-widgets-amazon-cloudwatch-dashboards/)
+- [Amazon Virtual Private Cloud (VPC) customers can now resize their prefix list](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-vpc-resize-prefix-list/)
 - [AWS Glue DataBrew is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-aws-govcloud-us-west-region/)
 - [Amazon Transcribe now supports speech to text in 6 new languages - Afrikaans, Danish, Mandarin Chinese (Taiwan), Thai, New Zealand English, and South African English](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-transcribe-speech-text-new-languages/)
 - [Amazon Rekognition improves the accuracy of celebrity recognition, adds new attributes](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rekognition-improves-celebrity-recognition-attributes/)
-- [AWS Compute Optimizer Now Helps Customers Understand Impact of Migrating to Graviton2-based Instances](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-optimizer-migrating-graviton2-Instances/)
-- [Amazon Aurora supports PostgreSQL 13](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-aurora-postgresql-13/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
