@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EC2 Image Builder supports Amazon EventBridge notifications](https://aws.amazon.com/about-aws/whats-new/2021/08/ec2-image-builder-amazon-eventbridge/)
+- [Amazon Aurora supports PostgreSQL 13 in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-aurora-postgresql-13-3-govcloud/)
 - [AWS IoT SiteWise announces support for new Timestamp function, PreTrigger function and ability to write nested expressions within aggregation functions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-sitewise-timestamp-pretrigger/)
 - [Announcing custom widgets for CloudWatch dashboards](https://aws.amazon.com/about-aws/whats-new/2021/08/custom-widgets-amazon-cloudwatch-dashboards/)
 - [Amazon Virtual Private Cloud (VPC) customers can now resize their prefix list](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-vpc-resize-prefix-list/)
-- [AWS Glue DataBrew is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-aws-govcloud-us-west-region/)
-- [Amazon Transcribe now supports speech to text in 6 new languages - Afrikaans, Danish, Mandarin Chinese (Taiwan), Thai, New Zealand English, and South African English](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-transcribe-speech-text-new-languages/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
