@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudFormation introduces the option to troubleshoot provisioning errors before rollback, accelerating deployments](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-cloudformation-troubleshoot-errors/)
 - [EC2 Image Builder supports Amazon EventBridge notifications](https://aws.amazon.com/about-aws/whats-new/2021/08/ec2-image-builder-amazon-eventbridge/)
 - [Amazon Aurora supports PostgreSQL 13 in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-aurora-postgresql-13-3-govcloud/)
 - [AWS IoT SiteWise announces support for new Timestamp function, PreTrigger function and ability to write nested expressions within aggregation functions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-sitewise-timestamp-pretrigger/)
 - [Announcing custom widgets for CloudWatch dashboards](https://aws.amazon.com/about-aws/whats-new/2021/08/custom-widgets-amazon-cloudwatch-dashboards/)
-- [Amazon Virtual Private Cloud (VPC) customers can now resize their prefix list](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-vpc-resize-prefix-list/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
