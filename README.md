@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports July 2021 Patch Set Update (PSU) for 12.1 and Release Updates (RU) for 12.2 and 19c](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rds-oracle-psu-12-1-ru-12-2-19c/)
+- [AWS IoT Device Management announces new fleet monitoring enhancements](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-device-management-fleet-monitoring/)
+- [AWS Distro for OpenTelemetry adds support for Amazon ECS in Amazon CloudWatch Container Insights and metrics support for AWS Lambda applications in Amazon Managed Prometheus (Preview)](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-distro-opentelemetry-amazon-ecs-cloudwatch-lambda-prometheus/)
 - [AWS Systems Manager enables additional application management capabilities](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-systems-manager-application-management-capabilities/)
 - [Introducing Dynamic Partitioning in Amazon Kinesis Data Firehose](https://aws.amazon.com/about-aws/whats-new/2021/08/introducing-dynamic-partitioning-amazon-kinesis-data-firehose/)
-- [AWS Launch Wizard now supports additional deployment capabilities to meet DevOps and organizational requirements](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-launch-wizard-deployment-capabilities-expanded/)
-- [AWS Copilot now supports Pub/Sub architectures](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-copilot-pub-sub-architectures/)
-- [Amazon Managed Workflows for Apache Airflow (MWAA) Available in Canada, London, Paris, Sao Paulo, Seoul, and Mumbai Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-managed-workflows-apache-airflow-mwaa/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
