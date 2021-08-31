@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Copilot now supports Pub/Sub architectures](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-copilot-pub-sub-architectures/)
+- [Amazon Managed Workflows for Apache Airflow (MWAA) Available in Canada, London, Paris, Sao Paulo, Seoul, and Mumbai Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-managed-workflows-apache-airflow-mwaa/)
 - [Amazon VPC Announces New Routing Enhancements to Make It Easy to Deploy Virtual Appliances Between Subnets In a VPC](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-vpc-subnets/)
 - [AWS Backint Agent now supports Amazon S3 Intelligent Tiering, sending log and data backups to separate folders, and Ansible](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-backint-agent-amazon-s3-intelligent-tiering-ansible/)
 - [AWS CloudFormation introduces the option to troubleshoot provisioning errors before rollback, accelerating deployments](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-cloudformation-troubleshoot-errors/)
-- [EC2 Image Builder supports Amazon EventBridge notifications](https://aws.amazon.com/about-aws/whats-new/2021/08/ec2-image-builder-amazon-eventbridge/)
-- [Amazon Aurora supports PostgreSQL 13 in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-aurora-postgresql-13-3-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
