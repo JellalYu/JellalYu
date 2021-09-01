@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaTailor now supports time based schedules for Channel Assembly streams](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-elemental-mediatailor-channel-assembly-streams/)
 - [NICE DCV releases version 2021.2](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-nice-dcv-version-2021-2/)
 - [NICE DCV releases web client SDK 1.0.3](https://aws.amazon.com/about-aws/whats-new/2021/09/nice-dcv-web-client-sdk-1-0-3/)
 - [Amazon Polly offers full support in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-polly-aws-africa-cape-town-region/)
 - [AWS Lambda now supports AWS PrivateLink in previously unsupported Availability Zones](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-lambda-privatelink-zones/)
-- [Amazon SageMaker now supports M5d, R5, and P3dn instances for SageMaker Studio Notebooks](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-supports-m5d-r5-p3dn-instances-sagemaker-studio-notebooks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
