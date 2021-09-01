@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Firewall Manager now supports AWS WAF log filtering](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-firewall-manager-aws-waf-log-filtering/)
 - [AWS announces General Availability of Amazon Managed Grafana with SAML 2.0 and Grafana v8.0 features](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-managed-grafana-saml-2-0-grafana-v-8-0/)
 - [Amazon RDS for Oracle now supports July 2021 Patch Set Update (PSU) for 12.1 and Release Updates (RU) for 12.2 and 19c](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rds-oracle-psu-12-1-ru-12-2-19c/)
 - [AWS IoT Device Management announces new fleet monitoring enhancements](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-device-management-fleet-monitoring/)
 - [AWS Distro for OpenTelemetry adds support for Amazon ECS in Amazon CloudWatch Container Insights and metrics support for AWS Lambda applications in Amazon Managed Prometheus (Preview)](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-distro-opentelemetry-amazon-ecs-cloudwatch-lambda-prometheus/)
-- [AWS Systems Manager enables additional application management capabilities](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-systems-manager-application-management-capabilities/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
