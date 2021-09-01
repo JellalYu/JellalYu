@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [NICE DCV releases version 2021.2](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-nice-dcv-version-2021-2/)
+- [NICE DCV releases web client SDK 1.0.3](https://aws.amazon.com/about-aws/whats-new/2021/09/nice-dcv-web-client-sdk-1-0-3/)
 - [Amazon Polly offers full support in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-polly-aws-africa-cape-town-region/)
 - [AWS Lambda now supports AWS PrivateLink in previously unsupported Availability Zones](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-lambda-privatelink-zones/)
 - [Amazon SageMaker now supports M5d, R5, and P3dn instances for SageMaker Studio Notebooks](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-supports-m5d-r5-p3dn-instances-sagemaker-studio-notebooks/)
-- [AWS Security Hub Automated Response and Remediation adds support for PCI-DSS v3.2.1 Security Standard](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-security-hub-automated-response-remediation-pci-dss-v3-2-1-security-standard/)
-- [Amazon CloudWatch Application Insights adds support for Microsoft SQL Server FCI and FSx storage](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-application-insights-microsoft-sql-server-fci-fsx-storage/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
