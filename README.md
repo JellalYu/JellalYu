@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Database Migration Service now supports migrating multiple databases in one task using MongoDB as a source](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-database-migration-service-mongodb-source/)
 - [Amazon Monitron launches a new ethernet gateway device](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-monitron-ethernet-gateway-device/)
 - [Amazon RDS for MariaDB supports new minor versions 10.5.12, 10.4.21, 10.3.31, 10.2.40](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-mariadb-new-minor-versions/)
 - [Amazon SageMaker is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-aws-asia-pacific-osaka-region/)
 - [Updated AWS Solutions Implementation: AWS CloudEndure Migration Factory Solution](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-solutions-implementation-aws-cloudendure-migration-factory-solution/)
-- [Amazon S3 Intelligent-Tiering further automates storage cost savings by removing the minimum storage duration and monitoring and automation charge for small objects](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-s3-intelligent-tiering-automates-storage-savings/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
