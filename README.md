@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Cross-account event discovery for Amazon EventBridge schema registry](https://aws.amazon.com/about-aws/whats-new/2021/09/cross-account-discovery-amazon-eventbridge-schema/)
+- [New full-text search non-string indexing capabilities for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2021/09/new-capabilities-amazon-neptune/)
 - [Amazon Aurora Supports PostgreSQL 9.6.22, 10.17, 11.12, and 12.7 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-supports-postgresql-versions-aws-govcloud-regions/)
 - [ACM Private CA now supports the Online Certificate Status Protocol (OCSP)](https://aws.amazon.com/about-aws/whats-new/2021/09/acm-private-ca-online-certificate-ocsp/)
 - [Amazon EMR Studio is now HIPAA eligible and HITRUST certified](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-emr-studio-hipaa-hitrust/)
-- [Amazon Aurora PostgreSQL now supports oracle_fdw extension in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-postgresql-oracle-fdw-aws-govcloud-us-regions/)
-- [AWS Database Migration Service now supports migrating multiple databases in one task using MongoDB as a source](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-database-migration-service-mongodb-source/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
