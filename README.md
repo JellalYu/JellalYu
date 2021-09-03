@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Supports PostgreSQL 9.6.22, 10.17, 11.12, and 12.7 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-supports-postgresql-versions-aws-govcloud-regions/)
+- [ACM Private CA now supports the Online Certificate Status Protocol (OCSP)](https://aws.amazon.com/about-aws/whats-new/2021/09/acm-private-ca-online-certificate-ocsp/)
+- [Amazon EMR Studio is now HIPAA eligible and HITRUST certified](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-emr-studio-hipaa-hitrust/)
 - [Amazon Aurora PostgreSQL now supports oracle_fdw extension in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-postgresql-oracle-fdw-aws-govcloud-us-regions/)
 - [AWS Database Migration Service now supports migrating multiple databases in one task using MongoDB as a source](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-database-migration-service-mongodb-source/)
-- [Amazon Monitron launches a new ethernet gateway device](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-monitron-ethernet-gateway-device/)
-- [Amazon RDS for MariaDB supports new minor versions 10.5.12, 10.4.21, 10.3.31, 10.2.40](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-mariadb-new-minor-versions/)
-- [Amazon SageMaker is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-aws-asia-pacific-osaka-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
