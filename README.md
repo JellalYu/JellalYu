@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server now supports MSDTC JDBC XA for SQL Server 2017 CU16+ and SQL Server 2019](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rds-sql-server-msdtc-jdbc-xa-sql-server-2017-cu16-plus-sql-server-2019/)
 - [Cross-account event discovery for Amazon EventBridge schema registry](https://aws.amazon.com/about-aws/whats-new/2021/09/cross-account-discovery-amazon-eventbridge-schema/)
 - [New full-text search non-string indexing capabilities for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2021/09/new-capabilities-amazon-neptune/)
 - [Amazon Aurora Supports PostgreSQL 9.6.22, 10.17, 11.12, and 12.7 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-supports-postgresql-versions-aws-govcloud-regions/)
 - [ACM Private CA now supports the Online Certificate Status Protocol (OCSP)](https://aws.amazon.com/about-aws/whats-new/2021/09/acm-private-ca-online-certificate-ocsp/)
-- [Amazon EMR Studio is now HIPAA eligible and HITRUST certified](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-emr-studio-hipaa-hitrust/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
