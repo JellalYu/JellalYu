@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Elastic Kubernetes Service Anywhere is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elastic-kubernetes-service/)
+- [Amazon EKS Connector is now in public preview](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-eks-connector-public-preview/)
+- [AWS Firewall Manager Automations for AWS Organizations v1.1 is now available](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-firewall-manager-automations-aws-organizations-v1-1/)
 - [AWS CDK releases v1.117.0 - v1.120.0 with improved support for Amazon Kinesis Firehose, Amazon CloudFront, Amazon Cognito, and more](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cdk-versions-amazon-kinesis-cloudfront-cognito/)
 - [Amazon Detective offers Splunk integration](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-detective-splunk-integration/)
-- [Cloud9 is now available in 2 more regions](https://aws.amazon.com/about-aws/whats-new/2021/09/cloud9-available-more-regions/)
-- [Support for multi-key encryption now available with AWS Elemental MediaPackage and SPEKE v2.0](https://aws.amazon.com/about-aws/whats-new/2021/09/multi-key-encryption-aws-elemental-mediapackage-speke-2-0/)
-- [Amazon Pinpoint now supports encrypted SNS topics for inbound SMS](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-pinpoint-encrypted-sns-topics-inbound-sms/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
