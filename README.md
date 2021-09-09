@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server now supports MSDTC JDBC XA for SQL Server 2017 CU16+ and SQL Server 2019](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-sql-server-msdtc-jdbc-xa-sql-server-2017-cu16-plus-sql-server-2019/)
+- [Amazon EC2 Hibernation adds support for Red Hat Enterprise Linux 8, CentOS 8, and Fedora 34](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-hibernation-red-hat-enterprise-linux-8-centos-8-fedora-34/)
 - [AWS announces enhancements to the AWS Marketplace Consulting Partner Private Offer self-service experience.](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-enhancements-marketplace-consulting-partner-private-offer/)
 - [AWS Cloud Map now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-cloud-map-aws-govcloud-us-regions/)
 - [Introducing Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-fsx-netapp-ontap/)
-- [Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now supports Index Transforms](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-opensearch-index-transforms/)
-- [OpenSearch Dashboards Notebooks, a new visual reporting feature, now available on Amazon OpenSearch Service (successor to Amazon Elasticsearch Service)](https://aws.amazon.com/about-aws/whats-new/2021/09/opensearch-dashboards-notebooks-amazon-opensearch-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
