@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now supports Index Transforms](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-opensearch-index-transforms/)
+- [Introducing Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-fsx-netapp-ontap/)
 - [OpenSearch Dashboards Notebooks, a new visual reporting feature, now available on Amazon OpenSearch Service (successor to Amazon Elasticsearch Service)](https://aws.amazon.com/about-aws/whats-new/2021/09/opensearch-dashboards-notebooks-amazon-opensearch-service/)
 - [Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now supports Data Streams with OpenSearch 1.0 to simplify management of time-series data](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-opensearch-1-0-elasticsearch-data-streams/)
 - [Amazon Elasticsearch Service is now Amazon OpenSearch Service; adds support for OpenSearch 1.0](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elasticsearch-service-amazon-opensearch-service-opensearch-1-0/)
-- [Announcing the General Availability of AWS Local Zones in Chicago, Kansas City, and Minneapolis](https://aws.amazon.com/about-aws/whats-new/2021/09/general-availability-aws-local-zones/)
-- [AWS Marketplace launches aliases for all single AMI products](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-marketplace-ami-products/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
