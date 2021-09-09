@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 I3en Instances are Now Available in AWS Regions in the Middle East (Bahrain), South Africa (Cape Town), and Europe (Milan)](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-i3en-instances-aws-regions/)
 - [AWS Gateway Load Balancer achieves PCI DSS Compliance](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-gateway-load-balancer-pci-dss-compliance/)
 - [Amazon Lex launches support for Korean](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-lex-launches-support-korean/)
 - [Amazon EC2 announces increases for instance network bandwidth](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-increases-instance-network-bandwith/)
 - [AWS Amplify announces command hooks to execute custom scripts when running Amplify CLI commands](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-amplify-command-hooks-custom-scripts-cli/)
-- [Ability to customize reverse DNS for Elastic IP addresses now available in additional regions for Virtual Private Cloud customers](https://aws.amazon.com/about-aws/whats-new/2021/09/dns-elastic-ip-addresses-virtual-private-cloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
