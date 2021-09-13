@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SES now supports emails with a message size of up to 40MB](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ses-emails-message-40mb/)
+- [Amazon Connect adds near real-time insights into voice call, chat, and task activity in the Canada (Central) region](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-real-time-insights-canada-central-region/)
 - [Contact Lens for Amazon Connect adds support for 8 languages](https://aws.amazon.com/about-aws/whats-new/2021/09/contact-lens-amazon-connect-adds-languages/)
 - [AWS CodeBuild now supports a small ARM machine type](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-codebuild-small-arm-machine-type/)
 - [Amazon Aurora Serverless v1 supports configurable autoscaling timeout](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-serverless-v1-autoscaling-timeout/)
-- [Announcing general availability of Amazon EC2 VT1 instances - the first EC2 instance optimized for video transcoding](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-vt1-instances-video-transcoding/)
-- [AWS Health Aware (AHA) is now available for Organizational and Personal AWS Accounts to customize Health Alerts](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-health-aware-organizational-personal-aws-accounts-aws-health-alerts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
