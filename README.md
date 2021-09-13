@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Contact Lens for Amazon Connect adds support for 8 languages](https://aws.amazon.com/about-aws/whats-new/2021/09/contact-lens-amazon-connect-adds-languages/)
+- [AWS CodeBuild now supports a small ARM machine type](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-codebuild-small-arm-machine-type/)
 - [Amazon Aurora Serverless v1 supports configurable autoscaling timeout](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-serverless-v1-autoscaling-timeout/)
 - [Announcing general availability of Amazon EC2 VT1 instances - the first EC2 instance optimized for video transcoding](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-vt1-instances-video-transcoding/)
 - [AWS Health Aware (AHA) is now available for Organizational and Personal AWS Accounts to customize Health Alerts](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-health-aware-organizational-personal-aws-accounts-aws-health-alerts/)
-- [Amazon Aurora now supports AWS Graviton2-based T4g instances](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-supports-aws-graviton2-based-t4g-instances/)
-- [Amazon Aurora now supports AWS Graviton2-based X2g instances](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-supports-aws-graviton2-based-x2g-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
