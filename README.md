@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IQ now supports AWS Certified experts and consulting firms located in the UK & France](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iq-aws-certified-experts-consulting-firms-uk-france/)
+- [Amazon RDS now supports X2g instances for MySQL, MariaDB, and PostgreSQL databases.](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-x2g-mysql-mariadb-postgresql/)
 - [Amazon CloudWatch Application Insights adds account application auto-discovery and new health dashboard](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-application-insights-account-application-health-dashboard/)
 - [Announcing Build on AWS for Startups](https://aws.amazon.com/about-aws/whats-new/2021/09/announcing-build-aws-startups/)
 - [AWS Lake Formation is now available in Asia Pacific (Osaka)](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-lake-formation-asia-pacific-osaka/)
-- [Extract custom entities from documents in their native format with Amazon Comprehend](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-comprehend-extract-entities-native-format/)
-- [Amazon Timestream is now in scope for AWS SOC Reports](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-timestream-scope-aws-soc-reports/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
