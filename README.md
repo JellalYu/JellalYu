@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Application Insights adds account application auto-discovery and new health dashboard](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-application-insights-account-application-health-dashboard/)
+- [Announcing Build on AWS for Startups](https://aws.amazon.com/about-aws/whats-new/2021/09/announcing-build-aws-startups/)
 - [AWS Lake Formation is now available in Asia Pacific (Osaka)](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-lake-formation-asia-pacific-osaka/)
 - [Extract custom entities from documents in their native format with Amazon Comprehend](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-comprehend-extract-entities-native-format/)
 - [Amazon Timestream is now in scope for AWS SOC Reports](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-timestream-scope-aws-soc-reports/)
-- [Announcing Amazon Redshift RSQL, a command line client for interacting with Amazon Redshift clusters and databases](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-redshift-rsql-amazon-redshift-clusters-databases/)
-- [Amazon EC2 T3 instances are now supported on EC2 Dedicated Hosts in multiple AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-t3-instances-hosts-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
