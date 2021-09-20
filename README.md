@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces General Availability of the Amazon GameLift Plug-in and AWS CloudFormation Templates for Unity](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-amazon-gamelift-plug-in-aws-cloudformation-templates-unity/)
 - [Now authenticate Amazon EMR Studio users using IAM-based authentication or IAM Federation, in addition to AWS Single Sign-On](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-emr-studio-iam-based-authentication-identity-federation/)
 - [Amazon QuickSight launches Dataset-as-a-Source](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-quicksight-dataset-source/)
 - [Amazon MSK now supports running multiple authentication modes and updates to TLS encryption settings](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-msk-multiple-authentication-modes-tls-encryption-settings/)
 - [AWS RoboMaker now supports container images in simulation](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-robomaker-supports-container-images-simulation/)
-- [Amazon CloudWatch request metrics for Amazon S3 Access Points now available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-metrics-s3-access-points/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
