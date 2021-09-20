@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elastic Beanstalk supports Dynamic Instance Type Selection](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-elastic-beanstalk-dynamic-instance-type-selection/)
 - [Amazon Detective supports S3 and DNS finding types, adds finding details](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-detective-s3-dns/)
 - [Amazon Connect Chat now supports passing a customer display name and contact attributes through the chat user interface](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-chat-customer-contact-interface/)
 - [Amazon Redshift Cross-Account Data Sharing is now generally available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-redshift-cross-account-data-sharing-aws-govcloud-us-regions/)
 - [AWS announces General Availability of the Amazon GameLift Plug-in and AWS CloudFormation Templates for Unity](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-amazon-gamelift-plug-in-aws-cloudformation-templates-unity/)
-- [Now authenticate Amazon EMR Studio users using IAM-based authentication or IAM Federation, in addition to AWS Single Sign-On](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-emr-studio-iam-based-authentication-identity-federation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
