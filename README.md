@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [SageMaker Studio enables interactive Spark based data processing from Studio Notebooks](https://aws.amazon.com/about-aws/whats-new/2021/09/sagemaker-studio-spark-data-processing-studio-notebooks/)
 - [Optimize your Amazon Forecast model with the accuracy metric of your choice](https://aws.amazon.com/about-aws/whats-new/2021/09/optimize-amazon-forecast-model-accuracy-metric/)
 - [AWS Elastic Beanstalk supports Dynamic Instance Type Selection](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-elastic-beanstalk-dynamic-instance-type-selection/)
 - [Amazon Detective supports S3 and DNS finding types, adds finding details](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-detective-s3-dns/)
 - [Amazon Connect Chat now supports passing a customer display name and contact attributes through the chat user interface](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-chat-customer-contact-interface/)
-- [Amazon Redshift Cross-Account Data Sharing is now generally available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-redshift-cross-account-data-sharing-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
