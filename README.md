@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Comprehend announces model management and evaluation enhancements](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-comprehend-model-management-enhancements/)
+- [AWS Site-to-Site VPN releases updated Download Configuration utility](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-site-to-site-vpn-download-configuration-utility/)
 - [AWS Amplify CLI and Admin UI is now generally available in US West (N. California), Europe (Paris), Europe (Stockholm), South America (São Paulo), and Middle East (Bahrain)](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-amplify-cli-admin-ui-extended-regions/)
 - [SageMaker Studio enables interactive Spark based data processing from Studio Notebooks](https://aws.amazon.com/about-aws/whats-new/2021/09/sagemaker-studio-spark-data-processing-studio-notebooks/)
 - [Optimize your Amazon Forecast model with the accuracy metric of your choice](https://aws.amazon.com/about-aws/whats-new/2021/09/optimize-amazon-forecast-model-accuracy-metric/)
-- [AWS Elastic Beanstalk supports Dynamic Instance Type Selection](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-elastic-beanstalk-dynamic-instance-type-selection/)
-- [Amazon Detective supports S3 and DNS finding types, adds finding details](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-detective-s3-dns/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
