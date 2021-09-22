@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lex announces utterances statistics for bots built using Lex V2 console and API](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-lex-statistics-bots-lex-v2-console-api/)
+- [Amazon EC2 Fleet instant mode now supports targeted Amazon EC2 On-Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-fleet-instant-mode-ec2-on-demand-capacity-reservations/)
+- [AWS IoT Device Defender announces Audit One-Click](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iot-device-defender-audit-one-click/)
 - [AWS Single Sign-On is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-single-sign-on-aws-govcloud-us-west-region/)
 - [Amazon Lex is now available in the Asia Pacific (Seoul) and Africa (Cape Town) regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-lex-asia-pacific-africa-regions/)
-- [Amazon EMR Studio now supports multi-language Jupyter-based notebooks for Spark workloads](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-emr-studio-multi-language-jupyter-notebooks-spark-workloads/)
-- [AWS Ground Station announces Licensing Accelerator](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-ground-station-license-accelerator/)
-- [Amazon ECR adds the ability to replicate individual repositories to other regions and accounts](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ecr-replicate-individual-repositories-regions-accounts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
