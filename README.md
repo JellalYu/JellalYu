@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Customer Profiles adds product purchase history to personalize customer interactions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-customer-profiles-product-purchase-history/)
 - [Amazon ElastiCache now supports M6g and R6g Graviton2-based instances in additional regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elasticache-m6g-r6g-graviton2-regions/)
 - [AQUA is now available for Amazon Redshift RA3.xlplus nodes](https://aws.amazon.com/about-aws/whats-new/2021/09/aqua-amazon-redshift-ra3-xlplus-nodes/)
 - [Customers can now manage AWS Service Catalog AppRegistry applications in AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-service-catalog-appregistry-aws-systems-manager/)
 - [Announcing General Availability of Tracing Support in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-availability-distro-opentelemetry-tracing-support/)
-- [Amazon Simple Email Service is now available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-simple-email-service-osaka-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
