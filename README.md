@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Simple Email Service is now available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-simple-email-service-osaka-region/)
+- [AWS WAF now offers in-line regular expressions](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-waf-in-line-regular-expressions/)
 - [Amazon DynamoDB now provides you more granular control of audit logging by enabling you to filter Streams data-plane API activity in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-dynamodb-granular-control-audit-logging-streams-data-plane-api-activity-aws-cloudtrail/)
 - [Amazon Lex announces utterances statistics for bots built using Lex V2 console and API](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-lex-statistics-bots-lex-v2-console-api/)
 - [Amazon EC2 Fleet instant mode now supports targeted Amazon EC2 On-Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-fleet-instant-mode-ec2-on-demand-capacity-reservations/)
-- [AWS IoT Device Defender announces Audit One-Click](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iot-device-defender-audit-one-click/)
-- [AWS Single Sign-On is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-single-sign-on-aws-govcloud-us-west-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
