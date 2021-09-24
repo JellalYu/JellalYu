@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Storage Gateway simplifies tape management for Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-storage-gateway-tape-management-gateway/)
 - [Now Use Lifecycle Configurations to Customize Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2021/09/lifecycle-configurations-customize-amazon-sagemaker/)
 - [Amazon ElastiCache for Redis now supports auto scaling in 17 additional public regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elasticache-redis-auto-scaling-17-regions/)
 - [AWS announces availability of Microsoft Windows Server 2022 images on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-microsoft-windows-server-2022-amazon-ec2/)
 - [Amazon QuickSight Q is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-quicksight-q-generally-available/)
-- [Amazon Macie adds support for selecting managed data identifiers](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-macie-managed-data-identifiers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
