@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup simplifies recovery point deletions](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-backup-recovery-point-deletions/)
+- [Amazon RDS for Oracle now supports Oracle Application Express (APEX) Version 21.1](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-oracle-oracle-application-express-apex-version-21-1/)
+- [Amazon RDS for Oracle now supports sqlnet.ora client parameters for the Oracle Native Network Encryption (NNE)option](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-oracle-sqlnet-ora-client-parameters-oracle-native-network-encryption-nne-option/)
 - [AWS IoT Device Defender now supports Detect alarm verification states](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iot-device-defender-detect-alarm-verification-states/)
 - [AWS Storage Gateway simplifies tape management for Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-storage-gateway-tape-management-gateway/)
-- [Now Use Lifecycle Configurations to Customize Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2021/09/lifecycle-configurations-customize-amazon-sagemaker/)
-- [Amazon ElastiCache for Redis now supports auto scaling in 17 additional public regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elasticache-redis-auto-scaling-17-regions/)
-- [AWS announces availability of Microsoft Windows Server 2022 images on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-microsoft-windows-server-2022-amazon-ec2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
