@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Now auto-terminate idle EMR clusters to lower cost](https://aws.amazon.com/about-aws/whats-new/2021/09/auto-terminate-idle-emr-clusters/)
 - [AWS Backup simplifies recovery point deletions](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-backup-recovery-point-deletions/)
 - [Amazon RDS for Oracle now supports Oracle Application Express (APEX) Version 21.1](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-oracle-oracle-application-express-apex-version-21-1/)
 - [Amazon RDS for Oracle now supports sqlnet.ora client parameters for the Oracle Native Network Encryption (NNE)option](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-oracle-sqlnet-ora-client-parameters-oracle-native-network-encryption-nne-option/)
 - [AWS IoT Device Defender now supports Detect alarm verification states](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iot-device-defender-detect-alarm-verification-states/)
-- [AWS Storage Gateway simplifies tape management for Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-storage-gateway-tape-management-gateway/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
