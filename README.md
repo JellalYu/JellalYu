@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Voice ID is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-voice-id-generally-available/)
+- [Amazon Genomics CLI is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-genomics-cli-available/)
 - [Introducing AWS WAF Security Automations v3.2](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-security-automations-v3-2/)
 - [Now auto-terminate idle EMR clusters to lower cost](https://aws.amazon.com/about-aws/whats-new/2021/09/auto-terminate-idle-emr-clusters/)
 - [AWS Backup simplifies recovery point deletions](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-backup-recovery-point-deletions/)
-- [Amazon RDS for Oracle now supports Oracle Application Express (APEX) Version 21.1](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-oracle-oracle-application-express-apex-version-21-1/)
-- [Amazon RDS for Oracle now supports sqlnet.ora client parameters for the Oracle Native Network Encryption (NNE)option](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-oracle-sqlnet-ora-client-parameters-oracle-native-network-encryption-nne-option/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
