@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces the next generation of Amazon Redshift Query Editor](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-redshift-query-editor-next-generation/)
 - [AWS Device Farm announces support for testing web apps on Microsoft Edge browser](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-device-farm-testing-web-apps-microsoft-edge-browser/)
 - [Amazon EC2 now offers Global View on the console to view all resources across regions together](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-global-view-console-regions/)
 - [Amazon Connect Wisdom is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-wisdom-generally-available/)
 - [AWS Launch Wizard now supports Microsoft SQL Server Always On deployments on Red Hat Enterprise Linux](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-launch-wizard-microsoft-sql-red-hat-linux/)
-- [Amazon Connect now offers high-volume outbound communications for calls, texts, and emails](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-communications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
