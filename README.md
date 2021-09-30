@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker JumpStart introduces new multimodal (long-form text, tabular) financial analysis tools](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-jumpstart-multimodal-financial-analysis-tools/)
+- [AQUA for Amazon Redshift launches in three additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/09/aqua-amazon-redshift-additional-aws-regions/)
+- [AWS announces AWS Snowcone SSD](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-announces-aws-snowcone-ssd/)
+- [AWS Lambda now supports triggering Lambda functions from an Amazon SQS queue in a different account](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-lambda-lambda-function-amazon-sos-queue/)
 - [AWS Data Exchange now supports automatic exports of third-party data updates](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-data-exchange-export-third-party-data-updates/)
-- [AWS Step Functions adds support for over 200 AWS Services with AWS SDK Integration](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-step-functions-200-aws-sdk-integration/)
-- [Amazon Redshift launches RA3.xlplus in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-redshift-ra3-xlplus-aws-govcloud-us-regions/)
-- [Amazon Comprehend adds two Trusted Advisor checks](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-comprehend-adds-trusted-advisor-checks/)
-- [AWS Snowcone is now available in the US East (Ohio), US West (San Francisco) and South America (Sao Paulo) regions](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-snowcone-available-us-east-ohio-us-west-san-francisco-south-america-sao-paulo-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
