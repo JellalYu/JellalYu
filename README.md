@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Comprehend adds two Trusted Advisor checks](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-comprehend-adds-trusted-advisor-checks/)
 - [AWS Snowcone is now available in the US East (Ohio), US West (San Francisco) and South America (Sao Paulo) regions](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-snowcone-available-us-east-ohio-us-west-san-francisco-south-america-sao-paulo-regions/)
 - [Amazon ECR Public adds the ability to launch containers directly to AWS App Runner](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ecr-public-containers-aws-app-runner/)
 - [Achieve up to 34% better price/performance with AWS Lambda Functions powered by AWS Graviton2 processor](https://aws.amazon.com/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/)
 - [Amazon Managed Service for Prometheus is now Generally Available with support for alert manager and rules](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-managed-service-prometheus-alert-manager-rules/)
-- [AWS IoT SiteWise is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iot-sitewise-aws-govcloud-us-west-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
