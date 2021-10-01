@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Now programmatically manage alternate contacts on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2021/10/programmatically-manage-alternate-contacts-aws-accounts/)
 - [Amazon Monitron launches iOS app](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-monitron-ios-app/)
 - [Amazon ECS Service Discovery Now Available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ecs-discovery-aws-govcloud-us-regions/)
 - [Announcing General Availability of Amplify Geo for AWS Amplify](https://aws.amazon.com/about-aws/whats-new/2021/09/amplify-geo-aws-amplify/)
 - [Amazon SES now supports 2048-bit DKIM keys](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ses-2048-bit-dkim/)
-- [Monitoring clock accuracy on AWS Fargate with Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2021/09/monitoring-clock-aws-fargate-amazon-ecs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
