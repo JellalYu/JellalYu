@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Amazon Workspaces Cost Optimizer v2.4](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-workspaces-cost-optimizer-v2-4/)
+- [AWS License Manager now supports Delegated Administrator for Managed entitlements](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-license-manager-delegated-administrator-managed-entitlements/)
 - [Amazon RDS for PostgreSQL Supports PostGIS 3.1](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-postgresql-postgis-3-1/)
 - [Amazon Textract extends support for AWS PrivateLink to AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-textract-aws-privatelink-aws-govcloud-us-regions/)
 - [Amazon EC2 Hibernation adds support for Ubuntu 20.04 LTS](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-hibernation-support-ubuntu-20-04-lts/)
-- [AWS IoT Events is available in the Asia Pacific (Mumbai) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-iot-events-asia-pacific-mumbai-regions/)
-- [Amazon RDS for PostgreSQL Supports New Minor Versions 13.4, 12.8, 11.13, 10.18, and 9.6.23; Amazon RDS on Outposts Supports New PostgreSQL Minor Versions 13.4 and 12.8](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-postgresql-new-minor-versions-amazon-rds-outposts-postgresql-minor-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
