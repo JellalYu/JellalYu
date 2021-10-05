@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup Audit Manager adds compliance reports](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-backup-audit-manager-compliance-reports/)
+- [Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) announces support for Cross-Cluster Replication](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-opensearch-service-amazon-elasticsearch-service-cross-cluster-replication/)
+- [Amazon Braket offers D-Wave’s Advantage 4.1 system for quantum annealing](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-braket-d-wave-advantage-quantum-annealing/)
+- [Amazon Location Service adds change detection to tracking](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-location-service-change-detection/)
 - [Announcing general availability of VMware Cloud on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/10/general-availability-vmware-cloud-aws-outposts/)
-- [AWS Glue DataBrew is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-glue-databrew-available-aws-africa-cape-town-region/)
-- [AWS Firewall Manager now supports centralized logging of AWS Network Firewall logs](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-firewall-manager-centralized-logging-aws-network-firewall-logs/)
-- [Amazon CodeGuru announces Security detectors for Python applications and security analysis powered by Bandit](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-codeguru-security-detectors-python-bandit/)
-- [Amazon CodeGuru now includes recommendations powered by Infer](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-codeguru-recommendations-infer/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
