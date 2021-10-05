@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon EC2 Capacity Reservation Fleet a way to easily migrate Amazon EC2 Capacity Reservations across instance types](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-capacity-reservation-fleet-capacity-reservations/)
+- [AWS Transfer Family customers can now use Amazon S3 Access Point aliases for granular and simplified data access controls](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-transfer-family-amazon-s3-access-point-aliases/)
 - [RDS Performance Insights now available in four more regions](https://aws.amazon.com/about-aws/whats-new/2021/10/rds-performance-insights-more-regions/)
 - [AWS Backup Audit Manager now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-backup-audit-manager-aws-cloudformation/)
 - [AWS Backup Audit Manager adds compliance reports](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-backup-audit-manager-compliance-reports/)
-- [Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) announces support for Cross-Cluster Replication](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-opensearch-service-amazon-elasticsearch-service-cross-cluster-replication/)
-- [Amazon Braket offers D-Wave’s Advantage 4.1 system for quantum annealing](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-braket-d-wave-advantage-quantum-annealing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
