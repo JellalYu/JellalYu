@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Prepare and visualize time series datasets in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2021/10/prepare-visualize-datasets-amazon-sagemaker-wrangler/)
 - [AWS Elastic Beanstalk supports Database Decoupling in an Elastic Beanstalk Environment](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-elastic-beanstalk-database-decoupling-elastic-beanstalk-environment/)
 - [AWS Network Firewall Adds New Configuration Options for Rule Ordering and Default Drop](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-firewall-configuration-rule-ordering-drop/)
 - [Amazon EMR now supports Apache Spark SQL to insert data into and update Apache Hive metadata tables when Apache Ranger integration is enabled](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-emr-apache-spark-sql-apache-hive-apache-ranger-integration-enabled/)
 - [AWS Application Migration Service is now available in the Asia Pacific (Hong Kong), Asia Pacific (Mumbai), Asia Pacific (Seoul), and Europe (London) Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-application-migration-service-extended-regions/)
-- [Announcing Amazon EC2 Capacity Reservation Fleet a way to easily migrate Amazon EC2 Capacity Reservations across instance types](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-capacity-reservation-fleet-capacity-reservations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
