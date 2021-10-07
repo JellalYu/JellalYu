@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra launches support for 34 additional languages](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-kendra-support-additional-languages/)
+- [Amazon QuickSight adds support for Pixel-Perfect dashboards](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-quicksight-pixel-perfect-dashboards/)
+- [Announcing Fast File Mode for Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-sagemaker-fast-file-mode/)
 - [Amazon Personalize launches new recipe that increases the relevance of similar items recommendations](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-personalize-recipe-increases-relevance-items/)
 - [AWS Lambda now supports IAM authentication for Amazon MSK as an event source](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-lambda-iam-authentication-amazon-msk/)
-- [Prepare and visualize time series datasets in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2021/10/prepare-visualize-datasets-amazon-sagemaker-wrangler/)
-- [AWS Elastic Beanstalk supports Database Decoupling in an Elastic Beanstalk Environment](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-elastic-beanstalk-database-decoupling-elastic-beanstalk-environment/)
-- [AWS Network Firewall Adds New Configuration Options for Rule Ordering and Default Drop](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-firewall-configuration-rule-ordering-drop/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
