@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime SDK media capture pipelines adds the ability to configure APIs for customizable media capture](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-media-pipelines-api-customizable-capture/)
 - [AWS IoT SiteWise is now available in Asia Pacific (Bombay), Asia Pacific (Seoul), and Asia Pacific (Tokyo) AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-iot-sitewise-asia-pacific-regions/)
 - [Amazon Kendra launches support for 34 additional languages](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-kendra-support-additional-languages/)
 - [Amazon QuickSight adds support for Pixel-Perfect dashboards](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-quicksight-pixel-perfect-dashboards/)
 - [Announcing Fast File Mode for Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-sagemaker-fast-file-mode/)
-- [Amazon Personalize launches new recipe that increases the relevance of similar items recommendations](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-personalize-recipe-increases-relevance-items/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
