@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing New AWS Solution: AWS QnABot, a self-service conversational chatbot built on Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-solution-aws-qnabot-chatbot-built-amazon-lex/)
 - [Amazon ECS Anywhere now supports GPU-based workloads](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ecs-anywhere-gpu/)
 - [Amazon Neptune now supports Auto Scaling for Read Replicas](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-neptune-auto-scaling-read-replicas/)
 - [Amazon Lex launches progress updates for fulfillment](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-lex-progress-updates/)
 - [Amazon EC2 Mac instances are now available in seven additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-mac-instances-additional-regions/)
-- [Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now comes with an improved management console](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-opensearch-service-amazon-elasticsearch-service-improved-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
