@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune now supports Auto Scaling for Read Replicas](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-neptune-auto-scaling-read-replicas/)
 - [Amazon Lex launches progress updates for fulfillment](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-lex-progress-updates/)
 - [Amazon EC2 Mac instances are now available in seven additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-mac-instances-additional-regions/)
 - [Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now comes with an improved management console](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-opensearch-service-amazon-elasticsearch-service-improved-console/)
 - [Amazon Chime SDK media capture pipelines adds the ability to configure APIs for customizable media capture](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-media-pipelines-api-customizable-capture/)
-- [AWS IoT SiteWise is now available in Asia Pacific (Mumbai), Asia Pacific (Seoul), and Asia Pacific (Tokyo) AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-iot-sitewise-asia-pacific-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
