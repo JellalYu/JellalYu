@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [NoSQL Workbench for Amazon DynamoDB now enables you to import and automatically populate sample data to help build and visualize your data models](https://aws.amazon.com/about-aws/whats-new/2021/10/nosql-workbench-amazon-dynamodb-import-populate-sample-data-build-visualize-data-models/)
+- [AWS Marketplace now supports viewing agreements and canceling and extending offers for Professional Services](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-marketplace-adds-support-professional-services/)
 - [Amazon Connect Tasks is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-connect-tasks-hipaa-eligible/)
 - [Introducing AWS Instance Scheduler v2.0](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-instance-scheduler-v2-0/)
 - [Amazon WorkMail adds Mobile Device Access Override API and MDM integration capabilities](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-workmail-mobile-device-access-mdm/)
-- [AWS Backup adds an additional layer for backup protection with the availability of AWS Backup Vault Lock](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-backup-backup-protection-aws-backup-vault-lock/)
-- [New AWS Solution: Maintaining Personalized Experiences using Machine Learning](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-solution-maintaining-personalized-experiences-machine-learning/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
