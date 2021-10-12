@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Implementation: Automated Account Configuration](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-solutions-automated-account-configuration/)
+- [AWS CDK releases v1.121.0 - v1.125.0 with features for faster development cycles using hotswap deployments and rollback control](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-cdk-releases-hotswap-rollback-control/)
 - [Amazon Fraud Detector launches new ML model for online transaction fraud detection](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-fraud-detector-ml-model-online-transaction-fraud/)
 - [AWS announces a price reduction of up to 56% for Amazon Fraud Detector machine learning fraud predictions](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-price-reduction-amazon-fraud-detector/)
 - [Amazon Fraud Detector now supports event datasets](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-fraud-detector-event-datasets/)
-- [Amazon RDS supports T3 instance type for MySQL and MariaDB databases in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-t3-mysql-mariadb-aws-govcloud/)
-- [NoSQL Workbench for Amazon DynamoDB now enables you to import and automatically populate sample data to help build and visualize your data models](https://aws.amazon.com/about-aws/whats-new/2021/10/nosql-workbench-amazon-dynamodb-import-populate-sample-data-build-visualize-data-models/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
