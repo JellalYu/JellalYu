@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra now available in AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-kendra-available-aws-govcloud-us-west-region/)
 - [Amazon EMR 6.4 release version now supports Apache Spark 3.1.2](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-emr-6-4-supports-apache-spark-3-1-2/)
 - [AWS Outposts adds new CloudWatch dimension for capacity monitoring](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-outposts-cloudwatch-dimension-capacity-monitoring/)
 - [Amazon Kinesis Data Analytics now supports Apache Flink v1.13](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-kinesis-data-analytics-apache-flink-version-1-13/)
 - [AWS Elemental MediaTailor adds prefetch ad support for personalized ad insertion](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-elemental-mediatailor-prefetch-ad-support/)
-- [Amazon VPC Flow Logs now supports Apache Parquet, Hive-compatible prefixes and Hourly partitioned files](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-vpc-flow-logs-parquet-hive-prefixes-partitioned-files/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
