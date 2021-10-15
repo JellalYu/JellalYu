@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue Crawlers can now be started using Amazon S3 event notifications](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-glue-crawlers-amazon-s3-notifications/)
 - [Introducing Distributed Load Testing on AWS v2.0.0](https://aws.amazon.com/about-aws/whats-new/2021/10/distributed-load-testing-aws-v2-0-0/)
 - [Announcing Amazon Forecast Weather Index for Central America, Middle East and Africa](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-forecast-weather-index-central-america-middle-east-africa/)
 - [Amazon EC2 now offers Microsoft SQL Server on Microsoft Windows Server 2022 AMIs](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-microsoft-sql-server-windows-ami/)
 - [New datasets available on the Registry of Open Data from University of Sydney, International Brain Laboratory, Taiwanese Central Weather Bureau, and others](https://aws.amazon.com/about-aws/whats-new/2021/10/new-datasets-available-on-the-registry-of-open-data/)
-- [Amazon EC2 Auto Scaling now supports describing Auto Scaling groups using tags](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-auto-scaling-groups-using-tags/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
