@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon WorkSpaces Windows Server 2019 Bundles Now Available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-workspaces-windows-server-2019-bundles-aws-govcloud/)
+- [Amazon Keyspaces (for Apache Cassandra) now supports automatic data expiration by using Time to Live (TTL) settings](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-keyspaces--for-apache-cassandra--now-supports-automatic-d/)
 - [Amazon AppFlow is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-appflow-available-aws-africa-cape-town-region/)
 - [Introducing the AWS Networking Competency for Consulting Partners](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-networking-competency-partners/)
 - [FreeRTOS adds support for symmetric multiprocessing (SMP)](https://aws.amazon.com/about-aws/whats-new/2021/10/freertos-symmetric-multiprocessing/)
-- [Porting Assistant for .NET adds support for WCF, OWIN, and System.Web.Mvc application assessment and porting](https://aws.amazon.com/about-aws/whats-new/2021/10/porting-assistant-net-support-wcf-owin-system-web-mvc-application-assessment/)
-- [AWS Glue Crawlers support Amazon S3 event notifications](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-glue-crawlers-amazon-s3-notifications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
