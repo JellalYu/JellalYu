@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppFlow is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-appflow-available-aws-africa-cape-town-region/)
 - [Introducing the AWS Networking Competency for Consulting Partners](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-networking-competency-partners/)
 - [FreeRTOS adds support for symmetric multiprocessing (SMP)](https://aws.amazon.com/about-aws/whats-new/2021/10/freertos-symmetric-multiprocessing/)
 - [Porting Assistant for .NET adds support for WCF, OWIN, and System.Web.Mvc application assessment and porting](https://aws.amazon.com/about-aws/whats-new/2021/10/porting-assistant-net-support-wcf-owin-system-web-mvc-application-assessment/)
 - [AWS Glue Crawlers support Amazon S3 event notifications](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-glue-crawlers-amazon-s3-notifications/)
-- [Introducing Distributed Load Testing on AWS v2.0.0](https://aws.amazon.com/about-aws/whats-new/2021/10/distributed-load-testing-aws-v2-0-0/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
