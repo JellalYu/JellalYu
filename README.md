@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaConvert now supports rich text rendering of IMSC 1.1 and TTML subtitle text](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-elemental-mediaconvert-text-rendering/)
 - [Announcing Amazon WorkSpaces API to create new updated images with latest AWS drivers](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-workspaces-api-updated-images-aws-drivers/)
 - [Amazon WorkSpaces Windows Server 2019 Bundles Now Available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-workspaces-windows-server-2019-bundles-aws-govcloud/)
 - [Amazon Keyspaces (for Apache Cassandra) now supports automatic data expiration by using Time to Live (TTL) settings](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-keyspaces--for-apache-cassandra--now-supports-automatic-d/)
 - [Amazon AppFlow is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-appflow-available-aws-africa-cape-town-region/)
-- [Introducing the AWS Networking Competency for Consulting Partners](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-networking-competency-partners/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
