@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime SDK announces messaging channel flows](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-messaging-channel-flows/)
 - [Amazon Corretto October Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-corretto-october-updates/)
 - [Bulk Editing of OpsItems in AWS Systems Manager OpsCenter](https://aws.amazon.com/about-aws/whats-new/2021/10/bulk-editing-aws-systems-manager-opscenter/)
 - [Announcing AWS Data Exchange for Amazon Redshift (Preview)](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-data-exchange-amazon-redshift/)
 - [AWS Pricing Calculator now supports Amazon CloudFront](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-pricing-calculator-supports-amazon-cloudfront/)
-- [AWS Systems Manager Fleet Manager now offers advanced filtering for Managed Instances](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-systems-manager-advanced-filtering-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
