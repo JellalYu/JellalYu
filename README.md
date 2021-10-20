@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight launches new Table and Pivot table enhancements](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-quicksight-launches-table-pivot-table-enhancements/)
 - [Introducing support for AWS KMS customer managed keys for encrypting artifacts by Amazon CloudWatch Synthetics](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-kms-keys-encrypting-artifacts-amazon-cloudwatch-synthetics/)
 - [Amazon RDS for MySQL on Outposts supports new minor versions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-mysql-outposts-new-versions/)
 - [Amazon Chime SDK announces messaging channel flows](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-messaging-channel-flows/)
 - [Amazon Corretto October Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-corretto-october-updates/)
-- [Bulk Editing of OpsItems in AWS Systems Manager OpsCenter](https://aws.amazon.com/about-aws/whats-new/2021/10/bulk-editing-aws-systems-manager-opscenter/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
