@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Implementation: Web Client for AWS Transfer Family](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-solutions-web-client-transfer-family/)
+- [AWS Fault Injection Simulator now injects Spot Instance Interruptions](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-fault-injection-simulator-injects-spot-instance-interruptions/)
 - [Amazon RDS Proxy now supports Amazon RDS for MySQL Version 8.0](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-proxy-supports-amazon-rds-mysql-version-8-0/)
 - [AWS Amplify for JavaScript now supports resumable file uploads for Storage](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-amplify-javascript-file-uploads-storage/)
 - [Amazon Chime SDK now supports video background blur](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-video-blur/)
-- [AWS Fault Injection Simulator now supports Spot Interruptions](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-fault-injection-simulator-spot-interruptions/)
-- [AWS Security Hub adds support for cross-Region aggregation of findings to simplify how you evaluate and improve your AWS security posture](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-security-hub-cross-region-security-posture/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
