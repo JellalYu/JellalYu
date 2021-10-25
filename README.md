@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MySQL supports new minor version 8.0.26, includes Global Transaction Identifiers (GITDs) and Delayed Replication](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-mysql-version-8-0-26-global-transaction-identifiers-gitds-delayed-replication/)
 - [AWS Audit Manager custom framework sharing is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-audit-manager-custom-framework-sharing-generally-available/)
 - [Amazon Connect launches AWS CloudFormation support for users, user hierarchy groups, and hours of operation](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-connect-aws-cloudformation-hierarchy-hours-operation/)
 - [Amazon Connect launches API to configure hours of operation programmatically](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-connect-api-hours-operation-programmatically/)
 - [AWS Load Balancer Controller version 2.3 now available with support for ALB IPv6 targets](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-load-balancer-2-3-alb-ipv6-targets/)
-- [New AWS Solutions Implementation: Web Client for AWS Transfer Family](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-solutions-web-client-transfer-family/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
