@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon EC2 DL1 instances for cost efficient training of deep learning models](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-dl1-instances-cost-efficient-training-deep-learning-models/)
 - [Disable default reverse DNS rules with Route 53 Resolver](https://aws.amazon.com/about-aws/whats-new/2021/10/disable-default-reverse-dns-rules-route-53-resolver/)
 - [Announcing the General Availability of AWS Local Zones in Las Vegas, New York City, and Portland](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-general-availability-local-zones/)
 - [AWS Systems Manager Maintenance Windows now supports defining custom cutoff behavior for tasks](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-systems-manager-maintenance-windows-supports-behavior-task/)
 - [Amazon SageMaker Autopilot adds support for time series data](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-sagemaker-autopilot-time-series-data/)
-- [Announcing Amazon RDS Custom for Oracle](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-custom-oracle/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
