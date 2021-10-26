@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight launches SPICE Incremental Refresh](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-quicksight-spice-incremental-refresh/)
 - [Introducing AWS Migration Hub Strategy Recommendations](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-migration-hub-strategy-recommendations/)
 - [Amazon Pinpoint now supports 10 Digit Long Code (10DLC) vetting](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-pinpoint-10-digit-code-vetting/)
 - [Amazon DocumentDB (with MongoDB compatibility) now provides a JDBC driver to connect from BI tools and execute SQL Queries](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-documentdb-mongodb-jdbc-driver/)
 - [Amazon DocumentDB (with MongoDB compatibility) adds support for storing, querying and indexing Geospatial data](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-documentdb-adds-geospatial-capabilities/)
-- [Amazon DocumentDB (with MongoDB compatibility) adds support for $literal, $map, and $$ROOT](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-documentdb-adds-additional-mongodb-compatibility-apis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
