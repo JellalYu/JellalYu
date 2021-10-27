@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Textract launches TIFF support and adds asynchronous support for receipts and invoices processing](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-textract-tiff-asynchronous-receipts-invoices/)
 - [Introducing Amazon EC2 Spot placement score](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-spot-placement-score/)
 - [Amazon EC2 announces attribute-based instance type selection for Auto Scaling groups, EC2 Fleet, and Spot Fleet](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-instance-auto-scaling-ec2-spot-fleet/)
 - [The Amazon Chime SDK now supports push notifications](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-supports-push-notifications/)
 - [Announcing AWS SAM Accelerate - quickly test code changes against the cloud (public preview)](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-sam-accelerate-test-code-changes-cloud/)
-- [Announcing Amazon EC2 DL1 instances for cost efficient training of deep learning models](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-dl1-instances-cost-efficient-training-deep-learning-models/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
