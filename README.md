@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing availability of the Babelfish for PostgreSQL open source project](https://aws.amazon.com/about-aws/whats-new/2021/10/babelfish-postgresql-open-source-project/)
+- [Babelfish for Aurora PostgreSQL is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/10/babelfish-aurora-postgresql-now-generally-available/)
+- [AWS Elemental MediaLive now supports Nielsen Watermarking for audience measurement](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-elemental-medialive-nielsen-watermarking/)
 - [Amazon EC2 R5b instances are now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-r5b-instances-available-additional-regions/)
 - [AWS Global Accelerator adds support for two new Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-global-accelerator-support-new-amazon-cloudwatch-metrics/)
-- [Amazon Connect is now available in the Asia Pacific (Seoul) AWS Region](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-connect-asia-pacific-seoul-aws-region/)
-- [Amazon Textract launches TIFF support and adds asynchronous support for receipts and invoices processing](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-textract-tiff-asynchronous-receipts-invoices/)
-- [Introducing Amazon EC2 Spot placement score](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-spot-placement-score/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
