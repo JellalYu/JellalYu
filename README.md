@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New region availability and Graviton2 support now available for Amazon GameLift](https://aws.amazon.com/about-aws/whats-new/2021/10/new-region-availability-graviton2-support-amazon-gamelift/)
+- [AWS App2Container now supports ECS Fargate Windows](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-app2container-ecs-fargate-windows/)
 - [Amazon Chime SDK now supports phone call recording](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-supports-phone-call-recording/)
 - [Introducing Amazon EC2 C6i instances](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-c6i-instances/)
 - [AWS Fargate now supports Amazon ECS Windows containers](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-fargate-amazon-ecs-windows-containers/)
-- [Amazon EKS Managed Node Groups adds native support for Bottlerocket](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-eks-nodes-groups-bottlerocket/)
-- [AWS IoT SiteWise announces support for using the same asset models across different hierarchies](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-iot-sitewise-support-same-asset-models-different-hierarchies/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
