@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Pinpoint launches in-app messaging as a new communications channel](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-pinpoint-in-app-messaging/)
+- [AWS Secrets Manager increases secrets limit to 500K per account](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-secrets-manager-increases-secrets-limit-per-account/)
 - [Amazon RDS on AWS Outposts now supports exporting database logs to Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-rds-outposts-exporting-database-logs-amazon-cloudwatch/)
 - [Amazon Corretto 17 Support Roadmap Announced](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-corretto-17-support-roadmap/)
 - [Amazon DevOps Guru increases coverage of Amazon EKS metrics and adds metric view by cluster](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-devops-guru-coverage-amazon-eks-metrics-cluster/)
-- [Amazon Redshift announces native support for SQLAlchemy and Apache Airflow open-source frameworks](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-sqlalchemy-apache-airflow-open-source-frameworks/)
-- [Amazon Time Sync Service now makes it easier to generate and compare timestamps](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-time-sync-service-generate-compare-timestamps/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
