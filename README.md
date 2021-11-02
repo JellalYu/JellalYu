@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Graviton2 based T4g instances are now available in AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-graviton2-based-t4g-instances-aws-govcloud-us-west-region/)
 - [AWS Transit Gateway Network Manager launches new APIs to simplify network and route analysis in your global network](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-transit-gateway-network-manager-new-apis-network-route-analysis-global-network/)
 - [Amazon MemoryDB for Redis now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-memorydb-redis-aws-cloudformation/)
 - [Amazon Simple Email Service now offers a new console experience](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-simple-email-service-new-console-experience/)
 - [AWS DeepRacer introduces multi-user account management](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-deepracer-multi-user-account-management/)
-- [Amazon Lightsail now supports AWS CloudFormation for instances, disks and databases](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-lightsail-support-aws-cloudformation-instances-disks-databases/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
