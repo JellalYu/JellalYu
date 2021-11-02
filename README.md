@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS on AWS Outposts now supports exporting database logs to Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-rds-outposts-exporting-database-logs-amazon-cloudwatch/)
+- [Amazon Corretto 17 Support Roadmap Announced](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-corretto-17-support-roadmap/)
+- [Amazon DevOps Guru increases coverage of Amazon EKS metrics and adds metric view by cluster](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-devops-guru-coverage-amazon-eks-metrics-cluster/)
 - [Amazon Redshift announces native support for SQLAlchemy and Apache Airflow open-source frameworks](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-sqlalchemy-apache-airflow-open-source-frameworks/)
 - [Amazon Time Sync Service now makes it easier to generate and compare timestamps](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-time-sync-service-generate-compare-timestamps/)
-- [AWS Graviton2 based T4g instances are now available in AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-graviton2-based-t4g-instances-aws-govcloud-us-west-region/)
-- [AWS Transit Gateway Network Manager launches new APIs to simplify network and route analysis in your global network](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-transit-gateway-network-manager-new-apis-network-route-analysis-global-network/)
-- [Amazon MemoryDB for Redis now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-memorydb-redis-aws-cloudformation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
