@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lake Formation now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lake-formation-supports-aws-privatelink/)
 - [Database Activity Streams now supports Graviton2-based instances](https://aws.amazon.com/about-aws/whats-new/2021/11/database-activity-streams-supports-graviton2-based-instances/)
 - [Amazon CloudFront now supports configurable CORS, security,  and custom HTTP response headers](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudfront-supports-cors-security-custom-http-response-headers/)
 - [Amazon Pinpoint launches in-app messaging as a new communications channel](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-pinpoint-in-app-messaging/)
 - [AWS Secrets Manager increases secrets limit to 500K per account](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-secrets-manager-increases-secrets-limit-per-account/)
-- [Amazon RDS on AWS Outposts now supports exporting database logs to Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-rds-outposts-exporting-database-logs-amazon-cloudwatch/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
