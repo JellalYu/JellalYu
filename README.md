@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup Vault Lock is now available in the AWS China (Beijing) Region and AWS China (Ningxia) Region](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-vault-lock-available-aws-china-regions/)
 - [Amazon Aurora Global Database Expands Availability to AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-aurora-global-database-aws-govcloud/)
 - [Amazon EC2 now supports access to Red Hat Knowledgebase](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-red-hat-knowledgebase/)
 - [AWS Lake Formation now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lake-formation-supports-aws-privatelink/)
 - [Database Activity Streams now supports Graviton2-based instances](https://aws.amazon.com/about-aws/whats-new/2021/11/database-activity-streams-supports-graviton2-based-instances/)
-- [Amazon CloudFront now supports configurable CORS, security,  and custom HTTP response headers](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudfront-supports-cors-security-custom-http-response-headers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
