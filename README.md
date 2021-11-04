@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker now supports inference testing with custom domains and headers from SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sagemaker-studio-inference-testing-custom-domains-headers/)
 - [AWS Lambda now supports cross-account container image pulling from Amazon Elastic Container Registry](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-support-cross-account-image-amazon-elastic-container-registry/)
 - [AWS DataSync can now copy data between Hadoop Distributed File Systems (HDFS) and AWS Storage services](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-datasync-hadoop-aws-storage-services/)
 - [Simplify CI/CD Configuration for  AWS Serverless Applications and your favorite CI/CD system – General Availability](https://aws.amazon.com/about-aws/whats-new/2021/11/ci-cd-configuration-aws-serverless-applications-system-general-availability/)
 - [AWS Amplify launches further data management capabilities in the Admin UI](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-launches-data-management-capabilities-admin-ui/)
-- [AWS Snowcone SSD is now available in the US East (Ohio), US West (San Francisco), Asia Pacific (Singapore), Asia Pacific (Sydney) and AWS Asia Pacific (Tokyo) and regions](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-snowcone-ssd-now-available-in-new-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
