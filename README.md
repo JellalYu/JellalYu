@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Toolkits for Cloud9, JetBrains and VS Code now support interaction with over 200 new resource types](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-toolkits-cloud9-jetbrains-vs-code/)
+- [Amazon Lex launches support for Austrian German](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-lex-launches-support-austrian-german/)
+- [Amazon EC2 Fleet and Spot Fleet now support automatic instance termination with Capacity Rebalancing](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-fleet-spot-fleet-capacity-rebalancing/)
 - [Amazon Translate now supports AWS KMS Encryption](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-translate-supports-aws-kms-encryption/)
 - [Amazon Athena adds cost details to query execution plans](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-cost-details-query-execution-plans/)
-- [Amazon DevOps Guru now Supports Multi-Account Insight Aggregation with AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-devops-guru-multi-account-insight-aws-organizations/)
-- [AWS IoT Core for LoRaWAN supports managed Firmware Over-the-Air Update](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-Iot-core-lorawan-supports-managed-firmware-over-air-update/)
-- [Amazon SageMaker now supports inference testing with custom domains and headers from SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sagemaker-studio-inference-testing-custom-domains-headers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
