@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup adds support for Amazon DocumentDB &lpar;with MongoDB compatibility&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-amazon-documentdb-mongodb-compatibility/)
 - [AWS Backup adds support for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-amazon-neptune/)
+- [AWS Polly now offers Neural Text-to-Speech voices in Spanish and Italian](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-polly-neural-text-speech-voices-spanish-italian/)
 - [AWS Toolkits for Cloud9, JetBrains and VS Code now support interaction with over 200 new resource types](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-toolkits-cloud9-jetbrains-vs-code/)
 - [Amazon Lex launches support for Austrian German](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-lex-launches-support-austrian-german/)
-- [Amazon EC2 Fleet and Spot Fleet now support automatic instance termination with Capacity Rebalancing](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-fleet-spot-fleet-capacity-rebalancing/)
-- [Amazon Translate now supports AWS KMS Encryption](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-translate-supports-aws-kms-encryption/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
