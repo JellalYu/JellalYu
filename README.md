@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Device Farm announces support for testing web applications hosted in an Amazon VPC](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-device-farm-support-testing-web-applications-amazon-vpc/)
 - [Incident Manager from AWS Systems Manager is now available in 7 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-systems-manager-incident-manager-7-regions/)
 - [Amazon SageMaker Pipelines now supports retry policies and resume](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sagemaker-pipelines-supports-retry-policies-resume/)
 - [AWS Fault Injection Simulator now supports Amazon CloudWatch Alarms and AWS Systems Manager Automation Runbooks.](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-fault-injection-simulator-amazon-cloudwatch-alarms-automation-runbooks/)
 - [Amazon Chime SDK meetings now offer API endpoints in Oregon, Frankfurt and Singapore](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-chime-sdk-meetings-api-endpoints/)
-- [AWS Backup adds support for Amazon DocumentDB &lpar;with MongoDB compatibility&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-amazon-documentdb-mongodb-compatibility/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
