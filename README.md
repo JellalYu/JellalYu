@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing new deployment guardrails for Amazon SageMaker Inference endpoints](https://aws.amazon.com/about-aws/whats-new/2021/11/new-deployment-guardrails-amazon-sagemaker-inference-endpoints/)
 - [Manage Access Centrally for CyberArk Users with AWS Single Sign-On](https://aws.amazon.com/about-aws/whats-new/2021/11/manage-access-centrally-cyberark-users-aws-single-sign-on/)
 - [Amazon QuickSight launches 4 new administration features including IP-based access restrictions and Bring-you-own-role for account setup](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-quicksight-launches-ip-based-access-restrictions-bring-you-own-role-account-setup/)
 - [AWS Marketplace announces enhancements to change requests submission experience](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-marketplace-change-requests-submission/)
 - [AWS CDK releases v1.126.0 - v1.130.0 with high-level APIs for AWS AppRunner and hotswap support for Amazon ECS and AWS Step Functions](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-cdk-new-releases-api-apprunner-hotswap-amazon-ecs-step-functions/)
-- [Amazon Lex launches support for South African English](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-lex-south-african-english/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
