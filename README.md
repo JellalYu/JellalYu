@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace announces enhancements to change requests submission experience](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-marketplace-change-requests-submission/)
 - [AWS CDK releases v1.126.0 - v1.130.0 with high-level APIs for AWS AppRunner and hotswap support for Amazon ECS and AWS Step Functions](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-cdk-new-releases-api-apprunner-hotswap-amazon-ecs-step-functions/)
 - [Amazon Lex launches support for South African English](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-lex-south-african-english/)
 - [AWS Batch introduces fair-share scheduling](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-batch-fair-share-scheduling/)
 - [Amazon SNS now supports token-based authentication for APNs mobile push notifications](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sns-token-authentication-api-mobile-notifications/)
-- [AWS announces a new capability to switch license types for Windows Server and SQL Server applications on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-switch-license-windows-sql-server-ec2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
