@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS on AWS Fargate now Supports the Fluent Bit Kubernetes Filter](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-eks-aws-fargate-supports-fluent-bit-kubernetes-filter/)
 - [AWS Backup provides new resource assignment rules for your data protection policies](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-new-resource-assignment-rules-data-protection-policies/)
 - [Amazon Translate Now Adds Support for four more languages and variants - Irish, Marathi, Portugal Portuguese and Punjabi](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-translate-supports-four-additional-languages/)
 - [Amazon ECS now adds container instance health information](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-container-instance-health-information/)
 - [AWS Control Tower now supports concurrent operations for detective guardrails](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-control-tower-concurrent-operations-detective-guardrails/)
-- [Announcing new deployment guardrails for Amazon SageMaker Inference endpoints](https://aws.amazon.com/about-aws/whats-new/2021/11/new-deployment-guardrails-amazon-sagemaker-inference-endpoints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
