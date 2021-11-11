@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QLDB is now available in the Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-qldb-available-canada-central-region/)
+- [Amazon ECS has improved Capacity Providers to deliver faster Cluster Auto Scaling](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-improved-capacity-providers-cluster-auto-scaling/)
+- [Achieve up to 30% better performance with Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; using new Graviton2 instances](https://aws.amazon.com/about-aws/whats-new/2021/11/better-performance-amazon-documentdb-mongodb-graviton2-instances/)
 - [Amazon EKS adds support for additional cluster configuration options using AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-eks-cluster-configuration-aws-cloudformation/)
 - [Introducing 34 new resource types in the CloudFormation Registry](https://aws.amazon.com/about-aws/whats-new/2021/11/new-resource-types-cloudformation-registry/)
-- [AWS Amplify announces new observeQuery API for Amplify DataStore to help apps with real-time data open faster](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-new-observequery-api-amplify-datastore-apps-real-time-data/)
-- [AWS CloudTrail announces ErrorRate Insights](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-cloudtrail-announces-launch-errorrate-insights/)
-- [Amazon Nimble Studio launches the ability to test launch profile configurations via the Nimble Studio console.](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-nimble-studio-test-launch-profile-configurations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
