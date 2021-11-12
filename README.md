@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Sheet Change Performance Optimizations is now generally available for Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2021/11/sheet-change-performance-optimizations-generally-available-amazon-quicksight/)
 - [Amazon Kendra releases SharePoint Connector to enable SharePoint site search](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-kendra-releases-sharepoint-connector-enable-sharepoint-site-search/)
 - [Amazon EC2 M6i instances are now available in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-m6i-instances-available-additional-regions/)
 - [Amazon Translate now enables multidirectional custom terminology](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-translate-enables-multidirectional-custom-terminology/)
 - [Amazon EC2 M6gd and C6gd instances powered by AWS Graviton2 now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-m6gd-c6gd-instances-powered-graviton2-additional-regions/)
-- [Amazon QLDB is now available in the Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-qldb-available-canada-central-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
