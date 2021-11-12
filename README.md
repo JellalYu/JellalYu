@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra releases SharePoint Connector to enable SharePoint site search](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-kendra-releases-sharepoint-connector-enable-sharepoint-site-search/)
+- [Amazon EC2 M6i instances are now available in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-m6i-instances-available-additional-regions/)
+- [Amazon Translate now enables multidirectional custom terminology](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-translate-enables-multidirectional-custom-terminology/)
+- [Amazon EC2 M6gd and C6gd instances powered by AWS Graviton2 now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-m6gd-c6gd-instances-powered-graviton2-additional-regions/)
 - [Amazon QLDB is now available in the Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-qldb-available-canada-central-region/)
-- [Amazon ECS has improved Capacity Providers to deliver faster Cluster Auto Scaling](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-improved-capacity-providers-cluster-auto-scaling/)
-- [Achieve up to 30% better performance with Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; using new Graviton2 instances](https://aws.amazon.com/about-aws/whats-new/2021/11/better-performance-amazon-documentdb-mongodb-graviton2-instances/)
-- [Amazon EKS adds support for additional cluster configuration options using AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-eks-cluster-configuration-aws-cloudformation/)
-- [Introducing 34 new resource types in the CloudFormation Registry](https://aws.amazon.com/about-aws/whats-new/2021/11/new-resource-types-cloudformation-registry/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
