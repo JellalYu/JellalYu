@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches scheduled tasks](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-scheduled-tasks/)
+- [Amazon Connect now enables you to create and orchestrate tasks directly from Flows](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-enables-create-orchestrate-tasks-flows/)
+- [Unified Search in the AWS Management Console now includes blogs, knowledge articles, events, and tutorials](https://aws.amazon.com/about-aws/whats-new/2021/11/unified-search-aws-management-console-blogs-knowledge-articles-events-tutorials/)
 - [Announcing general availability of Amazon EC2 G5 instances](https://aws.amazon.com/about-aws/whats-new/2021/11/announcing-general-availability-amazon-ec2-g5-instances/)
 - [Amazon SageMaker Autopilot now generates additional data insights and recommendations](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sagemaker-autopilot-data-insights-recommendations/)
-- [Amazon announces new NVIDIA Triton Inference Server on Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-nvidia-triton-server-sagemaker/)
-- [Sheet Change Performance Optimizations is now generally available for Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2021/11/sheet-change-performance-optimizations-generally-available-amazon-quicksight/)
-- [Amazon Kendra releases SharePoint Connector to enable SharePoint site search](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-kendra-releases-sharepoint-connector-enable-sharepoint-site-search/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
