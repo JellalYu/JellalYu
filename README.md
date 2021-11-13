@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches Contact APIs to fetch and update contact details programmatically](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-launches-contact-apis-fetch-update-contact-details-programmatically/)
+- [Amazon Athena announces cross-account federated query](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-announces-cross-account-federated-query/)
 - [Amazon Connect launches scheduled tasks](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-scheduled-tasks/)
 - [Amazon Connect now enables you to create and orchestrate tasks directly from Flows](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-enables-create-orchestrate-tasks-flows/)
 - [Unified Search in the AWS Management Console now includes blogs, knowledge articles, events, and tutorials](https://aws.amazon.com/about-aws/whats-new/2021/11/unified-search-aws-management-console-blogs-knowledge-articles-events-tutorials/)
-- [Announcing general availability of Amazon EC2 G5 instances](https://aws.amazon.com/about-aws/whats-new/2021/11/announcing-general-availability-amazon-ec2-g5-instances/)
-- [Amazon SageMaker Autopilot now generates additional data insights and recommendations](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sagemaker-autopilot-data-insights-recommendations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
