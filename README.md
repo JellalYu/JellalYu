@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches API to configure security profiles programmatically](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-api-configure-security-profiles/)
+- [AWS releases open source JDBC driver to connect to Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-open-source-jdbc-driver-amazon-neptune/)
 - [AWS Amplify announces the ability to override Amplify-generated resources using CDK](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-override-amplify-generated-resources-cdk/)
 - [AWS Step Functions Synchronous Express Workflows now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-step-functions-synchronous-express-aws-private-link/)
 - [AWS IoT Device Management is now supported on AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-Iot-device-management-supported-aws-cloudformation/)
-- [AWS Launch Wizard now supports Microsoft SQL Server deployments using Amazon EBS gp3, io2, and io2 Block Express volumes](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-launch-wizard-supports-microsoft-sql-server-deployments-amazon-eps-gp3-io2-io2-block-express-volumes/)
-- [AWS App Runner supports AWS CDK to build and deploy applications](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-app-runner-aws-cdk-build-deploy-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
