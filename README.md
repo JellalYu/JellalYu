@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Launch Wizard now supports Microsoft SQL Server deployments using Amazon EBS gp3, io2, and io2 Block Express volumes](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-launch-wizard-supports-microsoft-sql-server-deployments-amazon-eps-gp3-io2-io2-block-express-volumes/)
 - [AWS App Runner supports AWS CDK to build and deploy applications](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-app-runner-aws-cdk-build-deploy-applications/)
 - [Safer interrupt management demo for FreeRTOS kernel](https://aws.amazon.com/about-aws/whats-new/2021/11/safer-interrupt-management-demo-freertos-kernel/)
 - [Amazon Connect launches Contact APIs to fetch and update contact details programmatically](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-launches-contact-apis-fetch-update-contact-details-programmatically/)
 - [Amazon Athena announces cross-account federated query](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-announces-cross-account-federated-query/)
-- [Amazon Connect launches scheduled tasks](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-scheduled-tasks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
