@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family adds identity provider options and enhanced monitoring capabilities](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-transfer-family-identity-provider-enhanced-monitoring/)
 - [Amazon AppStream 2.0 Introduces Linux Application Streaming](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-appstream-2-0-linux-application-streaming/)
 - [Amazon Translate Now Extends Support for Active Custom Translation to all language pair combinations](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-translate-active-custom-translation-language-combinations/)
 - [AWS IoT Greengrass now supports Microsoft Windows devices](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-greengrass-support-windows-devices/)
 - [Amazon Connect Customer Profiles now provides a contact block to personalize customer service](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-customer-profiles-contact-block-personalize/)
-- [Amazon Connect launches API to configure security profiles programmatically](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-api-configure-security-profiles/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
