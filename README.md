@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue FindMatches now provides match scores](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-findmatches-provides-match-scores/)
 - [AWS Glue FindMatches now supports incrementally matching new data against an existing dataset](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-findmatches-new-data-existing-dataset/)
 - [Amazon Rekognition improves accuracy of content moderation for images](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rekognition-image-moderation-accuracy/)
 - [New and improved Amazon Athena console is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/11/new-improved-amazon-athena-console-generally-available/)
 - [AWS Snow Family now supports external NTP server configuration](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-snow-family-supports-external-ntp-server-configuration/)
-- [Amazon MQ now supports RabbitMQ version 3.8.23](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-mq-supports-rabbitmq-version-3-8-23/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
