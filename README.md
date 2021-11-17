@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing general availability of AWS Elastic Disaster Recovery](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-elastic-disaster-recovery-available/)
+- [AWS Marketplace launches upfront contract pricing for Amazon Machine Images &lpar;AMI&rpar; and Container products](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-marketplace-contract-pricing-amazon-machine-images-ami-container-products/)
+- [Amazon Virtual Private Cloud now supports Bring your own IP &lpar;BYOIP&rpar; in seven additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-virtual-private-cloud-byoip-seven-regions/)
 - [AWS Network Firewall achieves ISO compliance](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-network-firewall-iso-compliance/)
 - [Amazon Rekognition text detection supports 7 new languages and improves accuracy](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rekognition-text-detection-7-new-languages-accuracy/)
-- [Amazon CloudWatch Container Insights adds console support for visualizing workload issues and problems via Amazon CloudWatch Application Insights problems](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudwatch-container-insights-console-amazon-cloudwatch-application-insights-problems/)
-- [Visualize all your Kubernetes clusters in one place with Amazon EKS Connector, now generally available](https://aws.amazon.com/about-aws/whats-new/2021/11/visualize-kubernetes-clusters-one-place-amazon-eks-connector-generally-available/)
-- [AWS Application Migration Service now supports agentless replication](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-application-migration-agentless-replication/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
