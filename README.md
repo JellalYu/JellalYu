@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Migration Service now supports agentless replication](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-application-migration-agentless-replication/)
 - [Amazon Kendra releases AWS Single Sign-On integration for secure search](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-kendra-aws-single-sign-on-integration-secure-search/)
 - [AWS Glue FindMatches now provides match scores](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-findmatches-provides-match-scores/)
 - [AWS Glue FindMatches now supports incrementally matching new data against an existing dataset](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-findmatches-new-data-existing-dataset/)
 - [Amazon Rekognition improves accuracy of content moderation for images](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rekognition-image-moderation-accuracy/)
-- [New and improved Amazon Athena console is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/11/new-improved-amazon-athena-console-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
