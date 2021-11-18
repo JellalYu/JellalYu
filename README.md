@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Service Management Connector for ServiceNow supports AWS Systems Manager Change Manager](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-service-management-connector-servicenow-supports-aws-systems-manager-change-manager/)
+- [AWS Service Management Connector makes installation easier through ServiceNow Guided Setup](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-service-management-connector-installation-easier-servicenow-guided-setup/)
 - [Amazon SNS now supports publishing batches of up to 10 messages in a single API request](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sns-supports-publishing-batches-messages-single-api-request/)
 - [Amazon Polly Launches a new French Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-polly-text-to-speech-voice-french/)
 - [Amazon Pinpoint now supports Safari push notifications](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-pinpoint-safari-push-notifications/)
-- [AWS Control Tower now supports nested organizational units](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-control-tower-supports-nested-organizational-units/)
-- [Amazon OpenSearch Service &lpar;successor to Amazon Elasticsearch Service&rpar; now offers - M6g - instances for Mumbai and San Francisco Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-opensearch-service-amazon-elasticsearch-service-offers-m6g-instances-new-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
