@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Bottlerocket is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/bottlerocket-now-available-aws-govcloud-us-regions/)
+- [The dashboard feature is now generally available in AWS Audit Manager](https://aws.amazon.com/about-aws/whats-new/2021/11/dashboard-feature-generally-available-aws-audit-manager/)
+- [Amazon ECS for Windows now supports ECS Exec](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-windows-supports-ecs-exec/)
+- [Amazon Interactive Video Service adds high resolution metrics for monitoring stream health](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-interactive-video-service-high-resolution-metrics/)
 - [AWS Service Management Connector for ServiceNow supports AWS Systems Manager Change Manager](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-service-management-connector-servicenow-supports-aws-systems-manager-change-manager/)
-- [AWS Service Management Connector makes installation easier through ServiceNow Guided Setup](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-service-management-connector-installation-easier-servicenow-guided-setup/)
-- [Amazon SNS now supports publishing batches of up to 10 messages in a single API request](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sns-supports-publishing-batches-messages-single-api-request/)
-- [Amazon Polly Launches a new French Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-polly-text-to-speech-voice-french/)
-- [Amazon Pinpoint now supports Safari push notifications](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-pinpoint-safari-push-notifications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
