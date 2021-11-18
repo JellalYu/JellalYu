@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Bottlerocket is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/bottlerocket-now-available-aws-govcloud-us-regions/)
-- [The dashboard feature is now generally available in AWS Audit Manager](https://aws.amazon.com/about-aws/whats-new/2021/11/dashboard-feature-generally-available-aws-audit-manager/)
+- [AWS announces the launch of AWS AppConfig Feature Flags in preview](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-appconfig-feature-flags-preview/)
 - [Amazon ECS for Windows now supports ECS Exec](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-windows-supports-ecs-exec/)
-- [Amazon Interactive Video Service adds high resolution metrics for monitoring stream health](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-interactive-video-service-high-resolution-metrics/)
-- [AWS Service Management Connector for ServiceNow supports AWS Systems Manager Change Manager](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-service-management-connector-servicenow-supports-aws-systems-manager-change-manager/)
+- [Amazon Cognito launches new console experience for user pools](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cognito-console-user-pools/)
+- [Amazon Aurora supports MySQL 8.0](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-aurora-mysql-8-0/)
+- [Amazon Redshift simplifies the use of other AWS services by introducing the default IAM role](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-default-iam-role/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
