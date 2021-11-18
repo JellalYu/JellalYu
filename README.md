@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly Launches a new French Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-polly-text-to-speech-voice-french/)
+- [Amazon Pinpoint now supports Safari push notifications](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-pinpoint-safari-push-notifications/)
 - [AWS Control Tower now supports nested organizational units](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-control-tower-supports-nested-organizational-units/)
 - [Amazon OpenSearch Service &lpar;successor to Amazon Elasticsearch Service&rpar; now offers - M6g - instances for Mumbai and San Francisco Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-opensearch-service-amazon-elasticsearch-service-offers-m6g-instances-new-regions/)
 - [AWS Application Migration Service is now available in the Africa &lpar;Cape Town&rpar;, Europe &lpar;Milan&rpar;, Europe &lpar;Paris&rpar;, and Middle East &lpar;Bahrain&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-application-migration-service-available-new-regions/)
-- [Amazon Rekognition Custom Labels now offers an enhanced experience to train computer vision models more easily](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rekognition-custom-labels-enhanced-experience-computer-vision-models/)
-- [FreeRTOS cellular LTE-M interface library is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/11/freertos-cellular-lte-m-interface-library-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
