@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Migration Service is now available in the Africa &lpar;Cape Town&rpar;, Europe &lpar;Milan&rpar;, Europe &lpar;Paris&rpar;, and Middle East &lpar;Bahrain&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-application-migration-service-available-new-regions/)
+- [Amazon Rekognition Custom Labels now offers an enhanced experience to train computer vision models more easily](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rekognition-custom-labels-enhanced-experience-computer-vision-models/)
 - [FreeRTOS cellular LTE-M interface library is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/11/freertos-cellular-lte-m-interface-library-generally-available/)
 - [Announcing general availability of AWS Elastic Disaster Recovery](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-elastic-disaster-recovery-available/)
 - [AWS Marketplace launches upfront contract pricing for Amazon Machine Images &lpar;AMI&rpar; and Container products](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-marketplace-contract-pricing-amazon-machine-images-ami-container-products/)
-- [Amazon Virtual Private Cloud now supports Bring your own IP &lpar;BYOIP&rpar; in seven additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-virtual-private-cloud-byoip-seven-regions/)
-- [AWS Network Firewall achieves ISO compliance](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-network-firewall-iso-compliance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
