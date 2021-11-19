@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda now supports mTLS Authentication for Amazon MSK as an event source](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-supports-mtls-authentication-amazon-msk-event-source/)
+- [AWS App Mesh now supports ARM64-based Envoy Images](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-app-mesh-arm64-envoy-images/)
+- [Amazon Pinpoint now includes an SMS simulator feature](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-pinpoint-sms-simulator-feature/)
 - [Amazon CloudWatch now supports anomaly detection on metric math expressions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudwatch-supports-anomaly-detection-metric-math-expressions/)
 - [Amazon SageMaker Model Registry now supports cross account registration of model versions](https://aws.amazon.com/about-aws/whats-new/2021/11/Amazon-sagemaker-model-registry-registration/)
-- [Contact Lens for Amazon Connect is now FedRAMP Moderate compliant and has also added support for Asia Pacific &lpar;Seoul&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-contact-lens-fedramp-compliant/)
-- [AWS Glue DataBrew now allows customers to create data quality rules to define and validate their business requirements](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-data-quality-rules-validate-requirements/)
-- [AWS Glue DataBrew now supports custom SQL statements to retrieve data from Amazon Redshift and Snowflake](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-custom-sql-retrieve-data-amazon-redshift-snowflake/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
