@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Contact Lens for Amazon Connect is now FedRAMP Moderate compliant and has also added support for Asia Pacific &lpar;Seoul&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-contact-lens-fedramp-compliant/)
+- [AWS Glue DataBrew now allows customers to create data quality rules to define and validate their business requirements](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-data-quality-rules-validate-requirements/)
 - [AWS Glue DataBrew now supports custom SQL statements to retrieve data from Amazon Redshift and Snowflake](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-custom-sql-retrieve-data-amazon-redshift-snowflake/)
 - [AWS Glue DataBrew now provides detection and data masking transformations for Personally Identifiable Information &lpar;PII&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-detection-data-masking-transformations/)
 - [AWS Glue DataBrew announces native console integration with Amazon AppFlow](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-native-console-integration-amazon-appflow/)
-- [Amazon S3 on Outposts now delivers strong consistency automatically for all applications](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-outposts-strong-consistency/)
-- [Amazon Monitron launches Web App](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-monitron-web-app/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
