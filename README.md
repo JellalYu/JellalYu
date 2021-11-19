@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Amplify UI launches new Authenticator component for React, Angular, and Vue](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-authenticator-ui-component-react-angular-vue/)
 - [Amazon Forecast announces new APIs that create up to 40% more accurate forecasts and provide explainability](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-forecast-api-forecasts-explainability/)
 - [Amazon Linux 2 AMI is now available with kernel 5.10](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-linux-2-ami-kernel-5-10/)
 - [AWS Lambda now supports mTLS Authentication for Amazon MSK as an event source](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-supports-mtls-authentication-amazon-msk-event-source/)
 - [AWS App Mesh now supports ARM64-based Envoy Images](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-app-mesh-arm64-envoy-images/)
-- [Amazon Pinpoint now includes an SMS simulator feature](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-pinpoint-sms-simulator-feature/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
