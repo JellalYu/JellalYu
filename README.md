@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS announces the launch of AWS AppConfig Feature Flags in preview](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-appconfig-feature-flags-preview/)
-- [Amazon ECS for Windows now supports ECS Exec](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-windows-supports-ecs-exec/)
-- [Amazon Cognito launches new console experience for user pools](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cognito-console-user-pools/)
-- [Amazon Aurora supports MySQL 8.0](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-aurora-mysql-8-0/)
-- [Amazon Redshift simplifies the use of other AWS services by introducing the default IAM role](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-default-iam-role/)
+- [AWS Glue DataBrew now supports custom SQL statements to retrieve data from Amazon Redshift and Snowflake](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-custom-sql-retrieve-data-amazon-redshift-snowflake/)
+- [AWS Glue DataBrew now provides detection and data masking transformations for Personally Identifiable Information &lpar;PII&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-detection-data-masking-transformations/)
+- [AWS Glue DataBrew announces native console integration with Amazon AppFlow](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-native-console-integration-amazon-appflow/)
+- [Amazon S3 on Outposts now delivers strong consistency automatically for all applications](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-outposts-strong-consistency/)
+- [Amazon Monitron launches Web App](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-monitron-web-app/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
