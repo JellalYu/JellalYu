@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [You can now submit multiple operations for simultaneous execution with AWS CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-cloudformation-stacksets-operations-execution/)
-- [General Availability of Syne Tune, an open-source library  for distributed hyperparameter and neural architecture optimization](https://aws.amazon.com/about-aws/whats-new/2021/11/syne-tune-hyperparameter-neural-architecture-optimization/)
-- [AWS Database Migration Service now supports parallel load for partitioned data to S3](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-database-migration-parallel-load-partitioned-data/)
-- [AWS Amplify UI launches new Authenticator component for React, Angular, and Vue](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-authenticator-ui-component-react-angular-vue/)
-- [Amazon Forecast announces new APIs that create up to 40% more accurate forecasts and provide explainability](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-forecast-api-forecasts-explainability/)
+- [Amazon Connect CTI Adapter for Salesforce supports ML-based voice authentication](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-cti-adapter-salesforce-ml-voice-authentication/)
+- [Amazon Athena accelerates queries with AWS Glue Data Catalog partition indexes](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-queries-aws-glue-data-catalog-partition-indexes/)
+- [Amazon Connect CTI Adapter for Salesforce supports Wisdom to quickly solve customer issues](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-cti-adapter-salesforce-wisdom-customer-issues/)
+- [AWS Amplify announces the ability to export Amplify backends as CDK stacks to integrate into CDK-based pipelines](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-export-amplify-backends-cdk-stacks-integrate-cdk-based-pipelines/)
+- [AWS IoT Core now supports Multi-Account Registration certificates on IoT Credential Provider endpoint](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-core-multi-account-certificates-iot-provider-endpoint/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
