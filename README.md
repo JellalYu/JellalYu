@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EC2 Mac Instances now support macOS Monterey](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-mac-instances-support-macos-monterey/)
-- [Amazon EC2 Mac Instances now support hot attach and detach of EBS volumes](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-mac-instances-support-hot-attach-detach-ebs-volumes/)
-- [Announcing preview of Amazon Linux 2022](https://aws.amazon.com/about-aws/whats-new/2021/11/preview-amazon-linux-2022/)
-- [Amazon ECS-optimized AMI is now available as an open-source project](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-optimized-ami-now-open-source/)
-- [Amazon Connect now supports custom contact attributes as search filters on the contact search page](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-custom-contact-attributes-search-page/)
+- [Amazon EventBridge cross-Region support now expands to more Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-eventbridge-cross-region-expands/)
+- [Introducing two new Amazon EC2 bare metal instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-bare-metal-instances/)
+- [Amazon ElastiCache now supports T4g Graviton2-based instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-elasticache-supports-t4g-graviton2-based-instances/)
+- [Introducing Amazon EC2 R6i instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-r6i-instances/)
+- [Amazon RDS Proxy now supports PostgreSQL major version 12](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rds-proxy-supports-postgresql-major-version-12/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
