@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing preview for write queries with Amazon Redshift  Concurrency Scaling](https://aws.amazon.com/about-aws/whats-new/2021/11/preview-write-queries-amazon-redshift-concurrency-scaling/)
+- [AWS Database Migration Service now supports Kafka multi-topic](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-database-migration-kafka-multi-topic/)
 - [You can now securely connect to your Amazon MSK clusters over the internet](https://aws.amazon.com/about-aws/whats-new/2021/11/securely-connect-amazon-msk-clusters-over-internet/)
 - [Announcing AWS Graviton2-based instances for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-graviton2-based-instances-amazon-neptune/)
 - [Amazon Athena adds console support for visualizing AWS Step Functions workflows](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-console-step-functions-workflows/)
-- [Introducing spelling support in Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-lex-spelling-support/)
-- [Amazon AppStream 2.0 launches Elastic fleets, a serverless fleet type](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-appstream-2-0-launches-elastic-fleets-serverless-fleet-type/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
