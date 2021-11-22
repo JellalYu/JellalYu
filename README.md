@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Athena adds console support for visualizing AWS Step Functions workflows](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-console-step-functions-workflows/)
 - [Introducing spelling support in Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-lex-spelling-support/)
 - [Amazon AppStream 2.0 launches Elastic fleets, a serverless fleet type](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-appstream-2-0-launches-elastic-fleets-serverless-fleet-type/)
 - [Amazon Connect CTI Adapter for Salesforce supports ML-based voice authentication](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-cti-adapter-salesforce-ml-voice-authentication/)
 - [Amazon Athena accelerates queries with AWS Glue Data Catalog partition indexes](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-queries-aws-glue-data-catalog-partition-indexes/)
-- [Amazon Connect CTI Adapter for Salesforce supports Wisdom to quickly solve customer issues](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-cti-adapter-salesforce-wisdom-customer-issues/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
