@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now supports contact flow modules to simplify repeatable logic](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connects-supports-contact-flow-modules-repeatable-logic/)
+- [Amazon Connect launches APIs to archive and delete contact flows](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-apis-archive-delete-contact-flows/)
 - [Amazon Redshift launches RA3 Reserved Instance migration feature](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-ra3-reserved-instance-migration/)
 - [AWS Lambda launches the metric OffsetLag for Amazon MSK, Self-managed Kafka, AmazonMQ, and RabbitMQ](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-metric-offsetlag-amazon-msk-kafka-mq/)
 - [Amazon EventBridge cross-Region support now expands to more Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-eventbridge-cross-region-expands/)
-- [Introducing two new Amazon EC2 bare metal instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-bare-metal-instances/)
-- [Amazon ElastiCache now supports T4g Graviton2-based instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-elasticache-supports-t4g-graviton2-based-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
