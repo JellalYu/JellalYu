@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS announces a new integration with AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-new-integration-aws-distro-opentelemetry/)
+- [Amazon ElastiCache for Redis adds support for Redis 6.2](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-elasticache-redis-support-redis-6-2/)
+- [Announcing AWS Fargate for Amazon ECS Powered by AWS Graviton2 Processors](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-fargate-amazon-ecs-aws-graviton2-processors/)
 - [Amazon Transcribe now supports automatic language identification for streaming transcriptions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-transcribe-language-identification-streaming-transcription/)
 - [Announcing data tiering for Amazon ElastiCache for Redis](https://aws.amazon.com/about-aws/whats-new/2021/11/data-tiering-amazon-elasticache-redis/)
-- [New data mangement APIs for Amazon FinSpace](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-finspace-data-management-apis/)
-- [Amazon Connect now supports contact flow modules to simplify repeatable logic](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connects-supports-contact-flow-modules-repeatable-logic/)
-- [Amazon Connect launches APIs to archive and delete contact flows](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-apis-archive-delete-contact-flows/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
