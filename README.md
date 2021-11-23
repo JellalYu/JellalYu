@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Transcribe now supports automatic language identification for streaming transcriptions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-transcribe-language-identification-streaming-transcription/)
+- [Announcing data tiering for Amazon ElastiCache for Redis](https://aws.amazon.com/about-aws/whats-new/2021/11/data-tiering-amazon-elasticache-redis/)
+- [New data mangement APIs for Amazon FinSpace](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-finspace-data-management-apis/)
 - [Amazon Connect now supports contact flow modules to simplify repeatable logic](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connects-supports-contact-flow-modules-repeatable-logic/)
 - [Amazon Connect launches APIs to archive and delete contact flows](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-apis-archive-delete-contact-flows/)
-- [Amazon Redshift launches RA3 Reserved Instance migration feature](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-ra3-reserved-instance-migration/)
-- [AWS Lambda launches the metric OffsetLag for Amazon MSK, Self-managed Kafka, AmazonMQ, and RabbitMQ](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-metric-offsetlag-amazon-msk-kafka-mq/)
-- [Amazon EventBridge cross-Region support now expands to more Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-eventbridge-cross-region-expands/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
