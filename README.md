@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda launches the metric OffsetLag for Amazon MSK, Self-managed Kafka, AmazonMQ, and RabbitMQ](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-metric-offsetlag-amazon-msk-kafka-mq/)
 - [Amazon EventBridge cross-Region support now expands to more Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-eventbridge-cross-region-expands/)
 - [Introducing two new Amazon EC2 bare metal instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-bare-metal-instances/)
 - [Amazon ElastiCache now supports T4g Graviton2-based instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-elasticache-supports-t4g-graviton2-based-instances/)
 - [Introducing Amazon EC2 R6i instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-r6i-instances/)
-- [Amazon RDS Proxy now supports PostgreSQL major version 12](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rds-proxy-supports-postgresql-major-version-12/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
