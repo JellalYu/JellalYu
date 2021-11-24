@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Amplify expands its Notifications category to include in-app messaging &lpar;Developer Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-notifications-in-app-messaging/)
-- [AWS Single Sign-On now provides one-click login to Amazon EC2 instances running Microsoft Windows](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-single-sign-on-one-click-login-ec2-windows/)
-- [Amazon Chime SDK meetings live transcription now supports content identification and custom language models](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-chime-sdk-live-transcription-identification-language-models/)
-- [Amazon Connect Customer Profiles now stores contact history at no charge to help personalize customer service](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-customer-profiles-contact-history/)
-- [AWS Lambda now supports partial batch response for SQS as an event source](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-partial-batch-response-sqs-event-source/)
+- [Amazon Virtual Private Cloud &lpar;VPC&rpar; customers can now create IPv6-only subnets and EC2 instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-virtual-private-cloud-ipv6-subnets-ec2-instances/)
+- [Now prepare data and build models using TensorFlow 2.6 and PyTorch 1.8 in Amazon SageMaker Studio Notebooks](https://aws.amazon.com/about-aws/whats-new/2021/11/data-models-tensorflow-2-6-pytorch-1-8-amazon-sagemaker-studio-notebooks/)
+- [Amazon OpenSearch Service &lpar;successor to Amazon Elasticsearch Service&rpar; now supports checking for blue/green deployment when making configuration changes.](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-opensearch-blue-green-deployment-configuration-changes/)
+- [New features for AWS IoT Core Device Advisor](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-core-device-advisor-new-features/)
+- [Amazon Lex launches support for Amazon Polly Neural Text-To-Speech &lpar;NTTS&rpar; voices for speech interactions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-lex-amazon-polly-neural-text-to-speech-ntts-voices/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
