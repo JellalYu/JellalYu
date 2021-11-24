@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager Fleet Manager now provides console based access to Windows instances with enhanced security protocols](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-systems-manager-console-windows-instances-security/)
 - [Amazon Virtual Private Cloud &lpar;VPC&rpar; customers can now create IPv6-only subnets and EC2 instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-virtual-private-cloud-ipv6-subnets-ec2-instances/)
 - [Now prepare data and build models using TensorFlow 2.6 and PyTorch 1.8 in Amazon SageMaker Studio Notebooks](https://aws.amazon.com/about-aws/whats-new/2021/11/data-models-tensorflow-2-6-pytorch-1-8-amazon-sagemaker-studio-notebooks/)
 - [Amazon OpenSearch Service &lpar;successor to Amazon Elasticsearch Service&rpar; now supports checking for blue/green deployment when making configuration changes.](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-opensearch-blue-green-deployment-configuration-changes/)
 - [New features for AWS IoT Core Device Advisor](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-core-device-advisor-new-features/)
-- [Amazon Lex launches support for Amazon Polly Neural Text-To-Speech &lpar;NTTS&rpar; voices for speech interactions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-lex-amazon-polly-neural-text-to-speech-ntts-voices/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
