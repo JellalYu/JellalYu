@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Systems Manager Fleet Manager now provides console based access to Windows instances with enhanced security protocols](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-systems-manager-console-windows-instances-security/)
-- [Amazon Virtual Private Cloud &lpar;VPC&rpar; customers can now create IPv6-only subnets and EC2 instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-virtual-private-cloud-ipv6-subnets-ec2-instances/)
-- [Now prepare data and build models using TensorFlow 2.6 and PyTorch 1.8 in Amazon SageMaker Studio Notebooks](https://aws.amazon.com/about-aws/whats-new/2021/11/data-models-tensorflow-2-6-pytorch-1-8-amazon-sagemaker-studio-notebooks/)
-- [Amazon OpenSearch Service &lpar;successor to Amazon Elasticsearch Service&rpar; now supports checking for blue/green deployment when making configuration changes.](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-opensearch-blue-green-deployment-configuration-changes/)
-- [New features for AWS IoT Core Device Advisor](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-core-device-advisor-new-features/)
+- [AWS Lambda now supports event filtering for Amazon SQS, Amazon DynamoDB, and Amazon Kinesis as event sources](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-event-filtering-amazon-sqs-dynamodb-kinesis-sources/)
+- [AWS price reduction for data transfers out to the internet](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/)
+- [Announcing new performance enhancements for Amazon Redshift data sharing](https://aws.amazon.com/about-aws/whats-new/2021/11/enhancements-amazon-redshift/)
+- [Amazon Managed Grafana adds support for Amazon Athena and Amazon Redshift data sources and Geomap visualization](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-grafana-athena-redshift-data-sources-geomap/)
+- [EC2 Image Builder enables sharing Amazon Machine Images &lpar;AMIs&rpar; with AWS Organizations and Organization Units](https://aws.amazon.com/about-aws/whats-new/2021/11/ec2-image-builder-sharing-amis-aws-organization-units/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
