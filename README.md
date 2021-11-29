@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Ground Station launches expanded support for Software Defined Radios in Preview](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-ground-station-software-defined-radios-preview/)
 - [Introducing Amazon EC2 M6a instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-m6a-instances/)
+- [AWS Ground Station launches expanded support for Software Defined Radios in Preview](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-ground-station-software-defined-radios-preview/)
+- [AWS AI for data analytics &lpar;AIDA&rpar; partner solutions](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-ai-data-analytics-aida-partner-solutions/)
 - [AWS IoT SiteWise now supports hot and cold storage tiers for industrial data](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-sitewise-storage-tiers-industrial-data/)
 - [AWS Compute Optimizer now offers enhanced infrastructure metrics, a new feature for EC2 recommendations](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-compute-optimizer-enhanced-infrastructure-metrics-ec2-instances/)
-- [AWS Compute Optimizer now offers resource efficiency metrics](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-compute-optimizer-resource-efficiency-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
