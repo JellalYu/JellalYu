@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Introducing recommenders optimized to deliver personalized experiences for Media &amp; Entertainment and Retail with Amazon Personalize](https://aws.amazon.com/about-aws/whats-new/2021/11/recommenders-optimized-personalized-media-entertainment-retail-amazon-personalize/)
-- [Amazon CodeGuru Reviewer now detects hardcoded secrets in Java and Python repositories](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-codeguru-reviewer-hardcoded-secrets-java-python/)
-- [Amazon BugBust announces the First Annual AWS BugBust re:Invent challenge](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-bugbust-aws-reinvent-challenge/)
-- [Introducing intelligent user segmentation in Amazon Personalize, helping you to run more effective marketing campaigns](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-personalize-intelligent-user-segmentation/)
-- [AWS Chatbot now supports management of AWS resources in Slack &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-chatbot-management-resources-slack/)
+- [AWS Ground Station launches expanded support for Software Defined Radios in Preview](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-ground-station-software-defined-radios-preview/)
+- [Introducing Amazon EC2 M6a instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-m6a-instances/)
+- [AWS IoT SiteWise now supports hot and cold storage tiers for industrial data](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-sitewise-storage-tiers-industrial-data/)
+- [AWS Compute Optimizer now offers enhanced infrastructure metrics, a new feature for EC2 recommendations](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-compute-optimizer-enhanced-infrastructure-metrics-ec2-instances/)
+- [AWS Compute Optimizer now offers resource efficiency metrics](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-compute-optimizer-resource-efficiency-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
