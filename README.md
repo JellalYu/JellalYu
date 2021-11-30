@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Recover from accidental deletions of your snapshots using Recycle Bin](https://aws.amazon.com/about-aws/whats-new/2021/11/recover-accidental-deletions-snapshots-recycle-bin/)
-- [Amazon EBS Snapshots introduces a new tier, Amazon EBS Snapshots Archive, to reduce the cost of long-term retention of EBS Snapshots by up to 75%](https://aws.amazon.com/about-aws/whats-new/2021/11/retention-ebs-snapshots-75-amazon-archive-tier/)
-- [Announcing Amazon Athena ACID transactions, powered by Apache Iceberg &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-acid-apache-iceberg/)
-- [Introducing the AWS Migration and Modernization Competency](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-migration-modernization-competency/)
-- [Amazon Timestream now offers faster and more cost-effective time series data processing through scheduled queries, multi-measure records, and magnetic storage writes](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-timestream-scheduled-queries-multi-measure-records-magnetic-storage-writes/)
+- [AWS Lake Formation support Governed Tables, storage optimization and row-level security](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lake-formation-governed-tables-storage-security/)
+- [Introducing Amazon EMR Serverless in preview](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-emr-serverless-preview/)
+- [Announcing Amazon Kinesis Data Streams On-Demand](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-kinesis-data-streams-on-demand/)
+- [Announcing Amazon Redshift Serverless &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-serverless/)
+- [Introducing Amazon MSK Serverless in public preview](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-msk-serverless-public-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
