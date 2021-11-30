@@ -51,9 +51,9 @@
 
 <!-- AWS-NEWS:START -->
 - [Recover from accidental deletions of your snapshots using Recycle Bin](https://aws.amazon.com/about-aws/whats-new/2021/11/recover-accidental-deletions-snapshots-recycle-bin/)
+- [Amazon EBS Snapshots introduces a new tier, Amazon EBS Snapshots Archive, to reduce the cost of long-term retention of EBS Snapshots by up to 75%](https://aws.amazon.com/about-aws/whats-new/2021/11/retention-ebs-snapshots-75-amazon-archive-tier/)
 - [Announcing Amazon Athena ACID transactions, powered by Apache Iceberg &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-acid-apache-iceberg/)
 - [Introducing the AWS Migration and Modernization Competency](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-migration-modernization-competency/)
-- [Amazon EBS Snapshots introduces a new tier, Amazon EBS Snapshots Archive, to reduce the cost of long-term retention of EBS Snapshots by up to 75%](https://aws.amazon.com/about-aws/whats-new/2021/11/retention-ebs-snapshots-75-amazon-archive-tier/)
 - [Amazon Timestream now offers faster and more cost-effective time series data processing through scheduled queries, multi-measure records, and magnetic storage writes](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-timestream-scheduled-queries-multi-measure-records-magnetic-storage-writes/)
 <!-- AWS-NEWS:END -->
 
