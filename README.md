@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Athena now supports new Lake Formation fine-grained security and reliable table features](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-lake-formation-security-table-features/)
 - [New connectivity software, AWS IoT ExpressLink, accelerates IoT development &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-expresslink-development/)
 - [AWS Outposts is Now Available in Two Smaller Form Factors](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-outposts-form-factors/)
 - [Deny services and operations for AWS Regions of your choice with AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2021/11/deny-services-operations-aws-regions-control-tower/)
 - [Contact Lens for Amazon Connect announces new machine-learning powered call summarization](https://aws.amazon.com/about-aws/whats-new/2021/11/contact-lens-amazon-connect-machine-learning-powered-call-summarization/)
-- [Announcing new Amazon EC2 Im4gn and Is4gen instances powered by AWS Graviton2 processors](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-im4gn-is4gen-aws-graviton2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
