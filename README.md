@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing the AWS Graviton Ready Program](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-graviton-ready-program/)
 - [Customize your AWS Well-Architected Review using Custom Lenses](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-well-architected-tool-custom-lenses/)
 - [Introducing Amazon EC2 M6a instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-m6a-instances/)
 - [AWS Ground Station launches expanded support for Software Defined Radios in Preview](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-ground-station-software-defined-radios-preview/)
 - [AWS AI for data analytics &lpar;AIDA&rpar; partner solutions](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-ai-data-analytics-aida-partner-solutions/)
-- [AWS IoT SiteWise now supports hot and cold storage tiers for industrial data](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-sitewise-storage-tiers-industrial-data/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
