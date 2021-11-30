@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Event Notifications with Amazon EventBridge help you build advanced serverless applications faster](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-event-notifications-amazon-eventbridge-build-advanced-serverless-applications/)
 - [Amazon Athena now supports new Lake Formation fine-grained security and reliable table features](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-lake-formation-security-table-features/)
 - [New connectivity software, AWS IoT ExpressLink, accelerates IoT development &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-expresslink-development/)
 - [AWS Outposts is Now Available in Two Smaller Form Factors](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-outposts-form-factors/)
 - [Deny services and operations for AWS Regions of your choice with AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2021/11/deny-services-operations-aws-regions-control-tower/)
-- [Contact Lens for Amazon Connect announces new machine-learning powered call summarization](https://aws.amazon.com/about-aws/whats-new/2021/11/contact-lens-amazon-connect-machine-learning-powered-call-summarization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
