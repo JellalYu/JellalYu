@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Database Migration Service now offers a new console experience, AWS DMS Studio](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-database-migration-service-aws-dms-studio/)
 - [AWS announces AWS DeepRacer Student, offering free model training, learning content, and a global autonomous racing competition exclusively for students](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-deepracer-student/)
 - [AWS Announces the AWS AI &amp; ML Scholarship Program in collaboration with Intel and Udacity to help bring diversity to the future of the AI and ML workforce](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-ai-ml-scholarship-program-intel-udacity-workforce/)
 - [AWS DeepRacer announces the 2022 Season of DeepRacer League including physical races in the Summit Circuit, LIVE virtual head-to-head racing and a dedicated Student League](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-deepracer-league-races-summit-circuit/)
 - [Amazon SageMaker Studio Lab &lpar;currently in preview&rpar;, a free, no-configuration ML service](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-sagemaker-studio-lab-no-configuration-ml-service/)
-- [Amazon Kendra launches Experience Builder, Search Analytics Dashboard, and Custom Document Enrichment](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-kendra-experience-builder-search-analytics-dashboard-custom-document-enrichment/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
