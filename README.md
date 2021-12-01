@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon S3 Event Notifications with Amazon EventBridge help you build advanced serverless applications faster](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-event-notifications-amazon-eventbridge-build-advanced-serverless-applications/)
-- [Amazon Athena now supports new Lake Formation fine-grained security and reliable table features](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-lake-formation-security-table-features/)
-- [New connectivity software, AWS IoT ExpressLink, accelerates IoT development &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-expresslink-development/)
-- [AWS Outposts is Now Available in Two Smaller Form Factors](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-outposts-form-factors/)
-- [Deny services and operations for AWS Regions of your choice with AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2021/11/deny-services-operations-aws-regions-control-tower/)
+- [Amazon FSx for Lustre can now automatically update file system contents as data is deleted and moved in Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-system-contents-s3/)
+- [Amazon FSx for Lustre now supports linking multiple Amazon S3 buckets to a file system](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-s3-buckets/)
+- [Amazon FSx for Lustre now supports automatically exporting file updates to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-updates-s3/)
+- [Amazon S3 console now reports security warnings, errors, and suggestions from IAM Access Analyzer as you author your S3 policies](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-console-warnings-errors-suggestions-iam-access-analyzer/)
+- [AWS Snow Family launches offline tape data migration capability](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-snow-family-offline-tape-data-migration-capability/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
