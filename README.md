@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the new Amazon S3 Glacier Instant Retrieval storage class - the lowest cost archive storage with milliseconds retrieval](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-glacier-instant-retrieval-storage-class/)
 - [Amazon FSx for Lustre can now automatically update file system contents as data is deleted and moved in Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-system-contents-s3/)
 - [Amazon FSx for Lustre now supports linking multiple Amazon S3 buckets to a file system](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-s3-buckets/)
 - [Amazon FSx for Lustre now supports automatically exporting file updates to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-updates-s3/)
 - [Amazon S3 console now reports security warnings, errors, and suggestions from IAM Access Analyzer as you author your S3 policies](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-console-warnings-errors-suggestions-iam-access-analyzer/)
-- [AWS Snow Family launches offline tape data migration capability](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-snow-family-offline-tape-data-migration-capability/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
