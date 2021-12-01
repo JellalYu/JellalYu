@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon DynamoDB announces the new Amazon DynamoDB Standard-Infrequent Access table class, which helps you reduce your DynamoDB costs by up to 60 percent](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-dynamodb-standard-infrequent-access-table-class/)
-- [Introducing AWS DMS Fleet Advisor for automated discovery and analysis of database and analytics workloads &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-dms-fleet-advisor/)
-- [AWS Database Migration Service now offers a new console experience, AWS DMS Studio](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-database-migration-service-aws-dms-studio/)
-- [Announcing Amazon RDS Custom for SQL Server](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-rds-custom-sql-server/)
-- [Announcing Amazon DevOps Guru for RDS, an ML-powered capability that automatically detects and diagnoses performance and operational issues within Amazon Aurora](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-devops-guru-rds-ml-powered-capability-amazon-aurora/)
+- [AWS announces AWS DeepRacer Student, offering free model training, learning content, and a global autonomous racing competition exclusively for students](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-deepracer-student/)
+- [AWS Announces the AWS AI &amp; ML Scholarship Program in collaboration with Intel and Udacity to help bring diversity to the future of the AI and ML workforce](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-ai-ml-scholarship-program-intel-udacity-workforce/)
+- [AWS DeepRacer announces the 2022 Season of DeepRacer League including physical races in the Summit Circuit, LIVE virtual head-to-head racing and a dedicated Student League](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-deepracer-league-races-summit-circuit/)
+- [Amazon SageMaker Studio Lab &lpar;currently in preview&rpar;, a free, no-configuration ML service](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-sagemaker-studio-lab-no-configuration-ml-service/)
+- [Amazon Kendra launches Experience Builder, Search Analytics Dashboard, and Custom Document Enrichment](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-kendra-experience-builder-search-analytics-dashboard-custom-document-enrichment/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
