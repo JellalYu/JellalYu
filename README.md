@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing the new Amazon S3 Glacier Instant Retrieval storage class - the lowest cost archive storage with milliseconds retrieval](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-glacier-instant-retrieval-storage-class/)
-- [Announcing the new S3 Intelligent-Tiering Archive Instant Access tier - Automatically save up to 68% on storage costs](https://aws.amazon.com/about-aws/whats-new/2021/11/s3-intelligent-tiering-archive-instant-access-tier/)
-- [Amazon S3 Glacier storage class is now Amazon S3 Glacier Flexible Retrieval; storage price reduced by 10% and bulk retrievals are now free](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-glacier-storage-class-amazon-s3-glacier-flexible-retrieval/)
-- [Amazon S3 announces a price reduction up to 31% in three storage classes](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-price-reduction-storage-classes/)
-- [Amazon FSx for Lustre now supports automatically exporting file updates to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-updates-s3/)
+- [Amazon DynamoDB announces the new Amazon DynamoDB Standard-Infrequent Access table class, which helps you reduce your DynamoDB costs by up to 60 percent](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-dynamodb-standard-infrequent-access-table-class/)
+- [Introducing AWS DMS Fleet Advisor for automated discovery and analysis of database and analytics workloads &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-dms-fleet-advisor/)
+- [AWS Database Migration Service now offers a new console experience, AWS DMS Studio](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-database-migration-service-aws-dms-studio/)
+- [Announcing Amazon RDS Custom for SQL Server](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-rds-custom-sql-server/)
+- [Announcing Amazon DevOps Guru for RDS, an ML-powered capability that automatically detects and diagnoses performance and operational issues within Amazon Aurora](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-devops-guru-rds-ml-powered-capability-amazon-aurora/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
