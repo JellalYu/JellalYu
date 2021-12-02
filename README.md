@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing Amazon EC2 M1 Mac instances for macOS](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-ec2-m1-mac-instances-macos/)
-- [Introducing AWS Cloud WAN Preview](https://aws.amazon.com/about-aws/whats-new/2021/12/introducing-aws-cloud-wan/)
-- [New AWS GameDay Benefits for Differentiated Partners](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-gameday-benefits-differentiated-partners/)
-- [Amazon SageMaker now supports cross-account lineage tracking and multi-hop lineage querying](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-sagemaker-cross-account-lineage-tracking-query/)
-- [AWS Transit Gateway introduces intra-region peering for simplified cloud operations and network connectivity](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-transit-gateway-intra-region-cloud-network/)
+- [AWS SDK for Rust &lpar;Developer Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-sdk-rust-developer-preview/)
+- [AWS SDK for Kotlin &lpar;Developer Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-sdk-kotlin-developer-preview/)
+- [AWS Cloud Development Kit &lpar;AWS CDK&rpar; v2 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-cloud-development-kit-cdk-generally-available/)
+- [AWS announces Construct Hub general availability](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-construct-hub-availability/)
+- [AWS SDK for Swift &lpar;Developer Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-sdk-swift-developer-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
