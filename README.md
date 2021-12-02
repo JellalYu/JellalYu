@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing AWS Amplify Studio](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-amplify-studio/)
 - [AWS Cloud Development Kit &lpar;AWS CDK&rpar; v2 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-cloud-development-kit-cdk-generally-available/)
 - [AWS Resource Access Manager enables support for global resource types](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-resource-access-manager-global-resource-types/)
 - [AWS and partners of the Open 3D Foundation announce the first Stable release of Open 3D Engine](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-partners-open-3d-foundation-first-stable-open-3d-engine/)
 - [Announcing Extended Maintenance Plan for FreeRTOS](https://aws.amazon.com/about-aws/whats-new/2021/12/extended-maintenance-plan-freertos/)
-- [Introducing AWS re:Post, a new, community-driven, questions-and-answers service](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-repost-community-question-answer-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
