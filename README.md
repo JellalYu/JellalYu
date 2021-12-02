@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon DynamoDB announces the new Amazon DynamoDB Standard-Infrequent Access table class, which helps you reduce your DynamoDB costs by up to 60 percent](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-dynamodb-standard-infrequent-access-table-class/)
-- [AWS Database Migration Service now offers a new console experience, AWS DMS Studio](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-database-migration-service-aws-dms-studio/)
-- [Introducing Amazon SageMaker Ground Truth Plus: Create high-quality training datasets without having to build labeling applications or manage the labeling workforce on your own](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-sagemaker-ground-truth-plus/)
-- [AWS announces AWS DeepRacer Student, offering free model training, learning content, and a global autonomous racing competition exclusively for students](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-deepracer-student/)
-- [AWS Announces the AWS AI &amp; ML Scholarship Program in collaboration with Intel and Udacity to help bring diversity to the future of the AI and ML workforce](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-ai-ml-scholarship-program-intel-udacity-workforce/)
+- [Amazon Virtual Private Cloud &lpar;VPC&rpar; announces Network Access Analyzer to help you easily identify unintended network access](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-vpc-network-access-analyzer/)
+- [AWS Shield Advanced introduces automatic application-layer DDoS mitigation](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-shield-advanced-application-layer-ddos-mitigation/)
+- [Announcing a simplified FreeRTOS out-of-box AWS IoT connectivity experience](https://aws.amazon.com/about-aws/whats-new/2021/12/freertos-aws-iot-connectivity-experience/)
+- [Amazon SageMaker now supports cross-account lineage tracking and multi-hop lineage querying](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-sagemaker-cross-account-lineage-tracking-query/)
+- [Amazon Virtual Private Cloud &lpar;VPC&rpar; announces IP Address Manager &lpar;IPAM&rpar; to help simplify IP address management on AWS](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-virtual-private-cloud-vpc-announces-ip-address-manager-ipam/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
