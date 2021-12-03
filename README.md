@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces support for VARBYTE data type](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-support-varbyte-data-type/)
+- [Amazon Redshift announces preview of Automated Materialized View](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-preview-automated-materialized-view/)
 - [AWS Database Migration Service now supports Time Travel, an improved logging mechanism](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-database-migration-time-travel-logging/)
 - [Introducing AWS Amplify Studio](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-amplify-studio/)
 - [AWS Cloud Development Kit &lpar;AWS CDK&rpar; v2 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-cloud-development-kit-cdk-generally-available/)
-- [AWS Resource Access Manager enables support for global resource types](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-resource-access-manager-global-resource-types/)
-- [AWS and partners of the Open 3D Foundation announce the first Stable release of Open 3D Engine](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-partners-open-3d-foundation-first-stable-open-3d-engine/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
