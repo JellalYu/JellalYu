@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Model Registry now supports endpoint visibility, custom metadata and model metrics](https://aws.amazon.com/about-aws/whats-new/2021/12/sagemaker-model-registry-endpoint-visibility-custom-metadata-model-metrics/)
+- [Announcing preview of SQL Notebooks support in Amazon Redshift Query Editor V2](https://aws.amazon.com/about-aws/whats-new/2021/12/sql-notebooks-amazon-redshift-query-editor-v2/)
+- [AWS Lambda now logs Hyperplane Elastic Network Interface &lpar;ENI&rpar; ID in AWS CloudTrail data events](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-lambda-hyperplane-eni-cloudtrail-events/)
 - [Amazon Fraud Detector is now in scope for AWS SOC Reports](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-fraud-detector-in-scope-aws-soc-reports/)
 - [Amazon Redshift announces support for VARBYTE data type](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-support-varbyte-data-type/)
-- [Amazon Redshift announces preview of Automated Materialized View](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-preview-automated-materialized-view/)
-- [AWS Database Migration Service now supports Time Travel, an improved logging mechanism](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-database-migration-time-travel-logging/)
-- [Introducing AWS Amplify Studio](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-amplify-studio/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
