@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager Fleet Manager now offers console based viewing and management of instance processes](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-systems-manager-fleet-console-instance-processes/)
+- [NICE EnginFrame adds AWS HPC cluster management with AWS ParallelCluster](https://aws.amazon.com/about-aws/whats-new/2021/12/nice-enginframe-aws-hpc-cluster-management-parallelcluster/)
 - [Amazon Pinpoint now includes a one-time password &lpar;OTP&rpar; management feature](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-pinpoint-otp/)
 - [Amazon Redshift launches RA3 self-service RI migration feature in the Amazon Redshift Console.](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-ra3-ri-migration-console/)
 - [Amazon Polly introduces Takumi, a new neural Japanese male voice](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-polly-takumi-neural-japanese-voice/)
-- [Amazon SageMaker Model Registry now supports endpoint visibility, custom metadata and model metrics](https://aws.amazon.com/about-aws/whats-new/2021/12/sagemaker-model-registry-endpoint-visibility-custom-metadata-model-metrics/)
-- [Announcing preview of SQL Notebooks support in Amazon Redshift Query Editor V2](https://aws.amazon.com/about-aws/whats-new/2021/12/sql-notebooks-amazon-redshift-query-editor-v2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
