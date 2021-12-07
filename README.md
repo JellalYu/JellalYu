@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue streaming ETL jobs now integrates with the AWS Glue Schema Registry](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-glue-streaming-etl-jobs-schema-registry/)
 - [Amazon S3 File Gateway now supports NFS file share auditing](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-s3-file-gateway-nfs-file-share-auditing/)
 - [Amazon S3 File Gateway enables administrators to force the closing of locked files](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-s3-file-gateway-force-closing-locked-files/)
 - [Amazon Aurora R6g instances, powered by AWS Graviton2 processors, are now available in Europe &lpar;Milan&rpar;, Europe &lpar;Paris&rpar;, and Europe &lpar;Stockholm&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-aurora-r6g-instances-aws-graviton2-processors-available-new-regions/)
 - [AWS AppSync now supports custom domain names for AppSync GraphQL endpoints](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-appsync-supports-custom-domain-names-appsync-graphql-endpoints/)
-- [AWS WAF adds support for CloudWatch Log and logging directly to S3 bucket](https://aws.amazon.com/about-aws/whats-new/2021/12/awf-waf-cloudwatch-log-s3-bucket/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
