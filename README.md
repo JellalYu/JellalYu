@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS End-of-support Migration Program &lpar;EMP&rpar; Now Supports Assisted Packaging for applications without installation media](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-end-support-emp-windows-server-packaging-applications-media/)
+- [AWS Toolkit for VS Code adds support for Amazon ECS Exec for troubleshooting Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-toolkit-vs-code-amazon-ecs-exec/)
 - [AWS Systems Manager now supports application-level cost reporting](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-systems-manager-application-level-cost-reporting/)
 - [AWS Systems Manager announces new features for Session Manager to support maximum session timeout and annotate reason for starting the session](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-systems-manager-features-session-timeout-annotate-reason/)
 - [AWS Glue streaming ETL jobs now integrates with the AWS Glue Schema Registry](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-glue-streaming-etl-jobs-schema-registry/)
-- [Amazon S3 File Gateway now supports NFS file share auditing](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-s3-file-gateway-nfs-file-share-auditing/)
-- [Amazon S3 File Gateway enables administrators to force the closing of locked files](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-s3-file-gateway-force-closing-locked-files/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
