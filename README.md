@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MariaDB supports new minor versions 10.5.13, 10.4.22, 10.3.32, 10.2.41](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-rds-mariadb-supports-new-minor-versions/)
 - [AWS End-of-support Migration Program &lpar;EMP&rpar; Now Supports Assisted Packaging for applications without installation media](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-end-support-emp-windows-server-packaging-applications-media/)
 - [AWS Toolkit for VS Code adds support for Amazon ECS Exec for troubleshooting Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-toolkit-vs-code-amazon-ecs-exec/)
 - [AWS Systems Manager now supports application-level cost reporting](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-systems-manager-application-level-cost-reporting/)
 - [AWS Systems Manager announces new features for Session Manager to support maximum session timeout and annotate reason for starting the session](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-systems-manager-features-session-timeout-annotate-reason/)
-- [AWS Glue streaming ETL jobs now integrates with the AWS Glue Schema Registry](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-glue-streaming-etl-jobs-schema-registry/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
