@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager now supports application-level cost reporting](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-systems-manager-application-level-cost-reporting/)
 - [AWS Systems Manager announces new features for Session Manager to support maximum session timeout and annotate reason for starting the session](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-systems-manager-features-session-timeout-annotate-reason/)
 - [AWS Glue streaming ETL jobs now integrates with the AWS Glue Schema Registry](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-glue-streaming-etl-jobs-schema-registry/)
 - [Amazon S3 File Gateway now supports NFS file share auditing](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-s3-file-gateway-nfs-file-share-auditing/)
 - [Amazon S3 File Gateway enables administrators to force the closing of locked files](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-s3-file-gateway-force-closing-locked-files/)
-- [Amazon Aurora R6g instances, powered by AWS Graviton2 processors, are now available in Europe &lpar;Milan&rpar;, Europe &lpar;Paris&rpar;, and Europe &lpar;Stockholm&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-aurora-r6g-instances-aws-graviton2-processors-available-new-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
