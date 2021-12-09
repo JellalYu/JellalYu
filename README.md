@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift launches single-node RA3.xlplus cluster](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-single-node-ra3-xlplus-cluster/)
 - [Amazon Comprehend Medical adds support for SNOMED CT and reduces pricing across all APIs by up to 90%](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-comprehend-medical-snomed-ct-reduces-pricing/)
 - [AWS Launch Wizard now provides guided deployment of Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-launch-wizard-guided-deployment-amazon-eks/)
 - [AWS Announces General Availability of AWS Wavelength in Germany](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-general-availability-aws-wavelength-germany/)
 - [AWS Launch Wizard now provides guided deployment of Remote Desktop Gateway](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-launch-wizard-guided-deployment-remote-desktop-gateway/)
-- [Amazon Location Service adds metadata help customers reduce costs](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-location-service-metadata-reduce-costs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
