@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Comprehend Medical adds support for SNOMED CT and reduces pricing across all APIs by up to 90%](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-comprehend-medical-snomed-ct-reduces-pricing/)
+- [AWS Launch Wizard now provides guided deployment of Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-launch-wizard-guided-deployment-amazon-eks/)
+- [AWS Announces General Availability of AWS Wavelength in Germany](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-general-availability-aws-wavelength-germany/)
+- [AWS Launch Wizard now provides guided deployment of Remote Desktop Gateway](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-launch-wizard-guided-deployment-remote-desktop-gateway/)
 - [Amazon Location Service adds metadata help customers reduce costs](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-location-service-metadata-reduce-costs/)
-- [Right-size permissions for more roles in your account using IAM Access Analyzer to generate 50 fine-grained IAM policies per day](https://aws.amazon.com/about-aws/whats-new/2021/12/right-size-permissions-iam-access-analyzer/)
-- [Amazon EC2 C5n instances now available in Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-ec2-c5n-instances-africa-cape-town/)
-- [Amazon DevOps Guru introduces enhanced analysis for Amazon Aurora databases and support for AWS tags as an application boundary](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-devops-guru-amazon-aurorad-databases-aws-tags/)
-- [AWS IoT Core now supports caching of responses returned by customer’s Custom Authorizer Lambdas when using HTTP connections](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-iot-core-caching-responses-custom-lambdas/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
