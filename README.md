@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lex launches support for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-lex-aws-cloudformation/)
 - [Amazon FSx for NetApp ONTAP reduces minimum file system throughput capacity to 128 MB/s](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-fsx-netapp-ontap-reduces-file-system-capacity/)
 - [Amazon Route 53 updates API actions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-route-53-updates-api-actions/)
 - [AWS Network Firewall now supports AWS Managed Rules](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-network-firewall-aws-managed-rules/)
 - [You can now enable data compression for capacity pool storage in Amazon FSx for NetApp ONTAP file systems](https://aws.amazon.com/about-aws/whats-new/2021/12/data-compression-amazon-fsx-netapp-ontap-file-systems/)
-- [Amazon Kinesis Data Analytics is now available in the Asia Pacific &lpar;Osaka&rpar; and  Africa &lpar;Cape Town&rpar; regions.](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-kinesis-data-analytics-available-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
