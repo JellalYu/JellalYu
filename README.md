@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lookout for Vision now supports visual inspection of product defects at the edge](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-lookout-vision-visual-inspection-product-defects-edge/)
+- [Amazon EMR now supports using multiple custom AMIs when you mix AWS Graviton2-based instances with non-Graviton2 instances in a single EMR cluster](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-emr-custom-amis-aws-graviton2-emr-cluster/)
 - [Amazon FSx for NetApp ONTAP now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-fsx-netapp-ontap-aws-cloudformation/)
 - [Amazon FinSpace is now in scope for SOC 1, SOC 2, and SOC 3 compliance](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-finspace-soc-compliant/)
 - [Amazon Lex launches support for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-lex-aws-cloudformation/)
-- [Amazon FSx for NetApp ONTAP reduces minimum file system throughput capacity to 128 MB/s](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-fsx-netapp-ontap-reduces-file-system-capacity/)
-- [Amazon Route 53 updates API actions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-route-53-updates-api-actions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
