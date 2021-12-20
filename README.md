@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches AWS CloudFormation support for contact flow and contact flow module resources](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-connect-aws-cloudformation-contact-flow-module-resources/)
 - [Amazon Detective simplifies account management with the support for AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-detective-account-management-support-aws-organizations/)
 - [AWS Ground Station Launches a New Antenna Location in Punta Arenas in Preview](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-ground-station-antenna-location-punta-arenas-preview/)
 - [Amazon Lex launches support for Portuguese, Brazilian Portuguese, and Mandarin Chinese](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-lex-launches-support-new-languages/)
 - [AWS Direct Connect announces two new locations in Indonesia](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-direct-connect-announces-new-locations-indonesia/)
-- [Amazon Nimble Studio adds new features to support Linux, Usage Based Licensing, and Los Angeles Local Zone](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-nimble-studio-support-linux-usage-based-licensing-los-angeles-local-zone/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
