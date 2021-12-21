@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Well-Architected Tool adds four new Trusted Advisor checks](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-well-architected-tool-trusted-advisor-checks/)
+- [AWS Trusted Advisor adds three optimization checks for Microsoft SQL Server on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-trusted-advisor-optimization-microsoft-sql-ec2/)
 - [AWS DataSync can now copy data to and from Amazon FSx for Lustre](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-datasync-copy-amazon-fsx-lustre/)
 - [Amazon Chime SDK media capture pipelines supports Amazon S3 server side encryption with AWS Key Management Service](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-chime-sdk-media-capture-pipelines-s3-server-side-encryption-key-management/)
 - [Amazon Translate announces profanity masking](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-translate-profanity-masking/)
-- [Amazon Connect launches AWS CloudFormation support for contact flow and contact flow module resources](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-connect-aws-cloudformation-contact-flow-module-resources/)
-- [Amazon Detective simplifies account management with the support for AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-detective-account-management-support-aws-organizations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
