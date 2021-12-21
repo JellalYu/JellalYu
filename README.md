@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [NICE DCV releases web client SDK 1.0.4 with multiple connection support](https://aws.amazon.com/about-aws/whats-new/2021/12/nice-dcv-web-sdk-1-0-4-multiple-connection-support/)
+- [NICE DCV releases version 2021.3 with DCV Connection Gateway](https://aws.amazon.com/about-aws/whats-new/2021/12/nice-dcv-version-2021-3-dcv-connection-gateway/)
 - [Amazon Connect Customer Profiles now supports pre-configured connectors from Segment and Shopify](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-connect-profiles-connectors-segment-shopify/)
 - [AWS Transfer Family is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-transfer-family-fedramp-compliant/)
 - [Porting Assistant for .NET adds support for .NET 6 and conversion of ASP.NET Web Forms applications to ASP.NET Core Blazor](https://aws.amazon.com/about-aws/whats-new/2021/12/porting-assistant-net-net-6-asp-net-web-forms-applications-asp-net-core-blazor/)
-- [AWS Well-Architected Tool adds four new Trusted Advisor checks](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-well-architected-tool-trusted-advisor-checks/)
-- [AWS Trusted Advisor adds three optimization checks for Microsoft SQL Server on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-trusted-advisor-optimization-microsoft-sql-ec2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
