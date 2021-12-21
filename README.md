@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Customer Profiles now supports pre-configured connectors from Segment and Shopify](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-connect-profiles-connectors-segment-shopify/)
+- [AWS Transfer Family is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-transfer-family-fedramp-compliant/)
+- [Porting Assistant for .NET adds support for .NET 6 and conversion of ASP.NET Web Forms applications to ASP.NET Core Blazor](https://aws.amazon.com/about-aws/whats-new/2021/12/porting-assistant-net-net-6-asp-net-web-forms-applications-asp-net-core-blazor/)
 - [AWS Well-Architected Tool adds four new Trusted Advisor checks](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-well-architected-tool-trusted-advisor-checks/)
 - [AWS Trusted Advisor adds three optimization checks for Microsoft SQL Server on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-trusted-advisor-optimization-microsoft-sql-ec2/)
-- [AWS DataSync can now copy data to and from Amazon FSx for Lustre](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-datasync-copy-amazon-fsx-lustre/)
-- [Amazon Chime SDK media capture pipelines supports Amazon S3 server side encryption with AWS Key Management Service](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-chime-sdk-media-capture-pipelines-s3-server-side-encryption-key-management/)
-- [Amazon Translate announces profanity masking](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-translate-profanity-masking/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
