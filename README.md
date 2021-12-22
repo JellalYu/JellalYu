@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda now supports Internet Protocol Version 6 &lpar;IPv6&rpar; endpoints for inbound connections](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-lambda-ipv6-endpoints-inbound-connections/)
 - [Support for Fujitsu QoS protocol now available in AWS Elemental MediaConnect](https://aws.amazon.com/about-aws/whats-new/2021/12/fujitsu-qos-protocol-aws-elemental-mediaconnect/)
 - [Amazon Chime SDK now supports stereo audio](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-chime-sdk-stereo-audio/)
 - [AWS Cost Management now supports hourly granularity in Savings Plans Utilization and Coverage reports](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-cost-management-hourly-granularity-savings-reports/)
 - [Amazon MSK adds support for Apache Kafka version 2.6.3](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-msk-apache-support-kafka-2-6-3/)
-- [Amazon MSK adds support for Apache Kafka version 2.7.2](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-msk-support-apache-kafka-version-2-7-2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
