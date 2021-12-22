@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Secrets Manager now automatically enables SSL connections when rotating database secrets](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-secrets-manager-enables-ssl-connections-rotating-database/)
+- [Amazon Connect Chat user interface now supports browser notifications for your customers](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-connect-chat-user-interface-browser-notifications-customers/)
 - [Amazon S3 on Outposts launches in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-s3-outposts-aws-govcloud-us/)
 - [AWS Lambda now supports Internet Protocol Version 6 &lpar;IPv6&rpar; endpoints for inbound connections](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-lambda-ipv6-endpoints-inbound-connections/)
 - [Support for Fujitsu QoS protocol now available in AWS Elemental MediaConnect](https://aws.amazon.com/about-aws/whats-new/2021/12/fujitsu-qos-protocol-aws-elemental-mediaconnect/)
-- [Amazon Chime SDK now supports stereo audio](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-chime-sdk-stereo-audio/)
-- [AWS Cost Management now supports hourly granularity in Savings Plans Utilization and Coverage reports](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-cost-management-hourly-granularity-savings-reports/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
