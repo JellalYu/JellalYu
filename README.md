@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lex launches support for Catalan](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-lex-catalan/)
 - [Introducing Autoscaling in AWS Glue jobs &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/autoscaling-aws-glue-jobs-preview/)
 - [AWS announces phone number enrichments for Amazon Fraud Detector Models](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-phone-number-enrichments-amazon-fraud-detector-models/)
 - [AWS Secrets Manager now automatically enables SSL connections when rotating database secrets](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-secrets-manager-enables-ssl-connections-rotating-database/)
 - [Amazon Connect Chat user interface now supports browser notifications for your customers](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-connect-chat-user-interface-browser-notifications-customers/)
-- [Amazon S3 on Outposts launches in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-s3-outposts-aws-govcloud-us/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
