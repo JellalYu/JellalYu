@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EKS releases Custom Image Validation Tool to simplify testing of your customized docker container images](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-custom-image-validation-tool-images/)
 - [Amazon ECS launches new simplified console experience for creating ECS clusters and task definitions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ecs-launches-console-ecs-clusters-task-definitions/)
 - [Amazon SageMaker JumpStart adds LightGBM and CatBoost Models for Tabular Data](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-jumpstart-lightgbm-catboost-tabular/)
 - [AWS Resource Groups and Tag Editor are now available in the Asia Pacific &lpar;Jakarta&rpar; region.](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-resource-groups-tag-editor-jakarta/)
 - [AWS Console Mobile Application adds support for Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-console-mobile-application-asia-pacific-jakarta-region/)
-- [Amazon Lex launches support for Catalan](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-lex-catalan/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
