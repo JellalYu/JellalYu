@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Personal Identifiable Information &lpar;PII&rpar; detection and remediation in AWS Glue &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-glue-preview-pii-detection-remediation/)
+- [Introducing AWS Glue Interactive Sessions and Job Notebooks &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-glue-interactive-sessions-job-notebooks/)
 - [AWS Storage Gateway now supports Dell EMC NetWorker 19.5 and Veeam Backup &amp; Replication 11A on Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-storage-gateway-dell-emc-networker-19-5-veeam-backup-replication-11a-tape-gateway/)
 - [ACM Private CA Kubernetes cert-manager plugin is production ready](https://aws.amazon.com/about-aws/whats-new/2022/01/acm-kubernetes-cert-manager-plugin-production/)
 - [Amazon Managed Blockchain &lpar;AMB&rpar; announces support for Hyperledger Fabric v2.2](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-managed-blockchain-hyperledger-fabric-2-2/)
-- [Amazon OpenSearch Service &lpar;successor to Amazon Elasticsearch Service&rpar; now supports OpenSearch version 1.1](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-opensearch-supports-version-1-1/)
-- [Amazon EMR on EKS releases Custom Image Validation Tool to simplify testing of your customized docker container images](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-custom-image-validation-tool-images/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
