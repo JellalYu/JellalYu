@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Logs announces AWS Organizations support for cross account Subscriptions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-cloudwatch-logs-aws-organizations-subscriptions/)
+- [Announcing AWS CloudTrail Lake, a managed audit and security lake](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-cloudtrail-lake-audit-security/)
 - [Announcing AWS Data Exchange for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-data-exchange-amazon-redshift/)
 - [Amazon EMR on EKS adds support for customized container images for AWS Graviton-based EC2 instances](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-eks-customized-container-images-aws-graviton-ec2/)
 - [Amazon OpenSearch Service &lpar;successor to Amazon Elasticsearch Service&rpar; now supports anomaly detection for historical data](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-opensearch-service-elasticsearch-anomaly-detection/)
-- [Amazon EMR on EKS adds error message details in DescribeJobRun API response to simplify debugging](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-eks-error-message-describejobrun-api-response/)
-- [Amazon RDS for Oracle now supports October 2021 Release Update &lpar;RU&rpar; for Oracle Database 12.2 and 19c](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-oracle-update-database/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
