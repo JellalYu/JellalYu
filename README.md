@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EKS adds support for customized container images for interactive jobs run using managed endpoints](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-eks-support-container-images-interactive-jobs-endpoints/)
+- [Announcing AWS Serverless Application Model &lpar;SAM&rpar; CLI support for local testing of AWS Cloud Development Kit &lpar;CDK&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-serverless-application-model-sam-cli-aws-cloud-development-kit-cdk/)
+- [Amazon EKS now supports Internet Protocol version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-eks-ipv6/)
 - [Introducing 37 new resource types in the CloudFormation Registry](https://aws.amazon.com/about-aws/whats-new/2022/01/cloudformation-registry-37-resource-types/)
 - [Amazon QLDB now supports JSON output format for exports](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-qldb-json-output-format-exports/)
-- [Amazon RDS Proxy is now available in 8 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-proxy-available-additional-aws-regions/)
-- [AWS Single Sign-On is now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-single-sign-on-aws-govcloud-us-east-region/)
-- [AWS IoT Device Management launches Automated Retry capability for Jobs to improve success rates of large scale deployments](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-iot-device-management-automated-retry-capability-jobs-improve-success-rates-large-scale-deployments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
