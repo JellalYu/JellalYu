@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C6g and R6gd instances powered by AWS Graviton2 now available in additional regions.](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-r6gd-c6g-instances-aws-graviton2-regions/)
 - [Amazon EC2 M6a Instances are Now Available in Asia Pacific &lpar;Mumbai&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-m6a-instances-asia-pacific-mumbai-aws-region/)
 - [AWS IoT Core for LoRaWAN Launches Two New Features to Manage and Monitor Communications Between Device and Cloud](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-iot-core-lorawan-monitor-device-cloud/)
 - [Amazon ECR adds the ability to monitor repository pull statistics](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ecr-monitor-repository-pull-statistics/)
 - [Amazon AppStream 2.0 now provides application entitlements for SAML 2.0 federated user identities](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-appstream-2-0-application-entitlements-saml-2-0-federated-user-identities/)
-- [Amazon EC2 On-Demand Capacity Reservations now support Cluster Placement Groups](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-on-demand-capacity-cluster-placement-groups/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
