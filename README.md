@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Core for LoRaWAN Launches Two New Features to Manage and Monitor Communications Between Device and Cloud](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-iot-core-lorawan-monitor-device-cloud/)
+- [Amazon ECR adds the ability to monitor repository pull statistics](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ecr-monitor-repository-pull-statistics/)
+- [Amazon AppStream 2.0 now provides application entitlements for SAML 2.0 federated user identities](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-appstream-2-0-application-entitlements-saml-2-0-federated-user-identities/)
 - [Amazon EC2 On-Demand Capacity Reservations now support Cluster Placement Groups](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-on-demand-capacity-cluster-placement-groups/)
 - [Instance Tags now available on the Amazon EC2 Instance Metadata Service](https://aws.amazon.com/about-aws/whats-new/2022/01/instance-tags-amazon-ec2-instance-metadata-service/)
-- [AWS Lambda now supports ES Modules and Top-Level Await for Node.js 14](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-es-modules-top-level-await-node-js-14/)
-- [Fine grained access control now supported on existing Amazon OpenSearch Service domains](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-opensearch-fine-grained-access-control/)
-- [Amazon EMR on EKS adds support for customized container images for interactive jobs run using managed endpoints](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-eks-support-container-images-interactive-jobs-endpoints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
