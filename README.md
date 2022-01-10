@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Toolkit for JetBrains IDEs adds support for ECS-Exec for troubleshooting ECS containers](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-toolkit-jetbrains-ides-ecs-exec-containers/)
+- [Announcing AWS PrivateLink Support for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-privatelink-support-amazon-lex/)
 - [Amazon SNS now supports Attribute-based access controls &lpar;ABAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sns-attribute-based-access-controls/)
 - [AWS Compute Optimizer makes it easier to optimize by leveraging multiple EC2 instance architectures](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-compute-optimizer-multiple-ec2-instance-architectures/)
 - [Introducing real-time collaborative notebooks with EMR Studio](https://aws.amazon.com/about-aws/whats-new/2022/01/real-time-collaborative-notebooks-emr-studio/)
-- [Amazon RDS for MySQL Supports New Minor Versions 5.7.36, and 8.0.27](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-for-mysql-new-minor-versions/)
-- [Amazon SageMaker Feature Store connector for Apache Spark for easy batch data ingestion](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-feature-store-connector-apache-spark-batch-data-ingestion/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
