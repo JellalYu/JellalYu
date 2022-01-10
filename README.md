@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing real-time collaborative notebooks with EMR Studio](https://aws.amazon.com/about-aws/whats-new/2022/01/real-time-collaborative-notebooks-emr-studio/)
 - [Amazon RDS for MySQL Supports New Minor Versions 5.7.36, and 8.0.27](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-for-mysql-new-minor-versions/)
 - [Amazon SageMaker Feature Store connector for Apache Spark for easy batch data ingestion](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-feature-store-connector-apache-spark-batch-data-ingestion/)
 - [EMR Studio is now upgraded to JupyterLab v3.1.4](https://aws.amazon.com/about-aws/whats-new/2022/01/emr-studio-upgraded-jupyterlab/)
 - [AWS Firewall Manager now supports AWS Shield Advanced automatic application layer DDoS mitigation](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-firewall-manager-shield-advanced-application-layer-ddos-mitigation/)
-- [Amazon RDS for SQL Server now supports SSAS Multidimensional](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-sql-server-ssas-multidimensional/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
