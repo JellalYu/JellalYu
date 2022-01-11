@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Launch Wizard now adds AWS Service Catalog integration for Microsoft SQL Server deployments](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-launch-wizard-service-catalog-integration-microsoft-sql-server/)
+- [Introducing SQL Explorer in EMR Studio](https://aws.amazon.com/about-aws/whats-new/2022/01/introducing-sql-explorer-in-emr-studio/)
 - [Announcing SageMaker Training support for ml.g5 instances](https://aws.amazon.com/about-aws/whats-new/2022/01/sagemaker-training-ml-g5-instances/)
 - [Introducing Amazon EC2 Hpc6a instances](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-hpc6a-instances/)
 - [AWS Toolkit for JetBrains IDEs adds support for ECS-Exec for troubleshooting ECS containers](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-toolkit-jetbrains-ides-ecs-exec-containers/)
-- [Announcing AWS PrivateLink Support for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-privatelink-support-amazon-lex/)
-- [Amazon SNS now supports Attribute-based access controls &lpar;ABAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sns-attribute-based-access-controls/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
