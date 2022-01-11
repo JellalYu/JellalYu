@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the General Availability of AWS Local Zones in Atlanta, Phoenix, and Seattle](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-local-zones-atlanta-phoenix-seattle/)
+- [Amazon Redshift Spectrum now offers custom data validation rules](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-redshift-spectrum-offers-custom-data-validation-rules/)
 - [AWS Launch Wizard now adds AWS Service Catalog integration for Microsoft SQL Server deployments](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-launch-wizard-service-catalog-integration-microsoft-sql-server/)
 - [Introducing SQL Explorer in EMR Studio](https://aws.amazon.com/about-aws/whats-new/2022/01/introducing-sql-explorer-in-emr-studio/)
 - [Announcing SageMaker Training support for ml.g5 instances](https://aws.amazon.com/about-aws/whats-new/2022/01/sagemaker-training-ml-g5-instances/)
-- [Introducing Amazon EC2 Hpc6a instances](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-hpc6a-instances/)
-- [AWS Toolkit for JetBrains IDEs adds support for ECS-Exec for troubleshooting ECS containers](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-toolkit-jetbrains-ides-ecs-exec-containers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
