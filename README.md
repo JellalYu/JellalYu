@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Launch Wizard now supports scaling HANA based SAP deployments to meet increased performance requirements](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-launch-wizard-scaling-sap-deployments-increased-performance/)
+- [AWS IoT SiteWise Edge supports new data storage and upload prioritization strategies for intermittent cloud connectivity](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-iot-sitewise-edge-intermittent-cloud-connectivity/)
 - [Announcing the new Console Home in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2022/01/console-home-aws-management-console/)
 - [AWS Fargate is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-fargate-asia-pacific-jakarta/)
 - [AWS AppSync now supports cache entry eviction for server-side data caching](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-appsync-cache-entry-eviction-server-data/)
-- [Amazon Kendra launches support for query language](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-kendra-query-language/)
-- [AWS Announces New Launch Speed Optimizations for Microsoft Windows Server Instances on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-speed-optimizations-windows-instances-ec2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
