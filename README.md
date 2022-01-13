@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Direct Connect announces new location in Australia](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-direct-connect-australia/)
 - [Amazon ElastiCache adds support for streaming and storing Redis engine logs](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-elasticache-streaming-storing-redis-engine-logs/)
 - [Amazon Pinpoint launches journey endpoint re-evaluation logic for the Contact Center activity](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-pinpoint-journey-endpoint-re-evaluation-logic/)
 - [AWS Storage Gateway is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-storage-gateway-jakarta-region/)
 - [Amazon RDS Performance Insights now supports new API endpoints](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-performance-insights-supports-api-endpoints/)
-- [AWS Systems Manager announces support for categorizing documents of type Command Document](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-command-document/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
