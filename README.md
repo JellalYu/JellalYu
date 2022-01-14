@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Forecast now supports AWS CloudFormation for managing dataset and dataset group resources](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-forecast-aws-cloudformation-resources/)
 - [Amazon RDS for Oracle now supports memory optimized R5 instance types in new region](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-oracle-r5/)
 - [Amazon Nimble Studio launches the ability to validate launch profile configurations via the Nimble Studio console](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-nimble-studio-launch-profile-configurations-console/)
 - [AWS Direct Connect announces new location in Australia](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-direct-connect-australia/)
 - [Amazon ElastiCache adds support for streaming and storing Redis engine logs](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-elasticache-streaming-storing-redis-engine-logs/)
-- [Amazon Pinpoint launches journey endpoint re-evaluation logic for the Contact Center activity](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-pinpoint-journey-endpoint-re-evaluation-logic/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
