@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Interactive Video Service adds thumbnail configuration](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-interactive-video-thumbnail/)
+- [Amazon EMR Studio is now available in US West &lpar;N. California&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-studio-us-west-california/)
+- [AWS Storage Gateway management console simplifies gateway creation and management](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-storage-gateway-management-console-creation/)
+- [Amazon MQ now supports RabbitMQ version 3.8.26](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-mq-rabbitmq-3-8-26/)
 - [Amazon CloudWatch Application Insights adds service monitoring for Microsoft Active Directory and SharePoint](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-cloudwatch-application-insights-service-monitoring-microsoft-active-directory-sharepoint/)
-- [AWS Elastic Disaster Recovery now supports failback automation](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-elastic-disaster-recovery-failback-automation/)
-- [AWS Systems Manager Automation now enables you to take action in third-party applications through webhooks](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-automation-third-party-applications-webhooks/)
-- [Now remediate operational issues faster by executing AWS Systems Manager Automation runbooks from Slack](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-automation-runbooks-slack/)
-- [Now DynamoDB can return the throughput capacity consumed by PartiQL API calls to help you optimize your queries and throughput costs](https://aws.amazon.com/about-aws/whats-new/2022/01/dynamodb-partiql-api-queries-costs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
