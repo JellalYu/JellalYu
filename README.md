@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Now remediate operational issues faster by executing AWS Systems Manager Automation runbooks from Slack](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-automation-runbooks-slack/)
+- [Now DynamoDB can return the throughput capacity consumed by PartiQL API calls to help you optimize your queries and throughput costs](https://aws.amazon.com/about-aws/whats-new/2022/01/dynamodb-partiql-api-queries-costs/)
 - [AWS Outposts now FedRAMP authorized](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-outposts-now-fedramp-authorized/)
 - [Announcing new AWS Wavelength Zones in Charlotte, Detroit, Los Angeles and Minneapolis](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-wavelength-zones/)
 - [Amazon RDS for SQL Server now supports new minor versions for SQL Server 2019 and 2017](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-sqlserver-supports-new-minor-versions-sql-server-2019-2017/)
-- [Amazon Forecast now supports AWS CloudFormation for managing dataset and dataset group resources](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-forecast-aws-cloudformation-resources/)
-- [Amazon RDS for Oracle now supports memory optimized R5 instance types in new region](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-oracle-r5/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
