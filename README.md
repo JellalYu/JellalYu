@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Application Insights adds service monitoring for Microsoft Active Directory and SharePoint](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-cloudwatch-application-insights-service-monitoring-microsoft-active-directory-sharepoint/)
+- [AWS Elastic Disaster Recovery now supports failback automation](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-elastic-disaster-recovery-failback-automation/)
+- [AWS Systems Manager Automation now enables you to take action in third-party applications through webhooks](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-automation-third-party-applications-webhooks/)
 - [Now remediate operational issues faster by executing AWS Systems Manager Automation runbooks from Slack](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-automation-runbooks-slack/)
 - [Now DynamoDB can return the throughput capacity consumed by PartiQL API calls to help you optimize your queries and throughput costs](https://aws.amazon.com/about-aws/whats-new/2022/01/dynamodb-partiql-api-queries-costs/)
-- [AWS Outposts now FedRAMP authorized](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-outposts-now-fedramp-authorized/)
-- [Announcing new AWS Wavelength Zones in Charlotte, Detroit, Los Angeles and Minneapolis](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-wavelength-zones/)
-- [Amazon RDS for SQL Server now supports new minor versions for SQL Server 2019 and 2017](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-sqlserver-supports-new-minor-versions-sql-server-2019-2017/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
