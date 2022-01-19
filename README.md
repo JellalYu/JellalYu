@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Launch Wizard now supports the latest versions of SUSE Linux Enterprise Server and SAP HANA, S/4HANA, and BW/4HANA](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-launch-wizard-suse-linux-enterprise-server-sap-hana-s-4hana-bw-4hana/)
 - [Amazon Location Service enables request-based pricing for all customer use cases](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-location-service-request-based-pricing/)
 - [Announcing matrix routing for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-location-matrix-routing/)
 - [Amazon Corretto January Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-corretto-january-updates/)
 - [Amazon Interactive Video Service adds thumbnail configuration](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-interactive-video-thumbnail/)
-- [Amazon EMR Studio is now available in US West &lpar;N. California&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-studio-us-west-california/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
