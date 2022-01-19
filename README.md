@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Location Service enables request-based pricing for all customer use cases](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-location-service-request-based-pricing/)
+- [Announcing matrix routing for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-location-matrix-routing/)
 - [Amazon Corretto January Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-corretto-january-updates/)
 - [Amazon Interactive Video Service adds thumbnail configuration](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-interactive-video-thumbnail/)
 - [Amazon EMR Studio is now available in US West &lpar;N. California&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-studio-us-west-california/)
-- [AWS Storage Gateway management console simplifies gateway creation and management](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-storage-gateway-management-console-creation/)
-- [Amazon MQ now supports RabbitMQ version 3.8.26](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-mq-rabbitmq-3-8-26/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
