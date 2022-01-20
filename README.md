@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR now supports Apache Spark SQL to insert data into and update Glue Data Catalog tables when Lake Formation integration is enabled](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-apache-spark-sql-glue-data-catalog-lake-formation/)
 - [Amazon Rekognition improves accuracy of Content Moderation for Video](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rekognition-content-moderation-video/)
 - [AWS Security Hub integrates with AWS Health](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-security-hub-health/)
 - [New datasets available on the Registry of Open Data from Meta, the Brazilian Space Agency, Radboud University Medical Center, and others](https://aws.amazon.com/about-aws/whats-new/2022/01/new-datasets-registry-open-data/)
 - [AWS Lambda now supports Max Batching Window for Amazon MSK, Apache Kafka, Amazon MQ for Apache Active MQ and RabbitMQ as event sources](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-max-batching-window-amazon-msk-apache-kafka-mq-rabitmq/)
-- [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/01/red-hat-openshift-service-aws-rosa-osaka/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
