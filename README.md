@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaConvert now supports 4K frame sizes and 10-bit color in the AV1 output format](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-elemental-mediaconvert-4k-av1-output/)
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; adds additional Geospatial query capabilities](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-documentdb-mongodb-additional-geospatial-query-capabilities/)
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; adds support for $mergeObjects and $reduce](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-documentdb-mongodb-additional-mongodb-apis/)
 - [Amazon RDS for PostgreSQL supports new minor versions 13.5, 12.9, 11.14, 10.19, and 9.6.24; Amazon RDS on Outposts supports new PostgreSQL minor versions 13.5 and 12.9](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-postgresql-amazon-rds-outposts-postgresql-minor-versions/)
 - [Amazon SageMaker Pipelines now supports concurrency control](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-pipelines-concurrency-control/)
-- [Amazon SageMaker Pipelines now offers native EMR integration for large scale data processing](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-pipelines-emr-integration/)
-- [Amazon EMR now supports Apache Iceberg, a highly performant, concurrent, ACID-compliant table format for data lakes](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-supports-apache-iceberg/)
-- [AWS Migration Hub Strategy Recommendations adds support for Babelfish for Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-migration-hub-strategy-recommendations-babelfish-aurora-postgresql/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
