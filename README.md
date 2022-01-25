@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime SDK now supports video background replacement](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-chime-sdk-video-background/)
+- [Amazon Fsx for NetApp ONTAP now enables you to grow your SSD storage capacity](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-fsx-netapp-ontap-ssd-storage-capacity/)
 - [AWS Panorama Appliances now available for purchase on Amazon.com and Amazon Business](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-panorama-appliances-amazon-com-business/)
 - [Amazon Managed Streaming for Apache Kafka &lpar;Amazon MSK&rpar; is Now Available in Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-streaming-apache-kafka-msk-asia-pacific-osaka/)
 - [Amazon Managed Streaming for Apache Kafka &lpar;Amazon MSK&rpar; is now available in Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-managed-streaming-for-apache-kafka-msk-africa/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now offers a free trial](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-documentdb-mongodb-compatibility-free-trial/)
-- [Amazon ECS now supports Amazon ECS Exec and Amazon Linux 2 for on-premises container workloads](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ecs-exec-linux-2-container-workloads/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
