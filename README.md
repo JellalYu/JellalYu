@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon Elastic File System Replication](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-elastic-file-system-replication/)
 - [Amazon EC2 R6i instances are now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-r6i-instances-regions/)
 - [Amazon S3 File Gateway adds schedule-based network bandwidth throttling](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-s3-file-gateway-schedule-based-network-bandwidth-throttling/)
 - [Lightsail CDN now supports Lightsail Container Services as origins](https://aws.amazon.com/about-aws/whats-new/2022/01/lightsail-cdn-container-services/)
 - [Amazon Chime SDK now supports video background replacement](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-chime-sdk-video-background/)
-- [Amazon Fsx for NetApp ONTAP now enables you to grow your SSD storage capacity](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-fsx-netapp-ontap-ssd-storage-capacity/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
