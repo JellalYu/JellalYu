@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppFlow now supports bi-directional transfer of data between SAP applications and AWS](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-appflow-bi-directional-transfer-data-sap-aws/)
 - [Amazon EC2 R5b instances are now available in Asia Pacific &lpar;Seoul&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-r5b-instances-seoul/)
 - [Amazon Textract adds synchronous support for single page PDF documents and support for PDF documents containing JPEG 2000 encoded images](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-textract-pdf-processing-jpeg-encoded-images/)
 - [Introducing Amazon EC2 X2iezn instances](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-x2iezn/)
 - [Amazon GuardDuty now protects Amazon Elastic Kubernetes Service clusters](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-guardduty-elastic-kubernetes-service-clusters/)
-- [Contact Lens for Amazon Connect now supports custom vocabulary for tuning transcription accuracy](https://aws.amazon.com/about-aws/whats-new/2022/01/contact-lens-amazon-connect-vocabulary-transcription/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
