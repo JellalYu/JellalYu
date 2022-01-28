@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kinesis Data Firehose now delivers to Honeycomb](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-kinesis-data-firehose-delivers-honeycomb/)
+- [AWS Systems Manager Automation now enables monitoring of service usage quota in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-automation-usage-quota-amazon-cloudwatch/)
 - [AWS Systems Manager now supports higher concurrency for Automation executions](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-concurrency-automation-executions/)
 - [Amazon EC2 G4dn instances now available in AWS Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-g4dn-osaka/)
 - [Amazon RDS for PostgreSQL and Amazon RDS on AWS Outposts Now Supports PostgreSQL 14](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-postgresql-14-outposts/)
-- [Amazon Elastic File System &lpar;Amazon EFS&rpar; is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-elastic-file-system-amazon-efs-available-new-region/)
-- [Metrics now available for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/01/metrics-aws-privatelink/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
