@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 G4dn instances now available in AWS Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-g4dn-osaka/)
+- [Amazon RDS for PostgreSQL and Amazon RDS on AWS Outposts Now Supports PostgreSQL 14](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-postgresql-14-outposts/)
+- [Amazon Elastic File System &lpar;Amazon EFS&rpar; is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-elastic-file-system-amazon-efs-available-new-region/)
 - [Metrics now available for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/01/metrics-aws-privatelink/)
 - [Amazon RDS Performance Insights now supports query execution plan capture for RDS for Oracle](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-performance-query-execution-plan-capture-oracle/)
-- [AWS Resilience Hub expands to 13 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-resilience-hub-regions/)
-- [Amazon Managed Workflows for Apache Airflow &lpar;MWAA&rpar; now supports Apache Airflow version 2.2 and Web Server Plugins](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-mwaa-apache-airflow-plugins/)
-- [Amazon QuickSight adds comparative and cumulative date/time calculations](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-quicksight-comparative-cumulative-date-time-calculations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
