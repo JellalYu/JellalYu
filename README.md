@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SQS Enhances Dead-letter Queue Management Experience For Standard Queues in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-sqs-dead-letter-queue-experience-aws-govcloud/)
 - [Amazon FSx for Lustre is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-fsx-lustre-fedramp-compliant/)
 - [Amazon FSx for Windows File Server is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-fsx-windows-fedramp-compliant/)
 - [Amazon Lex launches multiple transcripts and confidence scores support for speech input](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-lex-multiple-transcripts-confidence-scores-support-speech-input/)
 - [AWS Lambda auto scaling improvements for Amazon MSK and self-managed Apache Kafka as event sources](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-auto-scaling-msk-apache-kafka/)
-- [Amazon Connect Chat now supports a configurable chat duration of up to 7 days](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-connect-chat-duration-7-days/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
