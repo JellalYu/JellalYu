@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx for OpenZFS now supports full-copy volumes to make it easier to clone and experiment with your data](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-fsx-openzfs-full-copy-volumes/)
 - [Amazon Redshift default IAM role is now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-iam-role-regions/)
 - [Amazon Comprehend launches model copy for custom Comprehend](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-comprehend-model-copy-custom/)
 - [AWS IoT Core now supports per-device level logging capability for fine-grained diagnostic of IoT devices](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-iot-core-device-logging-diagnostic-devices/)
 - [MLOps Workload Orchestrator adds support for Amazon SageMaker Model Explainability and Model Bias Monitoring](https://aws.amazon.com/about-aws/whats-new/2022/02/mlops-workload-orchestrator-support-amazon-sagemaker-model-explainability-model-bias-monitoring/)
-- [Maintaining Personalized Experiences with Machine Learning adds support for business domains and user segmentation](https://aws.amazon.com/about-aws/whats-new/2022/02/maintaining-personalized-experiences-with-machine-learning-business-domains-user-segmentation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
