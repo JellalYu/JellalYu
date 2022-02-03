@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppFlow launches Custom Connector SDK](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-appflow-launches-custom-connector-sdk/)
+- [Amazon Keyspace now is in scope for FedRAMP Moderate compliance to help you run highly regulated Apache Cassandra workloads more easily](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-keyspace-fedramp-apache-cassandra/)
 - [Amazon ElastiCache now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-elasticache-aws-privatelink/)
 - [Amazon MemoryDB for Redis now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-memorydb-redis-aws-privatelink/)
 - [Amazon RDS for MariaDB now supports MariaDB 10.6](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-mariadb-supports-mariadb-10-6/)
-- [Amazon FSx for OpenZFS now supports full-copy volumes to make it easier to clone and experiment with your data](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-fsx-openzfs-full-copy-volumes/)
-- [Amazon Redshift default IAM role is now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-iam-role-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
