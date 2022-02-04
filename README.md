@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Storage Gateway enables on-premises users to recover previous versions of files on Amazon FSx File Gateway](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-storage-gateway-recover-files-amazon-fsx-gateway/)
 - [Amazon QuickSight  adds rich text formatting options for visual titles and subtitles](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-quicksight-rich-text-titles-subtitles/)
 - [Amazon RDS Custom for Oracle Now Supports Oracle Database 12.1](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-custom-oracle-database-12-1/)
 - [Amazon Redshift default IAM role is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-default-iam-role-available-aws-govcloud-us-regions/)
 - [Amazon EC2 customers can now use Recycle Bin to recover from accidental deletions of Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-recycle-bin-machine-images/)
-- [Amazon AppFlow launches Custom Connector SDK](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-appflow-launches-custom-connector-sdk/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
