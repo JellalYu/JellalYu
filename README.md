@@ -50,11 +50,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Custom for Oracle Now Supports Oracle Database 12.1](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-custom-oracle-database-12-1/)
+- [Amazon Redshift default IAM role is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-default-iam-role-available-aws-govcloud-us-regions/)
 - [Amazon EC2 customers can now use Recycle Bin to recover from accidental deletions of Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-recycle-bin-machine-images/)
 - [Amazon AppFlow launches Custom Connector SDK](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-appflow-launches-custom-connector-sdk/)
 - [Amazon Keyspaces now is in scope for FedRAMP Moderate compliance to help you run highly regulated Apache Cassandra workloads more easily](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-keyspace-fedramp-apache-cassandra/)
-- [Amazon FSx for OpenZFS now supports full-copy volumes to make it easier to clone and experiment with your data](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-fsx-openzfs-full-copy-volumes/)
-- [Amazon ElastiCache now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-elasticache-aws-privatelink/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
