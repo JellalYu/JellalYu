@@ -7,15 +7,16 @@
 
 <br />
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="350" height="230" align="right"/>
+
 ### I'm a Data Scientist, AI and Machine Learning engineer
 
 - 🔭 Working as a Machine Learning engineer
 - 🌱 Experienced AWS cloud solution architect
 - 🥅 Experienced in AWS serverless application development with microservice architect
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="350" height="230" align="right"/>
 
----
+
 
 ### &nbsp;Tech Stack 🛠 
 
@@ -29,7 +30,7 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 
-
+---
 
 
 ### ⚙️ &nbsp;GitHub Analytics
