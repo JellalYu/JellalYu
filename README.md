@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Storage Gateway enables on-premises users to recover previous versions of files on Amazon FSx File Gateway](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-storage-gateway-recover-files-amazon-fsx-gateway/)
-- [Amazon QuickSight  adds rich text formatting options for visual titles and subtitles](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-quicksight-rich-text-titles-subtitles/)
-- [Amazon RDS Custom for Oracle Now Supports Oracle Database 12.1](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-custom-oracle-database-12-1/)
-- [Amazon Redshift default IAM role is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-default-iam-role-available-aws-govcloud-us-regions/)
-- [Amazon EC2 customers can now use Recycle Bin to recover from accidental deletions of Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-recycle-bin-machine-images/)
+- [Now consistently deploy Alert Logic MDR Agent across EC2 and On-Premises instances using AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2022/02/alert-logic-mdr-agent-ec2-on-premises-instances-aws-systems-manager/)
+- [AWS Launch Wizard now supports the latest versions and to bring your own subscription &lpar;BYOS&rpar; for Red Hat Enterprise Linux](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-launch-wizard-latest-versions-byos-red-hat-enterprise-linux/)
+- [Amazon SageMaker Autopilot now provides Confusion Matrix and additional new insights for classification problems.](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-sagemaker-autopilot-matrix-insights-classification/)
+- [Amazon VPC now supports an AWS-managed prefix list for Amazon CloudFront](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudfront-managed-prefix-list/)
+- [AWS announces geolocation enrichment for Amazon Fraud Detector Models](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-geolocation-enrichment-amazon-fraud-detector-models/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
