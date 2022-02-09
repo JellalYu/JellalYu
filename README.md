@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS App Runner adds support for Amazon VPC](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-runner-amazon-vpc/)
 - [Amazon S3 Batch Replication synchronizes existing data between buckets](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-s3-batch-replication-synchronizes-existing-data-between-buckets/)
 - [Now consistently deploy Alert Logic MDR Agent across EC2 and On-Premises instances using AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2022/02/alert-logic-mdr-agent-ec2-on-premises-instances-aws-systems-manager/)
 - [AWS Launch Wizard now supports the latest versions and to bring your own subscription &lpar;BYOS&rpar; for Red Hat Enterprise Linux](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-launch-wizard-latest-versions-byos-red-hat-enterprise-linux/)
 - [Amazon SageMaker Autopilot now provides Confusion Matrix and additional new insights for classification problems.](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-sagemaker-autopilot-matrix-insights-classification/)
-- [Amazon VPC now supports an AWS-managed prefix list for Amazon CloudFront](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudfront-managed-prefix-list/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
