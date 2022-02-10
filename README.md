@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Control Tower now provides updated support for AWS best practices and Region deny](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-control-tower-support-best-practices/)
+- [AWS Managed Services now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-managed-services-available-govcloud-us-regions/)
 - [Announcing a new AWS Billing console Home page experience](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-billing-console-home/)
 - [Amazon Rekognition Video supports 7 new languages and improves accuracy for text detection](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rekognition-video-new-languages-text-accuracy/)
 - [AWS Transfer Family is now available in the AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-transfer-family-aws-asia-osaka/)
-- [AWS Migration Hub Refactor Spaces – Now Generally Available](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-migration-hub-refactor-spaces-available/)
-- [AWS Organizations console now lets users centrally manage alternate contacts on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-organizations-console-manage-alternate-contacts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
