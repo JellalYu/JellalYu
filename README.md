@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS ParallelCluster now supports multi-user environments through AWS Directory Service](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-parallelcluster-environments-directory-service/)
 - [Amazon Redshift announces public preview of Streaming Ingestion for Kinesis Data Streams](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-public-preview-streaming-ingestion-kinesis-data-streams/)
 - [AWS Control Tower now provides updated support for AWS best practices and Region deny](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-control-tower-support-best-practices/)
 - [AWS Managed Services now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-managed-services-available-govcloud-us-regions/)
 - [Announcing a new AWS Billing console Home page experience](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-billing-console-home/)
-- [Amazon Rekognition Video supports 7 new languages and improves accuracy for text detection](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rekognition-video-new-languages-text-accuracy/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
