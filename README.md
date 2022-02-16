@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Automatic Workload Management for Amazon Redshift Concurrency Scaling](https://aws.amazon.com/about-aws/whats-new/2022/02/automatic-workload-management-amazon-redshift-concurrency-scaling/)
+- [AWS Resource Access Manager achieves PCI DSS Compliance](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-resource-access-manager-compliance/)
 - [Amazon CodeGuru Reviewer now detects Apache Log4j and other log injection vulnerabilities in code](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-codeguru-reviewer-detects-apache-log4j/)
 - [CodeGuru Reviewer launches new Detector Library and example repositories](https://aws.amazon.com/about-aws/whats-new/2022/02/codeguru-reviewer-detector-library-repositories/)
 - [Amazon Braket adds support for the new 80-qubit quantum processor from Rigetti](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-braket-80-quantum-processor-rigetti/)
-- [AWS OpsWorks for Configuration Management now supports new version of Chef Automate](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-opsworks-chef-automate-version-support/)
-- [Announcing sub-millisecond read latencies for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2022/02/sub-millisecond-read-latencies-amazon-elastic-file-system/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
