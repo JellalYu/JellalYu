@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces support for unloading data to JSON files](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-unloading-data-json-files/)
+- [AWS Security Hub launches 13 controls and two partners for security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-security-hub-new-controls-partners-automated-security-posture-monitoring/)
 - [Announcing Automatic Workload Management for Amazon Redshift Concurrency Scaling](https://aws.amazon.com/about-aws/whats-new/2022/02/automatic-workload-management-amazon-redshift-concurrency-scaling/)
 - [AWS Resource Access Manager achieves PCI DSS Compliance](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-resource-access-manager-compliance/)
 - [Amazon CodeGuru Reviewer now detects Apache Log4j and other log injection vulnerabilities in code](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-codeguru-reviewer-detects-apache-log4j/)
-- [CodeGuru Reviewer launches new Detector Library and example repositories](https://aws.amazon.com/about-aws/whats-new/2022/02/codeguru-reviewer-detector-library-repositories/)
-- [Amazon Braket adds support for the new 80-qubit quantum processor from Rigetti](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-braket-80-quantum-processor-rigetti/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
