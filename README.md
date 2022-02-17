@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MQ is now available in Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-mq-africa-region/)
+- [Amazon RDS now supports Internet Protocol Version 6 &lpar;IPv6&rpar; on RDS Management APIs](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-internet-protocol-version-6-ipv6-rds-management-apis/)
 - [Amazon Redshift announces support for unloading data to JSON files](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-unloading-data-json-files/)
 - [AWS Security Hub launches 13 controls and two partners for security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-security-hub-new-controls-partners-automated-security-posture-monitoring/)
 - [Announcing Automatic Workload Management for Amazon Redshift Concurrency Scaling](https://aws.amazon.com/about-aws/whats-new/2022/02/automatic-workload-management-amazon-redshift-concurrency-scaling/)
-- [AWS Resource Access Manager achieves PCI DSS Compliance](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-resource-access-manager-compliance/)
-- [Amazon CodeGuru Reviewer now detects Apache Log4j and other log injection vulnerabilities in code](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-codeguru-reviewer-detects-apache-log4j/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
