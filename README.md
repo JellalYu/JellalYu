@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the general availability of AWS Backup for Amazon S3](https://aws.amazon.com/about-aws/whats-new/2022/02/general-availability-aws-backup-amazon-s3/)
 - [Amazon RDS for MariaDB now supports Delayed Replication](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-mariadb-supports-delayed-replication/)
 - [AWS Transfer Family now supports login banners](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-transfer-family-login-banners/)
 - [Announcing Amazon Redshift Cross-region data sharing](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-cross-region-data-sharing/)
 - [AWS introduces s2n-quic, a new open-source implementation of the QUIC protocol](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-introduces-s2n-quic/)
-- [Introducing auto-adjusting budgets](https://aws.amazon.com/about-aws/whats-new/2022/02/auto-adjusting-budgets/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
