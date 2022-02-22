@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon QuickSight’s new community hub](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-quicksight-community-hub/)
 - [AWS Firewall Manager now supports versioning for AWS WAF managed rule group](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-firewall-manager-waf-rule-group/)
 - [Amazon RDS for SQL Server now supports Always On Availability Groups for Standard Edition 2017](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-sql-server-always-on-availability-groups-se-2017/)
 - [Announcing the general availability of AWS Backup for Amazon S3](https://aws.amazon.com/about-aws/whats-new/2022/02/general-availability-aws-backup-amazon-s3/)
 - [Amazon RDS for MariaDB now supports Delayed Replication](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-mariadb-supports-delayed-replication/)
-- [AWS Transfer Family now supports login banners](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-transfer-family-login-banners/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
