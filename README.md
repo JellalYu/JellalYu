@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [NICE DCV releases version 2022.0 with high color accuracy and game controller support](https://aws.amazon.com/about-aws/whats-new/2022/02/nice-dcv-new-version-color-game-controller/)
+- [NICE DCV releases web client SDK 1.1.0 with new UI library](https://aws.amazon.com/about-aws/whats-new/2022/02/nice-dcv-web-client-sdk-new-ui-library/)
+- [Amazon Translate now supports formality customization for French, German, Hindi, Italian, Japanese, and Spanish](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-translate-formality-customization/)
+- [Amazon Redshift announces support for PIVOT and UNPIVOT SQL operators](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-support-pivot-unpivot-sql-operators/)
 - [AWS Transfer Family announces enhancements to workflows](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-transfer-family-enhancements-workflows/)
-- [Announcing AWS Glue Job Run Insights](https://aws.amazon.com/about-aws/whats-new/2022/02/announcing-aws-glue-job-run-insights/)
-- [Amazon Connect Customer Profiles now supports high-volume ingestion of customer data](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-connect-customer-profiles-data/)
-- [Amazon SageMaker adds new APIs for JumpStart models](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-sagemaker-apis-jumpstart/)
-- [AWS AppSync adds support for custom response headers](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-appsync-support-custom-response-headers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
