@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS Glue Job Run Insights](https://aws.amazon.com/about-aws/whats-new/2022/02/announcing-aws-glue-job-run-insights/)
 - [Amazon Connect Customer Profiles now supports high-volume ingestion of customer data](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-connect-customer-profiles-data/)
 - [Amazon SageMaker adds new APIs for JumpStart models](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-sagemaker-apis-jumpstart/)
 - [AWS AppSync adds support for custom response headers](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-appsync-support-custom-response-headers/)
 - [Database Activity Streams for Amazon RDS for Oracle and Amazon Aurora now available in Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/02/database-activity-streams-amazon-rds-oracle-amazon-aurora-asia-pacific-region/)
-- [Amazon Kendra is now FedRAMP Moderate Compliant](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-kendra-fedramp-compliant/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
