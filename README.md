@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Firewall Manager now supports AWS Network Firewall Centralized Deployment Model](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-firewall-manager-centralized-deployment-model/)
+- [Amazon EC2 Auto Scaling Warm Pools now supports hibernating instances and returning instances to Warm Pools on scale-in](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-auto-scaling-warm-pools-supports-hibernating-returning-instances-warm-pools-scale-in/)
 - [AWS Lambda adds support for .NET 6](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-lambda-adds-support-net6/)
 - [Amazon GuardDuty now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-guardduty-available-aws-asia-pacific-jakarta-region/)
 - [AWS Snowcone SSD is now available in the Asia Pacific &lpar;Mumbai&rpar;, Canada &lpar;Central&rpar; and South America &lpar; Sao Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-snowcone-ssd-extended-regions/)
-- [NICE DCV releases version 2022.0 with high color accuracy and game controller support](https://aws.amazon.com/about-aws/whats-new/2022/02/nice-dcv-new-version-color-game-controller/)
-- [NICE DCV releases web client SDK 1.1.0 with new UI library](https://aws.amazon.com/about-aws/whats-new/2022/02/nice-dcv-web-client-sdk-new-ui-library/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
