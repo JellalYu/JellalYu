@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Snowcone SSD is now available in the Asia Pacific &lpar;Mumbai&rpar;, Canada &lpar;Central&rpar; and South America &lpar; Sao Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-snowcone-ssd-extended-regions/)
 - [NICE DCV releases version 2022.0 with high color accuracy and game controller support](https://aws.amazon.com/about-aws/whats-new/2022/02/nice-dcv-new-version-color-game-controller/)
 - [NICE DCV releases web client SDK 1.1.0 with new UI library](https://aws.amazon.com/about-aws/whats-new/2022/02/nice-dcv-web-client-sdk-new-ui-library/)
 - [Amazon Translate now supports formality customization for French, German, Hindi, Italian, Japanese, and Spanish](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-translate-formality-customization/)
 - [Amazon Redshift announces support for PIVOT and UNPIVOT SQL operators](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-support-pivot-unpivot-sql-operators/)
-- [AWS Transfer Family announces enhancements to workflows](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-transfer-family-enhancements-workflows/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
