@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Payment Profiles for customizing AWS payment preferences](https://aws.amazon.com/about-aws/whats-new/2022/02/payment-profiles-customizing-aws-payment-preferences/)
+- [Amazon CloudWatch Agent adds Support for Log Filter Expressions](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-agent-log-filter-expressions/)
+- [Amazon CloudWatch Agent adds support for Configurable Log Group Retention](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-agent-log-retention/)
+- [Amazon CloudWatch Agent adds Support for NVIDIA GPU Metrics](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-agent-nvidia-metrics/)
 - [AWS Amplify announces the general availability of The Authenticator UI Library for Flutter](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-amplify-authenticator-ui-library-flutter/)
-- [AWS App Mesh introduces Agent for Envoy](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-mesh-agent-envoy/)
-- [AWS App Runner adds a Java platform](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-runner-adds-java-platform/)
-- [AWS Glue Schema Registry now supports Protocol Buffers &lpar;Protobuf&rpar; schemas](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-schema-registry-protocol-buffers/)
-- [Amazon S3 accelerates integrity checking of requests by up to 90%](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-s3-integrity-checking-requests-90-percent/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
