@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS App Runner adds a Java platform](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-runner-adds-java-platform/)
 - [AWS Glue Schema Registry now supports Protocol Buffers &lpar;Protobuf&rpar; schemas](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-schema-registry-protocol-buffers/)
 - [Amazon S3 accelerates integrity checking of requests by up to 90%](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-s3-integrity-checking-requests-90-percent/)
 - [Announcing TypeScript native support in the AWS Serverless Application Model &lpar;AWS SAM&rpar; CLI &lpar;using esbuild&rpar; &lpar;public preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/02/typescript-native-support-aws-serverless-application-model-cli-esbuild-public-preview/)
 - [Amazon RDS for MariaDB now supports IAM Authentication](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-mariadb-iam-authentication/)
-- [Amazon Neptune is now available in AWS Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-neptune-africa-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
