@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MariaDB now supports IAM Authentication](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-mariadb-iam-authentication/)
+- [Amazon Neptune is now available in AWS Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-neptune-africa-region/)
 - [AWS Glue DataBrew now allows customers to specify single or multiple output files to generate for recipe jobs](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-databrew-output-files-recipe-jobs/)
 - [AWS Firewall Manager now supports AWS Network Firewall Centralized Deployment Model](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-firewall-manager-centralized-deployment-model/)
 - [Amazon EC2 Auto Scaling Warm Pools now supports hibernating instances and returning instances to Warm Pools on scale-in](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-auto-scaling-warm-pools-supports-hibernating-returning-instances-warm-pools-scale-in/)
-- [AWS Lambda adds support for .NET 6](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-lambda-adds-support-net6/)
-- [Amazon GuardDuty now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-guardduty-available-aws-asia-pacific-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
