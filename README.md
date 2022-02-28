@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GameLift announces three updates to FlexMatch to provide greater flexibility](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-gamelift-updates-flexmatch-greater-flexibility/)
+- [AWS QnABot adds support for Genesys Cloud contact center, client filters and sensitive information log redaction](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-qnabot-genesys-cloud-contact-center-client-filters-sensitive-information-log-redaction/)
 - [Announcing Payment Profiles for customizing AWS payment preferences](https://aws.amazon.com/about-aws/whats-new/2022/02/payment-profiles-customizing-aws-payment-preferences/)
 - [Amazon CloudWatch Agent adds Support for Log Filter Expressions](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-agent-log-filter-expressions/)
 - [Amazon CloudWatch Agent adds support for Configurable Log Group Retention](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-agent-log-retention/)
-- [Amazon CloudWatch Agent adds Support for NVIDIA GPU Metrics](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-agent-nvidia-metrics/)
-- [AWS Amplify announces the general availability of The Authenticator UI Library for Flutter](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-amplify-authenticator-ui-library-flutter/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
