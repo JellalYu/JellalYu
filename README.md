@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EC2 Hibernation is now available in the Asia Pacific &lpar;Jakarta&rpar; and &lpar;Osaka&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/02/ec2-hibernation-asia-regions/)
+- [AWS Application Migration Service now supports Windows Server 2003, 2008, 2022, and Windows 10](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-application-migration-windows-server-10/)
+- [Amazon Aurora Supports PostgreSQL 13.5, 12.9, 11.14, and 10.19](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-aurora-supports-additional-postgresql-versions/)
 - [Amazon CloudWatch Container Insights adds support for Helm chart using AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-container-helm-chart-distro-opentelemetry/)
 - [Amazon MQ now supports RabbitMQ version 3.8.27](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-mq-rabbitmq-version-3-8-27/)
-- [Amazon Braket adds support for a new quantum processing unit  from Oxford Quantum Circuits and is now available in Europe &lpar;London&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-braket-quantum-oxford-processing-unit/)
-- [AWS enhances Chinese Yuan payments experience for China based customers.](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-enhances-chinese-yuan-payments-experience/)
-- [Amazon GameLift announces three updates to FlexMatch to provide greater flexibility](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-gamelift-updates-flexmatch-greater-flexibility/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
