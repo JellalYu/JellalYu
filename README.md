@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the first iteration of the new unified AWS Health Dashboard](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-health-dashboard-first-iteration/)
 - [Announcing AWS PrivateLink Support for AWS Backup](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-privatelink-support-backup/)
 - [Amazon FinSpace releases new User APIs](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-finspace-user-apis/)
 - [AWS expands NAT64 and DNS64 capabilities in all AWS Commercial and AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-expands-nat64-dns64-regions/)
 - [EC2 Hibernation is now available in the Asia Pacific &lpar;Jakarta&rpar; and &lpar;Osaka&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/02/ec2-hibernation-asia-regions/)
-- [AWS Application Migration Service now supports Windows Server 2003, 2008, 2022, and Windows 10](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-application-migration-windows-server-10/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
