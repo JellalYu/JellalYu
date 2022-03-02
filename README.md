@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Data Provider for SAP now supports JDK11 and additional Amazon EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-data-provider-sap-supports-jdk11-additional-amazon-ec2-instance-types/)
 - [Announcing the launch of the 2022 AWS DeepRacer League Virtual Circuit](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-deepracer-league-virtual-circuit-2022/)
 - [Amazon Detective enhances search to better support security root cause analysis](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-detective-enhances-search-support-security-root-cause-analysis/)
 - [Amazon Fault Injection Simulator now supports logging to Amazon CloudWatch Logs and Amazon S3](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-fault-injection-logging-cloudwatch-logs-s3/)
 - [Amazon Fault Injection Simulator now supports Task-Level Faults for Amazon Elastic Container Service](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-fault-injection-simulator-task-faults/)
-- [Students, start your engines! AWS DeepRacer Student Virtual League is now underway](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-deepracer-student-virtual-league-underway/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
