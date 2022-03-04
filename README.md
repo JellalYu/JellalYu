@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Serverless Inference &lpar;in Preview&rpar; and Asynchronous Inference add support for SageMaker Python SDK](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-sagemaker-serverless-inference-preview-asynchronous-inference-sagemaker-python-sdk/)
 - [You can now customize how data is stored on your Amazon FSx for OpenZFS file system to optimize performance for database applications](https://aws.amazon.com/about-aws/whats-new/2022/03/customize-data-stored-amazonfsx-openzfs-file-system-optimize-performance-database-applications/)
 - [Configurable cipher suites now available for Amazon Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/03/configurable-cipher-suites-amazon-aurora-postgresql/)
 - [Amazon Kendra adds spell checker for queries](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-kendra-spell-checker-queries/)
 - [Amazon EMR now supports auto termination of idle clusters in Europe &lpar;Milan&rpar;, Asia Pacific &lpar;Hong Kong&rpar;, Africa &lpar;Cape Town&rpar;, and Middle East &lpar;Bahrain&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-emr-auto-termination-idle-clusters-regions/)
-- [Introducing a new Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency, automated failovers typically under 35 seconds, and readable standby instances](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-multi-az-transaction-commit-latency/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
