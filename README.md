@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Bottlerocket adds support for GPU based EC2 instance types powered by NVIDIA](https://aws.amazon.com/about-aws/whats-new/2022/03/bottlerocket-support-gpu-ec2-instance-types-powered-by-nvidia/)
 - [Amazon RDS for Oracle now supports Oracle Database 21c](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-oracle-support-oracle-database-21c/)
 - [Amazon Genomics CLI adds the Snakemake workflow management system](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-genomics-cli-snakemake-workflow-system/)
 - [Amazon DevOps Guru extends support for Lambda with CodeGuru Profiler Integration](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-devops-guru-support-lambda-codeguru-profiler-integration/)
 - [Amazon Aurora supports Multi Major Version Upgrade to Aurora PostgreSQL 11 and higher](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-version-upgrade-aurora-postgresql-11-higher/)
-- [Announcing Amplify iOS Library &lpar;Developer Preview&rpar;, rewritten to entirely use Swift](https://aws.amazon.com/about-aws/whats-new/2022/03/amplify-ios-library-developer-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
