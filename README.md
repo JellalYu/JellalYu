@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DynamoDB now supports the limit request option for PartiQL operations](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-dynamodb-limit-request-partiql-operations/)
 - [Amazon Braket adds support for OpenQASM 3.0](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-braket-openqasm-3-0/)
 - [Amazon SES now supports AWS CloudFormation templates in multiple new regions](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ses-supports-aws-cloudformation-templates-new-regions/)
 - [Amazon QuickSight enables auto-refresh controls for direct query](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-quicksight-auto-refresh-controls-direct-query/)
 - [Bottlerocket adds support for GPU based EC2 instance types powered by NVIDIA](https://aws.amazon.com/about-aws/whats-new/2022/03/bottlerocket-support-gpu-ec2-instance-types-powered-by-nvidia/)
-- [Amazon RDS for Oracle now supports Oracle Database 21c](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-oracle-support-oracle-database-21c/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
