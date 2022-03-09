@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 adds new AMI property to view timestamp of the latest instance launch using the AMI](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-ami-timestamp-instance-launch/)
 - [AWS Systems Manager Change Manager now supports taking actions on multiple change requests together](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-systems-manager-actions-multiple-change-requests/)
 - [Amazon DynamoDB increases default service quotas to simplify use of large numbers of tables](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-dynamodb-default-quotas-large-tables/)
 - [Amazon ECS Update Service API now supports updating Elastic Load Balancers, Service Registries, Tag Propagation, and ECS Managed Tags](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-service-api-updating-elastic-load-balancers-service-registries-tag-propagation-ecs-managed-tags/)
 - [Amazon Connect Customer Profiles now enables you to customize data aggregation in the console](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-connect-customer-profiles-customize-data-aggregation-console/)
-- [Amazon DynamoDB now supports the limit request option for PartiQL operations](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-dynamodb-limit-request-partiql-operations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
