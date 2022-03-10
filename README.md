@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Amazon EC2 X2idn and X2iedn instances](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-x2idn-x2iedn-instances/)
 - [Amazon MSK Connect now supports external secrets and configuration with config providers](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-msk-external-secrets-configurartion-providers/)
 - [Amazon RDS for SQL Server now supports M6i and R6i instances](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-sql-server-supports-m6i-r6i-instances/)
 - [Amazon Comprehend launches entity-based sentiment analysis](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-comprehend-entity-sentiment-analysis/)
 - [Amazon EC2 adds new AMI property to view timestamp of the latest instance launch using the AMI](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-ami-timestamp-instance-launch/)
-- [AWS Systems Manager Change Manager now supports taking actions on multiple change requests together](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-systems-manager-actions-multiple-change-requests/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
