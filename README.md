@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Personalize now supports AWS CloudFormation templates](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-personalize-aws-cloudformation-templates/)
+- [Amazon Chime SDK now supports live transcription with automatic language identification](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-transcription-language-identification/)
 - [AWS CodeBuild supports Arm-based workloads in four additional regions](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-codebuild-arm-based-workloads-four-regions/)
 - [AWS Glue DataBrew now supports cross-account Glue Data Catalog S3 access](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-glue-databrew-supports-cross-account-glue-data-catalog-s3-access/)
 - [Amazon EventBridge launches enhanced Rule Filtering and Event Transformation capabilities in the Management Console](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-eventbridge-rule-filtering-transformation-console/)
-- [Amazon S3 account-level block public access now extends to Lightsail buckets](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-s3-account-level-block-public-access-extends-lightsail-buckets/)
-- [Introducing Amazon EC2 X2idn and X2iedn instances](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-x2idn-x2iedn-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
