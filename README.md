@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Automate visual inspection of product defects at the edge with Amazon Lookout for Vision - now generally available](https://aws.amazon.com/about-aws/whats-new/2022/03/automate-visual-inspection-product-defects-amazon-lookout-vision/)
 - [Announcing Windows support for containerd runtime on EKS starting with Kubernetes 1.21](https://aws.amazon.com/about-aws/whats-new/2022/03/windows-containerd-runtime-eks-kubernetes/)
 - [AWS Cost Anomaly Detection supports integration with AWS Chatbot](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-cost-anomaly-detection-integration-chatbot/)
 - [Amazon ECS now supports on-premises workload orchestration on Windows OS](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-on-premises-orchestration-windows/)
 - [AWS Network Firewall achieves FedRAMP High compliance](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-network-firewall-fedramp-high-compliance/)
-- [Amazon Cognito launches support for in-region integration with Amazon SES and Amazon SNS](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-cognito-in-region-integration-ses-sns/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
