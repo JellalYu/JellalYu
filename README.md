@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in US East &lpar;Ohio&rpar; and Asia Pacific &lpar;Tokyo&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-multi-az-faster-transaction-latency/)
+- [Experts on AWS IQ can now complete proposals with one click](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-iq-experts-proposals-one-click/)
 - [Amazon CloudWatch Container Insights for Amazon ECS now available in the AWS Asia Pacific &lpar;Osaka&rpar; and Asia Pacific &lpar;Jakarta&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-cloudwatch-container-insights-ecs-extended-regions/)
 - [Amazon Chime SDK now supports Amazon Voice Focus noise reduction for phone calls](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-sdk-voice-focus-call-noise-reduction/)
 - [Amazon RDS for PostgreSQL now supports mysql_fdw extension for Amazon Aurora, MySQL and MariaDB Databases](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-mysql-fdw-extension-amazon-aurora-mysql-mariadb-databases/)
-- [Amazon RDS for PostgreSQL supports PostgreSQL minor versions 14.2, 13.6, 12.10, 11.15, and 10.20](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-postgresql-minor-versions/)
-- [Announcing two new HERE map styles for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-location-service-two-here-map-styles/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
