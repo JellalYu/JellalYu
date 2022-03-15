@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL now supports mysql_fdw extension for Amazon Aurora, MySQL and MariaDB Databases](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-mysql-fdw-extension-amazon-aurora-mysql-mariadb-databases/)
+- [Amazon RDS for PostgreSQL supports PostgreSQL minor versions 14.2, 13.6, 12.10, 11.15, and 10.20](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-postgresql-minor-versions/)
+- [Announcing two new HERE map styles for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-location-service-two-here-map-styles/)
+- [Announcing AWS AppConfig Feature Flags General Availability](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-appconfig-feature-flags/)
 - [Automate visual inspection of product defects at the edge with Amazon Lookout for Vision - now generally available](https://aws.amazon.com/about-aws/whats-new/2022/03/automate-visual-inspection-product-defects-amazon-lookout-vision/)
-- [Announcing Windows support for containerd runtime on EKS starting with Kubernetes 1.21](https://aws.amazon.com/about-aws/whats-new/2022/03/windows-containerd-runtime-eks-kubernetes/)
-- [AWS Cost Anomaly Detection supports integration with AWS Chatbot](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-cost-anomaly-detection-integration-chatbot/)
-- [Amazon ECS now supports on-premises workload orchestration on Windows OS](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-on-premises-orchestration-windows/)
-- [AWS Network Firewall achieves FedRAMP High compliance](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-network-firewall-fedramp-high-compliance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
