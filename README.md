@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is now available in Europe &lpar;Milan&rpar; region](https://aws.amazon.com/about-aws/whats-new/aws-cost-management/amazon-documentdb-mongodb-milan/)
 - [The AWS Lambda console now supports the option to share test events between developers](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-lambda-console-test-events/)
 - [AWS RoboMaker now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-robomaker-supports-aws-privatelink/)
 - [Amazon Route 53 launches Geolocation and Latency-Based Routing for Private DNS](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-route-53-launches-geolocation-latency-based-routing-private-dns/)
 - [Amazon Kendra releases FSx Connector to enable intelligent search on Amazon FSx for Windows File Server](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-kendra-fsx-connector-intelligent-search-windows/)
-- [AWS KMS and ACM now support the latest hybrid post-quantum TLS ciphers](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-kms-acm-support-latest-hybrid-post-quantum-tls-ciphers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
