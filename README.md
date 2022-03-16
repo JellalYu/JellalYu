@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Route 53 launches Geolocation and Latency-Based Routing for Private DNS](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-route-53-launches-geolocation-latency-based-routing-private-dns/)
 - [Amazon Kendra releases FSx Connector to enable intelligent search on Amazon FSx for Windows File Server](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-kendra-fsx-connector-intelligent-search-windows/)
 - [AWS KMS and ACM now support the latest hybrid post-quantum TLS ciphers](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-kms-acm-support-latest-hybrid-post-quantum-tls-ciphers/)
 - [New Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in US East &lpar;Ohio&rpar; and Asia Pacific &lpar;Tokyo&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-multi-az-faster-transaction-latency/)
 - [Experts on AWS IQ can now complete proposals with one click](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-iq-experts-proposals-one-click/)
-- [Amazon CloudWatch Container Insights for Amazon ECS now available in the AWS Asia Pacific &lpar;Osaka&rpar; and Asia Pacific &lpar;Jakarta&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-cloudwatch-container-insights-ecs-extended-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
