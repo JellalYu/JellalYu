@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [ACM Private CA now supports custom subject names, extensions, and name constraints](https://aws.amazon.com/about-aws/whats-new/2022/03/acm-private-ca-custom-names-extensions-constraints/)
 - [Amazon Chime SDK now supports Amazon Lex voice bots](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-sdk-now-supports-amazon-lex/)
 - [Service Catalog now supports VPC Endpoint Policies](https://aws.amazon.com/about-aws/whats-new/2022/03/service-catalog-now-supports-vpc-endpoint-policies/)
 - [AWS Backup is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-backup-available-aws-asia-pacific-jakarta-region/)
 - [AWS QnABot adds support for Genesys Cloud contact center, client filters and sensitive information log redaction](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-qnabot-genesys-cloud-contact-center-client-filters-sensitive-information-log-redaction/)
-- [AWS App Mesh Envoy Management Service &lpar;EMS&rpar; now supports AWS CloudTrail integration](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-app-mesh-ems-cloudtrail-integration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
