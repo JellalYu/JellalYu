@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect forecasting, capacity planning, and scheduling, now available in preview](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-connect-forecasting-capacity-planning-scheduling-preview/)
 - [Amazon RDS for PostgreSQL now supports tds_fdw extension for SQL Server Databases](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-extension-sql-server-database/)
 - [ACM Private CA now supports custom subject names, extensions, and name constraints](https://aws.amazon.com/about-aws/whats-new/2022/03/acm-private-ca-custom-names-extensions-constraints/)
 - [Amazon Chime SDK now supports Amazon Lex voice bots](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-sdk-now-supports-amazon-lex/)
 - [Service Catalog now supports VPC Endpoint Policies](https://aws.amazon.com/about-aws/whats-new/2022/03/service-catalog-now-supports-vpc-endpoint-policies/)
-- [AWS Backup is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-backup-available-aws-asia-pacific-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
