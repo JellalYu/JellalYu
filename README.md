@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime SDK now supports sessions with up to 10,000 live participants](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-10000-live-participants/)
+- [Amazon RDS supports itemized billing for RDS Storage, IOPS and backup features](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-itemized-billing-rds-iops-backup/)
 - [Amazon Transcribe Call Analytics now supports machine-learning powered call summarization](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-transcribe-call-analytics-machine-learning-call-summarization/)
 - [Amazon EBS direct APIs is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ebs-direct-apis-jakarta/)
 - [Amazon Corretto 18 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-corretto-18/)
-- [Introducing grammar slot type on Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2022/03/introducing-grammar-slot-type-amazon-lex/)
-- [Amazon Connect forecasting, capacity planning, and scheduling, now available in preview](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-connect-forecasting-capacity-planning-scheduling-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
