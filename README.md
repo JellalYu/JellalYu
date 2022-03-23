@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Amplify announces the new @mapsTo directive to iterate on GraphQL APIs without manual data migrations](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-amplify-mapsto-graphql-without-manual-data-migrations/)
+- [Amazon ECS now supports warm pools for Amazon EC2 Auto Scaling](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-supports-warm-pools-amazon-ec2-auto-scaling/)
 - [AWS Cost Categories now supports resource and tag based access controls](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-cost-categories-supports-resource-tag-based-access-controls/)
 - [Amazon Chime SDK now supports sessions with up to 10,000 live participants](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-10000-live-participants/)
 - [Amazon RDS supports itemized billing for RDS Storage, IOPS and backup features](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-itemized-billing-rds-iops-backup/)
-- [Amazon Transcribe Call Analytics now supports machine-learning powered call summarization](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-transcribe-call-analytics-machine-learning-call-summarization/)
-- [Amazon EBS direct APIs is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ebs-direct-apis-jakarta/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
