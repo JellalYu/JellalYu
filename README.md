@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cost Anomaly Detection now supports resource and tag based access management](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-cost-anomaly-detection-resource-tag-access-management/)
 - [AWS Proton support for Terraform Open Source is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-proton-terraform-open-source/)
 - [Amazon Kendra releases Slack Connector to enable Slack messaging search](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-kendra-slack-connector-messaging-search/)
 - [AWS GameKit for Unreal Game Engine is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-gamekit-unreal-engine/)
 - [Now in Preview - Amazon GameSparks](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-gamesparks-preview/)
-- [Amazon QuickSight launches Groups Management UI](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-quicksight-groups-management-ui/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
