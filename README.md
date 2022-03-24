@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Extract custom entities from images and Textract JSON files with Amazon Comprehend](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-comprehend-custom-entities-images-json/)
 - [AWS Support streamlines cases via Connector for Jira Service Management](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-support-streamlines-cases-connector-jira-management/)
 - [AWS Panorama now supports Amazon CloudWatch alarms for application errors](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-panorama-cloudwatch-alarms-application-errors/)
 - [AWS Panorama now supports the ability to bring your own machine learning libraries](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-panorama-machine-learning-libraries/)
 - [AWS Panorama applications now support receiving inbound messages over the local area network](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-panorama-inbound-messages-local-area-network/)
-- [Amazon Polly now offers Neural TTS voices in Catalan and Mexican Spanish](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-polly-offers-neural-tts-voices-catalan-mexican-spanish/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
