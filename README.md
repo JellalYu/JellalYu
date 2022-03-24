@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly now offers Neural TTS voices in Catalan and Mexican Spanish](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-polly-offers-neural-tts-voices-catalan-mexican-spanish/)
+- [AWS Service Catalog announces a new console feature to directly access resources within a Provisioned Product](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-service-catalog-new-console-feature/)
 - [AWS Cost Anomaly Detection now supports resource and tag based access management](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-cost-anomaly-detection-resource-tag-access-management/)
 - [AWS Proton support for Terraform Open Source is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-proton-terraform-open-source/)
 - [Amazon Kendra releases Slack Connector to enable Slack messaging search](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-kendra-slack-connector-messaging-search/)
-- [AWS GameKit for Unreal Game Engine is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-gamekit-unreal-engine/)
-- [Now in Preview - Amazon GameSparks](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-gamesparks-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
