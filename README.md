@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Managed entitlements in AWS License Manager now supports license usage for AWS Marketplace licenses](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-license-manager-entitlements/)
 - [Amazon Aurora PostgreSQL supports Foreign Data Wrapper for Microsoft SQL Server and Sybase databases](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-postgresql-foreign-data-wrapper-sql-sybase/)
 - [Amazon EventBridge Schema Registry extends support to Go language](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-eventbridge-schema-registry-support-go-language/)
 - [Contact Lens for Amazon Connect now offers real-time streaming for higher scale and low latency scenarios](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-connect-contact-lens-real-time-streaming/)
 - [Amazon RDS Free Tier now includes db.t3.micro, AWS Graviton2-based db.t4g.micro instances in all commercial regions](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-free-tier-dbt3micro-graviton2-based-instances/)
-- [Amazon RDS now supports Internet Protocol Version 6 &lpar;IPv6&rpar; on RDS Service APIs](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-internet-protocol-version-6-ipv6-rds-service-apis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
