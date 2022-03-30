@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR Managed Scaling is now Spark shuffle data aware](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-emr-managed-scaling-shuffle-data-aware/)
+- [Amazon Aurora supports PostgreSQL 13.6, 12.10, 11.15, 10.20 and Babelfish for Aurora PostgreSQL 1.2.0](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-postgresql-babelfish-version-support/)
 - [Amazon CloudWatch adds option for easy monitoring set up](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-cloudwatch-adds-option-easy-monitoring-set-up/)
 - [Managed entitlements in AWS License Manager now supports license usage for AWS Marketplace licenses](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-license-manager-entitlements/)
 - [Amazon Aurora PostgreSQL supports Foreign Data Wrapper for Microsoft SQL Server and Sybase databases](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-postgresql-foreign-data-wrapper-sql-sybase/)
-- [Amazon EventBridge Schema Registry extends support to Go language](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-eventbridge-schema-registry-support-go-language/)
-- [Contact Lens for Amazon Connect now offers real-time streaming for higher scale and low latency scenarios](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-connect-contact-lens-real-time-streaming/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
