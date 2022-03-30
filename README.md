@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch adds option for easy monitoring set up](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-cloudwatch-adds-option-easy-monitoring-set-up/)
 - [Managed entitlements in AWS License Manager now supports license usage for AWS Marketplace licenses](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-license-manager-entitlements/)
 - [Amazon Aurora PostgreSQL supports Foreign Data Wrapper for Microsoft SQL Server and Sybase databases](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-postgresql-foreign-data-wrapper-sql-sybase/)
 - [Amazon EventBridge Schema Registry extends support to Go language](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-eventbridge-schema-registry-support-go-language/)
 - [Contact Lens for Amazon Connect now offers real-time streaming for higher scale and low latency scenarios](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-connect-contact-lens-real-time-streaming/)
-- [Amazon RDS Free Tier now includes db.t3.micro, AWS Graviton2-based db.t4g.micro instances in all commercial regions](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-free-tier-dbt3micro-graviton2-based-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
