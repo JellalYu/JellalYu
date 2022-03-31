@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Pinpoint now supports template tagging and search in the console](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-pinpoint-template-tagging-search-console/)
 - [EKS add-ons support for EBS CSI driver is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/03/eks-add-ons-ebs-csi-driver-available/)
 - [Amazon CloudFront now supports Server Timing headers](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-cloudfront-server-timing-headers/)
 - [Amazon RDS for Oracle now supports January 2022 Patch Set Update &lpar;PSU&rpar; for 12.1 and Release Updates &lpar;RU&rpar; for 12.2 and 19c](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-oracle-patch-set-update-release-ru/)
 - [AWS Glue 2.0 now supports fuzzy matching and deduplication using AWS Glue FindMatches](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-glue-fuzzy-findmatches/)
-- [AWS Firewall Manager now supports Palo Alto Networks Cloud Next Generation Firewalls](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-firewall-palo-alto-network-cloud-generation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
