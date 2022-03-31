@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront now supports Server Timing headers](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-cloudfront-server-timing-headers/)
 - [Amazon RDS for Oracle now supports January 2022 Patch Set Update &lpar;PSU&rpar; for 12.1 and Release Updates &lpar;RU&rpar; for 12.2 and 19c](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-oracle-patch-set-update-release-ru/)
 - [AWS Glue 2.0 now supports fuzzy matching and deduplication using AWS Glue FindMatches](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-glue-fuzzy-findmatches/)
 - [AWS Firewall Manager now supports Palo Alto Networks Cloud Next Generation Firewalls](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-firewall-palo-alto-network-cloud-generation/)
 - [AWS Security Hub launches 12 controls for security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-security-hub-launches-controls-security-posture-monitoring/)
-- [Amazon EC2 now performs automatic recovery of instances by default](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-default-automatic-recovery/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
