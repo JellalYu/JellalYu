@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub now supports specifying names for custom integrations](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-security-hub-custom-integrations/)
 - [AWS Backup now allows you to restore virtual disks from protected copies of your VMware virtual machines](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-backup-virtual-disks-protected-copies-vmware-machines/)
 - [Amazon SageMaker Data Wrangler now supports Databricks as a data source](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-data-wrangler-databricks-data-source/)
 - [AWS Backup adds support for VMware Cloud on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-backup-support-vmware-cloud-aws-outposts/)
 - [Amazon EC2 now reduces visibility of public Amazon Machine Images &lpar;AMIs&rpar; older than two years](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-visibility-public-machine-images-aims-two-years/)
-- [AWS Storage Gateway updates support for VMware and Microsoft hypervisors](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-storage-gateway-vmware-microsoft-hypervisors/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
