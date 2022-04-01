@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 now reduces visibility of public Amazon Machine Images &lpar;AMIs&rpar; older than two years](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-visibility-public-machine-images-aims-two-years/)
+- [AWS Storage Gateway updates support for VMware and Microsoft hypervisors](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-storage-gateway-vmware-microsoft-hypervisors/)
+- [Amazon ECS announces increased service quota for container instances per cluster](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-quota-service-container-cluster/)
 - [Sustainability Pillar is now available in AWS Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-sustainability-pillar-available-in-well-architected-tool/)
 - [The AWS Lambda console now supports bulk update of layers](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-lambda-console-bulk-update-layers/)
-- [Amazon Redshift launches Concurrency Scaling in the Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-redshift-concurrency-scaling-europe-stockholm/)
-- [Amazon AppStream 2.0 is now available in the AWS Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-appstream-2-0-aws-canada/)
-- [Amazon Pinpoint now supports template tagging and search in the console](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-pinpoint-template-tagging-search-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
