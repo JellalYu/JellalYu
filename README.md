@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 now reduces visibility of public Amazon Machine Images &lpar;AMIs&rpar; older than two years](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-machine-images-public-visibility-two-years/)
 - [Amazon WorkSpaces launches APIs to allow custom branding](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-workspace-apis-custom-branding/)
 - [AWS Glue DataBrew now supports the ORC file format as an input](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-glue-databrew-orc-file-format/)
 - [Amazon ElastiCache for Redis now supports Global Datastore in two new Regions](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-elasticache-redis-global-datastore-regions/)
 - [AWS Security Hub now supports specifying names for custom integrations](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-security-hub-custom-integrations/)
-- [AWS Backup now allows you to restore virtual disks from protected copies of your VMware virtual machines](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-backup-virtual-disks-protected-copies-vmware-machines/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
