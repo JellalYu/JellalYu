@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Wisdom now supports Zendesk connector](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-syncs-zendesk-articles/)
 - [Now launch RStudio on Amazon SageMaker using AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rstudio-aws-sagemaker-cloudformation/)
 - [Amazon Route 53 now offers usage-based pricing for resource records above the free tier limit](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-route-53-usage-pricing-resource-records-above-free-tier/)
 - [Amazon RDS Proxy now supports PostgreSQL major version 13](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-proxy-supports-postgresql-major-version-13/)
 - [Amazon Data Lifecycle Manager is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-data-lifecycle-manager-jakarta-region/)
-- [AWS releases version 2.0 of the Amazon Pinpoint API for expanded support of SMS and voice channels](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-pinpoint-version-api-feature-sms-voice-channels/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
