@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Device Management and AWS IoT Device Defender now support monitoring device metrics via ListMetricValues API](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-iot-device-management-defender-monitoring-metrics/)
+- [Cross-cluster Replication is now supported on existing Amazon OpenSearch service domains](https://aws.amazon.com/about-aws/whats-new/2022/04/cross-cluster-replication-amazon-opensearch-domains/)
+- [Cross-cluster search is now supported on existing Amazon OpenSearch Service domains](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-opensearch-domains-cross-cluster-search/)
 - [Amazon Connect Wisdom now supports Zendesk connector](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-syncs-zendesk-articles/)
 - [Now launch RStudio on Amazon SageMaker using AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rstudio-aws-sagemaker-cloudformation/)
-- [Amazon Route 53 now offers usage-based pricing for resource records above the free tier limit](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-route-53-usage-pricing-resource-records-above-free-tier/)
-- [Amazon RDS Proxy now supports PostgreSQL major version 13](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-proxy-supports-postgresql-major-version-13/)
-- [Amazon Data Lifecycle Manager is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-data-lifecycle-manager-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
