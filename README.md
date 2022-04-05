@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing General Availability of Amplify Geo for iOS](https://aws.amazon.com/about-aws/whats-new/2022/04/amplify-geo-available-ios/)
 - [AWS IoT Device Management and AWS IoT Device Defender now support monitoring device metrics via ListMetricValues API](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-iot-device-management-defender-monitoring-metrics/)
 - [Cross-cluster Replication is now supported on existing Amazon OpenSearch service domains](https://aws.amazon.com/about-aws/whats-new/2022/04/cross-cluster-replication-amazon-opensearch-domains/)
 - [Cross-cluster search is now supported on existing Amazon OpenSearch Service domains](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-opensearch-domains-cross-cluster-search/)
 - [Amazon Connect Wisdom now supports Zendesk connector](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-syncs-zendesk-articles/)
-- [Now launch RStudio on Amazon SageMaker using AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rstudio-aws-sagemaker-cloudformation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
