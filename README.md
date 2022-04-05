@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing General Availability of Amplify Geo for iOS](https://aws.amazon.com/about-aws/whats-new/2022/04/amplify-geo-available-ios/)
-- [AWS IoT Device Management and AWS IoT Device Defender now support monitoring device metrics via ListMetricValues API](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-iot-device-management-defender-monitoring-metrics/)
-- [Cross-cluster Replication is now supported on existing Amazon OpenSearch service domains](https://aws.amazon.com/about-aws/whats-new/2022/04/cross-cluster-replication-amazon-opensearch-domains/)
-- [Cross-cluster search is now supported on existing Amazon OpenSearch Service domains](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-opensearch-domains-cross-cluster-search/)
-- [Amazon Connect Wisdom now supports Zendesk connector](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-syncs-zendesk-articles/)
+- [Amazon EC2 now provides a new and improved launch experience on the EC2 Console](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-launch-experience-console/)
+- [AWS Backup adds support for Persistent 2 deployment type of Amazon FSx for Lustre file systems](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-deployment-amazon-fsx-lustre-file-systems/)
+- [Announcing general availability of Amazon Athena ACID transactions, powered by Apache Iceberg](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-athena-acid-transactions-powered-apache-iceberg/)
+- [AWS AppSync adds support for enhanced filtering in real-time GraphQL subscriptions](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-appsync-enhanced-filtering-graphql-subscriptions/)
+- [Amazon FSx now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-fsx-supports-aws-privatelink/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
