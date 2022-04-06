@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EC2 now provides a new and improved launch experience on the EC2 Console](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-launch-experience-console/)
-- [AWS Backup adds support for Persistent 2 deployment type of Amazon FSx for Lustre file systems](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-deployment-amazon-fsx-lustre-file-systems/)
-- [Announcing general availability of Amazon Athena ACID transactions, powered by Apache Iceberg](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-athena-acid-transactions-powered-apache-iceberg/)
-- [AWS AppSync adds support for enhanced filtering in real-time GraphQL subscriptions](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-appsync-enhanced-filtering-graphql-subscriptions/)
-- [Amazon FSx now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-fsx-supports-aws-privatelink/)
+- [Introducing two new Amazon EC2 bare metal instances](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-bare-metal-instances/)
+- [AWS Network Firewall achieves FedRAMP Moderate compliance](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-network-firewall-fedramp-moderate-compliance/)
+- [Introducing Amazon CloudWatch Metrics Insights &lpar;General Availability&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-cloudwatch-metrics-insights/)
+- [Amazon Connect launches dynamic voice prompt playback from Amazon S3](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-dynamic-voice-playback-s3/)
+- [Amazon OpenSearch Service now includes an observability interface and expands log analytics](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-opensearch-observability-interface-log-analytics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
