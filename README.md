@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda Function URLs: built-in HTTPS endpoints for your Lambda functions](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-lambda-function-urls-built-in-https-endpoints/)
+- [AWS Amplify Studio announces new file storage and file management capabilities](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-amplify-studio-file-storage-management/)
 - [Amazon Athena adds support for querying Amazon Ion data](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-athena-querying-ion-data/)
 - [Announcing Unified Settings in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2022/04/unified-settings-aws-management-console/)
 - [Introducing two new Amazon EC2 bare metal instances](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-bare-metal-instances/)
-- [AWS Network Firewall achieves FedRAMP Moderate compliance](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-network-firewall-fedramp-moderate-compliance/)
-- [Introducing Amazon CloudWatch Metrics Insights &lpar;General Availability&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-cloudwatch-metrics-insights/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
