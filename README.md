@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces support for role-based access control &lpar;RBAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-redshift-role-based-access-control/)
+- [Amazon Redshift announces native integration with Microsoft Azure Active Directory and Microsoft Power BI](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-redshift-native-integration-azure-active-directory-power-bi/)
 - [Amazon OpenSearch Service now supports using custom dictionaries with IK Analysis plugin](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-opensearch-supports-custom-dictionaries-ik-analysis-plugin/)
 - [AWS Lambda Function URLs: built-in HTTPS endpoints for your Lambda functions](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-lambda-function-urls-built-in-https-endpoints/)
 - [AWS Amplify Studio announces new file storage and file management capabilities](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-amplify-studio-file-storage-management/)
-- [Amazon Athena adds support for querying Amazon Ion data](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-athena-querying-ion-data/)
-- [Announcing Unified Settings in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2022/04/unified-settings-aws-management-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
