@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS OpsWorks for Configuration Management now supports new version of Puppet Enterprise](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-opsworks-configuration-management-version-puppet-enterprise/)
 - [Amazon ECS now allows you to run commands in a Windows container running on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-commands-windows-container-aws-fargate/)
 - [Amazon RDS for SQL Server now supports SQL Server Agent job replication](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-sql-server-sql-agent-job-replication/)
 - [AWS Announces Data Transfer Price Reduction for AWS PrivateLink, AWS Transit Gateway, and AWS Client VPN services](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-data-transfer-price-reduction-privatelink-transit-gateway-client-vpn-services/)
 - [Amazon Redshift announces support for role-based access control &lpar;RBAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-redshift-role-based-access-control/)
-- [Amazon Redshift announces native integration with Microsoft Azure Active Directory and Microsoft Power BI](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-redshift-native-integration-azure-active-directory-power-bi/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
