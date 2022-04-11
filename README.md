@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon WorkSpaces launches new Graphics G4dn bundles to improve performance and optimize costs](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-workspaces-graphics-g4dn-bundles/)
 - [AWS AI &amp; ML Scholarship Program opens applications for underrepresented and underserved students](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-ai-ml-scholarship-program-underrepresented-underserved-students/)
 - [Amazon Virtual Private Cloud &lpar;VPC&rpar; Prefix Lists is now available in the AWS Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-vpc-prefix-list-osaka-region/)
 - [Amazon Personalize now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-personalize-resource-tagging/)
 - [AWS Single Sign-On is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-single-sign-on-hipaa-eligible/)
-- [AWS Security Hub launches five controls and one new integration partner](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-security-hub-controls-new-integration-partner/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
