@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Personalize now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-personalize-resource-tagging/)
+- [AWS Single Sign-On is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-single-sign-on-hipaa-eligible/)
 - [AWS Security Hub launches five controls and one new integration partner](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-security-hub-controls-new-integration-partner/)
 - [AWS Shield Advanced now supports Application Load Balancer for automatic application layer DDoS mitigation](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-shield-application-balancer-automatic-ddos-mitigation/)
 - [AWS Resource Access Manager achieves FedRAMP Compliance](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-resource-access-manager-fedramp-compliance/)
-- [Amazon RDS for Oracle now supports M6i and R6i instances](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-oracle-m6i-r6i-instances/)
-- [Amazon Connect launches updated UI for users, routing profiles, and queues with AWS CloudTrail support](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-ui-routing-profiles-queues-cloudtrail/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
