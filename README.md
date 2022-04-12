@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS App Runner launches AWS X-Ray support](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-app-runner-x-ray-support/)
+- [You can now automatically attach Amazon FSx file systems to new Amazon EC2 instances you create in the new EC2 launch experience](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-fsx-file-system-ec2-launch-experience/)
+- [Amazon ECR Public announces changes to the gallery including navigation breadcrumbs and copying of image identifier from dropdown](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ecr-public-gallery-breadcrumbs-image-identifier/)
 - [Amazon EFS integration with the new and improved launch experience on the EC2 Console](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-efs-integration-launch-ec2-console/)
 - [Amazon WorkSpaces launches new Graphics G4dn bundles to improve performance and optimize costs](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-workspaces-graphics-g4dn-bundles/)
-- [AWS AI &amp; ML Scholarship Program opens applications for underrepresented and underserved students](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-ai-ml-scholarship-program-underrepresented-underserved-students/)
-- [Amazon Virtual Private Cloud &lpar;VPC&rpar; Prefix Lists is now available in the AWS Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-vpc-prefix-list-osaka-region/)
-- [Amazon Personalize now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-personalize-resource-tagging/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
