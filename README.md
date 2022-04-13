@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx for NetApp ONTAP introduces a single Availability Zone deployment option](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-fsx-netapp-ontap-single-availability-zone-deployment/)
+- [AWS Fargate now delivers faster scaling of applications](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-fargate-delivers-scaling-applications/)
 - [AWS DataSync can now copy data to and from Amazon FSx for OpenZFS](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-datasync-amazon-fsx-openzfs/)
 - [Amazon Connect Wisdom now supports PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-wisdom-supports-privatelink/)
 - [AWS App Runner launches AWS X-Ray support](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-app-runner-x-ray-support/)
-- [You can now automatically attach Amazon FSx file systems to new Amazon EC2 instances you create in the new EC2 launch experience](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-fsx-file-system-ec2-launch-experience/)
-- [Amazon ECR Public announces changes to the gallery including navigation breadcrumbs and copying of image identifier from dropdown](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ecr-public-gallery-breadcrumbs-image-identifier/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
