@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New datasets available on the Registry of Open Data from Space Telescope Science Institute, DNAStack, National Archives and Records Administration, and others](https://aws.amazon.com/about-aws/whats-new/2022/04/q2-new-datasets-available-registry-open-data/)
 - [Amazon CloudWatch Metric Streams adds support for additional statistics](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-cloudwatch-metric-streams-additional-statistics/)
 - [Amazon SageMaker Canvas is now available in the AWS Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-canvas-available-asia-pacific-tokyo/)
 - [Introducing the Amazon CloudFront Ready Program](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-cloudfront-ready-program/)
 - [AWS Single Sign-On launches configurable synchronization for Microsoft Active Directory](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-single-sign-on-configurable-synchronization-microsoft-active-directory/)
-- [Introducing Enterprise Container Management Solutions from AWS Container Competency Partners](https://aws.amazon.com/about-aws/whats-new/2022/04/enterprise-container-management-solutions-aws-competency-partners/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
