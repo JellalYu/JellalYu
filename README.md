@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Configurable cipher suites now available for Amazon Aurora MySQL](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-aurora-mysql-configurable-cipher-suites/)
 - [Service Quotas is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-service-quotas-available-jakarta-region/)
 - [Amazon Kinesis Data Firehose now delivers to Coralogix](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-kinesis-data-firehose-coralogix/)
 - [Introducing DevSecOps Solutions from AWS DevOps Competency Partners](https://aws.amazon.com/about-aws/whats-new/2022/04/devsecops-solutions-competency-partners/)
 - [AppStream 2.0 enables custom session scripts for Elastic fleets](https://aws.amazon.com/about-aws/whats-new/2022/04/appstream-custom-scripts-elastic-fleets/)
-- [New datasets available on the Registry of Open Data from Space Telescope Science Institute, DNAStack, National Archives and Records Administration, and others](https://aws.amazon.com/about-aws/whats-new/2022/04/q2-new-datasets-available-registry-open-data/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
