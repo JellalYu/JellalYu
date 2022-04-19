@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Interactive Video Service launches edge locations in Indonesia and the Philippines](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-interactive-video-service-launches-edge-locations-indonesia-philippines/)
 - [AWS Batch adds support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-batch-adds-privatelink/)
 - [Configurable cipher suites now available for Amazon Aurora MySQL](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-aurora-mysql-configurable-cipher-suites/)
 - [Service Quotas is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-service-quotas-available-jakarta-region/)
 - [Amazon Kinesis Data Firehose now delivers to Coralogix](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-kinesis-data-firehose-coralogix/)
-- [Introducing DevSecOps Solutions from AWS DevOps Competency Partners](https://aws.amazon.com/about-aws/whats-new/2022/04/devsecops-solutions-competency-partners/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
