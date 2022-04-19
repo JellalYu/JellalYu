@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra releases Quip Connector to enable document search in Quip repository](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-kendra-quip-connector-enable-document-search-quip-repository/)
+- [Amazon Keyspaces now helps you read and write data in Apache Spark more easily](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-keyspaces-read-write-data-apache-spark/)
+- [The next generation of FSx for Lustre file systems is now available in Asia Pacific &lpar;Sydney&rpar;, Europe &lpar;London&rpar;, and Asia Pacific &lpar;Singapore&rpar; AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/04/generation-fsx-luster-system-aws-available-asia-pacific-sydney-europe-london-singapore-regions/)
 - [Amazon Corretto announces quarterly updates](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-corretto-april-2022-quartely-updates/)
 - [Amazon FSx for OpenZFS is now available in Europe &lpar;London&rpar;, Asia Pacific &lpar;Sydney&rpar;, and Asia Pacific &lpar;Singapore&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-fsx-openzfs-available-europe-london-signapore-regions/)
-- [AWS DataSync is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-datasync-asia-pacific-jakarta/)
-- [Amazon Redshift announces new enhancements for Audit Logging](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-redshift-enhancements-audit-logging/)
-- [Amazon Polly Launches a new Austrian German Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-polly-launches-austrian-german-neural-text-speech-voice/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
