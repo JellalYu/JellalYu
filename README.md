@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Announces General Availability of openCypher support for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-announces-general-availability-opencypher-support-amazon-neptune/)
 - [Amazon Relational Database Service now supports Multi-AZ deployments on AWS Outposts for High Availability](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-relational-database-service-multi-az-deployments-aws-outposts-high-availability/)
 - [AWS Key Management Service introduces new HMAC API](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-key-management-service-hmac-api/)
 - [AWS Step Functions expands support for over 20 new AWS SDK integrations](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-step-functions-expands-support-over-20-new-aws-sdk-integrations/)
 - [AWS Transit Gateway is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-transfer-family-jakarta-region/)
-- [AWS Security Hub launches cross-Region security scores and compliance statuses](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-security-hub-cross-region-security-scores-compliance-statuses/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
