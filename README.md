@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transit Gateway is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-transit-gateway-jakarta-region/)
 - [EC2 Auto Scaling now lets you set a default instance warm-up time for all instance scaling and replacement actions](https://aws.amazon.com/about-aws/whats-new/2022/04/ec2-auto-scaling-default-instance-warm-up-replacement-actions/)
 - [Amazon Neptune now supports global condition keys in AWS IAM policies](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-neptune-global-condition-keys-iam-policies/)
 - [Amazon Personalize now supports starting and stopping recommenders](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-personalize-starting-stopping-recommenders/)
 - [Introducing Migration Hub Orchestrator, a new migration orchestration feature in AWS Migration Hub](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-migration-hub-orchestrator/)
-- [AWS Announces General Availability of openCypher support for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-announces-general-availability-opencypher-support-amazon-neptune/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
