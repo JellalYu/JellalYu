@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EC2 Auto Scaling now lets you set a default instance warm-up time for all instance scaling and replacement actions](https://aws.amazon.com/about-aws/whats-new/2022/04/ec2-auto-scaling-default-instance-warm-up-replacement-actions/)
+- [Amazon Neptune now supports global condition keys in AWS IAM policies](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-neptune-global-condition-keys-iam-policies/)
+- [Amazon Personalize now supports starting and stopping recommenders](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-personalize-starting-stopping-recommenders/)
 - [Introducing Migration Hub Orchestrator, a new migration orchestration feature in AWS Migration Hub](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-migration-hub-orchestrator/)
 - [AWS Announces General Availability of openCypher support for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-announces-general-availability-opencypher-support-amazon-neptune/)
-- [Amazon Relational Database Service now supports Multi-AZ deployments on AWS Outposts for High Availability](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-relational-database-service-multi-az-deployments-aws-outposts-high-availability/)
-- [AWS Key Management Service introduces new HMAC API](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-key-management-service-hmac-api/)
-- [AWS Step Functions expands support for over 20 new AWS SDK integrations](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-step-functions-expands-support-over-20-new-aws-sdk-integrations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
