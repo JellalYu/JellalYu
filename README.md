@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon DevOps Guru now provides Proactive Insights to flag issues early on AWS Serverless Applications](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-devops-guru-provides-proactive-insights-flag-early-issues-aws-serverless-applications/)
-- [Amazon MQ now supports ActiveMQ version 5.16.4](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-activemq-version/)
-- [Announcing General Availability of Amplify Geo for Android](https://aws.amazon.com/about-aws/whats-new/2022/04/general-availability-amplify-geo-android/)
-- [New data source connectors generally available for Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2022/04/new-data-source-connectors-generally-available-amazon-athena/)
-- [Amazon SageMaker Serverless Inference is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-serverless-inference/)
+- [AWS Elemental MediaTailor now supports live sources in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-elemental-mediatailor-live-channel-assembly/)
+- [EKS add-ons support for the OpenTelemetry Operator is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/eks-opentelemetry-operator-now-available/)
+- [Amazon Macie adds support for discovering more types of sensitive data](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-macie-sensitive-data/)
+- [Amazon Neptune now offers a free trial](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-neptune-offers-free-trial/)
+- [Amazon Kendra releases Box Connector to enable search on documents in Box Enterprise repository](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-kendra-box-connector-documents-enterprise/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
