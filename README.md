@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DevOps Guru now provides Proactive Insights to flag issues early on AWS Serverless Applications](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-devops-guru-provides-proactive-insights-flag-early-issues-aws-serverless-applications/)
+- [Amazon MQ now supports ActiveMQ version 5.16.4](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-activemq-version/)
+- [Announcing General Availability of Amplify Geo for Android](https://aws.amazon.com/about-aws/whats-new/2022/04/general-availability-amplify-geo-android/)
 - [New data source connectors generally available for Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2022/04/new-data-source-connectors-generally-available-amazon-athena/)
 - [Amazon SageMaker Serverless Inference is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-serverless-inference/)
-- [Amazon Textract launches new Queries feature within Analyze Document API](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-textract-launches-queries-feature-analyze-document-api/)
-- [Amazon QuickSight 1-click public embedding available now in preview](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-quicksight-public-embedding-available-now/)
-- [Autoscaling in AWS Glue is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2022/04/autoscaling-aws-glue-now-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
