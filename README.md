@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Amplify Studio Figma-to-React code capabilities are now generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-amplify-studio-figma-to-react-code-capabilities/)
-- [AWS IoT TwinMaker is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-iot-twinmaker-now-generally-available/)
-- [AWS Transit Gateway is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-transit-gateway-jakarta-region/)
-- [EC2 Auto Scaling now lets you set a default instance warm-up time for all instance scaling and replacement actions](https://aws.amazon.com/about-aws/whats-new/2022/04/ec2-auto-scaling-default-instance-warm-up-replacement-actions/)
-- [Amazon Neptune now supports global condition keys in AWS IAM policies](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-neptune-global-condition-keys-iam-policies/)
+- [Amazon SageMaker Serverless Inference is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-serverless-inference/)
+- [Amazon Textract launches new Queries feature within Analyze Document API](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-textract-launches-queries-feature-analyze-document-api/)
+- [Amazon QuickSight 1-click public embedding available now in preview](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-quicksight-public-embedding-available-now/)
+- [Announcing sensitive data detection and processing in AWS Glue](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-announcing-sensitive-data-detection-glue/)
+- [Autoscaling in AWS Glue is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2022/04/autoscaling-aws-glue-now-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
