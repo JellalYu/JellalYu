@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Launch Wizard now provides guided deployment of Internet Information Services &lpar;IIS&rpar; for Windows Server](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-launch-wizard-deployment-internet-information-services-windows-server/)
+- [AWS Launch Wizard now provides guided deployment of Microsoft Exchange Server](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-launch-wizard-deployment-microsoft-exchange-server/)
+- [AWS Batch adds improvements to UpdateComputeEnvironment API](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-batch-adds-improvement-updatecomputeenvironment-api/)
+- [Amazon Connect adds near real-time insights into voice call, chat, and task activity in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-near-real-time-insights-voice-call-chat-task-activity-aws-govcloud-us-west-regions/)
 - [AWS Elemental MediaTailor now supports live sources in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-elemental-mediatailor-live-channel-assembly/)
-- [EKS add-ons support for the OpenTelemetry Operator is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/eks-opentelemetry-operator-now-available/)
-- [Amazon Macie adds support for discovering more types of sensitive data](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-macie-sensitive-data/)
-- [Amazon Neptune now offers a free trial](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-neptune-offers-free-trial/)
-- [Amazon Kendra releases Box Connector to enable search on documents in Box Enterprise repository](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-kendra-box-connector-documents-enterprise/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
