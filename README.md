@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Elastic Kubernetes Service &lpar;EKS&rpar; announces Karpenter v0.9.0 with support for Pod Affinity](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-eks-karpenter-v0-9-0-pod-affinity/)
 - [AWS Announces general availability of the first AWS Wavelength Zone in Canada](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-general-availability-first-aws-wavelength-zone-canada/)
 - [Amazon Connect launches API to search for users by name, agent hierarchies, and tags](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-api-search-users-name-agent-hierarchies-tags/)
 - [Amazon SES V2 now supports email size of up to 40MB for inbound and outbound emails by default](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ses-v2-supports-email-size-40mb-inbound-outbound-emails-default/)
 - [Amazon Nimble Studio is now available in the Asia Pacific &lpar;Tokyo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-nimble-studio-tokyo-region/)
-- [Amazon Connect adds near real-time insights into voice call, chat, and task activity in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-near-real-time-insights-voice-call-chat-task-activity-aws-govcloud-us-west-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
