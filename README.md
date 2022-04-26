@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Nimble Studio is now available in the Asia Pacific &lpar;Tokyo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-nimble-studio-tokyo-region/)
 - [Amazon Connect adds near real-time insights into voice call, chat, and task activity in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-near-real-time-insights-voice-call-chat-task-activity-aws-govcloud-us-west-region/)
 - [Amazon Redshift launches RA3 instances in the Asia Pacific &lpar;Osaka&rpar;, Europe &lpar;Milan&rpar;, Middle East &lpar;Bahrain&rpar; and Africa &lpar;Cape Town&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-redshift-instances-asia-pacific-osaka-europe-milan-middle-east-bahrain-africa-cape-town-regions/)
 - [Announcing consolidated view of Lambda Insights via Application Insights](https://aws.amazon.com/about-aws/whats-new/2022/04/consolidated-view-lambda-application-insights/)
 - [AWS Batch adds support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-batch-adds-privatelink/)
-- [Amazon Connect launches API to claim and configure phone numbers programmatically](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-api-claim-phone-numbers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
