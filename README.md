@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MariaDB now supports M6i and R6i instances with new instance sizes up to 128 vCPUs and 1,024 GiB RAM.](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-mariadb-m6i-r6i-new-instance-sizes/)
+- [Amazon Lightsail load balancers now support automatic HTTPS redirects and configurable TLS security policy](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-lightsail-balancers-automatic-https-tls-security-policy/)
+- [AWS Backup for Amazon FSx is now available in the AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-backup-amazon-fsx-osaka/)
 - [Amazon EC2 R6gd instances powered by AWS Graviton2 now available in South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-r6gd-instances-aws-graviton2-available-sao-paulo/)
 - [Amazon EC2 C6i, M6i and R6i Instances available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-c6i-m6i-r6i-instances-available-aws-govcloud-us-regions/)
-- [Amazon Polly now offers a Neural TTS voice in Portuguese](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-polly-offers-neural-tts-voice-portuguese/)
-- [Amazon Elastic Kubernetes Service &lpar;EKS&rpar; announces Karpenter v0.9.0 with support for Pod Affinity](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-eks-karpenter-v0-9-0-pod-affinity/)
-- [AWS Announces general availability of the first AWS Wavelength Zone in Canada](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-general-availability-first-aws-wavelength-zone-canada/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
