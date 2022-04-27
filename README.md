@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Amazon EC2 I4i instances](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-i4i-instances/)
 - [AWS Snow launches Large Data Migration Manager for planning and managing large data migrations from your premises to AWS](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-large-data-migration-manager/)
 - [Amazon RDS for Postgres now supports M6i and R6i instances with new instance sizes up to 128 vCPUs and 1,024 GiB RAM](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-postgres-supports-m6i-r6i-instances/)
 - [Amazon Interactive Video Service adds stream chat feature](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-interactive-video-service-adds-stream-chat-feature/)
 - [AWS Control Tower now supports Python 3.9 runtime](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-control-tower-supports-python-3-9-runtime/)
-- [Amazon RDS for MariaDB now supports M6i and R6i instances with new instance sizes up to 128 vCPUs and 1,024 GiB RAM.](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-mariadb-m6i-r6i-new-instance-sizes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
