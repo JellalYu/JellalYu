@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Key Management Service introduces new HMAC API](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-key-management-service-hmac-api/)
 - [AWS Snow Family now enables you to remotely monitor and operate your connected Snowball Edge devices](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-family-remote-monitor-snowball/)
 - [Amazon RDS Data API now supports returning SQL results as a simplified JSON string](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-data-api-sql-json-string/)
 - [ElastiCache data tiering is now available in 3 additional regions](https://aws.amazon.com/about-aws/whats-new/2022/04/elasticache-data-tiering-available-additional-regions/)
 - [Amazon SageMaker Data Wrangler now supports random sampling and stratified sampling](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-data-wrangler-supports-random-sampling-stratified-sampling/)
-- [Get insights into Data and Data Quality with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-data-quality-wrangler/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
