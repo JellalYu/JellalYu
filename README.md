@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly now offers a new Neural TTS voices in Brazilian Portuguese](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-polly-offers-new-neural-tts-voices-brazilian-portuguese/)
 - [AWS Key Management Service introduces new HMAC API](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-key-management-service-hmac-api/)
 - [AWS Snow Family now enables you to remotely monitor and operate your connected Snowball Edge devices](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-family-remote-monitor-snowball/)
 - [Amazon RDS Data API now supports returning SQL results as a simplified JSON string](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-data-api-sql-json-string/)
 - [ElastiCache data tiering is now available in 3 additional regions](https://aws.amazon.com/about-aws/whats-new/2022/04/elasticache-data-tiering-available-additional-regions/)
-- [Amazon SageMaker Data Wrangler now supports random sampling and stratified sampling](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-data-wrangler-supports-random-sampling-stratified-sampling/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
