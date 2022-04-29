@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS adds new management features for EC2 key pairs](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-management-features-ec2-key-pairs/)
+- [AWS Audit Manager now allows use of custom rules from AWS Config](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-audit-manager-allows-custom-rules-config/)
 - [Clone AWS Launch Wizard inputs to simplify future SAP deployments](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-launch-wizard-simplify-future-sap-deployments/)
 - [AWS Network Firewall now supports AWS Managed Threat Signatures](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-network-firewall-threat-signatures/)
 - [Amazon Rekognition introduces Streaming Video Events to provide real-time alerts on live video streams](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rekognition-streaming-video-events-real-time-alerts-live-video-streams/)
-- [AWS Service Catalog support for the AWS Cloud Development Kit &lpar;AWS CDK&rpar; is now available](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-service-catalog-support-aws-cloud-development-kit-aws-cdk-available/)
-- [Amazon Polly now offers a new Neural TTS voice in Brazilian Portuguese](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-polly-offers-new-neural-tts-voice-brazilian-portuguese/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
