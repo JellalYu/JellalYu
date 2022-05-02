@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Relational Database Service on AWS Outposts now supports storage autoscaling](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-aws-outposts-storage-autoscaling/)
 - [AWS Snow launches Large Data Migration Manager for planning and managing large data migrations from your premises to AWS](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-large-data-migration-manager/)
 - [Amazon RDS now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-supports-ipv6/)
 - [Amazon Connect now surfaces Voice ID attributes directly on the contact detail page](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-surfaces-voice-id-attributes-on-contact-detail-page/)
 - [Amazon Connect launches API to change an agent’s current status](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-api-agent-current-status/)
-- [Monitor your Amazon RDS usage metrics against AWS service limits](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-monitor-rds-metrics-against-aws-service-limits/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
