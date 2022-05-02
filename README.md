@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CodeGuru Reviewer now supports suppression of files and folders in code reviews](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-codeguru-reviewer-supports-suppression-files-folders-code-reviews/)
 - [Amazon Connect launches an API to programmatically stop queued callbacks](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-launches-api-to-programmatically-stop-queued-callbacks/)
 - [Amazon RDS now supports Internet Protocol version 6 &lpar;IPv6&rpar; in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-ipv6-aws-govcloud-us-regions/)
 - [Amazon EKS now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-eks-available-asia-pacific-jakarta-region/)
 - [Amazon Relational Database Service on AWS Outposts now supports storage autoscaling](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-aws-outposts-storage-autoscaling/)
-- [AWS Snow launches Large Data Migration Manager for planning and managing large data migrations from your premises to AWS](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-large-data-migration-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
