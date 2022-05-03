@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS AppConfig Feature Flag Lambda Extension announces support for Arm/Graviton2 processors](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-appconfig-feature-flag-lambda-extension-arm-graviton2-processors/)
+- [Amazon Managed Blockchain &lpar;AMB&rpar; announces support of Goerli Testnet for Ethereum](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-managed-blockchain-goerli-testnet-ethereum/)
 - [Amazon Quicksight Line chart support for 10,000 data points](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-quicksight-line-chart-support-10000-data-points/)
 - [Amazon CodeGuru Reviewer now supports suppression of files and folders in code reviews](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-codeguru-reviewer-supports-suppression-files-folders-code-reviews/)
 - [Amazon Connect launches an API to programmatically stop queued callbacks](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-launches-api-to-programmatically-stop-queued-callbacks/)
-- [Amazon RDS now supports Internet Protocol version 6 &lpar;IPv6&rpar; in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-ipv6-aws-govcloud-us-regions/)
-- [Amazon EKS now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-eks-available-asia-pacific-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
