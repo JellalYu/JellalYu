@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Device Management Secure Tunneling now supports single-use token and token rotation capabilities, making remote connections more secure](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-iot-device-management-secure-tunneling-single-use-token-rotation-capabilities-remote-connections-secure/)
+- [AWS RoboMaker now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-robomaker-govcloud-us-west/)
 - [Amazon Kinesis Video Streams announces managed support for image extraction](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-kinesis-video-streams-announces-managed-support-image-extraction/)
 - [AWS Serverless Application Model CLI now supports enabling AWS X-Ray tracing](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-serverless-application-model-cli-supports-x-ray-tracing/)
 - [Amazon RDS for PostgreSQL supports cascaded read replicas for up to 30X more read capacity](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-postgresql-cascaded-read-replicas-30x-capacity/)
-- [Amazon EKS console now supports all standard Kubernetes resources to simplify cluster management](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-eks-console-supports-standard-kubernetes-resources-cluster-management/)
-- [Amazon RDS Performance Insights now allows you to more easily see metrics for any time interval](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-performance-insights-see-metrics-any-time-interval/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
