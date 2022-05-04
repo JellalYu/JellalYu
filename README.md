@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Serverless Application Model CLI now supports enabling AWS X-Ray tracing](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-serverless-application-model-cli-supports-x-ray-tracing/)
+- [Amazon RDS for PostgreSQL supports cascaded read replicas for up to 30X more read capacity](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-postgresql-cascaded-read-replicas-30x-capacity/)
 - [Amazon EKS console now supports all standard Kubernetes resources to simplify cluster management](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-eks-console-supports-standard-kubernetes-resources-cluster-management/)
 - [Amazon RDS Performance Insights now allows you to more easily see metrics for any time interval](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-performance-insights-see-metrics-any-time-interval/)
 - [Amazon EBS Snapshots Archive is now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ebs-snapshots-archive/)
-- [AWS AppConfig Feature Flag Lambda Extension announces support for Arm/Graviton2 processors](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-appconfig-feature-flag-lambda-extension-arm-graviton2-processors/)
-- [Amazon Managed Blockchain &lpar;AMB&rpar; announces support of Goerli Testnet for Ethereum](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-managed-blockchain-goerli-testnet-ethereum/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
