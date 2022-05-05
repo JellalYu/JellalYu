@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [The Lenovo ThinkEdge SE70 device, powered by AWS Panorama, is now available for sale](https://aws.amazon.com/about-aws/whats-new/2022/05/lenovo-thinkedge-se70-aws-panorama-available-sale/)
+- [Amazon SageMaker Canvas adds new data preparation capabilities and usability updates](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-sagemaker-canvas-adds-new-data-capabilities-usability-updates/)
+- [The New Amazon ElastiCache console is now available](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-elasticache-console-available/)
 - [Amazon RDS for SQL Server now supports SQL Server 2016 SP3, 2017 CU27, and 2019 CU15](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-sql-server-supports-sql-server-2016-sp3-2017-cu27-2019-cu15/)
 - [AWS Service Catalog Provisioning constructs for the AWS Cloud Development Kit &lpar;AWS CDK&rpar; are now available](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-service-catalog-provisioning-constructs-aws-cloud-development-kit-aws-cdk-available/)
-- [Amazon Braket Hybrid Jobs now supports embedded circuit simulations, improving the performance of certain hybrid quantum-classical algorithms by over 10X](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-braket-hybrid-jobs-embedded-circuit-simulations-quantum-classical-algorithms-10x/)
-- [ACM Private Certification Authority is now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/acm-private-certification-authority-now-available-asia-pacific-jakarta-region/)
-- [AWS Compute Optimizer adds four new Trusted Advisor checks](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-compute-optimizer-adds-trusted-advisor-checks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
