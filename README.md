@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda support for Amazon Elastic File System now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-lambda-support-amazon-elastic-file-system-available-asia-pacific-jakarta-region/)
+- [Amazon Lex now supports custom vocabulary](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-lex-supports-custom-vocabulary/)
 - [Amazon Connect now supports up to six participants on a customer service call](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-six-participants-customer-service-call/)
 - [Amazon Interactive Video Service launches edge locations in Argentina and Chile](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-interactive-video-service-launches-edge-locations-argentina-chile/)
 - [The Lenovo ThinkEdge SE70 device, powered by AWS Panorama, is now available for sale](https://aws.amazon.com/about-aws/whats-new/2022/05/lenovo-thinkedge-se70-aws-panorama-available-sale/)
-- [Amazon SageMaker Canvas adds new data preparation capabilities and usability updates](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-sagemaker-canvas-adds-new-data-capabilities-usability-updates/)
-- [The New Amazon ElastiCache console is now available](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-elasticache-console-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
