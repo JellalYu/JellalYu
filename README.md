@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now supports up to six participants on a customer service call](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-six-participants-customer-service-call/)
+- [Amazon Interactive Video Service launches edge locations in Argentina and Chile](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-interactive-video-service-launches-edge-locations-argentina-chile/)
 - [The Lenovo ThinkEdge SE70 device, powered by AWS Panorama, is now available for sale](https://aws.amazon.com/about-aws/whats-new/2022/05/lenovo-thinkedge-se70-aws-panorama-available-sale/)
 - [Amazon SageMaker Canvas adds new data preparation capabilities and usability updates](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-sagemaker-canvas-adds-new-data-capabilities-usability-updates/)
 - [The New Amazon ElastiCache console is now available](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-elasticache-console-available/)
-- [Amazon RDS for SQL Server now supports SQL Server 2016 SP3, 2017 CU27, and 2019 CU15](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-sql-server-supports-sql-server-2016-sp3-2017-cu27-2019-cu15/)
-- [AWS Service Catalog Provisioning constructs for the AWS Cloud Development Kit &lpar;AWS CDK&rpar; are now available](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-service-catalog-provisioning-constructs-aws-cloud-development-kit-aws-cdk-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
