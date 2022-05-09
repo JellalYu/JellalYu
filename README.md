@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing three new APIs for batch data retrieval in AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2022/05/announcing-new-apis-batch-data-retrieval-aws-iot-sitewise/)
 - [AWS X-Ray is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-x-ray-available-asia-pacific-jakarta-region/)
 - [Amazon Connect now displays metrics within the schedule management user experience](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-displays-metrics-schedule-management-user-experience/)
 - [Amazon SageMaker Data Wrangler now supports additional M5 and R5 instances for interactive data preparation](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-sagemaker-data-wrangler-m5-r5-instances-data-preparation/)
 - [Amazon EC2 X2idn and X2iedn instances are now available in more regions and bare metal sizes](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-x2idn-x2iedn-instances-available-in-additional-regions-metal-sizes/)
-- [Amazon Chime SDK messaging features are now available in the Europe &lpar;Frankfurt&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-chime-sdk-messaging-features-available-europe-frankfurt-aws-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
