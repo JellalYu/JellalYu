@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Monitor your Amazon Managed Service for Prometheus usage with Amazon CloudWatch usage metrics](https://aws.amazon.com/about-aws/whats-new/2022/05/monitor-amazon-managed-service-prometheus-usage-amazon-cloudwatch-usage-metrics/)
 - [Announcing three new APIs for batch data retrieval in AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2022/05/announcing-new-apis-batch-data-retrieval-aws-iot-sitewise/)
 - [AWS X-Ray is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-x-ray-available-asia-pacific-jakarta-region/)
 - [Amazon Connect now displays metrics within the schedule management user experience](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-displays-metrics-schedule-management-user-experience/)
 - [Amazon SageMaker Data Wrangler now supports additional M5 and R5 instances for interactive data preparation](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-sagemaker-data-wrangler-m5-r5-instances-data-preparation/)
-- [Amazon EC2 X2idn and X2iedn instances are now available in more regions and bare metal sizes](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-x2idn-x2iedn-instances-available-in-additional-regions-metal-sizes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
