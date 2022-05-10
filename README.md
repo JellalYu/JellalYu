@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing three featured FreeRTOS Reference Integrations Projects](https://aws.amazon.com/about-aws/whats-new/2022/05/three-featured-freertos-reference-integrations-projects/)
+- [Amazon EFS now supports a larger number of concurrent file locks](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-efs-larger-number-concurrent-file-locks/)
 - [Introducing more flexible AWS Device Qualification Program for FreeRTOS](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-device-qualification-program-freertos/)
 - [AWS announces support for Android, iOS, and MacOS games with AWS GameKit for Unreal Engine](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-announces-support-android-ios-macos-games-aws-gamekit-unreal-engine/)
 - [Amazon EC2 adds CloudWatch Events support for Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-cloudwatch-events-support-amazon-machine-images/)
-- [Announcing new workflow observability features for AWS Step Functions](https://aws.amazon.com/about-aws/whats-new/2022/05/announcing-new-workflow-observability-features-aws-step-functions/)
-- [Monitor your Amazon Managed Service for Prometheus usage with Amazon CloudWatch usage metrics](https://aws.amazon.com/about-aws/whats-new/2022/05/monitor-amazon-managed-service-prometheus-usage-amazon-cloudwatch-usage-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
