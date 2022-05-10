@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amplify Android library &lpar;Developer Preview&rpar;, designed for Kotlin](https://aws.amazon.com/about-aws/whats-new/2022/05/amplify-android-library-developer-preview-kotlin/)
+- [SageMaker Notebook Instances now support the ml.g5 instance family, and Python 3.8 kernels](https://aws.amazon.com/about-aws/whats-new/2022/05/sagemaker-notebook-instances-support-ml-g5-instance-family-python-3-8-kernels/)
 - [Announcing three featured FreeRTOS Reference Integrations Projects](https://aws.amazon.com/about-aws/whats-new/2022/05/three-featured-freertos-reference-integrations-projects/)
 - [Amazon EFS now supports a larger number of concurrent file locks](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-efs-larger-number-concurrent-file-locks/)
 - [Introducing more flexible AWS Device Qualification Program for FreeRTOS](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-device-qualification-program-freertos/)
-- [AWS announces support for Android, iOS, and MacOS games with AWS GameKit for Unreal Engine](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-announces-support-android-ios-macos-games-aws-gamekit-unreal-engine/)
-- [Amazon EC2 adds CloudWatch Events support for Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-cloudwatch-events-support-amazon-machine-images/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
