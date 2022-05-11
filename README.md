@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the general availability of NitroTPM and UEFI Secure Boot on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-nitrotpm-uefi-secure-boot/)
 - [AWS Secrets Manager now publishes secrets usage metrics to Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-secrets-manager-publishes-usage-metrics-to-amazon-cloudwatch/)
 - [Amazon Athena now supports views in Apache Hive metastores](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-athena-now-supports-views-apache-hive-metastores/)
 - [Announcing Amplify Android library &lpar;Developer Preview&rpar;, designed for Kotlin](https://aws.amazon.com/about-aws/whats-new/2022/05/amplify-android-library-developer-preview-kotlin/)
 - [SageMaker Notebook Instances now support the ml.g5 instance family, and Python 3.8 kernels](https://aws.amazon.com/about-aws/whats-new/2022/05/sagemaker-notebook-instances-support-ml-g5-instance-family-python-3-8-kernels/)
-- [Announcing three featured FreeRTOS Reference Integrations Projects](https://aws.amazon.com/about-aws/whats-new/2022/05/three-featured-freertos-reference-integrations-projects/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
