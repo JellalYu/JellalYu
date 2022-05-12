@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon VPC Traffic Mirroring now supports sending mirrored traffic to Gateway Load Balancer backed monitoring appliances](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-vps-traffic-mirroring-supports-sending-mirrored-traffic-gateway-load-balancer-backed-monitoring-appliances/)
+- [AWS Lambda adds support for Node.js 16](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-lambda-adds-support-node-js-16/)
 - [Administer AWS Single Sign-On from a delegated member account in your organization](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-sign-on-administer-delegated-member-account-in-organization/)
 - [AWS Backup Audit Manager adds compliance management for data protection of hybrid VMware workloads](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-backup-audit-manager-compliance-management-data-protection-hybrid-vmware-workloads/)
 - [Amazon EC2 R5b instances are now available in South America &lpar;Sao Paulo&rpar;, Canada &lpar;Central&rpar;, and Asia Pacific &lpar;Sydney&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-r5b-instances-additional-regions/)
-- [AWS PrivateLink announces support for IPv6](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-privatelink-ipv6/)
-- [Amazon FSx for NetApp ONTAP is now certified for SAP HANA workloads](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-fsx-netapp-ontap-certified-sap-hana-workloads/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
