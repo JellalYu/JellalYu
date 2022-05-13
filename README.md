@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 X2idn and X2iedn instances now available in 8 additional regions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-x2idn-x2iedn-instances-available-in-8-additional-regions/)
 - [Amazon EKS Anywhere curated packages are now in public preview](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-eks-anywhere-curated-packages-preview/)
 - [Amazon VPC now supports multiple IPv6 CIDR blocks](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-vpc-multiple-ipv6-cidr-blocks/)
 - [Amazon CloudWatch Synthetics adds support for canary resources deletion when a canary is deleted](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-cloudwatch-synthetics-support-canary-resources-deletion/)
 - [Amazon VPC Traffic Mirroring now supports sending mirrored traffic to Gateway Load Balancer backed monitoring appliances](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-vps-traffic-mirroring-supports-sending-mirrored-traffic-gateway-load-balancer-backed-monitoring-appliances/)
-- [AWS Lambda adds support for Node.js 16](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-lambda-adds-support-node-js-16/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
