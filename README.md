@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 I4i metal instances are now available](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-i4i-metal-instances-now-available/)
 - [Amazon Neptune is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-neptune-fedramp-compliant/)
 - [AWS Control Tower can now use customer provided core accounts](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-control-tower-now-use-customer-provided-core-accounts/)
 - [AWS Glue now supports SASL authentication for Apache Kafka](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-glue-supports-sasl-authentication-apache-kafka/)
 - [AWS Distribution of Kubeflow supporting Kubeflow v1.4.1 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-distribution-kubeflow-supporting-kubeflow-v1-4-1-generally-available/)
-- [Amazon Lex launches support for phrase hints](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-lex-supports-phrase-hints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
