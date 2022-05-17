@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Encryption SDK for .NET now generally available](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-encryption-sdk-net-available/)
+- [Amazon EC2 Auto Scaling now supports Predictive Scaling in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-auto-scaling-predictive-feature-aws-govcloud-us-west-region/)
+- [Amazon Redshift launches new Snapshot Isolation level support for concurrent transactions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-redshift-snapshot-isolation-level-support-concurrent-transactions/)
 - [Amazon CloudWatch announces improved console experience](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-cloudwatch-announces-improved-console-experience/)
 - [Amazon EC2 I4i metal instances are now available](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-i4i-metal-instances-now-available/)
-- [Amazon Neptune is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-neptune-fedramp-compliant/)
-- [AWS Control Tower can now use customer provided core accounts](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-control-tower-now-use-customer-provided-core-accounts/)
-- [AWS Glue now supports SASL authentication for Apache Kafka](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-glue-supports-sasl-authentication-apache-kafka/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
