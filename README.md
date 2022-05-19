@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing general availability of 1-click public embedding available with Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2022/05/announcing-general-availability-click-embedding-available-amazon-quicksight/)
 - [AWS Backup adds support for Amazon FSx for OpenZFS](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-backup-amazon-fsx-openzfs/)
 - [AWS Backup adds Amazon FSx for NetApp ONTAP to its set of services for centralized data protection](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-backup-amazon-fsx-netapp-ontap-set-services-centralized-data-protection/)
 - [AWS App Mesh now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-app-mesh-supports-ipv6/)
 - [Amazon Redshift now supports linear learner algorithm with Redshift ML](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-redshift-supports-linear-learner-algorithm-redshift-ml/)
-- [AWS Resilience Hub adds support for Terraform, Amazon ECS, and additional services](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-resilience-hub-adds-terraform-amazon-ecs-additional-services/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
