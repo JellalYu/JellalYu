@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Comprehend detects and redacts 14 new PII entity types across the U.S., U.K., Canada, and India](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-comprehend-detects-redacts-pll-entity-types-across-us-uk-canada-india/)
 - [Amazon CloudFront now provides TLS version and cipher suite in CloudFront-Viewer-TLS-header](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-cloudfront-tls-version-cipher-suite-viewer-header/)
 - [AWS Control Tower now supports concurrent operations for preventive guardrails](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-control-tower-supports-concurrent-operations-preventive-guardrails/)
 - [Amazon Kendra releases Jira connector to enable document search on JIRA repository](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-kendra-jira-enable-document-repository/)
 - [Amazon EC2 Auto Scaling now backfills Predictive Scaling forecasts so you can quickly validate forecast accuracy](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-auto-scaling-backfill-predictive-scaling-forecasts-accuracy-validate/)
-- [Incident Manager from AWS Systems Manager expands support for runbook automation](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-systems-manager-incident-manager-runbook-automation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
