@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing new Amazon EC2 C7g instances powered by AWS Graviton3 processors](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-c7g-instances-powered-aws-graviton3-processors/)
 - [Amazon Kinesis Data Analytics is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-kinesis-data-analytics-fedramp-compliant/)
-- [Amazon Comprehend detects and redacts 14 new PII entity types across the U.S., U.K., Canada, and India](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-comprehend-detects-redacts-pll-entity-types-across-us-uk-canada-india/)
 - [Amazon CloudFront now provides TLS version and cipher suite in CloudFront-Viewer-TLS-header](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-cloudfront-tls-version-cipher-suite-viewer-header/)
+- [Amazon Comprehend detects and redacts 14 new PII entity types across the U.S., U.K., Canada, and India](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-comprehend-detects-redacts-pll-entity-types-across-us-uk-canada-india/)
 - [AWS Control Tower now supports concurrent operations for preventive guardrails](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-control-tower-supports-concurrent-operations-preventive-guardrails/)
-- [Amazon Kendra releases Jira connector to enable document search on JIRA repository](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-kendra-jira-enable-document-repository/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
