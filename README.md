@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Personalize now supports offline model metrics for recommenders](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-personalize-supports-offline-model-metrics-recommenders/)
 - [Offer acceptance email notifications is now available on AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-marketplace-offer-acceptance-email-notifications/)
 - [Announcing new Amazon EC2 C7g instances powered by AWS Graviton3 processors](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-c7g-instances-powered-aws-graviton3-processors/)
 - [Amazon Kinesis Data Analytics is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-kinesis-data-analytics-fedramp-compliant/)
 - [Amazon CloudFront now provides TLS version and cipher suite in CloudFront-Viewer-TLS-header](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-cloudfront-tls-version-cipher-suite-viewer-header/)
-- [Amazon Comprehend detects and redacts 14 new PII entity types across the U.S., U.K., Canada, and India](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-comprehend-detects-redacts-pll-entity-types-across-us-uk-canada-india/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
