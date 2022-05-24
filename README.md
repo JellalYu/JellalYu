@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Single Sign-On is now available in the AWS Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-sign-on-asia-pacific-osaka-region/)
 - [Announcing Multi-Account Support for AWS Transit Gateway Network Manager](https://aws.amazon.com/about-aws/whats-new/2022/05/multi-account-support-aws-transit-gateway-network-manager/)
 - [AWS AppSync introduces new simplified console experience to deploy generic real-time Pub/Sub APIs](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-appsync-simplified-console-real-time-pub-sub-apis/)
 - [Two new storage locations available for AWS DataSync](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-data-sync-two-new-storage-locations/)
 - [Amazon Personalize now supports offline model metrics for recommenders](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-personalize-supports-offline-model-metrics-recommenders/)
-- [Offer acceptance email notifications is now available on AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-marketplace-offer-acceptance-email-notifications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
