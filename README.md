@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Customer Profiles launches in Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-customer-profiles-africa-cape-town/)
+- [AWS Backup Audit Manager adds support for Amazon S3 and AWS Storage Gateway](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-backup-audit-manager-adds-amazon-s3-storage-gateway/)
 - [AWS Config supports Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-config-supports-amazon-cloudwatch-metrics/)
 - [Amazon EC2 Hpc6a instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-hpc6a-instances-available-additional-regions/)
 - [Announcing new AWS Wavelength Zones in Nashville and Tampa](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-wavelength-zone-nashville-tampa/)
-- [Announcing new AWS Wavelength Zone in Seoul](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-wavelength-zone-seoul/)
-- [AWS IoT Device Management increases Active Jobs Limit to 100k per AWS account per region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-iot-device-management-increases-jobs-limit-100k-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
