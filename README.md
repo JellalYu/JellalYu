@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing JSON support for Amazon ElastiCache for Redis and Amazon MemoryDB for Redis](https://aws.amazon.com/about-aws/whats-new/2022/05/json-support-amazon-elasticache-redis-amazon-memorydb-redis/)
+- [Amazon FSx for Lustre now supports root squash](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-fsx-lustre-supports-root-squash/)
 - [Amazon Connect Customer Profiles launches in Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-customer-profiles-africa-cape-town/)
 - [AWS Backup Audit Manager adds support for Amazon S3 and AWS Storage Gateway](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-backup-audit-manager-adds-amazon-s3-storage-gateway/)
 - [AWS Config supports Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-config-supports-amazon-cloudwatch-metrics/)
-- [Amazon EC2 Hpc6a instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-hpc6a-instances-available-additional-regions/)
-- [Announcing new AWS Wavelength Zones in Nashville and Tampa](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-wavelength-zone-nashville-tampa/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
