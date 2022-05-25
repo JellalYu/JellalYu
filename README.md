@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Config supports Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-config-supports-amazon-cloudwatch-metrics/)
 - [Amazon EC2 Hpc6a instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-hpc6a-instances-available-additional-regions/)
 - [Announcing new AWS Wavelength Zones in Nashville and Tampa](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-wavelength-zone-nashville-tampa/)
 - [Announcing new AWS Wavelength Zone in Seoul](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-wavelength-zone-seoul/)
 - [AWS IoT Device Management increases Active Jobs Limit to 100k per AWS account per region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-iot-device-management-increases-jobs-limit-100k-region/)
-- [Amazon EC2 enables customers to protect instances from unintentional stop actions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-enables-protect-instances-unintentional-stop-actions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
