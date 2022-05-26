@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ElastiCache for Memcached now supports encryption of data in transit](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-elasticache-memcached-supports-encryption-data-transit/)
+- [Amazon ElastiCache now supports Memcached 1.6.12](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-elasticache-supports-memcached-1-6-12/)
 - [Announcing preview of Amazon EC2 P4de GPU instances for ML training and HPC](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-p4de-gpu-instances-ml-training-hpc/)
 - [Announcing JSON support for Amazon ElastiCache for Redis and Amazon MemoryDB for Redis](https://aws.amazon.com/about-aws/whats-new/2022/05/json-support-amazon-elasticache-redis-amazon-memorydb-redis/)
 - [Amazon FSx for Lustre now supports root squash](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-fsx-lustre-supports-root-squash/)
-- [Amazon Connect Customer Profiles launches in Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-customer-profiles-africa-cape-town/)
-- [AWS Backup Audit Manager adds support for Amazon S3 and AWS Storage Gateway](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-backup-audit-manager-adds-amazon-s3-storage-gateway/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
