@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Genomics CLI v1.5.0 adds support for the Common Workflow Language &lpar;CWL&rpar; with Toil](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-genomics-cli-workflow-language-cwl-toil/)
+- [Amazon ECS simplifies Capacity Provider integration with Auto Scaling groups](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ecs-capacity-provider-integration-auto-scaling-groups/)
 - [The AWS Panorama Appliance is now available for purchase in India and Taiwan](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-panorama-appliance-available-purchase-india-taiwan/)
 - [AWS Systems Manager announces support for port forwarding to remote hosts using Session Manager](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-systems-manager-support-port-forwarding-remote-hosts-using-session-manager/)
 - [AWS Launch Wizard now supports SQL Server deployments using Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-launch-wizard-sql-server-deployments-fsx-netapp-ontap/)
-- [Introducing Amazon EC2 M6id instances](https://aws.amazon.com/about-aws/whats-new/2022/05/introducing-amazon-ec2-m6id-instances/)
-- [Introducing Amazon EC2 C6id instances](https://aws.amazon.com/about-aws/whats-new/2022/05/introducing-amazon-ec2-c6id-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
