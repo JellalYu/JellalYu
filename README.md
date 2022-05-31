@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS DataSync adds support for Amazon EFS security features](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-datasync-support-amazon-efs-security-features/)
+- [AWS Marketplace introduces free trials for SaaS contracts](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-marketplace-free-trials-saas-contracts/)
 - [AWS IAM now supports WebAuthn and Safari browser for multi-factor authentication with security keys](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-iam-supports-webauthn-safari-browser-multi-factor-authentication-security-keys/)
 - [AWS AppSync simplifies GraphQL API development with expanded GraphQL Utility Helper Library](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-appsync-simplifies-graphql-api-development-graphql-utility-helper-library/)
 - [AWS Resource Access Manager achieves ISO and SOC compliance](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-resource-access-manager-iso-soc-compliance/)
-- [Amazon Connect now allows you to get started with high-volume outbound communications &lpar;public preview&rpar; with just a few clicks](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-allows-high-volume-outbound-communications-public-preview-clicks/)
-- [Single account enrollment and update is now available in AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-single-account-enrollment-update-available-control-tower/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
