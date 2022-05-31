@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS AppSync simplifies GraphQL API development with expanded GraphQL Utility Helper Library](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-appsync-simplifies-graphql-api-development-graphql-utility-helper-library/)
 - [AWS Resource Access Manager achieves ISO and SOC compliance](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-resource-access-manager-iso-soc-compliance/)
 - [Amazon Connect now allows you to get started with high-volume outbound communications &lpar;public preview&rpar; with just a few clicks](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-allows-high-volume-outbound-communications-public-preview-clicks/)
 - [Single account enrollment and update is now available in AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-single-account-enrollment-update-available-control-tower/)
 - [AWS announces support for Dart Signature V4 for interacting with AWS services](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-support-dart-signature-v4-interacting-services/)
-- [Amazon Connect high-volume outbound communications capabilities are now available in public preview in the Asia Pacific &lpar;Sydney&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-high-volume-outbound-communications-preview-sydney/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
