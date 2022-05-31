@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Timestream achieves FedRAMP Moderate compliance](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-timestream-achieves-fedramp-moderate-compliance/)
 - [Announcing Athena connector for Amazon Lookout for Metrics](https://aws.amazon.com/about-aws/whats-new/2022/05/athena-connector-amazon-lookout-metrics/)
 - [Amazon Cognito improves risk evaluation for Advanced Security Features](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-cognito-risk-evaluation-advanced-security-features/)
 - [Access the AWS re:Post community from the AWS Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-community-well-architected-tool/)
 - [AWS WAF and AWS Shield Advanced are now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-waf-aws-shield-advanced-available-asia-pacific-jakarta-region/)
-- [AWS DataSync adds support for Amazon EFS security features](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-datasync-support-amazon-efs-security-features/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
