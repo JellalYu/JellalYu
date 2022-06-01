@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Route 53 announces IP-Based Routing for DNS Queries](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-route-53-ip-based-routing-dns-queries/)
+- [Amazon Pinpoint launches journey custom channel input and response support](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-pinpoint-journey-custom-channel-input-response-support/)
+- [Amazon RDS adds support for publishing events to encrypted Amazon SNS topics](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-support-publishing-events-encrypted-amazon-sns-topics/)
 - [AWS Step Functions launches an interactive workshop for building and deploying application workflows](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-step-functions-interactive-workshop-building-deploying-application-workflows/)
 - [Amazon EMR Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-emr-serverless-generally-available/)
-- [Amazon S3 on Outposts now supports AWS PrivateLink for management of buckets and access points](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-s3-outposts-aws-privatelink-buckets-access-points/)
-- [Announcing Geofence Management in Amplify Geo &lpar;JavaScript&rpar;, powered by Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/06/geofence-management-amplify-geo-javascript-amazon-location-service/)
-- [Amazon Transcribe now supports automatic language identification for multi-lingual audio](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-transcribe-supports-automatic-language-identification-multi-lingual-audio/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
