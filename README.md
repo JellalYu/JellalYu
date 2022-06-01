@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Proton introduces service components](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-proton-introduces-service-components/)
 - [Amazon Route 53 announces IP-Based Routing for DNS Queries](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-route-53-ip-based-routing-dns-queries/)
 - [Amazon Pinpoint launches journey custom channel input and response support](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-pinpoint-journey-custom-channel-input-response-support/)
 - [Amazon RDS adds support for publishing events to encrypted Amazon SNS topics](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-support-publishing-events-encrypted-amazon-sns-topics/)
 - [AWS Step Functions launches an interactive workshop for building and deploying application workflows](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-step-functions-interactive-workshop-building-deploying-application-workflows/)
-- [Amazon EMR Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-emr-serverless-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
