@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Step Functions launches an interactive workshop for building and deploying application workflows](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-step-functions-interactive-workshop-building-deploying-application-workflows/)
 - [Amazon EMR Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-emr-serverless-generally-available/)
 - [Amazon S3 on Outposts now supports AWS PrivateLink for management of buckets and access points](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-s3-outposts-aws-privatelink-buckets-access-points/)
 - [Announcing Geofence Management in Amplify Geo &lpar;JavaScript&rpar;, powered by Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/06/geofence-management-amplify-geo-javascript-amazon-location-service/)
 - [Amazon Transcribe now supports automatic language identification for multi-lingual audio](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-transcribe-supports-automatic-language-identification-multi-lingual-audio/)
-- [Announcing Metered Billing for AWS Data Exchange for APIs](https://aws.amazon.com/about-aws/whats-new/2022/06/metered-billing-aws-data-exchange-apis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
