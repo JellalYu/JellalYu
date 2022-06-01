@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Metered Billing for AWS Data Exchange for APIs](https://aws.amazon.com/about-aws/whats-new/2022/06/metered-billing-aws-data-exchange-apis/)
+- [AWS Storage Gateway Hardware Appliance now available for purchase through resellers](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-storage-gateway-hardware-appliance-purchase-resellers/)
+- [Price reductions on Amazon EC2  instances running SUSE Linux Enterprise Server &lpar;SLES&rpar; OS](https://aws.amazon.com/about-aws/whats-new/2022/06/price-reductions-amazon-ec2-instances-suse-linux-enterprise-server-sles-os/)
 - [Amazon SageMaker supports incremental training for JumpStart models](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-incremental-training-jumpstart-models/)
 - [Amazon EC2 Dedicated Hosts are now available on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-dedicated-hosts-available-aws-outposts/)
-- [AWS Elastic Disaster Recovery now supports multiple staging and target accounts](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-elastic-disaster-recovery-multiple-staging-target-accounts/)
-- [Amazon EBS now supports Elastic Volumes and Fast Snapshot Restore &lpar;FSR&rpar; for io2 Block Express](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ebs-elastic-volumes-snapshot-restore-fsr-io2-block-express/)
-- [Amazon Timestream achieves FedRAMP Moderate compliance](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-timestream-achieves-fedramp-moderate-compliance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
