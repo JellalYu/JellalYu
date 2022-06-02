@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [SageMaker JumpStart now supports automatic tuning](https://aws.amazon.com/about-aws/whats-new/2022/06/sagemaker-jumpstart-supports-automatic-tuning/)
 - [Amazon Braket adds support for Borealis, the first publicly accessible quantum computer that is claimed to offer quantum advantage](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-braket-adds-support-borealis/)
 - [NoSQL Workbench for Amazon DynamoDB adds support for CreateTable, UpdateTable, and DeleteTable operations](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-nosql-workbench-dynamodb-createtable-updatetable-deletetable-operations/)
 - [You can now update the storage and IOPS capacity on your Amazon FSx for OpenZFS file systems](https://aws.amazon.com/about-aws/whats-new/2022/06/update-storage-iops-capacity-amazon-fsx-for-openzfs-file-systems/)
 - [Amazon CloudWatch adds Elemental MediaTailor to Vended Logs pricing](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-cloudwatch-elemental-mediatailor-vended-logs-pricing/)
-- [AWS Proton introduces service components](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-proton-introduces-service-components/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
