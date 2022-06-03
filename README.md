@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Streaming for Apache Kafka is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-managed-streaming-apache-kafka-fedramp-compliant/)
+- [Shared account customization now available for AWS Control Tower Account Factory for Terraform](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-control-tower-factory-terraform-shared-account-customization/)
 - [Amazon Connect now supports custom templates for agent tasks](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-custom-templates-agent-tasks/)
 - [Amazon Connect launches an API to programmatically transfer tasks](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-api-programmatically-transfer-tasks/)
 - [Announcing AWS PrivateLink support for AWS Panorama](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-privatelink-support-aws-panorama/)
-- [Amazon Chime SDK now supports centralized attendee controls](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-chime-sdk-supports-centralized-attendee-controls/)
-- [Amazon Kendra releases GitHub OnPrem connectors](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-kendra-github-onprem-connectors/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
