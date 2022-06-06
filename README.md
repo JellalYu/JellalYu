@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Studio and SageMaker Notebook Instance now come with JupyterLab 3 notebooks](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-studio-sagemaker-notebook-instance-jupyterlab-3-notebooks/)
+- [Amazon Personalize adds support for unstructured text in six new languages](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-personalize-support-unstructured-text-six-new-languages/)
 - [Amazon AppStream 2.0 adds larger instance sizes to the General Purpose instance family](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-appstream-2-0-larger-instance-sizes-general-purpose-instance-family/)
 - [AWS DeepRacer introduces quota management](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-deepracer-quota-management/)
 - [Amazon RDS for MySQL supports new minor versions 5.7.38 and 8.0.29](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-mysql-supports-minor-versions/)
-- [AWS Backup adds AWS PrivateLink support for VMware workloads](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-backup-adds-privatelink-vmware-workloads/)
-- [Amazon EKS now supports DNS resolution of the cluster private endpoint in AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-eks-supports-dns-resolution-cluster-private-endpoint-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
