@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub now receives AWS Config managed and custom rule evaluation results](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-security-hub-config-managed-custom-rule-evaluation-results/)
+- [New Amplify Flutter supports customizable authentication flows](https://aws.amazon.com/about-aws/whats-new/2022/06/amplify-flutter-supports-customizable-authentication-flows/)
 - [Amazon Chime SDK announces messaging conversation APIs](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-chime-sdk-messaging-conversation-apis/)
 - [Amazon SageMaker Studio and SageMaker Notebook Instance now come with JupyterLab 3 notebooks](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-studio-sagemaker-notebook-instance-jupyterlab-3-notebooks/)
 - [Amazon Personalize adds support for unstructured text in six new languages](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-personalize-support-unstructured-text-six-new-languages/)
-- [Amazon AppStream 2.0 adds larger instance sizes to the General Purpose instance family](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-appstream-2-0-larger-instance-sizes-general-purpose-instance-family/)
-- [AWS DeepRacer introduces quota management](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-deepracer-quota-management/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
