@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Migration Service now supports automated application modernizations](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-application-migration-service-automated-application-modernizations/)
 - [Amazon Connect forecasting, capacity planning, and scheduling, now available in the Europe &lpar;London&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-forecasting-capacity-planning-scheduling-available-europe-london-aws-region/)
 - [Amazon Neptune simplifies graph analytics and machine learning workflows with Python integration](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-neptune-simplifies-graph-analytics-machine-learning-workflows-python-integration/)
 - [Amazon GuardDuty EKS Protection now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-guardduty-eks-protection-jakarta-region/)
 - [AWS IoT Device Management announces an 80% price reduction for Secure Tunneling](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-iot-device-management-price-reduction-secure-tunneling/)
-- [AWS Security Hub is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-security-hub-available-asia-pacific-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
