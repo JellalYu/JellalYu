@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS Cost Allocation Tag API](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-cost-allocation-tag-api/)
 - [AWS Mainframe Modernization is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-mainframe-modernization-generally-available/)
 - [AWS Application Migration Service now supports automated application modernizations](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-application-migration-service-automated-application-modernizations/)
 - [Amazon Connect forecasting, capacity planning, and scheduling, now available in the Europe &lpar;London&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-forecasting-capacity-planning-scheduling-available-europe-london-aws-region/)
 - [Amazon DynamoDB Standard-Infrequent Access table class is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-dynamodb-standard-infrequent-access-table-class-aws-asia-pacific-jakarta-region/)
-- [Amazon Neptune simplifies graph analytics and machine learning workflows with Python integration](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-neptune-simplifies-graph-analytics-machine-learning-workflows-python-integration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
