@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Data Wrangler now enables model training with Amazon SageMaker Autopilot](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-data-wrangler-enables-model-training-autopilot/)
+- [AWS Service Catalog is now available in &lpar;Jakarta&rpar; Indonesia](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-service-catalog-now-available-jakarta-indonesia/)
+- [Amazon Chime SDK now supports live transcription in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-chime-sdk-supports-live-transcription-aws-govcloud-us/)
 - [AWS Health Dashboard streamlines service transparency via Connector for ServiceNow](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-health-dashboard-service-transparency-connector-servicenow/)
 - [AWS Systems Manager Change Manager integration now displays AWS CloudTrail events associated with ServiceNow change requests.](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-systems-manager-change-manager-integration-displays-cloudtrail-servicenow-requests/)
-- [Incident Manager from AWS Systems Manager now streamlines responses to ServiceNow Incidents](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-systems-manager-incident-manager-streamlines-responses-servicenow-incidents/)
-- [Introducing Amazon R6id instances](https://aws.amazon.com/about-aws/whats-new/2022/06/introducing-amazon-r6id-instances/)
-- [Amazon Transcribe real-time streaming is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-transcribe-real-time-streaming-aws-govcloud-us/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
