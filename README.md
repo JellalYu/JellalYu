@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server now supports SQL Server 2014 SP3 CU4 SU](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-sql-server-supports-2014-sp3-cu4-su/)
+- [Split data into train and test sets in a few clicks with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/06/split-data-train-test-sets-amazon-sagemaker-data-wrangler/)
 - [Export features into Amazon SageMaker Feature Store faster than ever with export functionality now available in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/06/export-features-amazon-sagemaker-functionality-data-wrangler/)
 - [Amazon EC2 R5n instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-r5n-instances-additional-regions/)
 - [Announcing AWS Cost Allocation Tag API](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-cost-allocation-tag-api/)
-- [AWS Mainframe Modernization is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-mainframe-modernization-generally-available/)
-- [AWS Application Migration Service now supports automated application modernizations](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-application-migration-service-automated-application-modernizations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
