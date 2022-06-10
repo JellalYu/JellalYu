@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect forecasting, capacity planning, and scheduling, now available in the Asia Pacific &lpar;Sydney&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-forecasting-capacity-planning-scheduling-sydney/)
+- [Amazon SageMaker Experiments now supports common chart types to visualize model training results](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-supports-chart-model-training-results/)
 - [Amazon AppFlow now supports Salesforce Marketing Cloud as a source](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-appflow-supports-salesforce-marketing-cloud-source/)
 - [Amazon SageMaker Data Wrangler now enables model training with Amazon SageMaker Autopilot](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-data-wrangler-enables-model-training-autopilot/)
 - [AWS Service Catalog is now available in &lpar;Jakarta&rpar; Indonesia](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-service-catalog-now-available-jakarta-indonesia/)
-- [Amazon Chime SDK now supports live transcription in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-chime-sdk-supports-live-transcription-aws-govcloud-us/)
-- [AWS Health Dashboard streamlines service transparency via Connector for ServiceNow](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-health-dashboard-service-transparency-connector-servicenow/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
