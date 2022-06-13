@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Service Catalog announces support for Attribute Based Access Control &lpar;ABAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-service-catalog-support-abac/)
 - [Amazon Aurora supports PostgreSQL 13.7, 12.11, 11.16, and 10.21 versions, and updated extensions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-supports-postgresql-versions-extensions/)
 - [Amazon Aurora PostgreSQL supports LO module](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-postgresql-supports-lo-module/)
 - [Amazon SageMaker Canvas accelerates onboarding with new interactive product tours and sample datasets](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-canvas-interactive-product-sample-datasets/)
 - [Amazon Aurora PostgreSQL-compatible edition now supports zero-downtime patching](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-postgresql-compatible-edition-supports-zero-downtime-patching/)
-- [Amazon Connect forecasting, capacity planning, and scheduling, now available in the Asia Pacific &lpar;Sydney&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-forecasting-capacity-planning-scheduling-sydney/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
