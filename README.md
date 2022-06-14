@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 VT1 now supports the AMD-Xilinx Video SDK 2.0 that enables GStreamer and 10-bit video transcoding](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-vt1-supports-amd-xilinx-video-sdk-gstreamer-video-transcoding/)
+- [Amazon EC2 C6gn instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-c6gn-instances-available-additional-regions/)
 - [Amazon Keyspaces now helps you monitor table storage costs through Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-keyspaces-monitor-table-storage-costs-amazon-cloudwatch/)
 - [Amazon Quicksight now provides drag controller for rows and columns for table and pivot table](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-drag-controller-rows-columns-pivot-table/)
 - [AWS Transfer Family expands server configuration options to support a broader set of clients](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-transfer-family-expands-server-configuration-options-set-clients/)
-- [Announcing support for cross-region search in Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2022/06/support-cross-region-search-amazon-opensearch-service/)
-- [Amazon RDS for SQL Server Now Supports TDE enabled SQL Server Database Migration](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-sql-server-supports-tde-enabled-sql-server-database-migration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
