@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing support for cross-region search in Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2022/06/support-cross-region-search-amazon-opensearch-service/)
 - [Amazon RDS for SQL Server Now Supports TDE enabled SQL Server Database Migration](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-sql-server-supports-tde-enabled-sql-server-database-migration/)
 - [AWS Service Catalog announces support for Attribute Based Access Control &lpar;ABAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-service-catalog-support-abac/)
 - [Amazon Aurora supports PostgreSQL 13.7, 12.11, 11.16, and 10.21 versions, and updated extensions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-supports-postgresql-versions-extensions/)
 - [Amazon Aurora PostgreSQL supports LO module](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-postgresql-supports-lo-module/)
-- [Amazon SageMaker Canvas accelerates onboarding with new interactive product tours and sample datasets](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-canvas-interactive-product-sample-datasets/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
