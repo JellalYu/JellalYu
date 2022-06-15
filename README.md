@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DynamoDB Standard Infrequent Access table class is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-dynamodb-standard-infrequent-access-table-class-govcloud-us/)
 - [Announcing Bottlerocket ECS variant for NVIDIA GPUs](https://aws.amazon.com/about-aws/whats-new/2022/06/bottlerocket-ecs-variant-nvidia-gpus/)
 - [AWS Elastic Disaster Recovery is now available in 12 additional Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-elastic-disaster-recovery-12-additional-regions/)
 - [Easily customize your notifications while using Amazon Lookout for Metrics](https://aws.amazon.com/about-aws/whats-new/2022/06/customize-notifications-using-amazon-lookout-metrics/)
 - [AWS Recycle Bin for EBS Snapshots and EBS-backed AMIs now supports IAM condition keys to manage retention rules](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-recycle-bin-ebs-snapshots-ebs-backed-amis-iam-condition-keys-retention-rules/)
-- [Amazon EC2 VT1 now supports the AMD-Xilinx Video SDK 2.0 that enables GStreamer and 10-bit video transcoding](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-vt1-supports-amd-xilinx-video-sdk-gstreamer-video-transcoding/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
