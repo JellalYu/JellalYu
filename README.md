@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Canvas announces support for VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-canvas-vpc-endpoints/)
 - [AWS Config now supports 15 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-config-15-new-resource-types/)
 - [AWS Service Catalog&#39;s Application Registry now supports cross-account applications.](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-service-catalogs-application-registry-cross-account-applications/)
 - [Use PySpark and Altair code snippets to prepare and visualize data faster than ever in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-data-wrangler-pyspark-altair-code-snippets-data-faster/)
 - [UI Improvements in AWS Budgets](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-budgets-ui-improvements/)
-- [Amazon Quicksight now supports show/hide fields on pivot table](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-supports-show-hide-fields-pivot-table/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
