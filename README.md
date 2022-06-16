@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C6i instances are now available in an additional region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-c6i-instances-available-additional-region/)
 - [Enable Amazon DevOps Guru for RDS from within the Amazon RDS Console](https://aws.amazon.com/about-aws/whats-new/2022/06/enable-amazon-devops-guru-rds-within-amazon-rds-console/)
 - [Amazon OpenSearch Service now supports tag-based authorization for data read and write operations](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-opensearch-service-tag-based-authorization/)
 - [Amazon Connect launches 15 minute scheduled reports](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-launches-15-minute-scheduled-reports/)
 - [AWS Single Sign-On is now available in the Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-single-sign-on-available-europe-milan/)
-- [Amazon Connect launches API to retrieve agents’ current activity](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-launches-api-retrieve-agents-current-activity/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
