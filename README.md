@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WAF Captcha is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-waf-captcha-generally-available/)
+- [Amazon ECR now supports AWS PrivateLink in AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ecr-aws-privatelink-osaka-region/)
 - [AWS WAF adds support for inspecting multiple request headers](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-waf-support-inspecting-multiple-request-headers/)
 - [Amazon Lex Automated Chatbot Designer is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-lex-automated-chatbox-designer-available/)
 - [AWS Managed Microsoft AD enables flexible control over directory settings](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-managed-microsoft-ad-flexible-control-directory-settings/)
-- [Amazon Connect Cases, now available in preview](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-cases-preview/)
-- [Amazon Connect offers general availability of outbound campaigns for calls, texts, and emails](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-general-availability-outbound-campaigns-calls-texts-emails/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
