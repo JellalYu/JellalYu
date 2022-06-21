@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Open Data on AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2022/06/announcing-open-data-aws-data-exchange/)
 - [AWS App2Container now supports Azure DevOps for setting up a CI/CD pipeline](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-app2container-azure-devops-ci-cd-pipeline/)
 - [AWS Well-Architected Tool adds multiple enhancements to custom lenses](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-well-architected-tool-adds-enhancements-custom-lenses/)
 - [Amazon QuickSight launches custom subtotals at all levels and ability to show/ hide column for pivot table](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-custom-subtotals-levels-show-hide-pivot-table/)
 - [AWS WAF Captcha is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-waf-captcha-generally-available/)
-- [Amazon ECR now supports AWS PrivateLink in AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ecr-aws-privatelink-osaka-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
