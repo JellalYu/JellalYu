@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Well-Architected Tool adds multiple enhancements to custom lenses](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-well-architected-tool-adds-enhancements-custom-lenses/)
+- [Amazon QuickSight launches custom subtotals at all levels and ability to show/ hide column for pivot table](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-custom-subtotals-levels-show-hide-pivot-table/)
 - [AWS WAF Captcha is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-waf-captcha-generally-available/)
 - [Amazon ECR now supports AWS PrivateLink in AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ecr-aws-privatelink-osaka-region/)
 - [AWS WAF adds support for inspecting multiple request headers](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-waf-support-inspecting-multiple-request-headers/)
-- [Amazon Lex Automated Chatbot Designer is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-lex-automated-chatbox-designer-available/)
-- [AWS Managed Microsoft AD enables flexible control over directory settings](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-managed-microsoft-ad-flexible-control-directory-settings/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
