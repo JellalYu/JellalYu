@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Site-to-Site VPN introduces Private IP VPNs for enhanced security and privacy](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-site-vpn-introduces-private-ip-security-privacy/)
 - [AWS Fargate now fully supports multiline logging powered by AWS for Fluent Bit](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-fargate-supports-multiline-logging-powered-fluent-bit/)
 - [Amazon Textract announces quality update to its Forms extraction feature](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-textract-announces-quality-updates-extraction-feature/)
 - [AWS IoT ExpressLink is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-iot-expresslink-generally-available/)
 - [Announcing Open Data on AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2022/06/announcing-open-data-aws-data-exchange/)
-- [AWS App2Container now supports Azure DevOps for setting up a CI/CD pipeline](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-app2container-azure-devops-ci-cd-pipeline/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
