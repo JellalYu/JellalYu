@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Direct Connect adds support for all AWS Local Zones in the United States](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-direct-connect-support-local-zones-united-states/)
 - [Amazon MSK adds support for Apache Kafka version 3.1.1 and 3.2.0](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-msk-adds-support-apache-kafka-version-3-1-1-3-2-0/)
 - [Amazon RDS Multi-AZ deployments with one primary and two readable standby database instances now support M5d and R5d instances](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-multi-az-deployments-readable-standby-database-instances-m5d-r5d/)
 - [Amazon RDS Multi-AZ deployments with one primary and two readable standby database instances now available in Frankfurt and Stockholm Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-multi-az-deployments-standby-database-instances-available-frankfurt-stockholm-regions/)
 - [Announcing new Console Query Editor for Amazon QLDB](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-console-query-editor-qldb/)
-- [Announcing AWS Cost Allocation Tag API](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-cost-allocation-tag-api/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
