@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C7g instances powered by AWS Graviton3 processors now available in US East &lpar;Ohio&rpar; and Europe &lpar;Ireland&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-c7g-instances-powered-aws-graviton3-available-us-east-ohio-europe-ireland/)
 - [Amazon Connect Wisdom now enables you to integrate agent assistance capabilities into custom agent applications](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-wisdom-integrate-agent-assistance-capabilities-applications/)
 - [AWS Graviton2-based Amazon EC2 C6gd instances now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-graviton2-based-amazon-ec2-c6gd-instances-available-asia-pacific-seoul-region/)
 - [Amazon QuickSight launches monitoring with CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-launches-monitoring-cloudwatch-metrics/)
 - [Virtual Private Cloud &lpar;VPC&rpar; support is generally available for SageMaker Ground Truth](https://aws.amazon.com/about-aws/whats-new/2022/06/virtual-private-cloud-vpc-support-sagemaker-ground-truth/)
-- [Amazon SageMaker Ground Truth now supports synthetic data generation](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-ground-truth-supports-synthetic-data-generation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
