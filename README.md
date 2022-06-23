@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Virtual Private Cloud &lpar;VPC&rpar; support is generally available for SageMaker Ground Truth](https://aws.amazon.com/about-aws/whats-new/2022/06/virtual-private-cloud-vpc-support-sagemaker-ground-truth/)
 - [Amazon SageMaker Ground Truth now supports synthetic data generation](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-ground-truth-supports-synthetic-data-generation/)
 - [AWS announces Amazon CodeWhisperer &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-announces-amazon-codewhisperer-preview/)
 - [AWS Direct Connect adds support for all AWS Local Zones in the United States](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-direct-connect-support-local-zones-united-states/)
 - [Amazon MSK adds support for Apache Kafka version 3.1.1 and 3.2.0](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-msk-adds-support-apache-kafka-version-3-1-1-3-2-0/)
-- [Amazon RDS Multi-AZ deployments with one primary and two readable standby database instances now support M5d and R5d instances](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-multi-az-deployments-readable-standby-database-instances-m5d-r5d/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
