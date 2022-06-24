@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Auto Scaling announces increased Auto Scaling group default limit per account](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-auto-scaling-increased-auto-scaling-group-default-limit-per-account/)
 - [Amazon EC2 G5 instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-g5-instances-available-additional-regions/)
 - [Amazon EC2 C7g instances powered by AWS Graviton3 processors now available in US East &lpar;Ohio&rpar; and Europe &lpar;Ireland&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-c7g-instances-powered-aws-graviton3-available-us-east-ohio-europe-ireland/)
 - [Amazon Connect Wisdom now enables you to integrate agent assistance capabilities into custom agent applications](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-wisdom-integrate-agent-assistance-capabilities-applications/)
 - [AWS Graviton2-based Amazon EC2 C6gd instances now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-graviton2-based-amazon-ec2-c6gd-instances-available-asia-pacific-seoul-region/)
-- [Amazon QuickSight launches monitoring with CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-launches-monitoring-cloudwatch-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
