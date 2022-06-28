@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS increases concurrent copy limit to 20 snapshots per destination region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-increases-concurrent-copy-limit-snapshots-destination-region/)
 - [Amazon Polly adds new male Neural TTS voices in 4 languages](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-polly-adds-male-neural-tts-voices-languages/)
 - [AWS Glue Streaming ETL now supports auto-decompression](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-glue-streaming-etl-support-auto-decompression/)
 - [AWS Support announces an improved create case experience](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-support-improved-create-case-experience/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; enables dynamic resizing for storage space](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-documentdb-mongodb-dynamic-resizing-storage/)
-- [AWS Fargate for Amazon Elastic Kubernetes Service is now available in the Amazon Web Services China Beijing and Ningxia Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-fargate-elastic-kubernetes-beijing-ningxia-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
