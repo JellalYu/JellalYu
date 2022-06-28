@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly adds new male Neural TTS voices in 4 languages](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-polly-adds-male-neural-tts-voices-languages/)
+- [AWS Glue Streaming ETL now supports auto-decompression](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-glue-streaming-etl-support-auto-decompression/)
 - [AWS Support announces an improved create case experience](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-support-improved-create-case-experience/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; enables dynamic resizing for storage space](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-documentdb-mongodb-dynamic-resizing-storage/)
 - [AWS Fargate for Amazon Elastic Kubernetes Service is now available in the Amazon Web Services China Beijing and Ningxia Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-fargate-elastic-kubernetes-beijing-ningxia-regions/)
-- [Amazon EC2 Auto Scaling announces increased Auto Scaling group default limit per account](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-auto-scaling-increased-auto-scaling-group-default-limit-per-account/)
-- [Amazon EC2 G5 instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-g5-instances-available-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
