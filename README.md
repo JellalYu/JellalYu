@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS DataSync can now copy data to and from Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-datasync-copy-data-amazon-fsx-netapp-ontap/)
+- [Amazon QuickSight launches Level Aware Calculation &lpar;LAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-launches-level-aware-calculation-lac/)
 - [Amazon RDS increases concurrent copy limit to 20 snapshots per destination region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-increases-concurrent-copy-limit-snapshots-destination-region/)
 - [Amazon Polly adds new male Neural TTS voices in 4 languages](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-polly-adds-male-neural-tts-voices-languages/)
 - [AWS Glue Streaming ETL now supports auto-decompression](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-glue-streaming-etl-support-auto-decompression/)
-- [AWS Support announces an improved create case experience](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-support-improved-create-case-experience/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; enables dynamic resizing for storage space](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-documentdb-mongodb-dynamic-resizing-storage/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
