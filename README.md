@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppStream 2.0 is now available in the AWS US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-appstream-2-0-aws-east-ohio-region/)
+- [Amazon SageMaker built-in algorithms now provides four new Tabular Data Modeling Algorithms](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-built-in-algorithms-four-new-tabular-data-modeling-algorithms/)
+- [Amazon EC2 placement groups now support host-level spread on AWS Outposts rack](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-placement-groups-support-host-level-spread-aws-outposts-rack/)
+- [Amazon GameLift launches new console experience](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-gamelift-new-console-experience/)
 - [AWS DataSync can now copy data to and from Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-datasync-copy-data-amazon-fsx-netapp-ontap/)
-- [Amazon QuickSight launches Level Aware Calculation &lpar;LAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-launches-level-aware-calculation-lac/)
-- [Amazon RDS increases concurrent copy limit to 20 snapshots per destination region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-increases-concurrent-copy-limit-snapshots-destination-region/)
-- [Amazon Polly adds new male Neural TTS voices in 4 languages](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-polly-adds-male-neural-tts-voices-languages/)
-- [AWS Glue Streaming ETL now supports auto-decompression](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-glue-streaming-etl-support-auto-decompression/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
