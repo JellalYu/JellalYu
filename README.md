@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup Audit Manager adds new control to audit recovery point objective &lpar;RPO&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-backup-audit-manager-adds-audit-recovery-point-objective-rpo/)
+- [Amazon MemoryDB for Redis is now PCI DSS Compliant](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-memorydb-redis-pci-dss-compliant/)
+- [Now bring your own development environment in a custom image to RStudio on Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-development-environment-custom-image-rstudio/)
 - [Amazon QuickSight launches rolling date functionality](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-launches-rolling-date-functionality/)
 - [AWS Direct Connect announces new location in Ireland](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-direct-connect-new-location-ireland/)
-- [Amazon AppStream 2.0 enables UDP streaming for Windows native client](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-appstream-2-0-udp-streaming-windows-native-client/)
-- [AWS Toolkit for Visual Studio adds Amazon CloudWatch Logs Integration](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-toolkit-visual-studio-amazon-cloudwatch-logs-integration/)
-- [AWS Snowcone SSD is now available in the AWS Europe &lpar;Paris&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-snowcone-ssd-available-aws-europe-paris/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
