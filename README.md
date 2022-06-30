@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now supports branching of flows based on Lex confidence scores](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-supports-branching-flows-lex-confidence-scores/)
+- [Amazon Connect now supports personalization of the customer experience using Lex sentiment analysis in flows](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-supports-personalization-customer-experience-lex-sentiment-analysis-flows/)
 - [Amazon FinSpace releases APIs to assign granular user permissions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-finspace-apis-assign-granular-user-permissions/)
 - [Amazon Connect Customer Profiles now provides confidence scores to help companies merge duplicate customer records](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-customer-profiles-confidence-scores-help-merge-duplicate-customer-records/)
 - [AWS Database Migration Service now supports VPC source and target endpoints](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-database-migration-vpc-source-target-endpoints/)
-- [Announcing bare metal support for Amazon EKS Anywhere](https://aws.amazon.com/about-aws/whats-new/2022/06/bare-metal-support-amazon-eks-anywhere/)
-- [Amazon Interactive Video Service launches edge location in Colombia](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-interactive-video-service-edge-location-colombia/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
