@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight Authors can now learn and experience Q before signing up](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-authors-learn-experience-q-signing-up/)
+- [Amazon Virtual Private Cloud &lpar;VPC&rpar; customer-managed prefix lists is now available in five additional regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-virtual-private-cloud-vpc-customer-managed-prefix-lists-additional-regions/)
 - [Amazon EventBridge cross-Region routing is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-eventbridge-cross-region-routing-aws-govcloud-regions/)
 - [Amazon Pinpoint launches journey schedule for more precise communication delivery](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-pinpoint-launches-journey-schedule-communication-delivery/)
 - [AWS CloudShell is available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-cloudshell-available-aws-govcloud-us-regions/)
-- [Amazon QuickSight launches Level Aware Calculations &lpar;LAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-launches-level-aware-calculations-lac/)
-- [Integration of AWS Well-Architected Tool with AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-well-architected-tool-organizations-integration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
