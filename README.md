@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Interactive Video Service launches edge location in Colombia](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-interactive-video-service-edge-location-colombia/)
+- [AWS Systems Manager now supports patching Windows Server 2022 and other Linux operating systems](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-systems-manager-patching-windows-server-2022-other-linux-operating-systems/)
+- [Announcing general availability of Amplify UI for React](https://aws.amazon.com/about-aws/whats-new/2022/06/general-availability-amplify-ui-react/)
 - [AWS SAM Accelerate is now generally available - quickly test code changes against the cloud](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-sam-accelerate-test-code-against-cloud/)
 - [AWS Backup Audit Manager adds new control to audit recovery point objective &lpar;RPO&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-backup-audit-manager-adds-audit-recovery-point-objective-rpo/)
-- [Amazon MemoryDB for Redis is now PCI DSS Compliant](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-memorydb-redis-pci-dss-compliant/)
-- [Now bring your own development environment in a custom image to RStudio on Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-development-environment-custom-image-rstudio/)
-- [Amazon QuickSight launches rolling date functionality](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-launches-rolling-date-functionality/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
