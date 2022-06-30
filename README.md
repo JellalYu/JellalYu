@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Connect now supports branching of flows based on Lex confidence scores](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-supports-branching-flows-lex-confidence-scores/)
-- [Amazon Connect now supports personalization of the customer experience using Lex sentiment analysis in flows](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-supports-personalization-customer-experience-lex-sentiment-analysis-flows/)
-- [Amazon FinSpace releases APIs to assign granular user permissions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-finspace-apis-assign-granular-user-permissions/)
-- [Amazon Connect Customer Profiles now provides confidence scores to help companies merge duplicate customer records](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-customer-profiles-confidence-scores-help-merge-duplicate-customer-records/)
-- [AWS Database Migration Service now supports VPC source and target endpoints](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-database-migration-vpc-source-target-endpoints/)
+- [Amazon EventBridge cross-Region routing is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-eventbridge-cross-region-routing-aws-govcloud-regions/)
+- [Amazon Pinpoint launches journey schedule for more precise communication delivery](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-pinpoint-launches-journey-schedule-communication-delivery/)
+- [AWS CloudShell is available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-cloudshell-available-aws-govcloud-us-regions/)
+- [Amazon QuickSight launches Level Aware Calculations &lpar;LAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-launches-level-aware-calculations-lac/)
+- [Integration of AWS Well-Architected Tool with AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-well-architected-tool-organizations-integration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
