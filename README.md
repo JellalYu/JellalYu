@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Database Migration Service now supports VPC source and target endpoints](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-database-migration-vpc-source-target-endpoints/)
+- [Announcing bare metal support for Amazon EKS Anywhere](https://aws.amazon.com/about-aws/whats-new/2022/06/bare-metal-support-amazon-eks-anywhere/)
 - [Amazon Interactive Video Service launches edge location in Colombia](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-interactive-video-service-edge-location-colombia/)
 - [AWS Systems Manager now supports patching Windows Server 2022 and other Linux operating systems](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-systems-manager-patching-windows-server-2022-other-linux-operating-systems/)
 - [Announcing general availability of Amplify UI for React](https://aws.amazon.com/about-aws/whats-new/2022/06/general-availability-amplify-ui-react/)
-- [AWS SAM Accelerate is now generally available - quickly test code changes against the cloud](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-sam-accelerate-test-code-against-cloud/)
-- [AWS Backup Audit Manager adds new control to audit recovery point objective &lpar;RPO&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-backup-audit-manager-adds-audit-recovery-point-objective-rpo/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
