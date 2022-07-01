@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Deploy scale-out SAP HANA deployments using AWS Launch Wizard and Amazon EC2 x2idn/ r6i instances](https://aws.amazon.com/about-aws/whats-new/2022/07/scale-sap-hana-deployments-aws-launch-wizard-amazon-ec2-x2idn-r6i-instances/)
 - [Announcing availability of AWS Outposts rack in Panama](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-outposts-rack-panama/)
 - [AWS IoT Greengrass now supports MQTT v5](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-iot-greengrass-mqtt-v5/)
 - [Amazon WorkMail now supports invoking Lambdas to fetch availability &lpar;free/busy&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-workmail-supports-invoking-lambdas-fetch-availability-free-busy/)
 - [AWS Migration Hub Refactor Spaces can now enable and disable active routes](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-migration-hub-refactor-spaces-enable-disable-active-routes/)
-- [AWS Database Migration Service now supports IBM Db2 z/OS as a source](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-database-migration-ibm-db2-zos-source/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
