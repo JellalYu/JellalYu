@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon WorkMail now supports invoking Lambdas to fetch availability &lpar;free/busy&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-workmail-supports-invoking-lambdas-fetch-availability-free-busy/)
+- [AWS Migration Hub Refactor Spaces can now enable and disable active routes](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-migration-hub-refactor-spaces-enable-disable-active-routes/)
+- [AWS Database Migration Service now supports IBM Db2 z/OS as a source](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-database-migration-ibm-db2-zos-source/)
+- [AWS Database Migration Service now supports Babelfish for Aurora PostgreSQL as a target](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-database-migration-babelfish-aurora-postgresql/)
 - [AWS IoT Greengrass now supports MQTT v5](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-iot-greengrass-supports-mqtt-v5/)
-- [AWS CloudFormation Guard 2.1 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-cloudformation-guard-2-1-available/)
-- [Amazon QuickSight Authors can now learn and experience Q before signing up](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-authors-learn-experience-q-signing-up/)
-- [Amazon Virtual Private Cloud &lpar;VPC&rpar; customer-managed prefix lists is now available in five additional regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-virtual-private-cloud-vpc-customer-managed-prefix-lists-additional-regions/)
-- [Amazon EventBridge cross-Region routing is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-eventbridge-cross-region-routing-aws-govcloud-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
