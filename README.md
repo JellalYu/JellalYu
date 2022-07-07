@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudFormation StackSets announces support for account level targeting in an Organizational Unit](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-stacksets-support-account-level-targeting-organizational-unit/)
+- [AWS CloudFormation StackSets is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-stacksets-available-aws-asia-pacific-jakarta-region/)
 - [Amazon OpenSearch Service announces the availability of quota information through Service Quotas](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-opensearch-service-announces-quota-information/)
 - [Amazon GuardDuty introduces new machine learning capabilities to more accurately detect potentially malicious access to data stored in S3 buckets](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-guardduty-machine-learning-detect-malicious-access-data-s3/)
 - [AWS Snowcone SSD is now available in the AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-snowcone-ssd-available-aws-europe-paris-region/)
-- [Amazon WorkMail now supports invoking Lambda to fetch availability &lpar;free/busy&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-workmail-supports-invoking-lambda-fetch-availability-free-busy/)
-- [AWS announces a streamlined deployment experience for .NET applications in .NET CLI and Visual Studio](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-streamlined-deployment-net-applications-cli-visual-studio/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
