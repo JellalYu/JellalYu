@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Autopilot experiments are now up to 2x faster](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-autopilot-experiments-2x-faster/)
+- [Amazon EC2 I4i Instances are now available in nine additional regions](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-i4i-instances-nine-additional-regions/)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; adds console access for the BillableTableSizeInBytes CloudWatch metric](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-keyspaces-apache-cassandra-console-access-billabletablesizeinbytes-cloudwatch-metric/)
 - [AWS IoT Core now makes it easier to provision IoT devices to different AWS accounts and simplifies registrations of certificate authorities—general availability](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-iot-core-provision-iot-devices-aws-accounts-registrations-certificate-authorities/)
 - [Amazon EC2 Auto Scaling customers can now monitor their predictive scaling policy using Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-predictive-scaling-forecast-cloudwatch-metrics/)
-- [Announcing general availability of Amazon EC2 M1 Mac instances for macOS](https://aws.amazon.com/about-aws/whats-new/2022/07/general-availability-amazon-ec2-m1-mac-instances-macos/)
-- [AWS CloudFormation StackSets announces support for account level targeting in an Organizational Unit](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-stacksets-support-account-level-targeting-organizational-unit/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
