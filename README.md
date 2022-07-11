@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Use Result Fragment Caching with EMR runtime for Apache Spark to boost query performance by up to 15x](https://aws.amazon.com/about-aws/whats-new/2022/07/use-result-fragment-caching-emr-runtime-apache-spark-boost-query-performace-15x/)
 - [Announcing Heterogeneous Clusters for Amazon SageMaker model training](https://aws.amazon.com/about-aws/whats-new/2022/07/announcing-heterogeneous-clusters-amazon-sagemaker-model-training/)
 - [Amazon RDS for MariaDB supports new minor versions 10.6.8, 10.5.16, 10.4.25, 10.3.35, 10.2.44](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-for-mariadb-supports-new-minor-versions/)
 - [Amazon SageMaker Autopilot experiments are now up to 2x faster](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-autopilot-experiments-2x-faster/)
 - [Amazon EC2 I4i Instances are now available in nine additional regions](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-i4i-instances-nine-additional-regions/)
-- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; adds console access for the BillableTableSizeInBytes CloudWatch metric](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-keyspaces-apache-cassandra-console-access-billabletablesizeinbytes-cloudwatch-metric/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
