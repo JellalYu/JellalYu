@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Nimble Studio seamless IAM access for studio components](https://aws.amazon.com/about-aws/whats-new/2022/07/nimble-studio-seamless-iam-access-studio-components/)
 - [AWS Firewall Manager now supports VPC security group tag distribution with common security group policies](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-firewall-manager-supports-vpc-security-group-distribution-policies/)
 - [Amazon Athena enhances console and API support for parameterized queries](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-athena-enhances-console-api-parameterized-queries/)
 - [AWS re:Post introduces profile pictures and inline images](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-re-post-profile-pictures-inline-images/)
 - [Amazon CloudFront supports header names of up to 1024 characters in CloudFront policies](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-cloudfront-header-names-1024-characters-cloudfront-policies/)
-- [Use Result Fragment Caching with EMR runtime for Apache Spark to boost query performance by up to 15x](https://aws.amazon.com/about-aws/whats-new/2022/07/use-result-fragment-caching-emr-runtime-apache-spark-boost-query-performace-15x/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
