@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Firewall Manager now supports VPC security group tag distribution with common security group policies](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-firewall-manager-supports-vpc-security-group-distribution-policies/)
 - [Amazon Athena enhances console and API support for parameterized queries](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-athena-enhances-console-api-parameterized-queries/)
 - [AWS re:Post introduces profile pictures and inline images](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-re-post-profile-pictures-inline-images/)
 - [Amazon CloudFront supports header names of up to 1024 characters in CloudFront policies](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-cloudfront-header-names-1024-characters-cloudfront-policies/)
 - [Use Result Fragment Caching with EMR runtime for Apache Spark to boost query performance by up to 15x](https://aws.amazon.com/about-aws/whats-new/2022/07/use-result-fragment-caching-emr-runtime-apache-spark-boost-query-performace-15x/)
-- [Announcing Heterogeneous Clusters for Amazon SageMaker model training](https://aws.amazon.com/about-aws/whats-new/2022/07/announcing-heterogeneous-clusters-amazon-sagemaker-model-training/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
