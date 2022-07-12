@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the general availability of AWS Cloud WAN](https://aws.amazon.com/about-aws/whats-new/2022/07/general-availability-aws-cloud-wan/)
 - [AWS Security Hub adds four new integration partners](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-security-hub-adds-four-new-integration-partners/)
 - [Introducing Nimble Studio seamless IAM access for studio components](https://aws.amazon.com/about-aws/whats-new/2022/07/nimble-studio-seamless-iam-access-studio-components/)
 - [AWS Firewall Manager now supports VPC security group tag distribution with common security group policies](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-firewall-manager-supports-vpc-security-group-distribution-policies/)
 - [Amazon Athena enhances console and API support for parameterized queries](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-athena-enhances-console-api-parameterized-queries/)
-- [AWS re:Post introduces profile pictures and inline images](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-re-post-profile-pictures-inline-images/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
