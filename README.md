@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces AWS AppConfig Extensions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-announces-appconfig-extensions/)
 - [Amazon Redshift announces support for Row-Level Security &lpar;RLS&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-row-level-security/)
 - [Introducing Log Anomaly Detection and Recommendations for Amazon DevOps Guru](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-devops-guru-log-anomaly-detection-recommendations/)
 - [Amazon Redshift Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-serverless-generally-available/)
 - [Announcing general availability &lpar;GA&rpar; of Automated Materialized View for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2022/07/automated-materialized-view-amazon-redshift/)
-- [Announcing the general availability of AWS Cloud WAN](https://aws.amazon.com/about-aws/whats-new/2022/07/general-availability-aws-cloud-wan/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
