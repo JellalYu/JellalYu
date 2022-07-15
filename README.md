@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker adds ml.g5, ml.p4d, and ml.c6i instances for model deployment](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-adds-ml-g5-ml-p4d-ml-c6i-instances-model-deployment/)
 - [Amazon Route 53 Resolver DNS Firewall now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-route-53-resolver-dns-firewall-asia-pacific-jakarta-region/)
 - [AWS Lambda Powertools for TypeScript is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-powertools-typescript-available/)
 - [Amazon Aurora PostgreSQL-compatible edition now supports R6i instances](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-aurora-postgresql-compatible-edition-r6i-instances/)
 - [Amazon SageMaker Automatic Model Tuning now supports increased limits to improve the accuracy of your models](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-automatic-model-tuning-supports-increased-limits-improve-accuracy-models/)
-- [AWS Fault Injection Simulator is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-fault-injection-simulator-available-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
