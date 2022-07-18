@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New Amazon EBS Elastic Volumes automated performance settings make it even easier to modify volumes and save costs](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ebs-elastic-volumes-automated-settings-modify-volumes-costs/)
+- [Amazon WorkSpaces Web is now available in Asia Pacific &lpar;Mumbai&rpar;, Asia Pacific &lpar;Singapore&rpar;, Asia Pacific &lpar;Sydney&rpar;, and Asia Pacific &lpar;Tokyo&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-workspaces-web-available-new-regions/)
 - [Amazon Redshift announces open source ODBC driver with binary protocol support and enhanced performance](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-open-source-odbc-driver-binary-protocol-support-enhanced-performance/)
 - [Porting Assistant for .NET adds support for assessment and porting of VB.NET applications to .NET Core](https://aws.amazon.com/about-aws/whats-new/2022/07/porting-assistant-net-support-assessment-vb-net-applications-core/)
 - [Amazon Timestream announces improved cost-effectiveness with updates to metadata metering](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-timestream-improved-cost-effectiveness-updates-metadata-metering/)
-- [AWS Glue now supports smaller instance types for streaming](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-glue-supports-smaller-instance-types-streaming/)
-- [Amazon Connect Customer Profiles now enables you to integrate unified customer information into your custom agent applications](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-connect-customer-profiles-enables-integrate-unified-customer-information-custom-agent-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
