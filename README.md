@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces open source ODBC driver with binary protocol support and enhanced performance](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-open-source-odbc-driver-binary-protocol-support-enhanced-performance/)
+- [Porting Assistant for .NET adds support for assessment and porting of VB.NET applications to .NET Core](https://aws.amazon.com/about-aws/whats-new/2022/07/porting-assistant-net-support-assessment-vb-net-applications-core/)
 - [Amazon Timestream announces improved cost-effectiveness with updates to metadata metering](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-timestream-improved-cost-effectiveness-updates-metadata-metering/)
 - [AWS Glue now supports smaller instance types for streaming](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-glue-supports-smaller-instance-types-streaming/)
 - [Amazon Connect Customer Profiles now enables you to integrate unified customer information into your custom agent applications](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-connect-customer-profiles-enables-integrate-unified-customer-information-custom-agent-applications/)
-- [Amazon SageMaker adds ml.g5, ml.p4d, and ml.c6i instances for model deployment](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-adds-ml-g5-ml-p4d-ml-c6i-instances-model-deployment/)
-- [Amazon Route 53 Resolver DNS Firewall now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-route-53-resolver-dns-firewall-asia-pacific-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
