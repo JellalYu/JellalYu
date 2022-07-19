@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Braket SDK adds support for near-real time cost tracking](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-braket-sdk-near-real-time-cost-tracking/)
 - [AWS Glue Streaming ETL Auto Scaling is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-glue-streaming-etl-auto-scaling-available/)
 - [AWS Single Sign-On &lpar;AWS SSO&rpar; adds support for AWS Identity and Access Management &lpar;IAM&rpar; customer managed policies &lpar;CMPs&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-single-sign-on-aws-sso-aws-identity-access-management-iam-customer-managed-policies-cmps/)
 - [AWS re:Post introduces community-generated articles](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-re-post-community-generated-articles/)
 - [AWS Snowball Edge Storage Optimized devices now supports high performance NFS data transfer in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-snowball-edge-storage-optimized-devices-nfs-data-transfer-govcloud/)
-- [Announcing Cloudscape Design System, an open source solution for building intuitive web applications](https://aws.amazon.com/about-aws/whats-new/2022/07/cloudscape-design-system-open-source-solution-building-intuitive-web-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
