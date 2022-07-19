@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodeBuild supports Arm-based workloads in South America &lpar;São Paulo&rpar; and Europe &lpar;Stockholm&rpar;.](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-codebuild-arm-based-workloads-south-america-europe/)
+- [Introducing Amazon EC2 R6a instances](https://aws.amazon.com/about-aws/whats-new/2022/07/introducing-amazon-ec2-r6a-instances/)
 - [AWS Lambda announces support for Attribute-Based Access Control &lpar;ABAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-support-abac/)
 - [AWS Migration Hub Refactor Spaces adds support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-migration-hub-refactor-spaces-support-aws-privatelink/)
 - [Amazon Corretto July, 2022 quarterly updates](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-corretto-july-2022-quarterly-updates/)
-- [Amazon QuickSight adds Bookmarks in dashboards](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-quicksight-adds-bookmarks-dashboards/)
-- [The AI Use Case Explorer is now available](https://aws.amazon.com/about-aws/whats-new/2022/07/available-ai-use-case-explorer/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
