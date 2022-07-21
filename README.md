@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Athena adds visual query analysis and tuning tools](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-athena-visual-query-analysis-tuning-tools/)
 - [Introducing Fine-grained access controls with job-scoped IAM Roles and Integration with AWS Lake Formation for Apache Spark and Apache Hive on Amazon EMR on EC2 Clusters](https://aws.amazon.com/about-aws/whats-new/2022/07/fine-grained-access-controls-job-scoped-iam-roles-integration-aws-lake-formation-apache-spark-hive-amazon-emr-ec2-clusters/)
 - [AWS Managed Services is now available in Asia Pacific &lpar;Hong Kong&rpar; and Middle East &lpar;Bahrain&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-managed-services-available-asia-pacific-hong-kong-middle-east-bahrain-regions/)
 - [AWS Transfer Family now supports ED25519 and ECDSA keys for user authentication](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-transfer-family-ed25519-ecdsa-keys-user-authentication/)
 - [AWS IoT Device Client v1.7 now available with enhanced functionality and security features](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-iot-device-client-v1-7-enhanced-functionality-security-features/)
-- [AWS IoT Device Management Fleet Indexing now supports two additional data sources](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-iot-device-management-fleet-indexing-supports-additional-data-sources/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
