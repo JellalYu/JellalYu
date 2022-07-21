@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Device Client v1.7 now available with enhanced functionality and security features](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-iot-device-client-v1-7-enhanced-functionality-security-features/)
 - [AWS IoT Device Management Fleet Indexing now supports two additional data sources](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-iot-device-management-fleet-indexing-supports-additional-data-sources/)
 - [AWS Backup adds support for Amazon RDS Multi-AZ clusters](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-backup-amazon-rds-multi-az-clusters/)
 - [AWS CloudFormation event notifications with Amazon EventBridge help you create event-driven applications](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-event-notifications-amazon-eventbridge-event-driven-applications/)
 - [AWS CodeBuild supports Arm-based workloads in South America &lpar;São Paulo&rpar; and Europe &lpar;Stockholm&rpar;.](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-codebuild-arm-based-workloads-south-america-europe/)
-- [Introducing Amazon EC2 R6a instances](https://aws.amazon.com/about-aws/whats-new/2022/07/introducing-amazon-ec2-r6a-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
