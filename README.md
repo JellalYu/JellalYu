@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Console adds ‘Verified Provider’ label for public AMIs](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-console-verified-provider-label-public-amis/)
+- [AWS Lambda announces support for a new IAM condition key, lambda:SourceFunctionArn](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-iam-condition-key-lambda-source-function-arn/)
+- [Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-multi-az-option-faster-transaction-commit-latency-asia-pacific-sydney-region/)
 - [AWS Backup Audit Manager adds support for Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-backup-audit-manager-fsx-netapp-ontap/)
 - [Combined OU and Accounts page now available in AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2022/07/combined-ou-accounts-page-available-aws-control-tower/)
-- [Amazon Interactive Video Service now includes web broadcast SDK](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-interactive-video-service-includes-web-broadcast-sdk/)
-- [Amazon Fraud Detector launches Account Takeover Insights &lpar;ATI&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-fraud-detector-account-takeover-insights/)
-- [Amazon EC2 C6i, M6i and R6i Instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-c6i-m6i-r6i-instances-available-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
