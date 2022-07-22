@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup Audit Manager adds support for Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-backup-audit-manager-fsx-netapp-ontap/)
+- [Combined OU and Accounts page now available in AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2022/07/combined-ou-accounts-page-available-aws-control-tower/)
 - [Amazon Interactive Video Service now includes web broadcast SDK](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-interactive-video-service-includes-web-broadcast-sdk/)
 - [Amazon Fraud Detector launches Account Takeover Insights &lpar;ATI&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-fraud-detector-account-takeover-insights/)
 - [Amazon EC2 C6i, M6i and R6i Instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-c6i-m6i-r6i-instances-available-additional-regions/)
-- [Amazon RDS Performance Insights now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-performance-insights-available-asia-pacifc-jakarta-region/)
-- [AWS Network Firewall now supports VPC prefix lists](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-network-firewall-vpc-prefix-lists/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
