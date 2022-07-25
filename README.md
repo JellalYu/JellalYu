@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports fast database cloning](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-documentdb-mongodb-fast-database-cloning/)
 - [Now programmatically manage primary contact information on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/07/programmatically-manage-primary-contact-information-aws-accounts/)
 - [AWS Fault Injection Simulator now supports ChaosMesh and Litmus experiments](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-fault-injection-simulator-supports-chaosmesh-litmus-experiments/)
 - [Amazon EC2 Console adds ‘Verified Provider’ label for public AMIs](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-console-verified-provider-label-public-amis/)
 - [AWS Lambda announces support for a new IAM condition key, lambda:SourceFunctionArn](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-iam-condition-key-lambda-source-function-arn/)
-- [Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-multi-az-option-faster-transaction-commit-latency-asia-pacific-sydney-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
