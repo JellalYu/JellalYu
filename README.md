@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECR Public now supports tag listing API for public repositories](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ecr-public-supports-tag-listing-api-public-repositories/)
+- [Introducing the re-Launched AWS Security Competency](https://aws.amazon.com/about-aws/whats-new/2022/07/introducing-re-launched-aws-security-competency/)
+- [Amazon RDS Proxy now supports Amazon RDS for MariaDB running on version 10.3, 10.4 or 10.5](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-proxy-mariadb-version-10-support/)
 - [AWS Single Sign-On &lpar;AWS SSO&rpar; is now AWS IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-single-sign-on-aws-sso-now-aws-iam-identity-center/)
 - [Introducing specialization categories for the AWS Level 1 MSSP Competency](https://aws.amazon.com/about-aws/whats-new/2022/07/specialization-categories-aws-level1-mssp-competency/)
-- [AWS WAF adds sensitivity levels for SQL injection rule statements](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-waf-sensitivity-levels-sql-injection-rule-statements/)
-- [AWS Security Hub adds Fortinet and JFrog as integration partners](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-security-hub-adds-fortinet-jfrog-integration-partners/)
-- [Announcing AWS Transfer Family support for Applicability Statement 2 &lpar;AS2&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-transfer-family-support-applicability-statement-2-as2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
