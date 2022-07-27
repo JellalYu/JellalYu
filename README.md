@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches Contact Lens integration with Contact Control Panel and Salesforce CTI Adapter](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-connect-contact-lens-integration-contact-control-panel-salesforce-cti-adapter/)
 - [AWS announces AWS Billing Conductor OU Import](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-billing-conductor-ou-import/)
 - [Amazon Polly now offers Neural TTS support for Hindi and Indian English](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-polly-neural-tts-support-hindi-indian-english/)
 - [Introducing the re-Launched AWS Security Competency](https://aws.amazon.com/about-aws/whats-new/2022/07/introducing-re-launched-aws-security-competency/)
 - [Amazon RDS Proxy now supports Amazon RDS for MariaDB running on version 10.3, 10.4 or 10.5](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-proxy-mariadb-version-10-support/)
-- [AWS Single Sign-On &lpar;AWS SSO&rpar; is now AWS IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-single-sign-on-aws-sso-now-aws-iam-identity-center/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
