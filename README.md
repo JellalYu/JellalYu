@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Canvas announces encryption support with customer managed keys](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-canvas-encryption-managed-keys/)
 - [AWS Backup now supports copying Amazon S3 backups across AWS Regions and accounts](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-backup-supports-copying-amazon-s3-aws-regions-accounts/)
 - [AWS ParallelCluster 3.2: file system enhancements and other top requested features](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-parallelcluster-3-2-file-system-enhancements-top-requested-features/)
 - [Amazon OpenSearch Service now supports OpenSearch version 1.3](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-opensearch-service-supports-version-1-3/)
 - [Amazon OpenSearch Service announces support for EBS gp3 volume type](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-opensearch-service-support-ebs-gp3-volume-type/)
-- [AWS Control Tower’s Region deny guardrail expands to include additional AWS Chatbot, Amazon S3 Storage Lens, and Amazon S3 Multi Region Access points APIs](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-control-tower-region-deny-guardrail-expands-aws-chatbot-s3-storage-lens-s3-multi-region-access-points-apis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
