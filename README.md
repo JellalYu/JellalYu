@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Firewall adds coin mining, phishing, and mobile operating systems categories to AWS Managed Threat Signatures](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-network-firewall-coin-mining-phishing-mobile-operating-systems-categories-managed-threat-signatures/)
 - [Amazon Nimble Studio now supports EC2 G3 and G5 instances for virtual workstations](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-nimble-studio-ec2-g3-g5-instances-virtual-workstations/)
 - [Amazon Lookout for Vision now provides anomaly localization and CPU inference on the edge](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-lookout-vision-anomaly-localization-cpu-inference-edge/)
 - [AWS Lambda support for AWS X-Ray now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-supports-aws-x-ray-govcloud-us-regions/)
 - [AWS Systems Manager announces a simplified onboarding experience for Application Manager](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-systems-manager-simplified-onboarding-experience-application-manager/)
-- [AWS Console Mobile Application adds support for recently visited services feature](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-console-mobile-application-adds-service-feature/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
