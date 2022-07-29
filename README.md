@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager announces a simplified onboarding experience for Application Manager](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-systems-manager-simplified-onboarding-experience-application-manager/)
+- [AWS Console Mobile Application adds support for recently visited services feature](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-console-mobile-application-adds-service-feature/)
 - [AWS Control Tower’s Region deny guardrail expands to include additional AWS Chatbot, Amazon S3 Storage Lens, and Amazon S3 Multi Region Access points APIs](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-control-tower-region-deny-guardrail-expands-aws-chatbot-s3-storage-lens-s3-multi-region-access-points-apis/)
 - [AWS Cloud Map is available in two new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloud-map-available-regions/)
 - [AWS Control Tower adopts AWS CloudTrail Organization logging](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-control-tower-adopts-aws-cloudtrail-organization-logging/)
-- [AWS Control Tower now reduces AWS Config configuration items by only recording global resources in home Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-control-tower-reduces-aws-config-items-recording-global-resources-home-regions/)
-- [AWS IoT SiteWise is now available in US East &lpar;Ohio&rpar; and Canada &lpar;Central&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-iot-sitewise-canada-ohio-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
