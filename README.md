@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Secrets Manager connections now support the latest hybrid post-quantum TLS with Kyber](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-secrets-manager-connections-support-hybrid-post-quantum-tls-kyber/)
 - [Announcing the availability of license included Microsoft Visual Studio Amazon Machine Images &lpar;AMIs&rpar; on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-license-included-microsoft-visual-studio-amazon-machine-images-amis-amazon-ec2/)
 - [AWS Security Hub now supports cross-Region aggregation of findings in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-security-hub-cross-region-aggregation-findings-govcloud-us/)
 - [AWS Microservice Extractor for .NET now provides automated refactoring recommendations](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-microservice-extractor-net-automated-refactoring-recommendations/)
 - [VM Import/Export now supports Windows 11](https://aws.amazon.com/about-aws/whats-new/2022/08/vm-import-export-windows-11/)
-- [Announcing Amazon Pinpoint toll-free number registration workflow](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-pinpoint-toll-free-number-registration-workflow/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
