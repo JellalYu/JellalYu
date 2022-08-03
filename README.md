@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lookout for Metrics announcing increased quota from 50K to 500K metrics](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-lookout-metrics-increased-quota-50k-500k-metrics/)
 - [AWS Comprehend lowers annotation limits for training custom entity recognition models](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-comprehend-lowers-annotation-limits-custom-entry-recognition-models/)
 - [AWS Compute Optimizer is now available in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-compute-optimizer-5-additional-regions/)
 - [Amazon CloudWatch metrics increases throughput by 150x](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudwatch-metrics-increases-throughput/)
 - [AWS Secrets Manager connections now support the latest hybrid post-quantum TLS with Kyber](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-secrets-manager-connections-support-hybrid-post-quantum-tls-kyber/)
-- [Announcing the availability of license included Microsoft Visual Studio Amazon Machine Images &lpar;AMIs&rpar; on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-license-included-microsoft-visual-studio-amazon-machine-images-amis-amazon-ec2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
