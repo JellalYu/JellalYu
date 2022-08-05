@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Evidently adds support for creating target customer segments for feature launches and experiments](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudwatch-evidently-customer-segments-feature-launches-experiments/)
+- [Amazon EC2 Is4gen and Im4gn instances are now available in four additional Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ec2-is4gen-im4gn-instances-four-regions/)
 - [AWS IoT SiteWise now supports payload compression for data ingestion](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-sitewise-supports-payload-compression-data-ingestion/)
 - [AWS IoT Core launches a new device provisioning console experience](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-core-launches-device-provisioning-console-experience/)
 - [AWS Lambda announces tiered pricing](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-lambda-tiered-pricing/)
-- [Amazon Keyspaces is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-keyspaces-available-aws-govcloud-us-regions/)
-- [AWS Data Exchange increases the asset size limit to 100GB](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-data-exchange-increases-asset-size-limit-100gb/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
