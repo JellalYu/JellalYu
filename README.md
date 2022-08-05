@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT SiteWise now supports payload compression for data ingestion](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-sitewise-supports-payload-compression-data-ingestion/)
 - [AWS IoT Core launches a new device provisioning console experience](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-core-launches-device-provisioning-console-experience/)
 - [AWS Lambda announces tiered pricing](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-lambda-tiered-pricing/)
 - [Amazon Keyspaces is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-keyspaces-available-aws-govcloud-us-regions/)
 - [AWS Data Exchange increases the asset size limit to 100GB](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-data-exchange-increases-asset-size-limit-100gb/)
-- [Amazon QuickSight launches API-based domain allow listing for developers to scale embedded analytics across different applications](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-api-based-domain-listing-developers-scale-embedded-analytics-across-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
