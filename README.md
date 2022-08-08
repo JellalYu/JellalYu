@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Direct Connect expands AWS Transit Gateway support at more connection speeds](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-direct-connect-expands-transit-gateway-support-connection-speeds/)
 - [Amazon RDS Custom for Oracle now supports promotion of managed in-region read replica](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-custom-oracle-supports-promotion-replica/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports DML query auditing with Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-documentdb-mongodb-compatibility-dml-query-auditing-amazon-cloudwatch-logs/)
 - [Amazon S3 adds a new policy condition key to require or restrict server-side encryption with customer-provided keys &lpar;SSE-C&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-s3-policy-condition-key-require-restrict-server-side-encryption-customer-provided-keys-sse-c/)
 - [Amazon QuickSight launches redesigned dashboard experience](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-redesigned-dashboard-experience/)
-- [AWS IoT Greengrass v2 updates Stream Manager to report new telemetry metrics and more](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-greengrass-v2-updates-stream-manager-report-telemetry-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
