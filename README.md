@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Greengrass v2 updates Stream Manager to report new telemetry metrics and more](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-greengrass-v2-updates-stream-manager-report-telemetry-metrics/)
 - [AWS Graviton2-based Amazon EC2 C6g, C6gd, and M6gd are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-graviton2-based-amazon-ec2-c6g-c6gd-m6gd-available-additional-regions/)
 - [Amazon Timestream is now available in Asia Pacific &lpar;Sydney&rpar; and Asia Pacific &lpar;Tokyo&rpar; AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-timestream-available-asia-pacific-sydney-tokyo-regions/)
 - [Amazon CloudWatch Evidently adds support for creating target customer segments for feature launches and experiments](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudwatch-evidently-customer-segments-feature-launches-experiments/)
 - [Amazon EC2 Is4gen and Im4gn instances are now available in four additional Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ec2-is4gen-im4gn-instances-four-regions/)
-- [AWS IoT SiteWise now supports payload compression for data ingestion](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-sitewise-supports-payload-compression-data-ingestion/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
