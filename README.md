@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Serverless v1 now supports PostgreSQL 11 and In-Place upgrade from PostgreSQL 10](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-aurora-serverless-v1-postgresql-11-in-place-upgrade-postgresql-10/)
 - [Amazon SageMaker Pipelines now supports sharing of pipeline entities across accounts](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-pipelines-sharing-pipeline-entities-across-accounts/)
 - [AWS Glue now supports Flex execution option](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-glue-supports-flex-execution-option/)
 - [AWS Direct Connect expands AWS Transit Gateway support at more connection speeds](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-direct-connect-expands-transit-gateway-support-connection-speeds/)
 - [Amazon RDS Custom for Oracle now supports promotion of managed in-region read replica](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-custom-oracle-supports-promotion-replica/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports DML query auditing with Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-documentdb-mongodb-compatibility-dml-query-auditing-amazon-cloudwatch-logs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
