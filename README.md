@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing the AWS Transfer Family Delivery Program](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-transfer-family-delivery-program/)
+- [Amazon EBS adds the ability to take crash-consistent snapshots of a subset of EBS volumes attached to an Amazon EC2 instance](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ebs-crash-consistent-snapshots-subset-ebs-volumes-attached-amazon-ec2-instance/)
 - [Amazon SageMaker Canvas expands capabilities to better prepare and analyze data for machine learning](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-canvas-expands-capabilities-prepare-analyze-data-machine-learning/)
 - [Amazon SageMaker Automatic Model Tuning now supports alternate SageMaker training instance types for more robust tuning](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-automatic-model-tuning-alternate-sagemaker-instances-robust-tuning/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports the Decimal128 data type](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-documentdb-mongo-db-compatibility-decimal128-data-type/)
-- [Amazon Aurora Serverless v1 now supports PostgreSQL 11 and In-Place upgrade from PostgreSQL 10](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-aurora-serverless-v1-postgresql-11-in-place-upgrade-postgresql-10/)
-- [Amazon SageMaker Pipelines now supports sharing of pipeline entities across accounts](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-pipelines-sharing-pipeline-entities-across-accounts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
