@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Introducing the AWS Transfer Family Delivery Program](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-transfer-family-delivery-program/)
-- [Amazon EBS adds the ability to take crash-consistent snapshots of a subset of EBS volumes attached to an Amazon EC2 instance](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ebs-crash-consistent-snapshots-subset-ebs-volumes-attached-amazon-ec2-instance/)
-- [Amazon SageMaker Canvas expands capabilities to better prepare and analyze data for machine learning](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-canvas-expands-capabilities-prepare-analyze-data-machine-learning/)
-- [Amazon SageMaker Automatic Model Tuning now supports alternate SageMaker training instance types for more robust tuning](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-automatic-model-tuning-alternate-sagemaker-instances-robust-tuning/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports the Decimal128 data type](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-documentdb-mongo-db-compatibility-decimal128-data-type/)
+- [Amazon Location Service now supports circular geofences](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-location-service-supports-circular-geofences/)
+- [Introducing the AWS Supply Chain Competency Partner Program](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-supply-chain-competency-partner-program/)
+- [Amazon EventBridge now supports receiving events from GitHub, Stripe and Twilio using Webhooks](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eventbridge-supports-receiving-events-github-stripe-twilio-using-webhooks/)
+- [Amazon AppFlow now supports data transfers from SAP applications to AWS Services using SAP Operational Data Provisioning &lpar;ODP&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-appflow-supports-data-sap-applications-aws-services-operational-data-provisioning/)
+- [AWS Console Mobile Application adds support for Cost Explorer service](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-console-mobile-cost-explorer/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
