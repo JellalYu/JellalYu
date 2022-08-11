@@ -48,8 +48,8 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Location Service now supports circular geofences](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-location-service-supports-circular-geofences/)
-- [Introducing the AWS Supply Chain Competency Partner Program](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-supply-chain-competency-partner-program/)
 - [Amazon EventBridge now supports receiving events from GitHub, Stripe and Twilio using Webhooks](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eventbridge-supports-receiving-events-github-stripe-twilio-using-webhooks/)
+- [Introducing the AWS Supply Chain Competency Partner Program](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-supply-chain-competency-partner-program/)
 - [Amazon AppFlow now supports data transfers from SAP applications to AWS Services using SAP Operational Data Provisioning &lpar;ODP&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-appflow-supports-data-sap-applications-aws-services-operational-data-provisioning/)
 - [AWS Console Mobile Application adds support for Cost Explorer service](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-console-mobile-cost-explorer/)
 <!-- AWS-NEWS:END -->
