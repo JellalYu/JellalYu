@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Private 5G is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-private-5g-now-generally-available/)
 - [Amazon CloudWatch Synthetics adds support for custom canary groups with group-level availability metrics](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudwatch-synthetics-support-custom-canary-groups-group-level-availability-metrics/)
 - [Amazon Cognito enables native support for AWS WAF](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cognito-enables-native-support-aws-waf/)
 - [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.23](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eks-distro-support-kubernetes-version-1-23/)
 - [Amazon AppFlow now supports Zendesk Chat and Zendesk Sell as sources](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-appflow-supports-zendesk-chat-sell-sources/)
-- [Amazon Location Service now supports circular geofences](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-location-service-supports-circular-geofences/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
