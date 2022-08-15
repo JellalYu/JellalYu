@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Optimize resources across your organization using AWS Compute Optimizer from a designated account](https://aws.amazon.com/about-aws/whats-new/2022/08/optimize-resources-organization-aws-compute-optimizer-designated-account/)
+- [Amazon WorkSpaces Web is now available in Canada &lpar;Central&rpar;, Europe &lpar;Frankfurt&rpar;, and Europe &lpar;London&rpar; regions.](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-workspaces-web-available-canada-frankfurt-london-regions/)
 - [AWS Config now supports 20 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-config-supports-20-new-resource-types/)
 - [Amazon Personalize allows rule-based promotions in recommendations](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-personalize-rule-based-promotions-recommendations/)
 - [Amazon Personalize launches support for range queries on dynamic filters](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-personalize-range-queries-dynamic-filters/)
-- [Amazon RDS Custom for Oracle now supports Scale Compute](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-custom-oracle-scale-compute/)
-- [The Amazon Chime SDK announces elastic channels](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-elastic-channels/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
