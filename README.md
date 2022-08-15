@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT SiteWise now supports bulk import of historical measurement data](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-sitewise-supports-bulk-import-historical-measurement-data/)
+- [Amazon RDS for SQL Server supports M6i, R6i and R5b instances in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-sql-server-m6i-r6i-r5b-instances-additional-regions/)
 - [Optimize resources across your organization using AWS Compute Optimizer from a designated account](https://aws.amazon.com/about-aws/whats-new/2022/08/optimize-resources-organization-aws-compute-optimizer-designated-account/)
 - [Amazon WorkSpaces Web is now available in Canada &lpar;Central&rpar;, Europe &lpar;Frankfurt&rpar;, and Europe &lpar;London&rpar; regions.](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-workspaces-web-available-canada-frankfurt-london-regions/)
 - [AWS Config now supports 20 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-config-supports-20-new-resource-types/)
-- [Amazon Personalize allows rule-based promotions in recommendations](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-personalize-rule-based-promotions-recommendations/)
-- [Amazon Personalize launches support for range queries on dynamic filters](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-personalize-range-queries-dynamic-filters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
