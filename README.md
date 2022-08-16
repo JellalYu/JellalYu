@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Interactive Video Service basic channels now support HD and Full HD inputs](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-interactive-video-service-basic-channels-support-hd-full-hd-inputs/)
 - [Amazon MSK Serverless is now integrated with AWS CloudFormation and Terraform](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-msk-serverless-integrated-aws-cloudformation-terraform/)
 - [AWS Glue Python Shell jobs now offer Python 3.9 and additional pre-loaded libraries](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-glue-python-shell-jobs-python-3-9-additional-pre-loaded-libraries/)
 - [Amazon Rekognition Custom Labels now supports autoscaling of inference units](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rekognition-custom-labels-supports-autoscaling-inference-units/)
 - [Amazon Kinesis Data Analytics is now available in Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-kinesis-data-analytics-available-asia-pacific-jakarta-region/)
-- [Amazon CloudFront now supports HTTP/3 powered by QUIC](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudfront-supports-http-3-quic/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
