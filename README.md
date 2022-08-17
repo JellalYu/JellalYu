@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Ground Station adds support for wideband Digital Intermediate Frequency in Africa &lpar;Cape Town&rpar;, Europe &lpar;Ireland&rpar;, and Asia Pacific &lpar;Singapore&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-ground-station-wideband-digital-intermediate-frequency-africa-cape-town-europe-ireland-asia-pacific-singapore/)
+- [Amazon EKS announces cluster-level cost allocation tagging](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eks-cluster-level-cost-allocation-tagging/)
 - [Amazon Lex now supports conditional branching for simplified dialog management](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-lex-conditional-branching-simplified-dialog-management/)
 - [AWS Trusted Advisor Priority is now generally available for AWS Enterprise Support customers](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-trusted-advisor-priority-enterprise-support-customers/)
 - [Amazon Redshift announces federated SSO support with ease of use and security capabilities enhancements for Query Editor V2.](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-redshift-federated-sso-security-enhancements-query-editor-v2/)
-- [Announcing AWS Resilience Hub support for Elastic Load Balancing and Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-resilience-hub-elastic-load-balancing-amazon-route-53-application-recovery-controller/)
-- [AWS Cost Anomaly Detection gets a simplified interface for anomaly exploration](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-cost-anomaly-detection-simplified-interface-anomaly-exploration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
