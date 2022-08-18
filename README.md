@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS PrivateLink announces integration with Amazon CloudWatch Contributor Insights](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-privatelink-integration-amazon-cloudwatch-contributor-insights/)
 - [Amazon DynamoDB now supports bulk imports from Amazon S3 to new DynamoDB tables](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-dynamodb-supports-bulk-imports-amazon-s3-new-dynamodb-tables/)
 - [AWS App Mesh is available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-app-mesh-available-additional-regions/)
 - [Amazon Chime SDK supports video compositing and merging &lpar;concatenation&rpar; for WebRTC media capture](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-video-compositing-merging-concatenation-webrtc-media-capture/)
 - [Amazon Personalize launches new recommender “Trending-Now” for Video on Demand domain](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-personalize-recommender-trending-now-video-on-demand-domain/)
-- [Center for Internet Security &lpar;CIS&rpar; Benchmark for Bottlerocket is now available](https://aws.amazon.com/about-aws/whats-new/2022/08/center-for-internet-security-bottlerocket-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
