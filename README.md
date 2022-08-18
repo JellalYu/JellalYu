@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS App Mesh is available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-app-mesh-available-additional-regions/)
+- [Amazon Personalize launches new recommender “Trending-Now” for Video on Demand domain](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-personalize-recommender-trending-now-video-on-demand-domain/)
 - [Amazon Chime SDK supports video compositing merging &lpar;concatenation&rpar; for WebRTC media capture](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-video-compositing-merging-concatenation-webrtc-media-capture/)
 - [Center for Internet Security &lpar;CIS&rpar; Benchmark for Bottlerocket is now available](https://aws.amazon.com/about-aws/whats-new/2022/08/center-for-internet-security-bottlerocket-available/)
 - [Amazon Chime SDK now supports streaming to Amazon IVS and Elemental MediaLive](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-streaming-ivs-elemental-medialive/)
-- [Amazon QuickSight launches redesigned dashboard experience](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-redesigned-dashboard-experience/)
-- [AWS Well-Architected Tool now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-well-architected-tool-available-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
