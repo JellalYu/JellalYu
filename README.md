@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Now capture AWS Site-to-Site VPN connection logs using Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-site-vpn-connection-logs-amazon-cloudwatch/)
+- [Smithy Interface Definition Language &lpar;IDL&rpar; 2.0 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/08/smithy-interface-definition-language-idl-2-0-generally-available/)
 - [AWS Control Tower customized log retention](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-control-tower-customized-log-retention/)
 - [AWS Cost Categories now support Out of Cycle cost categorization](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-cost-categories-out-of-cycle-cost-categorization/)
 - [AWS PrivateLink announces integration with Amazon CloudWatch Contributor Insights](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-privatelink-integration-amazon-cloudwatch-contributor-insights/)
-- [Amazon DynamoDB now supports bulk imports from Amazon S3 to new DynamoDB tables](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-dynamodb-supports-bulk-imports-amazon-s3-new-dynamodb-tables/)
-- [AWS App Mesh is available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-app-mesh-available-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
