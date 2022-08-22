@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS now supports setting up connectivity between your RDS database and EC2 compute instance in 1-click](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-setting-up-connectivity-rds-database-ec2-compute-instance-1-click/)
 - [Amazon Connect launches API to search for security profiles by permission, description, and tags](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-connect-launches-api-search-security-profiles-permission-description-tags/)
 - [Amazon Chime SDK now supports signaling client in C++](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-supports-signaling-client-c-plus-plus/)
 - [AWS Graviton2-based Amazon EC2 C6gd instances now available in South America &lpar;São Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-graviton2-based-amazon-ec2-c6gd-instances-available-south-america-sao-paulo-region/)
 - [Amazon MemoryDB for Redis is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-memorydb-redis-hipaa-eligible/)
-- [Now capture AWS Site-to-Site VPN connection logs using Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-site-vpn-connection-logs-amazon-cloudwatch/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
