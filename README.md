@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT SiteWise now supports non-unique asset names under different hierarchies](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-sitewise-non-unique-asset-names-different-hierarchies/)
 - [Amazon Polly now offers Neural TTS support for Mandarin Chinese](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-polly-neural-tts-support-mandarin-chinese/)
 - [Amazon SageMaker is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-available-aws-asia-pacific-jakarta-region/)
 - [Amazon RDS now supports setting up connectivity between your RDS database and EC2 compute instance in 1-click](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-setting-up-connectivity-rds-database-ec2-compute-instance-1-click/)
 - [Amazon Connect launches API to search for security profiles by permission, description, and tags](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-connect-launches-api-search-security-profiles-permission-description-tags/)
-- [Amazon Chime SDK now supports signaling client in C++](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-supports-signaling-client-c-plus-plus/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
