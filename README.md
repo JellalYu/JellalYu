@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Automatic Model Tuning now reuses SageMaker Training instances to reduce start-up overheads by 20x](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-automatic-model-tuning-reuses-sagemaker-training-instances-reduce-start-up-overheads/)
+- [Amazon RDS for Oracle now supports managed Oracle Data Guard Switchover and Automated Backups for read replicas](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-oracle-supports-managed-oracle-data-guard-switchover-automated-backups-replicas/)
 - [Amazon Location Service now supports refined access control for geofences and tracked devices](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-location-service-supports-refined-access-control-geofences-tracked-devices/)
 - [Amazon Forecast now supports what-if analyses](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-forecast-what-if-analyses/)
 - [AWS IoT SiteWise now supports non-unique asset names under different hierarchies](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-sitewise-non-unique-asset-names-different-hierarchies/)
-- [Amazon Polly now offers Neural TTS support for Mandarin Chinese](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-polly-neural-tts-support-mandarin-chinese/)
-- [Amazon SageMaker is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-available-aws-asia-pacific-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
