@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT TwinMaker launches enhancements for scaling digital twins and building data connectors](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-twinmaker-enhancements-scaling-digital-twins-data-connectors/)
 - [Announcing availability of AWS Outposts rack in Kenya and Oman](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-outposts-rack-kenya-oman/)
 - [Amazon CloudFront launches Origin Access Control &lpar;OAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudfront-origin-access-control/)
 - [Amazon Connect launches the ability to configure business operation days per week for capacity planning](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-connect-ability-configure-business-operation-days-week-capacity-planning/)
 - [Amazon QuickSight announces fine-grained visual embedding](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-announces-fine-grained-visual-embedding/)
-- [Customers can now pay upfront or with scheduled payments using AWS IQ](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iq-customers-pay-upfront-scheduled-payments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
