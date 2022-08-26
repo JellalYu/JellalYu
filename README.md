@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server now supports email subscription for SQL Server Reporting Services &lpar;SSRS&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-sql-server-email-subscription-sql-server-reporting-services/)
+- [AWS announces new edge locations in Vietnam](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-new-edge-locations-vietnam/)
+- [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/red-hat-openshift-service-aws-rosa-available-asia-pacific-jakarta-region/)
 - [Amazon GameLift now supports AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-gamelift-supports-aws-local-zones/)
 - [AWS IoT TwinMaker launches enhancements for scaling digital twins and building data connectors](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-twinmaker-enhancements-scaling-digital-twins-data-connectors/)
-- [Announcing availability of AWS Outposts rack in Kenya and Oman](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-outposts-rack-kenya-oman/)
-- [Amazon CloudFront launches Origin Access Control &lpar;OAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudfront-origin-access-control/)
-- [Amazon Connect launches the ability to configure business operation days per week for capacity planning](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-connect-ability-configure-business-operation-days-week-capacity-planning/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
