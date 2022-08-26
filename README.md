@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing support for Crawler history in AWS Glue](https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-crawler-history-aws-glue/)
 - [AWS Firewall Manager adds support for AWS Managed Rules for AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-firewall-manager-support-aws-managed-rules-aws-network-firewall/)
 - [Amazon SageMaker Automatic Model Tuning is now available in the Europe &lpar;Milan&rpar;, Africa &lpar;Cape Town&rpar;, Asia Pacific &lpar;Osaka&rpar;, and Asia Pacific &lpar;Jakarta&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-automatic-model-tuning-available-new-regions/)
 - [Amazon RDS for SQL Server now supports email subscription for SQL Server Reporting Services &lpar;SSRS&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-sql-server-email-subscription-sql-server-reporting-services/)
 - [AWS announces new edge locations in Vietnam](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-new-edge-locations-vietnam/)
-- [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/red-hat-openshift-service-aws-rosa-available-asia-pacific-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
