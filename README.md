@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Personalize expands the number of events considered by filters to make recommendations even more relevant](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-personalize-expands-number-events-filters-recommendations-relevant/)
+- [Amazon Route 53 Resolver Endpoints announces 99.99% Service Level Agreement and updates its Service Level Agreement for Route 53 hosted zones](https://aws.amazon.com/about-aws/whats-new/2022/08/announces-amazon-route-resolver-endpoints-service-level-agreement-updates-hosted-zones/)
 - [Amazon SageMaker Data Wrangler accelerates onboarding with sample dataset and guided feature discovery](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-data-wrangler-accelerates-onboarding-sample-dataset-guided-feature-discovery/)
 - [Amazon ElastiCache for Memcached is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-elasticache-memcached-hipaa-eligible/)
 - [Amazon AppFlow now supports Jira Cloud as a source](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-appflow-supports-jira-cloud-source/)
-- [Introducing AWS Application Discovery Service Agentless Collector, a new discovery tool for AWS Application Discovery Service](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-application-discovery-service-agentless-collector-discovery-tool-application-discovery-service/)
-- [AWS Security Hub launches announcements notification topic](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-security-hub-announcements-notification-topic/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
