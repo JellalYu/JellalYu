@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ElastiCache for Memcached is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-elasticache-memcached-hipaa-eligible/)
 - [Amazon AppFlow now supports Jira Cloud as a source](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-appflow-supports-jira-cloud-source/)
 - [Introducing AWS Application Discovery Service Agentless Collector, a new discovery tool for AWS Application Discovery Service](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-application-discovery-service-agentless-collector-discovery-tool-application-discovery-service/)
 - [AWS Security Hub launches announcements notification topic](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-security-hub-announcements-notification-topic/)
 - [Announcing support for Crawler history in AWS Glue](https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-crawler-history-aws-glue/)
-- [AWS Firewall Manager adds support for AWS Managed Rules for AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-firewall-manager-support-aws-managed-rules-aws-network-firewall/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
