@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AppFlow now supports Salesforce version 55.0 and additional AWS PrivateLink regions](https://aws.amazon.com/about-aws/whats-new/2022/08/appflow-supports-salesforce-version-55-0-additional-aws-privatelink-regions/)
+- [Amazon Macie adds ability to tune findings with allow lists, and enhances machine learning models to better identify sensitive data](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-macie-tune-findings-allow-lists-enhances-machine-learning-models-identify-sensitive-data/)
 - [Amazon RDS for Oracle now supports M6i and R6i instances in new regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-oracle-m6i-r6i-instances-new-regions/)
 - [Amazon QuickSight launches a new user interface for dataset management](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-launches-new-user-interface-dataset-management/)
 - [Announcing VMware Cloud on AWS integration with Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-vmware-cloud-aws-integration-amazon-fsx-netapp-ontap/)
-- [A new sign-in experience is now generally available for Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-new-sign-in-experience/)
-- [Amazon Personalize expands the number of events considered by filters to make recommendations even more relevant](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-personalize-expands-number-events-filters-recommendations-relevant/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
