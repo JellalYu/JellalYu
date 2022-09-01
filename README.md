@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing new AWS IAM Identity Center &lpar;successor to AWS SSO&rpar; APIs to manage users and groups at scale](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iam-identity-center-apis-manage-users-groups-scale/)
+- [AWS Directory Service for Microsoft Active Directory and AD Connector are now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-directory-service-microsoft-active-directory-ad-connector-jakarta-region/)
 - [Announcing Workload Consolidation for Karpenter](https://aws.amazon.com/about-aws/whats-new/2022/08/workload-consolidation-karpenter/)
 - [EBS Recycle Bin is now available in AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/08/ebs-recycle-bin-aws-govcloud-us-regions/)
 - [EBS Recycle Bin is now available in  the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/ebs-recycle-bin-asia-pacific-jakarta-region/)
-- [AWS Fargate announces availability of Microsoft Windows Server 2022 images for Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-fargate-microsoft-windows-server-2022-images-amazon-ecs/)
-- [AWS Step Functions adds 14 new intrinsic functions so you can process data more efficiently in workflows.](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-step-functions-14-new-intrinsic-features-process-data-workflows/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
