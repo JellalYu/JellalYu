@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS SAM CLI esbuild support is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-sam-cli-esbuild-support-available/)
 - [Amazon EBS adds the ability to take crash-consistent snapshots of a subset of EBS volumes attached  to an Amazon EC2 instance](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ebs-ability-take-crash-consistent-snapshots-subset-ebs-volumes-attached-amazon-ec2-instance/)
 - [Enterprise On-Ramp Support is now supported with AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2022/09/enterprise-on-ramp-supported-aws-outposts/)
 - [Amazon Inspector now supports Windows operating system &lpar;OS&rpar; for continual software vulnerability scanning of EC2 workloads](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-inspector-windows-os-continual-software-vulnerability-scanning-ec2-workloads/)
 - [Amazon Athena is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-athena-available-asia-pacific-jakarta-region/)
-- [Amazon RDS for PostgreSQL supports new minor version 14.4](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-postgresql-supports-new-minor-version-14-4/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
