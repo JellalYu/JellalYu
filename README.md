@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches AWS CloudFormation support for instance creation](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-aws-cloudformation-support-instance-creation/)
 - [Automate AWS Control Tower guardrail management through APIs](https://aws.amazon.com/about-aws/whats-new/2022/09/automate-aws-control-tower-guardrail-management-apis/)
 - [AWS GameKit adds Unity Support](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-gamekit-unity-support/)
 - [Custom forecast frequencies now supported in Amazon Forecast](https://aws.amazon.com/about-aws/whats-new/2022/09/custom-forecast-frequencies-supported-amazon-forecast/)
 - [Amazon SageMaker Autopilot now provides custom data split options along with an improved experience for creating  an AutoML experiment](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-autopilot-custom-data-split-improved-automl-experiment/)
-- [Amazon QuickSight Q Authors can now identify questions that Q did not answer or required user disambiguation to generate an answer](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-quicksight-q-authors-identify-questions-q-did-not-answer-required-user-disambiguation-generate-answer/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
