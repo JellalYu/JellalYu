@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Trusted Advisor adds check for Microsoft Windows Server end of support on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-trusted-advisor-check-microsoft-windows-server-end-of-support-amazon-ec2/)
+- [AWS Fargate is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-fargate-available-middle-east-uae-region/)
 - [Amazon Connect launches AWS CloudFormation support for instance creation](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-aws-cloudformation-support-instance-creation/)
 - [Automate AWS Control Tower guardrail management through APIs](https://aws.amazon.com/about-aws/whats-new/2022/09/automate-aws-control-tower-guardrail-management-apis/)
 - [AWS GameKit adds Unity Support](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-gamekit-unity-support/)
-- [Custom forecast frequencies now supported in Amazon Forecast](https://aws.amazon.com/about-aws/whats-new/2022/09/custom-forecast-frequencies-supported-amazon-forecast/)
-- [Amazon SageMaker Autopilot now provides custom data split options along with an improved experience for creating  an AutoML experiment](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-autopilot-custom-data-split-improved-automl-experiment/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
