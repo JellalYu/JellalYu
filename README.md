@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MemoryDB for Redis is now available in the AWS Europe &lpar;Paris and Milan&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-memorydb-redis-aws-europe-paris-milan-regions/)
 - [AWS Snowball is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-snowball-available-asia-pacific-jakarta-region/)
 - [Amazon Lookout for Metrics increases limits on number of measures and dimensions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-lookout-metrics-increases-limits-number-measures-dimensions/)
 - [Announcing new AWS Console Home widgets for recent AWS blog posts and launch announcements](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-console-home-widgets-blog-post-launch-announcements/)
 - [Easily process your data while using Amazon Lookout for metrics](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-lookout-metrics-easily-process-data/)
-- [Amazon Connect Voice ID now detects fraud risk from voice spoofing during customer calls](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-voice-id-detects-fraud-risk-voice-spoofing-customer-calls/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
