@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kinesis Data Analytics for Apache Flink supports three new container level metrics and improved CloudFormation support](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-kinesis-data-analytics-apache-flink-three-container-level-metrics-cloudformation-support/)
+- [Amazon SageMaker now supports deploying large models through configurable volume size and timeout quotas](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-deploying-large-models-volume-size-timeout-quotas/)
 - [Amazon Quicksight adds Missing Data control for line and area charts](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-quicksight-adds-missing-data-control-line-area-charts/)
 - [Amazon Cognito enables time-based-one-time-password &lpar;TOTP&rpar; self-enrollment in hosted UI](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-cognito-enables-time-based-one-time-password-totp-self-enrollment-hosted-ui/)
-- [Amazon WorkDocs adds support for Apple Silicon MacBooks](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-workdocs-support-apple-silicon-macbooks/)
 - [Amazon SNS introduces the public preview of message data protection to help discover and protect sensitive data in motion](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sns-preview-message-data-protection-sensitive-data-in-motion/)
-- [Amazon Virtual Private Cloud &lpar;VPC&rpar; Flow Logs can now be delivered to Amazon Kinesis Firehose](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-vpc-flow-logs-delivered-amazon-kinesis-firehose/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
