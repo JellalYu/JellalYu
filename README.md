@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SNS introduces the public preview of message data protection to help discover and protect sensitive data in motion](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sns-preview-message-data-protection-sensitive-data-in-motion/)
 - [Amazon Virtual Private Cloud &lpar;VPC&rpar; Flow Logs can now be delivered to Amazon Kinesis Firehose](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-vpc-flow-logs-delivered-amazon-kinesis-firehose/)
 - [AWS Security Hub launches 2 new security best practice controls](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-security-hub-2-new-security-best-practice-controls/)
 - [AWS Fargate announces migration of service quotas to vCPU-based quotas](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-fargate-announces-migration-service-quotas-vcpu-based/)
 - [Amazon SageMaker Canvas announces additional capabilities to explore and analyze data with advanced visualizations](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-canvas-additional-capabilities-explore-analyze-data-advanced-visualizations/)
-- [Introducing Seekable OCI for lazy loading container images](https://aws.amazon.com/about-aws/whats-new/2022/09/introducing-seekable-oci-lazy-loading-container-images/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
