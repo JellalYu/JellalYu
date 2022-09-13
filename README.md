@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [SageMaker Studio now supports Glue Interactive Sessions](https://aws.amazon.com/about-aws/whats-new/2022/09/sagemaker-studio-supports-glue-interactive-sessions/)
+- [AWS Graviton2-based Amazon EC2 C6gd instances now available in Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-graviton2-based-amazon-ec2-c6gd-instances-available-europe-stockholm-region/)
 - [Amazon SWF launches new console experience](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-swf-new-console-experience/)
 - [Amazon EC2 X2idn and X2iedn instances now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ec2-x2idn-x2iedn-instances-available-europe-paris-region/)
 - [Amazon FSx for Lustre is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-fsx-lustre-available-jakarta-region/)
-- [Announcing the composite slot type for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-lex-composite-slot-type/)
-- [AWS Firewall Manager adds support for AWS WAF custom requests and responses](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-firewall-manager-support-aws-waf-custom-requests-responses/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
