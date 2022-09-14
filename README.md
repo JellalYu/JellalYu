@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Customer Profiles now supports Amazon AppFlow connectors](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-customer-profiles-supports-amazon-appflow-connectors/)
 - [AWS Cloud Development Kit &lpar;CDK&rpar; announces CDK Construct tree view in the AWS CloudFormation console](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloud-development-kit-cdk-announces-cdk-construct-tree-view-cloudformation-console/)
 - [AWS Transfer Family now supports multiple host keys and key types per server](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-transfer-family-multiple-host-keys-types-server/)
 - [Amazon RDS Performance Insights now supports displaying top 25 SQL queries](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-performance-insights-displaying-top-25-sql-queries/)
 - [Amazon WorkSpaces is available in the  Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-workspaces-available-africa-cape-town-region/)
-- [Monitor Amazon EMR Serverless applications in near real-time with CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2022/09/monitor-amazon-emr-serverless-applications-near-real-time-cloudwatch-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
