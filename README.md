@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family now supports multiple host keys and key types per server](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-transfer-family-multiple-host-keys-types-server/)
 - [Amazon RDS Performance Insights now supports displaying top 25 SQL queries](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-performance-insights-displaying-top-25-sql-queries/)
 - [Amazon WorkSpaces is available in the  Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-workspaces-available-africa-cape-town-region/)
 - [Monitor Amazon EMR Serverless applications in near real-time with CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2022/09/monitor-amazon-emr-serverless-applications-near-real-time-cloudwatch-metrics/)
 - [SageMaker Studio now supports Glue Interactive Sessions](https://aws.amazon.com/about-aws/whats-new/2022/09/sagemaker-studio-supports-glue-interactive-sessions/)
-- [AWS Graviton2-based Amazon EC2 C6gd instances now available in Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-graviton2-based-amazon-ec2-c6gd-instances-available-europe-stockholm-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
