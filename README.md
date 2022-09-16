@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS now delivers a faster Cluster Auto Scaling experience for scale-in events](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-faster-cluster-auto-scaling-experience-scale-in-events/)
+- [AWS Batch extends the job report retention period from 24 hours to 7 days](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-batch-extends-job-report-retention-period-24-hours-7-days/)
 - [Amazon RDS for MariaDB supports new minor versions 10.5.17, 10.4.26, 10.3.36](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-mariadb-new-minor-versions/)
 - [AWS App Runner now supports deployment using cross-region Amazon ECR image](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-deployment-cross-region-amazon-ecr-image/)
 - [AWS Fargate increases compute and memory resource configurations by 4x](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-fargate-increases-compute-memory-resource-configurations-4x/)
-- [Amazon SageMaker Automatic Model Tuning now provides up to 3x faster hyperparameter tuning with Hyperband as a new search strategy](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-automatic-model-tuning-provides-faster-hyperparameter-tuning-hyperband-search-strategy/)
-- [AWS IoT TwinMaker Launches v1.2.0 of the TwinMaker Grafana Plugin](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iot-twinmaker-launches-v-1-2-0-twinmaker-grafana-plugin/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
