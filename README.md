@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT TwinMaker Launches v1.2.0 of the TwinMaker Grafana Plugin](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iot-twinmaker-launches-v-1-2-0-twinmaker-grafana-plugin/)
 - [AWS PrivateLink announces enhanced tagging capability for service owners](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-privatelink-announces-enhanced-tagging-capability-service-owners/)
 - [Local gateway ingress routing for AWS Outposts rack is now available](https://aws.amazon.com/about-aws/whats-new/2022/09/local-gateway-ingress-routing-aws-outposts-rack-now-available/)
 - [AWS Systems Manager now supports patching newer versions of SUSE Linux Enterprise Server, Oracle Linux, and Red Hat Enterprise Linux](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-systems-manager-newer-versions-suse-linux-enterprise-server-oracle-linux-red-hat-enterprise-linux/)
 - [FreeRTOS Extended Maintenance Plan registration now open](https://aws.amazon.com/about-aws/whats-new/2022/09/freertos-extended-maintenance-plan-registration-open/)
-- [AWS Enterprise Support launches AWS Incident Detection and Response](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-enterprise-support-aws-incident-detection-response/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
