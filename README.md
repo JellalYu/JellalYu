@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces enhanced system logs with consistent durability](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-redshift-announces-enhanced-system-logs-consistent-durability/)
+- [AWS CloudTrail Lake now supports import of CloudTrail Logs from Amazon S3](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudtrail-lake-supports-import-cloudtrail-logs-s3/)
 - [AWS Elemental MediaLive adds encoding for Dolby Atmos and Dolby Vision](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-elemental-medialive-adds-encoding-dolby-atmos-vision/)
 - [Amazon SNS now supports message signatures based on SHA256 hashing](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sns-supports-message-signatures-based-sha256-hashing/)
 - [Amazon RDS Proxy now supports Amazon RDS for SQL Server](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-proxy-rds-sql-server/)
-- [Amazon EMR on EKS now supports Spark SQL through the StartJobRun API](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-emr-eks-supports-spark-sql-through-startjobrun-api/)
-- [Easily install and update the CloudWatch Agent with Quick Setup](https://aws.amazon.com/about-aws/whats-new/2022/09/easily-install-update-cloudwatch-agent-quick-setup/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
