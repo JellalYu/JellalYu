@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Health Dashboard displays localized dates and times for Service Health events](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-health-dashboard-displays-localized-dates-times-service-health-events/)
+- [Amazon Route 53 announces support for DNS resource record set permissions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-route-53-support-dns-resource-record-set-permissions/)
+- [AWS CloudFormation event notifications is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudformation-event-notifications-available-jakarta-region/)
 - [Announcing availability of AWS Outposts rack in Kazakhstan and Serbia](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-outposts-rack-kazakhstan-serbia/)
 - [Announcing preview of AWS DataSync Discovery](https://aws.amazon.com/about-aws/whats-new/2022/09/preview-aws-datasync-discovery/)
-- [AWS IoT SiteWise now supports definition of asset measurement units at the asset level](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iot-sitewise-supports-definition-asset-measurement-units-asset-level/)
-- [Amazon EMR Studio is now available in Amazon Web Services China Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-emr-studio-available-china-regions/)
-- [Amazon S3 on Outposts now supports object versioning](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-s3-outposts-supports-object-versioning/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
