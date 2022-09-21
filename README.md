@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elastic Disaster Recovery is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-elastic-disaster-recovery-available-asia-pacific-jakarta-region/)
 - [AWS IoT Device Management Secure Tunneling now supports simultaneous TCP connections](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iot-device-management-secure-tunneling-tcp-connections/)
 - [Amazon Corretto 19 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-corretto-19-available/)
 - [AWS Elemental MediaConnect adds support for SRT caller mode](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-elemental-mediaconnect-support-srt-caller-mode/)
 - [Amazon SageMaker Automatic Model Tuning is now available through SageMaker Search](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-automatic-model-tuning-available-sagemaker-search/)
-- [Announcing local clusters for Amazon EKS on Outposts](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-eks-outposts-local-clusters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
