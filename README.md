@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora supports in-place upgrades from MySQL 5.7 to 8.0](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-aurora-supports-in-place-upgrades-mysql-5-7-8-0/)
 - [Amazon Textract announces self-service quota management and higher default quotas in select AWS Regions.](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-textract-self-service-quota-management-higher-default-quotas-select-regions/)
 - [Amazon Connect now provides a queue dashboard](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-provides-queue-dashboard/)
 - [Amazon MSK Serverless is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-msk-serverless-hipaa-eligible/)
 - [AWS App Runner now supports Node.js 16 managed runtime](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-supports-node-js-managed-runtime/)
-- [Amazon Textract announces updates to the text extraction feature](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-textract-updates-text-extraction-feature/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
