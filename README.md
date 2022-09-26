@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS App Runner now supports Node.js 16 managed runtime](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-supports-node-js-managed-runtime/)
 - [Amazon Textract announces updates to the text extraction feature](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-textract-updates-text-extraction-feature/)
 - [Amazon FSx for Windows File Server now provides additional performance metrics and enhanced monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-fsx-windows-file-server-additional-performance-metrics-enhanced-dashboard/)
 - [Introducing the Smart City Competency program](https://aws.amazon.com/about-aws/whats-new/2022/09/smart-city-competency-program/)
 - [Amazon Polly NTTS voices now available in the AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-polly-ntts-voices-available-paris-region/)
-- [Amazon SageMaker Data Wrangler launches new advanced settings for Amazon Athena data sources](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-data-wrangle-launches-advanced-settings-amazon-athena-data-sources/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
