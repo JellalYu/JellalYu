@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing 1-Click templates and tutorials in AWS Budgets](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-budgets-1-click-templates-tutorials/)
+- [AWS IoT FleetWise is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iot-fleetwise-now-generally-available/)
 - [Amazon Connect launches updated flows UI and improved flow language](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-updated-flows-ui-improved-flow-language/)
 - [Amazon Aurora supports in-place upgrades from MySQL 5.7 to 8.0](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-aurora-supports-in-place-upgrades-mysql-5-7-8-0/)
 - [Amazon Textract announces self-service quota management and higher default quotas in select AWS Regions.](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-textract-self-service-quota-management-higher-default-quotas-select-regions/)
-- [Amazon Connect now provides a queue dashboard](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-provides-queue-dashboard/)
-- [Amazon MSK Serverless is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-msk-serverless-hipaa-eligible/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
