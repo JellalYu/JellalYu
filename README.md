@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Is4gen and Im4gn Instances are now available in Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-is4gen-im4gn-instances-available-asia-pacific-tokyo-region/)
+- [AWS Cost Categories now support retroactive rules application](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cost-categories-support-retroactive-rules-application/)
 - [Amazon DevOps Guru for RDS now available in seven more regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-devops-guru-rds-seven-regions/)
 - [Announcing unique place IDs for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/09/unique-place-ids-amazon-location-service/)
 - [AWS Copilot, a CLI for the containerized apps, adds IAM permission boundaries and more](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-copilot-cli-containerized-apps-iam-permission-boundaries/)
-- [Amazon EMR Serverless is now available in 12 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-emr-serverless-available-additional-aws-regions/)
-- [Amazon DevOps Guru now available in seven additional regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-devops-guru-available-seven-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
