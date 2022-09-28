@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Certificate Manager Private Certificate Authority is now AWS Private Certificate Authority](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-certificate-manager-private-certificate-authority-now-aws-private-ca/)
 - [Amazon SageMaker Canvas is now available in the Asia Pacific &lpar;Mumbai&rpar;, Asia Pacific &lpar;Seoul&rpar;, Asia Pacific &lpar;Singapore&rpar;, and Australia &lpar;Sydney&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-canvas-available-mumbai-seoul-singapore-sydney-regions/)
 - [Amazon S3 Replication Time Control for predictable replication time now available in the AWS China &lpar;Beijing&rpar; and AWS China &lpar;Ningxia&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-s3-replication-time-control-predictable-replication-beijing-ningxia-regions/)
 - [Amazon Kendra releases Dropbox connector](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-kendra-releases-dropbox-connector/)
 - [Amazon EC2 Is4gen and Im4gn Instances are now available in Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-is4gen-im4gn-instances-available-asia-pacific-tokyo-region/)
-- [AWS Cost Categories now support retroactive rules application](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cost-categories-support-retroactive-rules-application/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
