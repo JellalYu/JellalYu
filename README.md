@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS X-Ray launches support for tracing PHP applications via OpenTelemetry in public preview](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-x-ray-support-tracing-php-applications-opentelemetry-public-preview/)
+- [AWS Compute Optimizer now supports 37 new EC2 instance types and new memory metrics for Windows instances](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-compute-optimizer-37-new-ec2-instance-types-memory-metrics-windows/)
 - [AWS announces Amazon WorkSpaces Core](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-announces-amazon-workspaces-core/)
 - [AWS introduces Ubuntu Desktop for Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-introduces-ubuntu-desktop-amazon-workspaces/)
 - [Amazon SageMaker Canvas supports mathematical functions and operators for richer data exploration](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-canvas-mathematical-functions-operators-richer-data-exploration/)
-- [Bottlerocket is now supported by Amazon Inspector](https://aws.amazon.com/about-aws/whats-new/2022/09/bottlerocket-supported-amazon-inspector/)
-- [Snow Amazon Linux 2 &lpar;AL2&rpar; Amazon Machine Image &lpar;AMI&rpar; available on all Snow Family jobs](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-snow-linux-2-ami-snow-family-jobs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
