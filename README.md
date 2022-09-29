@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudShell is now available in the South America &lpar;São Paulo&rpar;, Canada &lpar;Central&rpar;, and Europe &lpar;London&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudshell-available-south-america-sao-paulo-canada-central-europe-london-regions/)
 - [Amazon Managed Streaming for Apache Kafka &lpar;Amazon MSK&rpar; is now available in Asia Pacific &lpar;Jakarta&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-managed-streaming-apache-kafka-amazon-msk-available-asia-pacific-jakarta-aws-region/)
 - [AWS Cloud Control API now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloud-control-api-supports-aws-privatelink/)
 - [AWS X-Ray launches support for tracing PHP applications via OpenTelemetry in public preview](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-x-ray-support-tracing-php-applications-opentelemetry-public-preview/)
 - [AWS Compute Optimizer now supports 37 new EC2 instance types and new memory metrics for Windows instances](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-compute-optimizer-37-new-ec2-instance-types-memory-metrics-windows/)
-- [AWS announces Amazon WorkSpaces Core](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-announces-amazon-workspaces-core/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
