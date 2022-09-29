@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Snow Amazon Linux 2 &lpar;AL2&rpar; Amazon Machine Image &lpar;AMI&rpar; available on all Snow Family jobs](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-snow-linux-2-ami-snow-family-jobs/)
 - [Amazon EBS Snapshots increases default limit for in-progress EBS Snapshot Archives per account to 25 per region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ebs-snapshots-increases-limit-in-progress-snapshot-archive-25-region/)
 - [AWS Certificate Manager Private Certificate Authority is now AWS Private Certificate Authority](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-certificate-manager-private-certificate-authority-now-aws-private-ca/)
 - [Amazon SageMaker Canvas is now available in the Asia Pacific &lpar;Mumbai&rpar;, Asia Pacific &lpar;Seoul&rpar;, Asia Pacific &lpar;Singapore&rpar;, and Australia &lpar;Sydney&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-canvas-available-mumbai-seoul-singapore-sydney-regions/)
 - [Amazon S3 Replication Time Control for predictable replication time now available in the AWS China &lpar;Beijing&rpar; and AWS China &lpar;Ningxia&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-s3-replication-time-control-predictable-replication-beijing-ningxia-regions/)
-- [Amazon Kendra releases Dropbox connector](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-kendra-releases-dropbox-connector/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
