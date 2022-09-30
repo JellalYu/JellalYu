@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Service Catalog console makes improvements on usability](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-service-catalog-improvements-usability/)
 - [AWS Cloud Map Updates Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloud-map-updates-sevice-level-agreement/)
 - [Amazon RDS for MySQL supports new minor version 5.7.39](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-mysql-supports-new-minor-version-5-7-39/)
 - [Reduce ML Model Training Job startup time by up to 8x using SageMaker Training Managed Warm Pools](https://aws.amazon.com/about-aws/whats-new/2022/09/reduce-ml-model-training-job-startup-time-8x-sagemaker-training-managed-warm-pools/)
 - [AWS announces updated Support Plans Console with new IAM controls](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-updated-support-plans-console-new-iam-controls/)
-- [Amazon SageMaker Autopilot now includes Amazon SageMaker Data Wrangler feature transforms when deploying models for inference](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-autopilot-data-wrangler-feature-transforms-models-inference/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
