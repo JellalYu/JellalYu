@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MariaDB supports new minor version 10.6.10](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-mariadb-supports-new-minor-version-10-6-10/)
 - [AWS Systems Manager adds CloudWatch Alarms to control tasks](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-systems-manager-adds-cloudwatch-alarms-control-tasks/)
 - [Amazon File Cache is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-file-cache-generally-available/)
 - [AWS CloudShell is now available in the South America &lpar;São Paulo&rpar;, Canada &lpar;Central&rpar;, and Europe &lpar;London&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudshell-available-south-america-sao-paulo-canada-central-europe-london-regions/)
 - [Amazon Managed Streaming for Apache Kafka &lpar;Amazon MSK&rpar; is now available in Asia Pacific &lpar;Jakarta&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-managed-streaming-apache-kafka-amazon-msk-available-asia-pacific-jakarta-aws-region/)
-- [AWS Cloud Control API now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloud-control-api-supports-aws-privatelink/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
