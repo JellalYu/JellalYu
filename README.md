@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS Service Discovery now available in the Asia Pacific &lpar;Osaka&rpar; and Asia Pacific &lpar;Jakarta&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-service-discovery-available-osaka-jakarta-regions/)
 - [Amazon Data Lifecycle Manager now automates archival of EBS Snapshots](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-data-lifecycle-manager-automates-archival-ebs-snapshots/)
 - [Amazon Connect launches Amazon CloudWatch support for third-party integrations for Wisdom, Tasks, and Customer profiles](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-amazon-cloudwatch-third-party-integrations-wisdom-task-profiles/)
 - [AWS Service Catalog console makes improvements on usability](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-service-catalog-improvements-usability/)
 - [AWS Cloud Map Updates Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloud-map-updates-sevice-level-agreement/)
-- [Amazon RDS for MySQL supports new minor version 5.7.39](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-mysql-supports-new-minor-version-5-7-39/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
