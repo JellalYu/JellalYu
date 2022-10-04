@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup Launches New Backup Vault Lock Console Experience](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-backup-launches-new-backup-vault-lock-console-experience/)
 - [Amazon S3 Object Lambda now supports using your own code to modify the results of S3 HEAD and LIST API requests](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-s3-object-lambda-code-modify-results-s3-head-list-api-requests/)
 - [Amazon Nimble Studio announces availability of Windows Server 2022 base image](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-nimble-studio-availability-windows-server-2022-base-image/)
 - [Amazon Virtual Private Cloud &lpar;VPC&rpar; now supports two new CloudWatch metrics to measure and track network address usage](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-virtual-private-cloud-vpc-now-supports-new-cloudwatch-metrics-measure-track-network-address-usage/)
 - [AWS IoT SiteWise increasing quota limit for Assets and Asset Models](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-iot-sitewise-quota-limit-assests-asset-models/)
-- [IAM Access Analyzer makes it easier to author and validate role trust policies](https://aws.amazon.com/about-aws/whats-new/2022/10/iam-access-analyzer-author-validate-role-trust-policies/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
