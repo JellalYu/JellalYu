@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Translate now adds formality customization support for Dutch, Korean, and Mexican Spanish](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-translate-formality-customization-support-dutch-korean-mexican-spanish/)
+- [Announcing the general availability of AWS Local Zones in Delhi and Taipei](https://aws.amazon.com/about-aws/whats-new/2022/10/general-availability-aws-local-zones-delhi-taipei/)
 - [Amazon SageMaker Clarify now can provide near real-time explanations for ML predictions](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-clarify-provides-near-real-time-explanations-ml-predictions/)
 - [Amazon Aurora Serverless v2 now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-serverless-v2-supports-aws-cloudformation/)
 - [AWS Budgets now supports filtering by Invoicing Entity and Legal Entity](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-budgets-supports-filtering-invoicing-entity-legal-entity/)
-- [Amazon SQS announces Server-Side Encryption with Amazon SQS-managed encryption keys &lpar;SSE-SQS&rpar; by default](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sqs-announces-server-side-encryption-ssq-managed-sse-sqs-default/)
-- [Amazon WorkMail now supports Impersonation Roles](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-workmail-supports-impersonation-roles/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
