@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Serverless v2 now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-serverless-v2-supports-aws-cloudformation/)
 - [AWS Budgets now supports filtering by Invoicing Entity and Legal Entity](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-budgets-supports-filtering-invoicing-entity-legal-entity/)
 - [Amazon SQS announces Server-Side Encryption with Amazon SQS-managed encryption keys &lpar;SSE-SQS&rpar; by default](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sqs-announces-server-side-encryption-ssq-managed-sse-sqs-default/)
 - [Amazon WorkMail now supports Impersonation Roles](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-workmail-supports-impersonation-roles/)
 - [Amazon Redshift Serverless now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-redshift-serverless-supports-resource-tagging/)
-- [AWS Cloud WAN is now available in AWS Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloud-wan-available-asia-pacific-seoul-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
