@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Incident Manager from AWS Systems Manager now streamlines responses to Jira Service Management &lpar;JSM&rpar;  Incidents](https://aws.amazon.com/about-aws/whats-new/2022/10/incident-manager-aws-systems-manager-streamlines-response-jira-service-management-jsm-incidents/)
+- [Amazon Pinpoint is now in the US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-pinpoint-us-east-ohio-region/)
+- [Amazon Connect reduces telephony pricing across LATAM and Europe](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-connect-reduces-telephony-pricing-across-latam-europe/)
 - [AWS Config now supports 15 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-config-15-new-resource-types/)
 - [IAM Access Analyzer now reviews your AWS CloudTrail history to identify actions used across 140 AWS services and generates fine-grained policies](https://aws.amazon.com/about-aws/whats-new/2022/10/iam-access-analyzer-cloudtrail-history-identify-actions-140-aws-services-fine-grained-policies/)
-- [Amazon Translate now adds formality customization support for Dutch, Korean, and Mexican Spanish](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-translate-formality-customization-support-dutch-korean-mexican-spanish/)
-- [Announcing the general availability of AWS Local Zones in Delhi and Taipei](https://aws.amazon.com/about-aws/whats-new/2022/10/general-availability-aws-local-zones-delhi-taipei/)
-- [Amazon SageMaker Clarify now can provide near real-time explanations for ML predictions](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-clarify-provides-near-real-time-explanations-ml-predictions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
