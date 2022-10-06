@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Incident Manager from AWS Systems Manager now streamlines responses to Jira Service Management &lpar;JSM&rpar;  Incidents](https://aws.amazon.com/about-aws/whats-new/2022/10/incident-manager-aws-systems-manager-streamlines-response-jira-service-management-jsm-incidents/)
-- [Amazon Pinpoint is now in the US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-pinpoint-us-east-ohio-region/)
-- [Amazon Connect reduces telephony pricing across LATAM and Europe](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-connect-reduces-telephony-pricing-across-latam-europe/)
-- [AWS Config now supports 15 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-config-15-new-resource-types/)
-- [IAM Access Analyzer now reviews your AWS CloudTrail history to identify actions used across 140 AWS services and generates fine-grained policies](https://aws.amazon.com/about-aws/whats-new/2022/10/iam-access-analyzer-cloudtrail-history-identify-actions-140-aws-services-fine-grained-policies/)
+- [AWS Lambda Functions powered by AWS Graviton2 now available in 12 additional regions](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-lambda-functions-graviton2-12-regions/)
+- [AWS Storage Gateway simplifies creating new gateways and alarms](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-storage-gateway-simplifies-gateways-alarms/)
+- [AWS Storage Gateway now supports 15 TiB tapes](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-storage-gateway-15-tib-tapes/)
+- [AWS Storage Gateway increases cloud upload and download performance by up to 2x for Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-storage-gateway-increases-cloud-upload-download-performance-2x-tape-gateway/)
+- [Amazon GuardDuty is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-guardduty-available-middle-east-uae-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
