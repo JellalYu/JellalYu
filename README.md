@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Log announces increased query concurrency](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-cloudwatch-log-announces-increased-query-concurrency/)
 - [Amazon Chime announces new mobile apps with features to improve your meeting experience](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-chime-announces-mobile-apps-features-improve-meeting-experience/)
 - [AWS IQ now supports partners and independent consultants in Australia, Europe, Japan, and other regions](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-iq-supports-partners-independent-consultants-australia-europe-japan-other-regions/)
 - [Amazon ECS launches additional metadata attributes for tasks running on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ecs-metadata-attributes-tasks-running-amazon-ec2/)
 - [AWS Global Accelerator launches two new edge locations](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-global-accelerator-launches-two-new-edge-locations/)
-- [Amazon Detective improves search by supporting case insensitivity](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-detective-improves-search-case-insensitivity/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
