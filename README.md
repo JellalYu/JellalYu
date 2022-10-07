@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime announces new mobile apps with features to improve your meeting experience](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-chime-announces-mobile-apps-features-improve-meeting-experience/)
+- [AWS IQ now supports partners and independent consultants in Australia, Europe, Japan, and other regions](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-iq-supports-partners-independent-consultants-australia-europe-japan-other-regions/)
+- [Amazon ECS launches additional metadata attributes for tasks running on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ecs-metadata-attributes-tasks-running-amazon-ec2/)
 - [AWS Global Accelerator launches two new edge locations](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-global-accelerator-launches-two-new-edge-locations/)
 - [Amazon Detective improves search by supporting case insensitivity](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-detective-improves-search-case-insensitivity/)
-- [Amazon AppStream 2.0 now supports creating Linux Images using Graphical User Interface &lpar;GUI&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-appstream-2-0-supports-linux-images-gui/)
-- [Amazon AppStream 2.0 now supports webcams while streaming Linux applications and desktops](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-appstream-2-0-webcams-streaming-linux-applications-desktops/)
-- [AWS announces AWS SAM serverless connectors](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-sam-serverless-connectors/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
