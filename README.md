@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Achieve faster database failover with Amazon Web Services JDBC Driver for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-jdbc-driver-postgresql-faster-database-failover/)
 - [AWS Lambda Functions powered by AWS Graviton2 now available in 12 additional regions](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-lambda-functions-graviton2-12-regions/)
 - [AWS Storage Gateway simplifies creating new gateways and alarms](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-storage-gateway-simplifies-gateways-alarms/)
 - [AWS Storage Gateway now supports 15 TiB tapes](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-storage-gateway-15-tib-tapes/)
 - [AWS Storage Gateway increases cloud upload and download performance by up to 2x for Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-storage-gateway-increases-cloud-upload-download-performance-2x-tape-gateway/)
-- [Amazon GuardDuty is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-guardduty-available-middle-east-uae-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
