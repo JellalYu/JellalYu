@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Global Accelerator launches two new edge locations](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-global-accelerator-launches-two-new-edge-locations/)
 - [Amazon Detective improves search by supporting case insensitivity](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-detective-improves-search-case-insensitivity/)
 - [Amazon AppStream 2.0 now supports creating Linux Images using Graphical User Interface &lpar;GUI&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-appstream-2-0-supports-linux-images-gui/)
 - [Amazon AppStream 2.0 now supports webcams while streaming Linux applications and desktops](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-appstream-2-0-webcams-streaming-linux-applications-desktops/)
 - [AWS announces AWS SAM serverless connectors](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-sam-serverless-connectors/)
-- [Achieve faster database failover with Amazon Web Services JDBC Driver for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-jdbc-driver-postgresql-faster-database-failover/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
