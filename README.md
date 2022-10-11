@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Activate is now open to all startups](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-activate-now-open-startups/)
+- [AWS CloudFormation StackSets increases limits on three service quotas](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloudformation-stacksets-increases-limits-three-service-quotas/)
 - [Announcing Amazon EC2 Trn1 instances for high-performance, cost-effective deep learning training](https://aws.amazon.com/about-aws/whats-new/2022/10/ec2-trn1-instances-high-performance-cost-effective-deep-learning-training/)
 - [AWS Neuron adds support for Amazon EC2 Trn1 instances to unlock high-performance, cost-effective deep learning training at scale](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-neuron-amazon-ec2-trn1-instances-high-performance-cost-effective-deep-learning-training-scale/)
 - [Spot Instance interruptions can now be tested directly from Amazon EC2 console via AWS Fault Injection Simulator integration](https://aws.amazon.com/about-aws/whats-new/2022/10/spot-instance-interruptions-tested-amazon-ec2-console-fault-injection-simulator-integration/)
-- [Amazon QuickSight Q now supports questions for access restricted datasets that use Row level Security &lpar;RLS&rpar; with user based rules](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-quicksight-q-access-restricted-datasets-row-level-security-user-based-rules/)
-- [Amazon CloudWatch Log announces increased query concurrency](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-cloudwatch-log-announces-increased-query-concurrency/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
