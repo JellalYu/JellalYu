@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing a new Cost Explorer console experience](https://aws.amazon.com/about-aws/whats-new/2022/10/new-cost-explorer-console-experience/)
 - [Amazon EC2 C6gn instances are now available in additional region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-c6gn-instances-now-available-additional-region/)
 - [AWS Activate is now open to all startups](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-activate-now-open-startups/)
 - [Amazon EC2 now offers an automated connection set-up solution between EC2 instance and RDS Database](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-automated-connection-solution-ec2-instance-rds-database/)
 - [AWS CloudFormation StackSets increases limits on three service quotas](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloudformation-stacksets-increases-limits-three-service-quotas/)
-- [Announcing Amazon EC2 Trn1 instances for high-performance, cost-effective deep learning training](https://aws.amazon.com/about-aws/whats-new/2022/10/ec2-trn1-instances-high-performance-cost-effective-deep-learning-training/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
