@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Athena announces upgraded query engine](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-athena-announces-upgraded-query-engine/)
+- [Monitor Amazon EMR Serverless jobs in real-time with native Spark and Hive Tez UI](https://aws.amazon.com/about-aws/whats-new/2022/10/monitor-amazon-emr-serverless-jobs-real-time-native-spark-hiv-tez-ui/)
+- [Improve availability of SAP HANA systems on AWS with Host Auto-Failover](https://aws.amazon.com/about-aws/whats-new/2022/10/improve-availability-sap-hana-systems-aws-host-auto-failover/)
 - [AWS Gateway Load Balancer launches new option to rebalance flows when target fails or deregisters](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-gateway-load-balancer-launches-new-option-rebalance-flows-target-fails-deregisters/)
 - [AWS Launch Wizard now automates deployment of SAP Solution Manager](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-launch-wizard-now-automates-deployment-sap-solution-manager/)
-- [Announcing a new Cost Explorer console experience](https://aws.amazon.com/about-aws/whats-new/2022/10/new-cost-explorer-console-experience/)
-- [Amazon EC2 C6gn instances are now available in additional region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-c6gn-instances-now-available-additional-region/)
-- [AWS Activate is now open to all startups](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-activate-now-open-startups/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
