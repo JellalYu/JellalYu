@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda now supports event filtering for Amazon MSK, Self-Manged Kafka, Amazon MQ for Apache ActiveMQ, and Amazon MQ for RabbitMQ as event sources](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-lambda-event-filtering-amazon-msk-kafka-mq-apache-activemq-amazon-mq-rabbit-mq/)
 - [RStudio on Amazon SageMaker now comes with new developer productivity and security capabilities](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-rstudio-developer-productivity-security-capabilities/)
 - [Amazon Athena announces upgraded query engine](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-athena-announces-upgraded-query-engine/)
 - [Monitor Amazon EMR Serverless jobs in real-time with native Spark and Hive Tez UI](https://aws.amazon.com/about-aws/whats-new/2022/10/monitor-amazon-emr-serverless-jobs-real-time-native-spark-hiv-tez-ui/)
 - [Improve availability of SAP HANA systems on AWS with Host Auto-Failover](https://aws.amazon.com/about-aws/whats-new/2022/10/improve-availability-sap-hana-systems-aws-host-auto-failover/)
-- [AWS Gateway Load Balancer launches new option to rebalance flows when target fails or deregisters](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-gateway-load-balancer-launches-new-option-rebalance-flows-target-fails-deregisters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
