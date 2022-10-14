@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS SAM CLI Pipelines now supports Open ID Connect Protocol](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-sam-cli-pipelines-open-id-connect-protocol/)
+- [Amazon EC2 High Memory instances are now available in Asia Pacific &lpar;Singapore&rpar;, Canada &lpar;Central&rpar;, and AWS GovCloud &lpar;US-East&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-high-memory-instances-singapore-canada-govcloud-east-regions/)
+- [AWS Transfer Family now supports post-upload processing of partially uploaded files](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-transfer-family-supports-post-upload-processing-partially-uploaded-files/)
 - [AWS Managed Microsoft AD is now available on Windows Server 2019](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-managed-microsoft-ad-available-windows-server-2019/)
 - [Amazon EC2 adds Service Quotas for Amazon Machine Images &lpar;AMIs&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-service-quotas-amazon-machine-images-amis/)
-- [AWS Glue introduces Git integration](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-glue-git-integration/)
-- [Amazon Aurora supports PostgreSQL 14.4 version](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-postgresql-14-4-version/)
-- [Amazon EC2 Auto Scaling now supports Predictive Scaling in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-auto-scaling-predictive-scaling-asia-pacific-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
