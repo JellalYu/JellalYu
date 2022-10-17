@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Detective helps reduce time to investigate Amazon GuardDuty findings by grouping related findings](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-detective-reduce-time-investigate-amazon-guardduty-findings-grouping-related-findings/)
 - [Announcing increased AWS IAM Identity Center default quota values](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-iam-identity-center-default-quota-values-increased/)
 - [New FreeRTOS Long Term Support version released](https://aws.amazon.com/about-aws/whats-new/2022/10/new-freertos-long-term-support-version-released/)
 - [Amazon Lex launches support for Hindi and Dutch](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-lex-support-hindi-dutch/)
 - [Amazon RDS for SQL Server Supports minor versions 2014 SP3 CU4, 2016 SP3 GDR, 2017 CU 30, and 2019 CU16](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-sql-server-supports-minor-versions-2014-2016-2017-2019/)
-- [Amazon RDS now supports automating connectivity set up between an existing RDS or Aurora database and an EC2 compute instance](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-automating-connectivity-set-up-existing-rds-aurora-database-ec2-compute-instance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
