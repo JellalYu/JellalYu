@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Wisdom now delivers improved machine learning capabilities](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-connect-wisdom-delivers-improved-machine-learning-capabilities/)
+- [PostgreSQL 15 Release Candidate 2 is now available in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2022/10/postgresql-15-candidate-2-amazon-rds-database-preview-environment/)
 - [Announcing Red Hat Enterprise Linux &lpar;RHEL&rpar; Workstation on AWS](https://aws.amazon.com/about-aws/whats-new/2022/10/red-hat-enterprise-linux-rhel-workstation-aws/)
 - [Refit transforms to prepare data at scale with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/10/refit-transforms-data-scale-amazon-sagemaker-data-wrangler/)
 - [AWS Database Migration Service now supports C6i and R6i instances](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-database-migration-service-supports-c6i-r6i-instances/)
-- [Amazon Detective helps reduce time to investigate Amazon GuardDuty findings by grouping related findings](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-detective-reduce-time-investigate-amazon-guardduty-findings-grouping-related-findings/)
-- [Announcing increased AWS IAM Identity Center default quota values](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-iam-identity-center-default-quota-values-increased/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
