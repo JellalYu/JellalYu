@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Remote Reboot for AWS Panorama](https://aws.amazon.com/about-aws/whats-new/2022/10/remote-reboot-aws-panorama/)
+- [Announcing Camera Stream Pause and Resume on AWS Panorama](https://aws.amazon.com/about-aws/whats-new/2022/10/camera-stream-pause-resume-aws-panorama/)
+- [Amazon WorkDocs adds support for Apple Silicon MacBooks](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-workdocs-support-apple-silicon-macbooks/)
 - [Visualize application health with Amazon CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2022/10/visualize-application-health-amazon-cloudwatch-application-insights/)
 - [Amazon SQS announces increased throughput quota for FIFO High Throughput &lpar;HT&rpar; mode to up to 6,000 Transactions Per Second &lpar;TPS&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sqs-increased-throughput-quota-fifo-high-throughput-ht-mode-6000-transactions-per-second-tps/)
-- [Announcing the FreeFormInput Slot Type for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2022/10/announcing-freeforminput-slot-type-amazon-lex/)
-- [AWS Step Functions adds new execution observability features for Express Workflows](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-step-functions-adds-new-execution-observability-features-express-workflows/)
-- [Amazon SES now offers new model to simplify provisioning and managing dedicated IPs](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ses-model-provisioning-managing-dedicated-ips/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
