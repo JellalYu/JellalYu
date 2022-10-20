@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx for Windows is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-fsx-windows-available-aws-asia-pacific-jakarta-region/)
 - [Amazon Aurora MySQL supports faster export to S3](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-mysql-faster-export-s3/)
 - [Announcing Remote Reboot for AWS Panorama](https://aws.amazon.com/about-aws/whats-new/2022/10/remote-reboot-aws-panorama/)
 - [Announcing Camera Stream Pause and Resume on AWS Panorama](https://aws.amazon.com/about-aws/whats-new/2022/10/camera-stream-pause-resume-aws-panorama/)
 - [Amazon WorkDocs adds support for Apple Silicon MacBooks](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-workdocs-support-apple-silicon-macbooks/)
-- [Visualize application health with Amazon CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2022/10/visualize-application-health-amazon-cloudwatch-application-insights/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
