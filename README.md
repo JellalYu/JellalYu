@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [IAM Identity Center adds session management features for improved user experience and cloud security](https://aws.amazon.com/about-aws/whats-new/2022/10/iam-identity-center-session-management-features-improved-user-experience-cloud-security/)
+- [AWS CloudFormation language extensions transform is now available in AWS GovCloud](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloudformation-language-extensions-transform-available-aws-govcloud/)
+- [AWS Service Management Connector now streamlines display of AWS Service Catalog products by Account and Region in ServiceNow Service Portal](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-service-management-connector-streamlines-display-aws-service-catalog-products-account-region-servicenow-service-portal/)
+- [Amazon CloudFront adds fields for origin latency and ASN in real-time logs for more granular insights](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-cloudfront-fields-origin-latency-asn-real-time-logs-granular-insights/)
 - [Amazon RDS for MySQL, MariaDB and PostgreSQL now support up to 15 read replicas for 3X read capacity](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-mysql-mariadb-postgre-sql-support-15-read-replicas-3x-read-capacity/)
-- [AWS Control Tower now available in GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-control-tower-available-govcloud-us-regions/)
-- [Amazon FSx for Windows is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-fsx-windows-available-aws-asia-pacific-jakarta-region/)
-- [Amazon Aurora MySQL supports faster export to S3](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-mysql-faster-export-s3/)
-- [Announcing Remote Reboot for AWS Panorama](https://aws.amazon.com/about-aws/whats-new/2022/10/remote-reboot-aws-panorama/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
