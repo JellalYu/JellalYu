@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora MySQL supports faster export to S3](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-mysql-faster-export-s3/)
 - [Announcing Remote Reboot for AWS Panorama](https://aws.amazon.com/about-aws/whats-new/2022/10/remote-reboot-aws-panorama/)
 - [Announcing Camera Stream Pause and Resume on AWS Panorama](https://aws.amazon.com/about-aws/whats-new/2022/10/camera-stream-pause-resume-aws-panorama/)
 - [Amazon WorkDocs adds support for Apple Silicon MacBooks](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-workdocs-support-apple-silicon-macbooks/)
 - [Visualize application health with Amazon CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2022/10/visualize-application-health-amazon-cloudwatch-application-insights/)
-- [Amazon SQS announces increased throughput quota for FIFO High Throughput &lpar;HT&rpar; mode to up to 6,000 Transactions Per Second &lpar;TPS&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sqs-increased-throughput-quota-fifo-high-throughput-ht-mode-6000-transactions-per-second-tps/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
