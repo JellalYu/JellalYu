@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MySQL, MariaDB and PostgreSQL now support up to 15 read replicas for 3X read capacity](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-mysql-mariadb-postgre-sql-support-15-read-replicas-3x-read-capacity/)
+- [AWS Control Tower now available in GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-control-tower-available-govcloud-us-regions/)
 - [Amazon FSx for Windows is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-fsx-windows-available-aws-asia-pacific-jakarta-region/)
 - [Amazon Aurora MySQL supports faster export to S3](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-mysql-faster-export-s3/)
 - [Announcing Remote Reboot for AWS Panorama](https://aws.amazon.com/about-aws/whats-new/2022/10/remote-reboot-aws-panorama/)
-- [Announcing Camera Stream Pause and Resume on AWS Panorama](https://aws.amazon.com/about-aws/whats-new/2022/10/camera-stream-pause-resume-aws-panorama/)
-- [Amazon WorkDocs adds support for Apple Silicon MacBooks](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-workdocs-support-apple-silicon-macbooks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
