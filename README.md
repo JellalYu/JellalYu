@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Amazon EKS Anywhere on Apache CloudStack](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-announces-amazon-eks-anywhere-apache-cloudstack/)
+- [Amazon EKS Anywhere now includes support for Red Hat Enterprise Linux](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-eks-anywhere-includes-support-red-hat-enterprise-linux/)
 - [AWS CloudTrail Lake now supports export of signed query results to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloudtrail-lake-export-signed-query-results-amazon-s3/)
 - [Amazon FSx for Windows File Server is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-fsx-windows-file-server-available-aws-asia-pacific-jakarta-region/)
 - [AWS Global Accelerator announces AddEndpoint and RemoveEndpoint APIs](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-global-accelerator-announces-addendpoint-removeendpoint-apis/)
-- [Amazon S3 on Outposts now supports Access Point aliases to simplify application access to data](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-s3-outposts-access-point-aliases-application-access-data/)
-- [Announcing dark mode support in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2022/10/dark-mode-support-aws-management-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
