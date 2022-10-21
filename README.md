@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudTrail Lake now supports export of signed query results to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloudtrail-lake-export-signed-query-results-amazon-s3/)
+- [Amazon FSx for Windows File Server is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-fsx-windows-file-server-available-aws-asia-pacific-jakarta-region/)
 - [AWS Global Accelerator announces AddEndpoint and RemoveEndpoint APIs](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-global-accelerator-announces-addendpoint-removeendpoint-apis/)
 - [Amazon S3 on Outposts now supports Access Point aliases to simplify application access to data](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-s3-outposts-access-point-aliases-application-access-data/)
 - [Announcing dark mode support in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2022/10/dark-mode-support-aws-management-console/)
-- [Amazon Braket now supports pulse-level access to study the performance of today’s quantum computers](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-braket-supports-pulse-level-access-study-performance-todays-quantum-computers/)
-- [Amazon DevOps Guru now provides list view for resources analyzed](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-devops-guru-provides-list-view-resources-analyzed/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
