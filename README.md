@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Global Accelerator announces AddEndpoint and RemoveEndpoint APIs](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-global-accelerator-announces-addendpoint-removeendpoint-apis/)
+- [Amazon S3 on Outposts now supports Access Point aliases to simplify application access to data](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-s3-outposts-access-point-aliases-application-access-data/)
+- [Announcing dark mode support in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2022/10/dark-mode-support-aws-management-console/)
 - [Amazon Braket now supports pulse-level access to study the performance of today’s quantum computers](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-braket-supports-pulse-level-access-study-performance-todays-quantum-computers/)
 - [Amazon DevOps Guru now provides list view for resources analyzed](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-devops-guru-provides-list-view-resources-analyzed/)
-- [IAM Identity Center adds session management features for improved user experience and cloud security](https://aws.amazon.com/about-aws/whats-new/2022/10/iam-identity-center-session-management-features-improved-user-experience-cloud-security/)
-- [AWS CloudFormation language extensions transform is now available in AWS GovCloud](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloudformation-language-extensions-transform-available-aws-govcloud/)
-- [AWS Service Management Connector now streamlines display of AWS Service Catalog products by Account and Region in ServiceNow Service Portal](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-service-management-connector-streamlines-display-aws-service-catalog-products-account-region-servicenow-service-portal/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
