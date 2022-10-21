@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Reduce dimensionality using PCA in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-data-wrangler-reduce-dimensionality-pca/)
+- [Announcing support for dynamic reference to data sets with parameters in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-data-wrangler-dynamic-reference-data-sets-parameters/)
+- [Schedule data preparation jobs with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-data-wrangler-schedule-data-preparation-jobs/)
+- [AWS Nitro Enclaves is now supported on AWS Graviton](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-nitro-enclaves-now-supported-aws-graviton/)
 - [AWS announces Amazon EKS Anywhere on Apache CloudStack](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-announces-amazon-eks-anywhere-apache-cloudstack/)
-- [Amazon EKS Anywhere now includes support for Red Hat Enterprise Linux](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-eks-anywhere-includes-support-red-hat-enterprise-linux/)
-- [AWS CloudTrail Lake now supports export of signed query results to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloudtrail-lake-export-signed-query-results-amazon-s3/)
-- [Amazon FSx for Windows File Server is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-fsx-windows-file-server-available-aws-asia-pacific-jakarta-region/)
-- [AWS Global Accelerator announces AddEndpoint and RemoveEndpoint APIs](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-global-accelerator-announces-addendpoint-removeendpoint-apis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
