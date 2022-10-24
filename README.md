@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EBS Snapshots Archive is now available in AWS GovCloud &lpar;US&rpar; Regions enabling customers to save up to 75% in snapshot storage costs](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ebs-snapshots-archive-aws-govcloud-us-regions-customers-save-snapshot-storage-costs/)
+- [Amazon Cognito now provides user pool deletion protection](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-cognito-console-user-pool-deletion-protection/)
 - [Reduce dimensionality using PCA in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-data-wrangler-reduce-dimensionality-pca/)
 - [Announcing support for dynamic reference to data sets with parameters in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-data-wrangler-dynamic-reference-data-sets-parameters/)
 - [Schedule data preparation jobs with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-data-wrangler-schedule-data-preparation-jobs/)
-- [AWS Nitro Enclaves is now supported on AWS Graviton](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-nitro-enclaves-now-supported-aws-graviton/)
-- [AWS announces Amazon EKS Anywhere on Apache CloudStack](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-announces-amazon-eks-anywhere-apache-cloudstack/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
