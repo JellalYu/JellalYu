@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS DataSync adds support for self-signed certificates](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-datasync-support-self-signed-certificates/)
+- [Amazon SageMaker adds eight new Graviton-based instances for model deployment](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-adds-new-graviton-based-instances-model-deployment/)
 - [Announcing two new HERE map styles for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/10/two-new-here-map-styles-amazon-location-service/)
 - [Amazon SageMaker now enables customers to cost effectively host 1000s of GPU models using Multi Model Endpoint](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-cost-effectively-host-1000s-gpu-multi-model-endpoint/)
 - [AWS Resource Access Manager is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-resource-manager-available-middle-east-uae-region/)
-- [CDK For Kubernetes &lpar;CDK8s&rpar; announces general availability of CDK8s+ and manifest validation support](https://aws.amazon.com/about-aws/whats-new/2022/10/cdk-kubernetes-cdk8s-availability-manifest-validation-support/)
-- [AWS Organizations console now allows users to centrally manage primary contact information on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-organizations-console-centrally-manage-primary-contact-information-aws-accounts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
