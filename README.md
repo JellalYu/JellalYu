@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora MySQL 2.11 with R6i instance support is generally available](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-mysql-2-11-r6i-instance-support-generally-available/)
 - [AWS DataSync adds support for self-signed certificates](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-datasync-support-self-signed-certificates/)
 - [Amazon SageMaker adds eight new Graviton-based instances for model deployment](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-adds-new-graviton-based-instances-model-deployment/)
 - [Announcing two new HERE map styles for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/10/two-new-here-map-styles-amazon-location-service/)
 - [Amazon SageMaker now enables customers to cost effectively host 1000s of GPU models using Multi Model Endpoint](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-cost-effectively-host-1000s-gpu-multi-model-endpoint/)
-- [AWS Resource Access Manager is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-resource-manager-available-middle-east-uae-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
