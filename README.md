@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [IAM Access Analyzer findings now support Amazon SNS topics and five other AWS resource types to help you identify public and cross-account access](https://aws.amazon.com/about-aws/whats-new/2022/10/iam-access-analyzer-findings-amazon-sns-topics-5-aws-resource-types-account-access/)
 - [AWS Fault Injection Simulator now supports network connectivity disruption](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-fault-injection-simulator-network-connectivity-disruption/)
 - [Amazon Neptune Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-neptune-serverless-generally-available/)
 - [Amazon Connect adds real-time schedule adherence](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-connect-real-time-schedule-adherence/)
 - [Amazon SageMaker Automatic Model Tuning now supports Grid Search](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-automatic-model-tuning-grid-search/)
-- [Introducing AWS Toolkit for .NET Refactoring, a new Visual Studio extension](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-toolkit-net-refactoring-visual-studio-extension/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
