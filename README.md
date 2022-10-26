@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Fault Injection Simulator now supports network connectivity disruption](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-fault-injection-simulator-network-connectivity-disruption/)
+- [Amazon Neptune Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-neptune-serverless-generally-available/)
 - [Amazon Connect adds real-time schedule adherence](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-connect-real-time-schedule-adherence/)
 - [Amazon SageMaker Automatic Model Tuning now supports Grid Search](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-automatic-model-tuning-grid-search/)
 - [Introducing AWS Toolkit for .NET Refactoring, a new Visual Studio extension](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-toolkit-net-refactoring-visual-studio-extension/)
-- [AWS Private Certificate Authority introduces a mode for short-lived certificates](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-private-certificate-authority-introduces-mode-short-lived-certificates/)
-- [Amazon WorkSpaces Web Access for WSP now includes 7 new features, including bi-directional audio/video](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-workspaces-web-access-wsp-includes-new-features-bi-directional-audio-video/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
