@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Avoid runaway queries and improve query resiliency to spot interruptions with PrestoDB and Trino on EMR 6.8](https://aws.amazon.com/about-aws/whats-new/2022/10/avoid-runaway-queries-improve-query-resiliency-spot-interruptions-prestodb-trino-emr-6-8/)
+- [AWS Console Mobile Application adds support for AWS CloudShell](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-console-mobile-application-adds-support-aws-cloudshell/)
 - [Introducing the AWS Control Tower delivery and AWS Control Tower ready program](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-control-tower-delivery-control-tower-ready-program/)
 - [Introducing the Amazon EKS Delivery Program](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-eks-delivery-program/)
 - [Introducing the Amazon OpenSearch Service delivery program](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-opensearch-service-delivery-program/)
-- [AWS Cloud Control API is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloud-control-api-available-aws-middle-east-uae-region/)
-- [Amazon QuickSight launches Customer Managed Keys &lpar;CMK&rpar; for SPICE data encryption](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-quicksight-customer-managed-keys-spice-data-encryption/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
