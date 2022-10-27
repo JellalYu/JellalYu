@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon EMR Hive improvements: Metastore check &lpar;MSCK&rpar; command optimization and Parquet Modular Encryption](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-emr-hive-metastore-check-msck-command-optimization-parquet-modular-encryption/)
+- [Announcing general availability of SQL Notebooks support in Amazon Redshift Query Editor](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-redshift-query-editor-sql-notebooks-support/)
+- [Amazon RDS for Oracle now supports memory optimized R5b instance types](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-oracle-supports-memory-optimized-r5b-instance-types/)
+- [Announcing General Availability of Amazon EC2 i4i.metal instance for VMware Cloud on AWS](https://aws.amazon.com/about-aws/whats-new/2022/10/general-availability-amazon-ec2-i4i-metal-instance-vmware-cloud-aws/)
 - [Announcing the general availability of AWS Local Zones in Hamburg and Warsaw](https://aws.amazon.com/about-aws/whats-new/2022/10/announcing-general-availability-aws-local-zones-hamburg-warsaw/)
-- [IAM Access Analyzer findings now support Amazon SNS topics and five other AWS resource types to help you identify public and cross-account access](https://aws.amazon.com/about-aws/whats-new/2022/10/iam-access-analyzer-findings-amazon-sns-topics-5-aws-resource-types-account-access/)
-- [AWS Fault Injection Simulator now supports network connectivity disruption](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-fault-injection-simulator-network-connectivity-disruption/)
-- [Amazon Neptune Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-neptune-serverless-generally-available/)
-- [Amazon Connect adds real-time schedule adherence](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-connect-real-time-schedule-adherence/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
