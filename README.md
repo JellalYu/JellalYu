@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon MSK Connect now supports private DNS hostnames for enhanced security](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-msk-connect-supports-private-dns-hostnames-enhanced-security/)
-- [Avoid runaway queries and improve query resiliency to spot interruptions with PrestoDB and Trino on EMR 6.8](https://aws.amazon.com/about-aws/whats-new/2022/10/avoid-runaway-queries-improve-query-resiliency-spot-interruptions-prestodb-trino-emr-6-8/)
-- [AWS Console Mobile Application adds support for AWS CloudShell](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-console-mobile-application-adds-support-aws-cloudshell/)
-- [Introducing the AWS Control Tower delivery and AWS Control Tower ready program](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-control-tower-delivery-control-tower-ready-program/)
-- [Introducing the Amazon EKS Delivery Program](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-eks-delivery-program/)
+- [Amazon EC2 G5 instances now available in Stockholm region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-g5-instances-available-stockholm-region/)
+- [AWS WAF launches Challenge rule action and Bot Control for Targeted Bots](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-waf-challenge-rule-action-bot-control-targeted-bots/)
+- [AWS Graviton2-based Amazon EC2 C6gd instances now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-graviton2-based-amazon-ec2-c6gd-instances-available-europe-paris-region/)
+- [Amazon Aurora supports cluster export to S3](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-cluster-export-s3/)
+- [Amazon EC2 enables easier patching of guest operating system and applications with Replace Root Volume](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-enables-patching-guest-operating-system-application-replace-root-volume/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
