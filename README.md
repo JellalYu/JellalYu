@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaConnect adds flow alerts for easier troubleshooting](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-elemental-mediaconnect-flow-alerts-easier-troubleshooting/)
+- [Amazon MSK now offers a new low-cost storage tier that scales to virtually unlimited storage](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-msk-offers-low-cost-storage-tier-scales-virtually-unlimited-storage/)
 - [Amazon EC2 X2idn instances now available in Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-x2idn-instances-available-asia-pacific-osaka-region/)
 - [Amazon EC2 G5 instances now available in Stockholm region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-g5-instances-available-stockholm-region/)
 - [AWS WAF launches Challenge rule action and Bot Control for Targeted Bots](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-waf-challenge-rule-action-bot-control-targeted-bots/)
-- [AWS Graviton2-based Amazon EC2 C6gd instances now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-graviton2-based-amazon-ec2-c6gd-instances-available-europe-paris-region/)
-- [Amazon Aurora supports cluster export to S3](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-cluster-export-s3/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
