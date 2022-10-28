@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [CloudWatch RUM now supports Extended CloudWatch Metrics with additional dimensions](https://aws.amazon.com/about-aws/whats-new/2022/10/cloudwatch-rum-supports-extended-cloudwatch-metrics-additional-dimensions/)
 - [Amazon RDS now supports events for operating system updates](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-events-operating-system-updates/)
 - [Amazon Pinpoint console now supports pool management](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-pinpoint-console-pool-management/)
 - [AWS Elemental MediaConnect adds flow alerts for easier troubleshooting](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-elemental-mediaconnect-flow-alerts-easier-troubleshooting/)
 - [Amazon MSK now offers a new low-cost storage tier that scales to virtually unlimited storage](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-msk-offers-low-cost-storage-tier-scales-virtually-unlimited-storage/)
-- [Amazon EC2 X2idn instances now available in Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-x2idn-instances-available-asia-pacific-osaka-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
