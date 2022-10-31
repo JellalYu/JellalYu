@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Launch Wizard adds support for placing Microsoft SQL Server tempdb in an instance store](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-launch-wizard-placing-microsoft-sql-server-tempdb-instance-store/)
 - [Amazon SageMaker Model Monitor is now supported for Batch Transform jobs](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-model-monitor-batch-transform-jobs/)
 - [AWS App Runner launches support for PHP, Go, .Net, and Ruby managed runtimes](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-app-runner-support-php-go-dot-net-ruby-managed-runtimes/)
 - [Amazon QuickSight enables Row Level Security &lpar;RLS&rpar; on Dataset-as-a-source](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-quicksight-row-level-security-dataset-as-a-source/)
 - [CloudWatch RUM now supports Extended CloudWatch Metrics with additional dimensions](https://aws.amazon.com/about-aws/whats-new/2022/10/cloudwatch-rum-supports-extended-cloudwatch-metrics-additional-dimensions/)
-- [Amazon RDS now supports events for operating system updates](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-events-operating-system-updates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
