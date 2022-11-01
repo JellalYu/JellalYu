@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Textract announces updates to the Analyze Expense API used for processing documents such as invoices and receipts](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-textract-updates-analyze-expense-api-processing-documents/)
 - [Amazon RDS Custom for SQL Server now supports scaling storage](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-custom-sql-server-scaling-storage/)
 - [AWS App Runner now supports privately accessible services within Amazon VPC](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-app-runner-supports-privately-accessible-services-amazon-vpc/)
 - [Amazon Connect launches API to make an agent eligible for new contacts, after a missed contact](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-api-agent-new-contacts-missed-contact/)
 - [Amazon Braket adds support for a neutral atom quantum processor named Aquila from QuEra Computing Inc.](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-braket-neutral-atom-quantum-processor-named-aquila-quera-computing-inc/)
-- [Announcing certificate-based authentication for Amazon AppStream 2.0](https://aws.amazon.com/about-aws/whats-new/2022/10/certificate-based-authentication-amazon-appstream-2-0/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
