@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Launch Wizard now supports Amazon FSx for NetApp ONTAP and SAP HANA Host Auto Failover](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-launch-wizard-amazon-fsx-netapp-ontap-sap-hana-host-auto-failover/)
-- [Amazon Textract announces updates to its Analyze ID API](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-textract-updates-analyze-id-api/)
-- [Amazon Textract announces updates to the Analyze Expense API used for processing documents such as invoices and receipts](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-textract-updates-analyze-expense-api-processing-documents/)
-- [Amazon RDS Custom for SQL Server now supports scaling storage](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-custom-sql-server-scaling-storage/)
-- [AWS App Runner now supports privately accessible services within Amazon VPC](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-app-runner-supports-privately-accessible-services-amazon-vpc/)
+- [AWS ParallelCluster 3.3: multiple instance type allocation and other top requested features](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-parallelcluster-3-3-multiple-instance-type-allocation-top-features/)
+- [AWS Migration Hub Orchestrator now supports Microsoft SQL Server migration](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-migration-hub-orchestrator-supports-microsoft-sql-server-migration/)
+- [Amazon Textract announces updates to the forms and text extraction features](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-textract-updates-forms-text-extraction-features/)
+- [Amazon S3 on Outposts further optimizes storage management with new Lifecycle actions and filters](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-outposts-optimizes-storage-management-new-lifecycle-actions-filters/)
+- [Amazon SageMaker Autopilot now provides feature selection and the ability to change data types while creating an AutoML experiment](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-autopilot-feature-selection-ability-change-data-types-creating-automl-experiment/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
