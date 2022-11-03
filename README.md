@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Simple Email Service announces Virtual Deliverability Manager to help enhance email delivery success rate](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-simple-email-service-virtual-deliverability-manager-delivery-rate/)
 - [AWS Managed Services &lpar;AMS&rpar; now supports SQL Server on EC2 Operations](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-managed-services-supports-sql-server-ec2-operations/)
 - [Announcing data tiering for Amazon MemoryDB for Redis](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-memorydb-redis-data-tiering/)
 - [AWS Lambda now supports up to 10 GB of ephemeral storage for Lambda functions in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-10-gb-ephemeral-storage-lambda-functions-aws-govcloud-us-regions/)
 - [Amazon SNS message data protection is now generally available with real-time data redaction and masking](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sns-message-data-protection-available-real-time-data-redaction-masking/)
-- [AWS Copilot adds support for AWS App Runner’s privately accessible services and more](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-copilot-aws-app-runners-privately-services/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
