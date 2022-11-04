@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [RDS Custom for SQL Server Is Now Available in the Seoul, São Paulo and Canada &lpar;Central&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/rds-custom-sql-server-available-new-regions/)
+- [EMR on EKS now supports job templates to store and share parameters across job runs](https://aws.amazon.com/about-aws/whats-new/2022/11/emr-eks-job-templates-store-share-parameters-job-runs/)
 - [Amazon EKS now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-eks-available-middle-east-uae-region/)
 - [Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in 12 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-multi-az-option-2x-faster-transaction-commit-latency-available-additional-aws-regions/)
 - [Amazon MSK Serverless expands its availability to Asia Pacific &lpar;Mumbai&rpar; and Canada &lpar;Central&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-msk-serverless-expands-availability-additional-regions/)
-- [AWS CloudFormation StackSets improves insights on stack instances for stack set operations](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudformation-stacksets-insights-stack-instances-set-operations/)
-- [AWS Security Hub adds Wiz as a new integration partner](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-security-hub-wiz-integration-partner/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
