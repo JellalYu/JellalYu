@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub adds Wiz as a new integration partner](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-security-hub-wiz-integration-partner/)
+- [AWS CloudFormation now supports Amazon RDS Multi-AZ deployments with two readable standbys](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudformation-supports-amazon-rds-multi-az-deployments-readable-standbys/)
 - [Amazon Connect launches updated UI for quick connects with AWS CloudTrail support](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-updated-ui-quick-connects-cloudtrail-support/)
 - [Amazon Simple Email Service announces Virtual Deliverability Manager to help enhance email delivery success rate](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-simple-email-service-virtual-deliverability-manager-delivery-rate/)
 - [AWS Managed Services &lpar;AMS&rpar; now supports SQL Server on EC2 Operations](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-managed-services-supports-sql-server-ec2-operations/)
-- [Announcing data tiering for Amazon MemoryDB for Redis](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-memorydb-redis-data-tiering/)
-- [AWS Lambda now supports up to 10 GB of ephemeral storage for Lambda functions in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-10-gb-ephemeral-storage-lambda-functions-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
