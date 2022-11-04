@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-eks-available-middle-east-uae-region/)
+- [Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in 12 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-multi-az-option-2x-faster-transaction-commit-latency-available-additional-aws-regions/)
 - [Amazon MSK Serverless expands its availability to Asia Pacific &lpar;Mumbai&rpar; and Canada &lpar;Central&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-msk-serverless-expands-availability-additional-regions/)
 - [AWS CloudFormation StackSets improves insights on stack instances for stack set operations](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudformation-stacksets-insights-stack-instances-set-operations/)
 - [AWS Security Hub adds Wiz as a new integration partner](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-security-hub-wiz-integration-partner/)
-- [AWS CloudFormation now supports Amazon RDS Multi-AZ deployments with two readable standbys](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudformation-supports-amazon-rds-multi-az-deployments-readable-standbys/)
-- [Amazon Connect launches updated UI for quick connects with AWS CloudTrail support](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-updated-ui-quick-connects-cloudtrail-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
