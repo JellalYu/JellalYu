@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Private 5G service now includes support for multiple radio-units](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-private-5g-service-support-multiple-radio-units/)
 - [Amazon SageMaker Canvas announces support for correlation matrices for advanced data analysis](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-canvas-correlation-matrices-data-analysis/)
 - [Amazon RDS for SQL Server Now Supports Access to Transaction Log Backups](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-sql-server-supports-access-transaction-log-backups/)
 - [Amazon SageMaker Canvas announces encryption support with customer managed keys for time series forecast models](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-canvas-encryption-keys-time-series-forecast-models/)
 - [AWS Well-Architected Tool improves workload discovery and speeds up reviews](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-well-architected-tool-workload-discovery-speeds-reviews/)
-- [Amazon ElastiCache now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-elasticache-supports-ipv6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
