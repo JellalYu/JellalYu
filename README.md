@@ -47,10 +47,10 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EKS now supports job templates to store and share parameters across job runs](https://aws.amazon.com/about-aws/whats-new/2022/11/emr-eks-job-templates-store-share-parameters-job-runs/)
 - [Amazon EC2 enables you to opt out of directly shared Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-opt-out-shared-amazon-machine-images/)
 - [Amazon Kinesis Data Firehose is now available in the Middle East &lpar;UAE&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kinesis-data-firehose-available-middle-east-uae-aws-region/)
 - [RDS Custom for SQL Server Is Now Available in the Seoul, São Paulo and Canada &lpar;Central&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/rds-custom-sql-server-available-new-regions/)
-- [EMR on EKS now supports job templates to store and share parameters across job runs](https://aws.amazon.com/about-aws/whats-new/2022/11/emr-eks-job-templates-store-share-parameters-job-runs/)
 - [Amazon EKS now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-eks-available-middle-east-uae-region/)
 <!-- AWS-NEWS:END -->
 
