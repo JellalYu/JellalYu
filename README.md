@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing General Availability of Amazon Redshift Serverless in the US West &lpar;Northern California&rpar;, Europe &lpar;Paris&rpar; AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/11/general-availability-redshift-serverless-us-west-northern-california-europe-paris-aws-regions/)
+- [AWS Glue Sensitive Data Detection feature can now identify and process sensitive data for Japan and UK entities](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-glue-sensitive-data-detection-identify-process-sensitive-data-japan-uk-entities/)
 - [Amazon EMR on EKS now supports job templates to store and share parameters across job runs](https://aws.amazon.com/about-aws/whats-new/2022/11/emr-eks-job-templates-store-share-parameters-job-runs/)
 - [Amazon EC2 enables you to opt out of directly shared Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-opt-out-shared-amazon-machine-images/)
 - [Amazon Kinesis Data Firehose is now available in the Middle East &lpar;UAE&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kinesis-data-firehose-available-middle-east-uae-aws-region/)
-- [RDS Custom for SQL Server Is Now Available in the Seoul, São Paulo and Canada &lpar;Central&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/rds-custom-sql-server-available-new-regions/)
-- [Amazon EKS now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-eks-available-middle-east-uae-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
