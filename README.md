@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Athena announces Query Result Reuse to accelerate queries](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-athena-query-result-reuse-accelerate-queries/)
+- [Amazon EC2 placement groups can now be shared across multiple AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-placement-groups-shared-across-multiple-aws-accounts/)
 - [AWS Certificate Manager now supports Elliptic Curve Digital Signature Algorithm TLS certificates](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-certificate-manager-elliptic-curve-digital-signature-algorithm-tls-certificates/)
 - [Amazon CloudWatch Logs now supports export to SSE-KMS encrypted S3 buckets](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudwatch-logs-supports-export-sse-kms-encrypted-s3-buckets/)
 - [Announcing AWS Resource Explorer](https://aws.amazon.com/about-aws/whats-new/2022/11/announcing-aws-resource-explorer/)
-- [Amazon ElastiCache adds support for Redis 7](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-elasticache-redis-7/)
-- [Amazon OpenSearch Service announces support for cross-VPC connectivity powered by AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-opensearch-cross-vpc-connectivity-aws-privatelink/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
