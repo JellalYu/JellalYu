@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Certificate Manager now supports Elliptic Curve Digital Signature Algorithm TLS certificates](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-certificate-manager-elliptic-curve-digital-signature-algorithm-tls-certificates/)
+- [Amazon CloudWatch Logs now supports export to SSE-KMS encrypted S3 buckets](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudwatch-logs-supports-export-sse-kms-encrypted-s3-buckets/)
+- [Announcing AWS Resource Explorer](https://aws.amazon.com/about-aws/whats-new/2022/11/announcing-aws-resource-explorer/)
 - [Amazon ElastiCache adds support for Redis 7](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-elasticache-redis-7/)
 - [Amazon OpenSearch Service announces support for cross-VPC connectivity powered by AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-opensearch-cross-vpc-connectivity-aws-privatelink/)
-- [Amazon Polly adds neural support for Swedish, Norwegian and Finnish](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-polly-neural-support-swedish-norwegian-finnish/)
-- [Amazon RDS for Oracle now supports July 2022 Release Updates &lpar;RU&rpar; for 21c](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-oracle-supports-july-2022-release-updates-ru-21c/)
-- [AWS CloudTrail announces delegated administrator account support for AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudtrail-delegated-account-support-aws-organizations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
