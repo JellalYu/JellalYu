@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ElastiCache adds support for Redis 7](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-elasticache-redis-7/)
 - [Amazon OpenSearch Service announces support for cross-VPC connectivity powered by AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-opensearch-cross-vpc-connectivity-aws-privatelink/)
 - [Amazon Polly adds neural support for Swedish, Norwegian and Finnish](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-polly-neural-support-swedish-norwegian-finnish/)
 - [Amazon RDS for Oracle now supports July 2022 Release Updates &lpar;RU&rpar; for 21c](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-oracle-supports-july-2022-release-updates-ru-21c/)
 - [AWS CloudTrail announces delegated administrator account support for AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudtrail-delegated-account-support-aws-organizations/)
-- [AWS Private 5G service now includes support for multiple radio-units](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-private-5g-service-support-multiple-radio-units/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
