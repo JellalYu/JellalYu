@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lightsail announces support for domain registration and DNS autoconfiguration](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-lightsail-domain-registration-dns-autoconfiguration/)
+- [AWS Firewall Manager can now import existing AWS Network Firewall resources](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-firewall-manager-import-existing-aws-network-firewall-resources/)
 - [Amazon Athena announces Query Result Reuse to accelerate queries](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-athena-query-result-reuse-accelerate-queries/)
 - [Amazon EC2 placement groups can now be shared across multiple AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-placement-groups-shared-across-multiple-aws-accounts/)
 - [AWS Certificate Manager now supports Elliptic Curve Digital Signature Algorithm TLS certificates](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-certificate-manager-elliptic-curve-digital-signature-algorithm-tls-certificates/)
-- [Amazon CloudWatch Logs now supports export to SSE-KMS encrypted S3 buckets](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudwatch-logs-supports-export-sse-kms-encrypted-s3-buckets/)
-- [Announcing AWS Resource Explorer](https://aws.amazon.com/about-aws/whats-new/2022/11/announcing-aws-resource-explorer/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
