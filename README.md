@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MQ now supports ActiveMQ version 5.17.2 and increased connection limits for ActiveMQ](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-mq-activemq-5-17-2-increased-connection-limits/)
 - [Amazon Keyspaces now supports the Murmur3Partioner](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-keyspaces-supports-murmur3partioner/)
 - [AWS Security Hub launches support for the Center for Internet Security’s &lpar;CIS&rpar; AWS Foundations Benchmark version 1.4.0](https://aws.amazon.com/about-aws/whats-new/2022/11/security-hub-center-internet-securitys-cis-foundations-benchmark-version-1-4-0/)
 - [Amazon EC2 C6id, M6id, R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-c6id-m6id-r6id-instances-additional-regions/)
 - [AWS Config now supports 14 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-config-supports-14-resource-types/)
-- [Announcing recurring custom line items for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-billing-conductor-recurring-custom-line-items/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
