@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Keyspaces now supports the Murmur3Partioner](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-keyspaces-supports-murmur3partioner/)
+- [AWS Security Hub launches support for the Center for Internet Security’s &lpar;CIS&rpar; AWS Foundations Benchmark version 1.4.0](https://aws.amazon.com/about-aws/whats-new/2022/11/security-hub-center-internet-securitys-cis-foundations-benchmark-version-1-4-0/)
+- [Amazon EC2 C6id, M6id, R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-c6id-m6id-r6id-instances-additional-regions/)
 - [AWS Config now supports 14 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-config-supports-14-resource-types/)
 - [Announcing recurring custom line items for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-billing-conductor-recurring-custom-line-items/)
-- [Amazon EC2 announces network bandwidth support in attribute-based instance type selection for Auto Scaling groups, EC2 Fleet, and Spot Fleet](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-network-bandwith-support-instance-auto-scaling-ec2-fleet-spot-fleet/)
-- [Amazon EC2 now supports specifying list of instance types to use in attribute-based instance type selection for Auto Scaling groups, EC2 Fleet, and Spot Fleet](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-specifying-instance-types-selection-ec2-spot-fleet-auto-scaling/)
-- [AWS Transfer Family is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-transfer-family-available-asia-pacific-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
