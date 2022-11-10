@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Serverless v2 is now available in 20 regions, including Asia Pacific &lpar;Osaka&rpar;, Asia Pacific &lpar;Jakarta&rpar; and Middle East &lpar;Bahrain&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-aurora-serverless-available-v2-20-regions/)
+- [Amazon SNS increases the default quota for subscription filter policies by 50x to 10,000 per account](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sns-increases-default-quota-subscription-filter-policies-account/)
 - [Announcing Amazon WorkSpaces API to seamlessly migrate to WSP protocol](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-api-migrate-wsp-protocol/)
 - [AWS Lambda announces Telemetry API, further enriching monitoring and observability capabilities of Lambda Extensions](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-telemetry-api-enriching-monitoring-observability-capabilities-lambda-extensions/)
 - [Amazon Aurora supports PostgreSQL 14.5, 13.8, 12.12, and 11.17 versions and logical replication cache](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-aurora-supports-postgresql-versions-logical-replication-cache/)
-- [AWS Ground Station adds support for Customer Provided Ephemeris in preview](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-ground-station-support-customer-provided-ephemeris/)
-- [Virtual Private Cloud &lpar;VPC&rpar; support is generally available for Amazon Polly](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-polly-vpc-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
