@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra is now FedRAMP High Compliant](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kendra-fedramp-high-compliant/)
+- [AWS IoT Device Defender now supports audit check of revoked intermediate Certificate Authority](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-device-defender-audit-check-revoked-intermediate-certificate-authority/)
 - [Amazon Time Sync is now available over the internet as a public NTP service](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-time-sync-internet-public-ntp-service/)
 - [Amazon EventBridge Launches New Scheduler](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-eventbridge-launches-new-scheduler/)
 - [AWS Storage Gateway is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-storage-gateway-available-aws-middle-east-uae-region/)
-- [Amazon EC2 Mac Instances now support Apple macOS Ventura](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-mac-instances-support-apple-macos-ventura/)
-- [Amazon ECS launches task scale-in protection](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ecs-task-scale-in-protection/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
