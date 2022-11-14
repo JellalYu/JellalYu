@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon WorkDocs announces Delete Previous Versions capabilities](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workdocs-delete-previous-versions-capabilities/)
 - [Amazon S3 request-level information on use of access control lists &lpar;ACLs&rpar; coming to S3 server access logs and AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2022/11/s3-request-level-information-access-control-lists-acls-s3-server-access-logs-cloudtrail/)
 - [AWS IoT Device Management now supports browser-based SSH via Secure Tunneling](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-device-management-supports-browser-based-ssh-secure-tunneling/)
 - [Amazon EventBridge now supports enhanced filtering capabilities](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-eventbridge-enhanced-filtering-capabilities/)
 - [Amazon File Cache is now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-file-cache-available-additional-aws-regions/)
-- [The next generation of Amazon FSx for Lustre file systems is now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-fsx-lustre-file-systems-available-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
