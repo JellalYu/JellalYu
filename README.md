@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon File Cache is now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-file-cache-available-additional-aws-regions/)
+- [The next generation of Amazon FSx for Lustre file systems is now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-fsx-lustre-file-systems-available-additional-aws-regions/)
 - [Catalog API now supports Tag-Based Authorization of resources](https://aws.amazon.com/about-aws/whats-new/2022/11/catalog-api-supports-tag-based-authorization-resources/)
 - [AWS re:Post launches a community leaderboard](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-repost-launches-community-leaderboard/)
 - [Amazon S3 Object Lambda is now available in the Asia Pacific &lpar;Osaka&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-object-lambda-available-asia-pacific-osaka-aws-region/)
-- [Amazon Managed Workflows for Apache Airflow &lpar;MWAA&rpar; is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-workflows-apache-airflow-mwaa-hipaa-eligible/)
-- [AWS Controllers for Kubernetes &lpar;ACK&rpar; for Amazon Elastic Compute Cloud &lpar;EC2&rpar; is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-controllers-kubernetes-ack-elastic-compute-cloud-ec2-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
