@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Nitro Enclaves is now available in Asia Pacific &lpar;Osaka&rpar; and Asia Pacific &lpar;Jakarta&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-nitro-enclaves-asia-pacific-osaka-jakarta-regions/)
 - [Amazon RDS for Oracle now supports Amazon Elastic File System &lpar;EFS&rpar; integration](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-oracle-amazon-elastic-file-system-integration/)
 - [Concurrency scaling for write workloads is now generally available for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-concurrency-scaling-write-workloads/)
 - [Amazon Connect Customer Profiles now supports profile search using multiple search terms through the API](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-customer-profiles-search-terms-api/)
 - [Amazon HealthLake announces enhanced analytics feature](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-healthlake-enhanced-analytics-feature/)
-- [AWS re:Post is accessible to users in five additional languages - Traditional Chinese, Simplified Chinese, French, Japanese, and Korean](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-repost-five-additional-languages/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
