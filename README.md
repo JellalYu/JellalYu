@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Nitro Enclaves is now available in Asia Pacific &lpar;Osaka&rpar; and Asia Pacific &lpar;Jakarta&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-nitro-enclaves-asia-pacific-osaka-jakarta-regions/)
-- [Amazon RDS for Oracle now supports Amazon Elastic File System &lpar;EFS&rpar; integration](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-oracle-amazon-elastic-file-system-integration/)
-- [Concurrency scaling for write workloads is now generally available for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-concurrency-scaling-write-workloads/)
-- [Amazon Connect Customer Profiles now supports profile search using multiple search terms through the API](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-customer-profiles-search-terms-api/)
-- [Amazon HealthLake announces enhanced analytics feature](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-healthlake-enhanced-analytics-feature/)
+- [Amazon S3 Glacier improves restore throughput by up to 10x when retrieving large volumes of archived data](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-glacier-restore-throughput-10x-large-volumes-archived-data/)
+- [Amazon EBS direct APIs are now available in the AWS Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ebs-direct-apis-available-middle-east-uae-region/)
+- [Amazon RDS for SQL Server now supports a linked server to Oracle](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-sql-linked-server-oracle/)
+- [Amazon EC2 High Memory instances are now available in US East &lpar;N. Virginia&rpar;, US East &lpar;Ohio&rpar;, Europe &lpar;Milan&rpar;, Europe &lpar;Ireland&rpar;, and AWS GovCloud &lpar;US-West&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-high-memory-instances-available-additional-regions/)
+- [AWS announces native AOT tooling support for .NET applications on AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2022/11/native-aot-tooling-support-net-applications-aws-lambda/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
