@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 increases size limit for AMI store and restore operations](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-increases-size-limit-ami-store-restore-operations/)
+- [App2Container Support for EKS Blueprints](https://aws.amazon.com/about-aws/whats-new/2022/11/app2container-support-eks-blueprints/)
+- [AWS Microservice Extractor for .NET now extracts and ports code from Web Forms and WCF to .NET on Linux](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-microservice-extractor-net-extracts-ports-code-web-forms-linux/)
 - [Amazon S3 Glacier improves restore throughput by up to 10x when retrieving large volumes of archived data](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-glacier-restore-throughput-10x-large-volumes-archived-data/)
 - [Amazon RDS for SQL Server now supports a linked server to Oracle](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-sql-linked-server-oracle/)
-- [Amazon EBS direct APIs are now available in the AWS Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ebs-direct-apis-available-middle-east-uae-region/)
-- [Amazon EC2 High Memory instances are now available in US East &lpar;N. Virginia&rpar;, US East &lpar;Ohio&rpar;, Europe &lpar;Milan&rpar;, Europe &lpar;Ireland&rpar;, and AWS GovCloud &lpar;US-West&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-high-memory-instances-available-additional-regions/)
-- [AWS announces native AOT tooling support for .NET applications on AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2022/11/native-aot-tooling-support-net-applications-aws-lambda/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
