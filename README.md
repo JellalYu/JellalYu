@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server now supports Cross Region Read Replica](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-sql-server-cross-region-read-replica/)
 - [Amazon MQ now supports RabbitMQ version 3.10](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-mq-rabbitmq-version-3-10/)
 - [AWS Systems Manager OpsCenter now supports managing OpsItems across accounts](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-systems-manager-opscenter-supports-managing-opsitems-across-accounts/)
 - [AWS Proton launches dashboard](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-proton-dashboard/)
 - [AWS Amplify announces general availability of In-app messaging notifications for React and React Native](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amplify-general-availability-in-app-messaging-notifications-react-react-native/)
-- [Amazon ElastiCache now supports IAM Authentication for Redis clusters](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-elasticache-supports-iam-authentication-redis-clusters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
