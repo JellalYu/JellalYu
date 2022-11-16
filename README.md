@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service now supports OpenSearch version 2.3](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-opensearch-service-supports-opensearch-version-2-3/)
+- [AWS Proton now supports AWS CDK through CodeBuild provisioning](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-proton-supports-cdk-codebuild-provisioning/)
+- [AWS Migration Hub Refactor Spaces now automatically handles DNS changes](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-migration-hub-refactor-spaces-dns-changes/)
 - [Amazon EC2 increases size limit for AMI store and restore operations](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-increases-size-limit-ami-store-restore-operations/)
 - [App2Container Support for EKS Blueprints](https://aws.amazon.com/about-aws/whats-new/2022/11/app2container-support-eks-blueprints/)
-- [AWS Microservice Extractor for .NET now extracts and ports code from Web Forms and WCF to .NET on Linux](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-microservice-extractor-net-extracts-ports-code-web-forms-linux/)
-- [Amazon S3 Glacier improves restore throughput by up to 10x when retrieving large volumes of archived data](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-glacier-restore-throughput-10x-large-volumes-archived-data/)
-- [Amazon RDS for SQL Server now supports a linked server to Oracle](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-sql-linked-server-oracle/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
