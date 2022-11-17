@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS IoT ExpressLink Technical Specification v1.1 released](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-expresslink-technical-specification-v1-1-released/)
-- [Amazon ElastiCache simplifies password rotations with Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-elasticache-simplifies-password-rotations-secrets-manager/)
-- [Amazon Connect launches API for monitoring live contacts](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-launches-api-monitoring-live-contacts/)
-- [Amazon SageMaker Autopilot now supports batch inference in Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-autopilot-batch-inference-sagemaker-studio/)
-- [AWS Security Hub now supports bidirectional integration via AWS Service Management Connector for Atlassian’s Jira Service Management Cloud](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-security-hub-bidirectional-integration-connector-atlassians-jira-management-cloud/)
+- [AWS AppSync releases JavaScript support for GraphQL API resolvers](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-appsync-javascript-graphql-api-resolvers/)
+- [Announcing the new Applications widget on AWS Console Home](https://aws.amazon.com/about-aws/whats-new/2022/11/new-applications-widget-aws-console-home/)
+- [Zoom Meeting Media Plugin for Windows is now generally available on Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-zoom-media-plugin-windows/)
+- [AWS Resilience Hub adds support for Amazon Simple Notification Service &lpar;SNS&rpar; and AWS Trusted Advisor](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-resilience-hub-amazon-simple-notification-service-sns-trusted-advisor/)
+- [Amazon NAT Gateway Now Allows You to Select Private IP Address for Network Address Translation](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-nat-gateway-allows-select-private-ip-address-network-address-translation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
