@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT ExpressLink Technical Specification v1.1 released](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-expresslink-technical-specification-v1-1-released/)
+- [Amazon ElastiCache simplifies password rotations with Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-elasticache-simplifies-password-rotations-secrets-manager/)
+- [Amazon Connect launches API for monitoring live contacts](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-launches-api-monitoring-live-contacts/)
 - [Amazon SageMaker Autopilot now supports batch inference in Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-autopilot-batch-inference-sagemaker-studio/)
 - [AWS Security Hub now supports bidirectional integration via AWS Service Management Connector for Atlassian’s Jira Service Management Cloud](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-security-hub-bidirectional-integration-connector-atlassians-jira-management-cloud/)
-- [AWS Service Management Connector now supports provisioning AWS Service Catalog products in Atlassian’s Jira Service Management Cloud](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-service-management-connector-catalog-jira-service-management-cloud/)
-- [Amazon WorkSpaces announces version 2.0 of WorkSpaces Streaming Protocol](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-version-2-0-streaming-protocol/)
-- [AWS Systems Manager Incident Manager now streamlines responses to Jira Service Management Cloud Incidents via AWS Service Management Connector](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-systems-manager-responses-jira-cloud-service-management-connector/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
