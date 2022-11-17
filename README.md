@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS AppSync releases JavaScript support for GraphQL API resolvers](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-appsync-javascript-graphql-api-resolvers/)
-- [Announcing the new Applications widget on AWS Console Home](https://aws.amazon.com/about-aws/whats-new/2022/11/new-applications-widget-aws-console-home/)
-- [Zoom Meeting Media Plugin for Windows is now generally available on Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-zoom-media-plugin-windows/)
-- [AWS Resilience Hub adds support for Amazon Simple Notification Service &lpar;SNS&rpar; and AWS Trusted Advisor](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-resilience-hub-amazon-simple-notification-service-sns-trusted-advisor/)
-- [Amazon NAT Gateway Now Allows You to Select Private IP Address for Network Address Translation](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-nat-gateway-allows-select-private-ip-address-network-address-translation/)
+- [AWS announces Amazon WorkSpaces Multi-Region Resilience](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-multi-region-resilience/)
+- [Amazon Connect launches new capabilities to help administrators manage saved reports](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-launches-new-capabilities-manage-saved-reports/)
+- [AWS Directory Service for Microsoft Active Directory and AD Connector are now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-directory-service-microsoft-active-directory-ad-connector-uae-region/)
+- [Amazon CloudWatch RUM now supports custom events for better troubleshooting and application specific monitoring](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudwatch-rum-custom-events-troubleshooting-application-monitoring/)
+- [Amazon GameSparks Now Available in AWS Asia Pacific &lpar;Tokyo&rpar; Region in Preview](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-gamesparks-available-aws-asia-pacific-tokyo-region-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
