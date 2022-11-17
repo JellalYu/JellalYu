@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront now supports JA3 fingerprint headers](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudfront-supports-ja3-fingerprint-headers/)
+- [Amazon Redshift announces support of the CONNECT BY SQL construct](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-support-connect-by-sql-construct/)
 - [Announcing billing entity pricing rules for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-billing-conductor-entity-pricing-rules/)
 - [Incident Manager from AWS Systems Manager launches incident coordination capabilities for Incident Response](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-systems-manager-incident-manager-coordination-incident-response/)
 - [Amazon Timestream is now available in GovCloud&lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-timestream-available-govcloud-us-west-region/)
-- [AWS Identity and Access Management now supports multiple multi-factor authentication &lpar;MFA&rpar; devices](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-identity-access-management-multi-factor-authentication-devices/)
-- [Announcing enhanced operational incident response capabilities with AWS Systems Manager and PagerDuty](https://aws.amazon.com/about-aws/whats-new/2022/11/enhanced-operational-incident-response-capabilities-aws-systems-manager-pagerduty/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
