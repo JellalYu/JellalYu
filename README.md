@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Autopilot now supports batch inference in Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-autopilot-batch-inference-sagemaker-studio/)
 - [AWS Security Hub now supports bidirectional integration via AWS Service Management Connector for Atlassian’s Jira Service Management Cloud](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-security-hub-bidirectional-integration-connector-atlassians-jira-management-cloud/)
 - [AWS Service Management Connector now supports provisioning AWS Service Catalog products in Atlassian’s Jira Service Management Cloud](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-service-management-connector-catalog-jira-service-management-cloud/)
 - [Amazon WorkSpaces announces version 2.0 of WorkSpaces Streaming Protocol](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-version-2-0-streaming-protocol/)
 - [AWS Systems Manager Incident Manager now streamlines responses to Jira Service Management Cloud Incidents via AWS Service Management Connector](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-systems-manager-responses-jira-cloud-service-management-connector/)
-- [Build event-driven applications with AWS CloudFormation StackSets event notifications in Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2022/11/event-driven-applications-cloudformation-stacksets-event-notifications-eventbridge/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
