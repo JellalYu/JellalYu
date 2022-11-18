@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family announces Drummond Group Applicability Statement 2 &lpar;AS2&rpar; Pre-Certification](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-transfer-family-drummond-group-as2-pre-certification/)
+- [AWS Pricing Calculator now supports modernization cost estimates for Microsoft workloads](https://aws.amazon.com/about-aws/whats-new/2022/11/pricing-calculator-modernization-cost-estimates-microsoft-workloads/)
+- [AWS Proton is now available in 6 new regions](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-proton-available-new-regions/)
 - [Amazon Forecast generates predictions for products with no historical data that is more accurate than before](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-forecast-generates-predictions-products-historical-data-more-accurate/)
 - [Introducing cross-account sharing to direct IAM principals and sharing with AWS Organization units using LF-TBAC in AWS Lake Formation](https://aws.amazon.com/about-aws/whats-new/2022/11/cross-account-sharing-direct-iam-principals-sharing-organization-units-lf-tbac-lake-formation/)
-- [AWS Organizations tag policies are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/organizations-tag-policies-available-aws-govcloud-us-regions/)
-- [Amazon Personalize enables customers to measure the impact of their recommendations](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-personalize-enables-measure-impact-recommendations/)
-- [AWS IoT TwinMaker now supports camera view and sub-model selection](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-twinmaker-camera-view-sub-model-selection/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
