@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing DTMF slot settings within Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2022/11/dtmf-slot-settings-amazon-lex/)
 - [Announcing preview of the AWS SDK for SAP ABAP](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-sdk-sap-abap-preview/)
 - [Amazon Interactive Video Service Stream Chat now supports logging for chat messages](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-interactive-video-service-logging-chat-messages/)
 - [Amazon Connect Voice ID is now available in Canada &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-voice-id-available-canada-central-region/)
 - [Customers can now access Amazon FinSpace data from other AWS Analytics Services](https://aws.amazon.com/about-aws/whats-new/2022/11/access-amazon-finspace-data-aws-analytics-services/)
-- [Amazon AppFlow now supports AWS Glue Data Catalog integration and provides enhanced data preparation](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-appflow-aws-glue-data-catalog-integration-provides-enhanced-data-preparation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
