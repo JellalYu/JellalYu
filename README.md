@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS announces Amazon WorkSpaces Multi-Region Resilience](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-multi-region-resilience/)
-- [Amazon Connect launches new capabilities to help administrators manage saved reports](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-launches-new-capabilities-manage-saved-reports/)
-- [AWS Directory Service for Microsoft Active Directory and AD Connector are now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-directory-service-microsoft-active-directory-ad-connector-uae-region/)
-- [Amazon CloudWatch RUM now supports custom events for better troubleshooting and application specific monitoring](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudwatch-rum-custom-events-troubleshooting-application-monitoring/)
-- [Amazon GameSparks Now Available in AWS Asia Pacific &lpar;Tokyo&rpar; Region in Preview](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-gamesparks-available-aws-asia-pacific-tokyo-region-preview/)
+- [Announcing preview of the AWS SDK for SAP ABAP](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-sdk-sap-abap-preview/)
+- [Amazon Interactive Video Service Stream Chat now supports logging for chat messages](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-interactive-video-service-logging-chat-messages/)
+- [Amazon Connect Voice ID is now available in Canada &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-voice-id-available-canada-central-region/)
+- [Customers can now access Amazon FinSpace data from other AWS Analytics Services](https://aws.amazon.com/about-aws/whats-new/2022/11/access-amazon-finspace-data-aws-analytics-services/)
+- [Amazon AppFlow now supports AWS Glue Data Catalog integration and provides enhanced data preparation](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-appflow-aws-glue-data-catalog-integration-provides-enhanced-data-preparation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
