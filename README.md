@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Launch Wizard now supports additional SAP scaling scenarios, RHEL 8/6, and hourly pricing for 18/24 TB High Memory Instances](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-launch-wizard-sap-scaling-scenarios-high-memory-instances/)
-- [AWS Audit Manager now provides search-based filtering and grouping to help with noncompliance root-cause analysis](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-audit-manager-search-based-filtering-grouping-root-cause-analysis/)
-- [Announcing AWS Service Catalog AppRegistry support for automatic associations based on tags](https://aws.amazon.com/about-aws/whats-new/2022/11/service-catalog-appregistry-support-automatic-associations-based-tags/)
-- [Simplify cross-account access for your AWS services with AWS Step Functions](https://aws.amazon.com/about-aws/whats-new/2022/11/simplify-cross-account-access-aws-services-step-functions/)
-- [Amazon Athena releases data source connector for IBM Db2](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-athena-data-source-connector-ibm-db2/)
+- [Amazon RDS for MariaDB supports new minor versions 10.6.11, 10.5.18, 10.4.27, 10.3.37](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-for-mariadb-supports-new-minor-versions/)
+- [AlexaTM 20B model is now available in SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2022/11/alexatm-20b-model-available-sagemaker-jumpstart/)
+- [Manage your resources from AWS Organizations using AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/11/manage-resources-aws-organizations-cloudformation/)
+- [Amazon MemoryDB for Redis is now System and Organization Controls &lpar;SOC&rpar; compliant](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-memorydb-redis-system-organization-controls-soc-compliant/)
+- [AWS Controllers for Kubernetes &lpar;ACK&rpar; controller for Amazon EMR on EKS is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/11/ack-controller-amazon-emr-eks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
