@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Introducing DTMF slot settings within Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2022/11/dtmf-slot-settings-amazon-lex/)
-- [Announcing preview of the AWS SDK for SAP ABAP](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-sdk-sap-abap-preview/)
-- [Amazon Interactive Video Service Stream Chat now supports logging for chat messages](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-interactive-video-service-logging-chat-messages/)
-- [Amazon Connect Voice ID is now available in Canada &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-voice-id-available-canada-central-region/)
-- [Customers can now access Amazon FinSpace data from other AWS Analytics Services](https://aws.amazon.com/about-aws/whats-new/2022/11/access-amazon-finspace-data-aws-analytics-services/)
+- [Amazon Personalize enables customers to measure the impact of their recommendations](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-personalize-enables-measure-impact-recommendations/)
+- [AWS IoT TwinMaker now supports camera view and sub-model selection](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-twinmaker-camera-view-sub-model-selection/)
+- [AWS IoT TwinMaker now supports data connector to Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-twinmaker-data-connector-amazon-athena/)
+- [Amazon AppFlow launches monitoring with Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-appflow-monitoring-amazon-cloudwatch-metrics/)
+- [AWS Lambda adds support for Node.js 18](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-support-node-js-18/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
