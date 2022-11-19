@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon RDS for MariaDB supports new minor versions 10.6.11, 10.5.18, 10.4.27, 10.3.37](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-for-mariadb-supports-new-minor-versions/)
-- [AlexaTM 20B model is now available in SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2022/11/alexatm-20b-model-available-sagemaker-jumpstart/)
-- [Manage your resources from AWS Organizations using AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/11/manage-resources-aws-organizations-cloudformation/)
-- [Amazon MemoryDB for Redis is now System and Organization Controls &lpar;SOC&rpar; compliant](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-memorydb-redis-system-organization-controls-soc-compliant/)
-- [AWS Controllers for Kubernetes &lpar;ACK&rpar; controller for Amazon EMR on EKS is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/11/ack-controller-amazon-emr-eks/)
+- [AWS Chatbot now supports command aliases to shorten frequently used AWS CLI commands in Slack](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-chatbot-command-aliases-shorten-cli-commands-slack/)
+- [Contact Lens for Amazon Connect now supports real-time email notifications](https://aws.amazon.com/about-aws/whats-new/2022/11/contact-lens-amazon-connect-real-time-email-notifications/)
+- [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; Version 22.1](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-oracle-application-express-apex-version-22-1/)
+- [AWS Amplify Flutter Announces Web and Desktop support &lpar;Developer Preview&rpar; for API, Analytics, and Storage](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amplify-flutter-web-desktop-developer-preview-api-analytics-storage/)
+- [Amazon Chime SDK expands voice features into eight additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-chime-sdk-expands-voice-features-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
