@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront launches continuous deployment support](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudfront-continuous-deployment-support/)
+- [AWS Secrets Manager now supports rotation of secrets as often as every four hours](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-secrets-manager-rotation-secrets-as-often-as-four-hours/)
 - [QuickSight dashboards now available for seller reporting and insights in AWS Marketplace &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/quicksight-dashboards-seller-reporting-insights-aws-marketplace-preview/)
 - [AWS Service Catalog now supports syncing products with Infrastructure as Code template files from GitHub, GitHub Enterprise, or Bitbucket](https://aws.amazon.com/about-aws/whats-new/2022/11/service-catalog-syncing-products-infrastructure-code-template-files-github-enterprise-bitbucket/)
 - [AWS Backup announces support for SAP HANA databases on Amazon EC2 in Preview](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-sap-hana-databases-amazon-ec2-preview/)
-- [Amazon RDS Custom for Oracle now supports Oracle Home customization](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-custom-oracle-home-customization/)
-- [Amazon S3 Select improves query performance by up to 9x when using Trino](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-select-improves-query-performance-trino/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
