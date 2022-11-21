@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Textract launches the ability to detect signatures on any document](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-textract-detect-signatures-any-document/)
 - [AWS X-Ray adds trace linking for event-driven applications built on Amazon SQS and AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-x-ray-trace-linking-event-driven-applications-amazon-sqs-lambda/)
 - [AWS Glue Crawlers Now Support Snowflake](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-glue-crawlers-support-snowflake/)
 - [Amazon QuickSight launches admin asset management console](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-admin-asset-management-console/)
 - [AWS IAM Identity Center now supports session management capabilities for AWS Command Line Interface &lpar;AWS CLI&rpar; and SDKs](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iam-identity-center-session-management-aws-cli-sdks/)
-- [Amazon QuickSight supports NULL in parameter](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-supports-null-parameter/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
