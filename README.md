@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Chatbot now supports command aliases to shorten frequently used AWS CLI commands in Slack](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-chatbot-command-aliases-shorten-cli-commands-slack/)
-- [Contact Lens for Amazon Connect now supports real-time email notifications](https://aws.amazon.com/about-aws/whats-new/2022/11/contact-lens-amazon-connect-real-time-email-notifications/)
-- [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; Version 22.1](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-oracle-application-express-apex-version-22-1/)
-- [AWS Amplify Flutter Announces Web and Desktop support &lpar;Developer Preview&rpar; for API, Analytics, and Storage](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amplify-flutter-web-desktop-developer-preview-api-analytics-storage/)
-- [Amazon Chime SDK expands voice features into eight additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-chime-sdk-expands-voice-features-additional-aws-regions/)
+- [AWS X-Ray adds trace linking for event-driven applications built on Amazon SQS and AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-x-ray-trace-linking-event-driven-applications-amazon-sqs-lambda/)
+- [AWS Glue Crawlers Now Support Snowflake](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-glue-crawlers-support-snowflake/)
+- [Amazon QuickSight launches admin asset management console](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-admin-asset-management-console/)
+- [AWS IAM Identity Center now supports session management capabilities for AWS Command Line Interface &lpar;AWS CLI&rpar; and SDKs](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iam-identity-center-session-management-aws-cli-sdks/)
+- [Amazon QuickSight supports NULL in parameter](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-supports-null-parameter/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
