@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Support for reading and writing data in Amazon DynamoDB and cross account Amazon S3 access with Amazon EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2022/11/reading-writing-data-amazon-dynamodb-s3-access-emr-serverless/)
+- [AWS Control Tower now displays compliance status of external AWS Config rules](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-control-tower-displays-compliance-status-external-config-rules/)
+- [Amazon EMR on EKS adds support for configuring Spark properties within EMR Studio Jupyter Notebooks](https://aws.amazon.com/about-aws/whats-new/2022/11/emr-eks-configuring-spark-properties-emr-studio-jupyter-notebooks/)
 - [Amazon CloudFront launches continuous deployment support](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudfront-continuous-deployment-support/)
 - [AWS Secrets Manager now supports rotation of secrets as often as every four hours](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-secrets-manager-rotation-secrets-as-often-as-four-hours/)
-- [QuickSight dashboards now available for seller reporting and insights in AWS Marketplace &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/quicksight-dashboards-seller-reporting-insights-aws-marketplace-preview/)
-- [AWS Service Catalog now supports syncing products with Infrastructure as Code template files from GitHub, GitHub Enterprise, or Bitbucket](https://aws.amazon.com/about-aws/whats-new/2022/11/service-catalog-syncing-products-infrastructure-code-template-files-github-enterprise-bitbucket/)
-- [AWS Backup announces support for SAP HANA databases on Amazon EC2 in Preview](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-sap-hana-databases-amazon-ec2-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
