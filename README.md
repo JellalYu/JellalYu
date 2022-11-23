@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Rekognition adds new pre-trained labels, and introduces color detection](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rekognition-new-pre-trained-labels-color-detection/)
 - [Amazon QuickSight launches cluster points for Geospatial Visual](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-cluster-points-geospatial-visual/)
 - [AWS IoT RoboRunner is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-roborunner-generally-available/)
 - [Amazon Kinesis Data Analytics for Apache Flink now supports Apache Flink version 1.15](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kinesis-data-analytics-apache-flink-supports-flink-version-1-15/)
 - [Announcing AWS Graviton2 support for Amazon EMR Serverless - Get up to 35% better price-performance for your serverless Spark and Hive workload](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-graviton2-emr-serverless-35-percent-price-performance-spark-hive-workloads/)
-- [AWS announces availability of Microsoft SQL Server 2022 images on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-availability-microsoft-sql-server-2022-images-amazon-ec2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
