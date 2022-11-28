@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing Amazon RDS Blue/Green Deployments for safer, simpler, and faster updates](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-blue-green-deployments-safer-simpler-faster-updates/)
-- [Amazon Elastic File System introduces 1-Day Lifecycle Management Policy to help customers reduce costs for cold data sets](https://aws.amazon.com/about-aws/whats-new/2022/11/elastic-file-system-1-day-lifecycle-management-policy-reduce-costs-cold-data-sets/)
-- [AWS Backup launches application-aware data protection for applications defined using AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-application-aware-data-protection-applications-defined-cloudformation/)
-- [AWS Backup adds legal hold capability for extended data retention beyond lifecycle policies](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-legal-hold-data-retention-beyond-lifecycle-policies/)
-- [Amazon Kendra launches expanded language support for semantic search](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kendra-expanded-language-support-semantic/)
+- [Amazon CodeWhisperer adds Enterprise administrative controls, simple sign-up, and support for new languages](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-codewhisperer-enterprise-controls-sign-up-new-languages/)
+- [AWS Application Migration Service supports application-centric migrations, wave planning, and more](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-application-migration-service-wave-custom-actions-launch-template-configuration/)
+- [Amazon RDS Optimized Reads is now available for up to 50% faster queries on Amazon RDS for MySQL](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-optimized-reads-available-faster-queries-amazon-rds-mysql/)
+- [AWS Backup launches delegation of organization-wide backup administration](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-delegation-organization-wide-backup-administration/)
+- [Amazon Kendra launches tabular search for HTML documents](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kendra-tabular-search-html-documents/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
