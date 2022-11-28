@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS announces Amazon Verified Permissions &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-verified-permissions-preview/)
-- [Announcing the availability of Microsoft Office Amazon Machine Images &lpar;AMIs&rpar; on Amazon EC2 with AWS provided licenses](https://aws.amazon.com/about-aws/whats-new/2022/11/microsoft-amazon-machine-images-aws-provided-licenses/)
 - [Introducing Amazon EC2 R7iz instances](https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-r7iz-instances/)
+- [Amazon Macie introduces automated sensitive data discovery](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-macie-automated-sensitive-data-discovery/)
+- [Announcing the availability of Microsoft Office Amazon Machine Images &lpar;AMIs&rpar; on Amazon EC2 with AWS provided licenses](https://aws.amazon.com/about-aws/whats-new/2022/11/microsoft-amazon-machine-images-aws-provided-licenses/)
 - [Announcing the general availability of AWS Wickr](https://aws.amazon.com/about-aws/whats-new/2022/11/general-availability-aws-wickr/)
-- [Introducing AWS Glue 4.0](https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-aws-glue-4-0/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
