@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon QuickSight now supports connectivity to Databricks](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-supports-connectivity-databricks/)
-- [Amazon EBS launches Rule Lock for Recycle Bin to prevent unintended changes to Region-level retention rules for Snapshots and AMIs](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ebs-rule-lock-recycle-bin-unintended-changes-region-level-snapshots-amis/)
-- [Amazon Managed Grafana now supports visualizing Prometheus Alertmanager rules and new configuration APIs](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-grafana-visualizing-prometheus-alertmanager-rules-configuration-apis/)
-- [Amazon Managed Grafana now supports connection to data sources hosted in Amazon Virtual Private Cloud](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-grafana-connection-data-sources-hosted-virtual-private-cloud/)
-- [Amazon Rekognition adds new pre-trained labels, and introduces color detection](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rekognition-new-pre-trained-labels-color-detection/)
+- [Announcing Amazon RDS Blue/Green Deployments for safer, simpler, and faster updates](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-blue-green-deployments-safer-simpler-faster-updates/)
+- [Amazon Elastic File System introduces 1-Day Lifecycle Management Policy to help customers reduce costs for cold data sets](https://aws.amazon.com/about-aws/whats-new/2022/11/elastic-file-system-1-day-lifecycle-management-policy-reduce-costs-cold-data-sets/)
+- [AWS Backup launches application-aware data protection for applications defined using AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-application-aware-data-protection-applications-defined-cloudformation/)
+- [AWS Backup adds legal hold capability for extended data retention beyond lifecycle policies](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-legal-hold-data-retention-beyond-lifecycle-policies/)
+- [Amazon Kendra launches expanded language support for semantic search](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kendra-expanded-language-support-semantic/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
