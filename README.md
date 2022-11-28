@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon CodeWhisperer adds Enterprise administrative controls, simple sign-up, and support for new languages](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-codewhisperer-enterprise-controls-sign-up-new-languages/)
-- [AWS Application Migration Service supports application-centric migrations, wave planning, and more](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-application-migration-service-wave-custom-actions-launch-template-configuration/)
+- [Announcing data protection in Amazon CloudWatch Logs, helping you detect, and protect sensitive data-in-transit](https://aws.amazon.com/about-aws/whats-new/2022/11/data-protection-amazon-cloudwatch-logs-detect-protect-sensitive-data-in-transit/)
+- [Amazon RDS Optimized Writes enables up to 2x higher write throughput at no additional cost](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-optimized-writes-2x-higher-write-throughput-no-cost/)
 - [Amazon RDS Optimized Reads is now available for up to 50% faster queries on Amazon RDS for MySQL](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-optimized-reads-available-faster-queries-amazon-rds-mysql/)
-- [AWS Backup launches delegation of organization-wide backup administration](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-delegation-organization-wide-backup-administration/)
-- [Amazon Kendra launches tabular search for HTML documents](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kendra-tabular-search-html-documents/)
+- [Announcing delegated administrator for AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-organizations-delegated-administrator/)
+- [Amazon CodeWhisperer adds Enterprise administrative controls, simple sign-up, and support for new languages](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-codewhisperer-enterprise-controls-sign-up-new-languages/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
