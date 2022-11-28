@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces lower latencies for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-announces-lower-latencies-amazon-elastic-file-system/)
+- [Announcing Elastic Throughput for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-elastic-file-system-elastic-throughput/)
 - [AWS announces Amazon Verified Permissions &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-verified-permissions-preview/)
 - [Introducing Amazon EC2 R7iz instances](https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-r7iz-instances/)
 - [Amazon Macie introduces automated sensitive data discovery](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-macie-automated-sensitive-data-discovery/)
-- [Announcing the availability of Microsoft Office Amazon Machine Images &lpar;AMIs&rpar; on Amazon EC2 with AWS provided licenses](https://aws.amazon.com/about-aws/whats-new/2022/11/microsoft-amazon-machine-images-aws-provided-licenses/)
-- [Announcing the general availability of AWS Wickr](https://aws.amazon.com/about-aws/whats-new/2022/11/general-availability-aws-wickr/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
