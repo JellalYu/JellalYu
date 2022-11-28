@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Amazon Verified Permissions &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-verified-permissions-preview/)
 - [Announcing the availability of Microsoft Office Amazon Machine Images &lpar;AMIs&rpar; on Amazon EC2 with AWS provided licenses](https://aws.amazon.com/about-aws/whats-new/2022/11/microsoft-amazon-machine-images-aws-provided-licenses/)
 - [Introducing Amazon EC2 R7iz instances](https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-r7iz-instances/)
 - [Announcing the general availability of AWS Wickr](https://aws.amazon.com/about-aws/whats-new/2022/11/general-availability-aws-wickr/)
 - [Introducing AWS Glue 4.0](https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-aws-glue-4-0/)
-- [Amazon Redshift extends SQL capabilities to simplify and speed up data warehouse migrations &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-sql-capabilities-speed-data-warehouse-migrations-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
