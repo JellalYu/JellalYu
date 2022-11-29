@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS announces lower latencies for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-announces-lower-latencies-amazon-elastic-file-system/)
-- [Announcing Elastic Throughput for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-elastic-file-system-elastic-throughput/)
-- [AWS announces Amazon Verified Permissions &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-verified-permissions-preview/)
-- [Introducing Amazon EC2 R7iz instances](https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-r7iz-instances/)
-- [Amazon Macie introduces automated sensitive data discovery](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-macie-automated-sensitive-data-discovery/)
+- [AWS Compute Optimizer now supports external metrics from observability partners](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-compute-optimizer-external-metrics-observability-partners/)
+- [Announcing a new generation of Amazon FSx for OpenZFS file systems](https://aws.amazon.com/about-aws/whats-new/2022/11/new-generation-amazon-fsx-openzfs-file-systems/)
+- [AWS Nitro Enclaves now supports Amazon EKS and Kubernetes](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-nitro-enclaves-supports-amazoneks-kubernetes/)
+- [Amazon FSx for NetApp ONTAP simplifies access to Multi-AZ file systems from on-premises and peered networks](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-fsx-netapp-ontap-access-multi-az-file-systems-on-premises-peered-networks/)
+- [Elastic Load Balancing capabilities for application availability](https://aws.amazon.com/about-aws/whats-new/2022/11/elastic-load-balancing-capabilities-application-availability/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
