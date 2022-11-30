@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS announces Amazon Aurora zero-ETL integration with Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-aurora-zero-etl-integration-redshift/)
-- [AWS KMS launches External Key Store](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-kms-external-key-store/)
-- [Amazon Redshift announces support for Dynamic Data Masking &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-support-dynamic-data-masking-preview/)
-- [Amazon Redshift announces general availability of real-time streaming ingestion for Amazon KDS and Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-real-time-streaming-ingestion-kds-msk/)
-- [Introducing Amazon Omics](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-omics-generally-available/)
+- [Announcing availability of AWS Outposts in Qatar, Guatemala, and Trinidad &amp; Tobago](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-outposts-qatar-guatemala-trinidad-tobago/)
+- [AWS announces Amazon VPC Lattice &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-announces-amazon-vpc-lattice-preview/)
+- [Announcing the preview of AWS Verified Access](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-verified-access-preview/)
+- [Amazon QuickSight Q now supports automated data preparation](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-q-supports-automated-data-preparation/)
+- [Amazon Kinesis Data Firehose adds support for data stream delivery to Amazon OpenSearch Serverless](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kinesis-data-firehose-support-data-stream-delivery-opensearch-serverless/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
