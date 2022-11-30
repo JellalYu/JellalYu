@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon GuardDuty RDS Protection now in preview](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-guardduty-rds-protection-preview/)
-- [Announcing Trusted Language Extensions for PostgreSQL on Amazon Aurora and Amazon RDS](https://aws.amazon.com/about-aws/whats-new/2022/11/trusted-language-extensions-postgresql-amazon-aurora-rds/)
-- [Amazon Redshift now supports Multi-AZ &lpar;Preview&rpar; for RA3 clusters](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-multi-az-preview-ra3-clusters/)
-- [Amazon SageMaker now supports geospatial ML &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-geospatial-ml-preview/)
-- [Amazon SageMaker Studio launches redesigned user interface](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-studio-redesigned-user-interface/)
+- [Amazon SageMaker Studio now supports automatic conversion of notebook code to production-ready jobs](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-studio-automatic-conversion-notebook-code-production-jobs/)
+- [Amazon SageMaker Data Wrangler now provides built-in data preparation in notebooks](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-data-wrangler-built-in-data-preparation-notebooks/)
+- [Amazon SageMaker Studio now supports real time collaboration](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-studio-supports-real-time-collaboration/)
+- [Introducing Amazon SageMaker support for shadow testing](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-shadow-testing/)
+- [Launch Amazon SageMaker Autopilot experiments from Amazon SageMaker Pipelines to easily automate MLOps workflows](https://aws.amazon.com/about-aws/whats-new/2022/11/launch-amazon-sagemaker-autopilot-experiments-sagemaker-pipelines-automate-mlops/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
