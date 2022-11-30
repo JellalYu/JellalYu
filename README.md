@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS announces Amazon VPC Lattice &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-announces-amazon-vpc-lattice-preview/)
-- [Announcing the preview of AWS Verified Access](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-verified-access-preview/)
-- [Announcing availability of AWS Outposts in Qatar, Guatemala, and Trinidad &amp; Tobago](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-outposts-qatar-guatemala-trinidad-tobago/)
-- [Amazon QuickSight Q now supports automated data preparation](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-q-supports-automated-data-preparation/)
-- [Amazon Kinesis Data Firehose adds support for data stream delivery to Amazon OpenSearch Serverless](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kinesis-data-firehose-support-data-stream-delivery-opensearch-serverless/)
+- [Amazon GuardDuty RDS Protection now in preview](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-guardduty-rds-protection-preview/)
+- [Announcing Trusted Language Extensions for PostgreSQL on Amazon Aurora and Amazon RDS](https://aws.amazon.com/about-aws/whats-new/2022/11/trusted-language-extensions-postgresql-amazon-aurora-rds/)
+- [Amazon Redshift now supports Multi-AZ &lpar;Preview&rpar; for RA3 clusters](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-multi-az-preview-ra3-clusters/)
+- [Amazon SageMaker now supports geospatial ML &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-geospatial-ml-preview/)
+- [Amazon SageMaker Studio launches redesigned user interface](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-studio-redesigned-user-interface/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
