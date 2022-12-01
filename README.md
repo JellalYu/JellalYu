@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon SageMaker Studio now supports automatic conversion of notebook code to production-ready jobs](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-studio-automatic-conversion-notebook-code-production-jobs/)
-- [Amazon SageMaker Data Wrangler now provides built-in data preparation in notebooks](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-data-wrangler-built-in-data-preparation-notebooks/)
-- [Amazon SageMaker Studio now supports real time collaboration](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-studio-supports-real-time-collaboration/)
-- [Introducing Amazon SageMaker support for shadow testing](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-shadow-testing/)
-- [Launch Amazon SageMaker Autopilot experiments from Amazon SageMaker Pipelines to easily automate MLOps workflows](https://aws.amazon.com/about-aws/whats-new/2022/11/launch-amazon-sagemaker-autopilot-experiments-sagemaker-pipelines-automate-mlops/)
+- [Announcing AWS Marketplace Vendor Insights to help streamline vendor risk assessments](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-marketplace-vendor-insights-streamline-vendor-risk-assessments/)
+- [Announcing AWS Data Exchange for Amazon S3 &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-data-exchange-amazon-s3-preview/)
+- [Announcing AWS Data Exchange for AWS Lake Formation &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-data-exchange-aws-lake-formation-preview/)
+- [Introducing AWS Graviton Delivery Partners](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-graviton-delivery-partners/)
+- [Introducing Amazon SageMaker Ready Software Products](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-ready-software-products/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
