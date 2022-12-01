@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Step Functions launches large-scale parallel workflows for data processing and serverless applications](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-step-functions-large-scale-parallel-workflows-data-processing-serverless-applications/)
 - [Amazon Comprehend announces support for semi-structured document processing](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-comprehend-support-semi-structured-document-processing/)
 - [AWS re:Post streamlines customers’ community engagement with AWS Builder ID and re:Post Linked logins](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-repost-customers-community-engagement-builder-id-repost-linked-logins/)
 - [Amazon GameLift now supports customer-managed compute with GameLift Anywhere](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-gamelift-customer-managed-compute-gamelift-anywhere/)
 - [Announcing Amazon CodeCatalyst &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/announcing-amazon-codecatalyst-preview/)
-- [AWS Step Functions launches large-scale parallel workflows for data processing and serverless applications](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-step-functions-large-scale-parallel-workflows-data-processing-serverless-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
