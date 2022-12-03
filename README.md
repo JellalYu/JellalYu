@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Firewall Manager now supports FortiGate Cloud-Native Firewall](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-firewall-manager-fortigate-cloud-native-firewall/)
 - [AWS AppConfig Agent makes feature flags and runtime configuration simpler for containers](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-appconfig-agent-feature-flags-runtime-configuration-containers/)
 - [Amazon Comprehend announces support for classification and entity extraction directly from a variety of document formats](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-comprehend-support-classification-entity-exctraction-document-formats/)
 - [AWS Step Functions launches large-scale parallel workflows for data processing and serverless applications](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-step-functions-large-scale-parallel-workflows-data-processing-serverless-applications/)
 - [AWS re:Post streamlines customers’ community engagement with AWS Builder ID and re:Post Linked logins](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-repost-customers-community-engagement-builder-id-repost-linked-logins/)
-- [Amazon GameLift now supports customer-managed compute with GameLift Anywhere](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-gamelift-customer-managed-compute-gamelift-anywhere/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
