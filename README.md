@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub now integrates with AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-security-hub-integrates-aws-control-tower/)
 - [Amazon SageMaker Studio now supports Fine-grained data access control with AWS Lake Formation and Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2022/12/sagemaker-studio-fine-grained-data-access-control-lake-formation-emr/)
 - [AWS Firewall Manager now supports FortiGate Cloud-Native Firewall](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-firewall-manager-fortigate-cloud-native-firewall/)
 - [AWS AppConfig Agent makes feature flags and runtime configuration simpler for containers](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-appconfig-agent-feature-flags-runtime-configuration-containers/)
 - [Amazon Comprehend announces support for classification and entity extraction directly from a variety of document formats](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-comprehend-support-classification-entity-exctraction-document-formats/)
-- [AWS Step Functions launches large-scale parallel workflows for data processing and serverless applications](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-step-functions-large-scale-parallel-workflows-data-processing-serverless-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
