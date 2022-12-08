@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing availability of AWS Outposts in Egypt](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-outposts-egypt/)
+- [Amazon SageMaker Feature Store now supports Apache Iceberg table format](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-feature-store-apache-iceberg-table-format/)
 - [Amazon Data Lifecycle Manager is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-data-lifecycle-manager-aws-middle-east-uae-region/)
 - [Amazon Transcribe now supports Custom Language Models for German and Japanese languages](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-transcribe-custom-language-models-german-japanese/)
 - [Contact Lens for Amazon Connect launches APIs to manage rules](https://aws.amazon.com/about-aws/whats-new/2022/12/contact-lens-amazon-connect-apis-manage-rules/)
-- [Amazon EC2 Is4gen and Im4gn Instances are now available in Europe &lpar;Paris&rpar; region.](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-is4gen-im4gn-instances-europe-paris-region/)
-- [Amazon Cognito is now available in the Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-cognito-europe-milan-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
