@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon RDS Proxy now supports creating proxies in Aurora Global Database primary and secondary regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-proxy-creating-proxies-aurora-global-database-primary-secondary-regions/)
-- [Amazon Kinesis Data Firehose now delivers to Logz.io](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kinesis-data-firehose-delivers-logz-io/)
-- [AWS Config enables drift detection in Config Recorder](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-config-drift-detection-config-recorder/)
-- [Amazon VPC IP Address Manager &lpar;IPAM&rpar; is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ipam-available-aws-govcloud-us-regions/)
-- [Announcing availability of AWS Outposts in Egypt](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-outposts-egypt/)
+- [AWS IoT TwinMaker launches asset synchronization with AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-twinmaker-launches-asset-synchronization-aws-iot-sitewise/)
+- [Amazon QuickSight supports billion-row dataset with SPICE](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-quicksight-billion-row-dataset-spice/)
+- [AWS Cost Anomaly Detection adds account name and other important details to its alert notifications](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cost-anomaly-detection-account-name-alert-notifications/)
+- [Amazon SageMaker Data Wrangler now supports Amazon EMR Presto as a big data query engine](https://aws.amazon.com/about-aws/whats-new/2022/12/sagemaker-data-wrangler-supports-amazon-emr-presto-data-source-query-engine/)
+- [AWS Cost Management introduces 1-click experience to refresh Savings Plans Recommendations](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cost-management-1-click-experience-refresh-savings-plans-recommendations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
