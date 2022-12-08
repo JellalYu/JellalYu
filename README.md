@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Proxy now supports creating proxies in Aurora Global Database primary and secondary regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-proxy-creating-proxies-aurora-global-database-primary-secondary-regions/)
+- [Amazon Kinesis Data Firehose now delivers to Logz.io](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kinesis-data-firehose-delivers-logz-io/)
 - [AWS Config enables drift detection in Config Recorder](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-config-drift-detection-config-recorder/)
 - [Amazon VPC IP Address Manager &lpar;IPAM&rpar; is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ipam-available-aws-govcloud-us-regions/)
 - [Announcing availability of AWS Outposts in Egypt](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-outposts-egypt/)
-- [Amazon SageMaker Feature Store now supports Apache Iceberg table format](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-feature-store-apache-iceberg-table-format/)
-- [Amazon Data Lifecycle Manager is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-data-lifecycle-manager-aws-middle-east-uae-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
