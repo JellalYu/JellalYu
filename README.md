@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Auto Scaling now supports Metric Math for Target Tracking Policies](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-auto-scaling-supports-metric-math-target-tracking-policies/)
 - [AWS IoT TwinMaker launches asset synchronization with AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-twinmaker-launches-asset-synchronization-aws-iot-sitewise/)
 - [Amazon QuickSight supports billion-row dataset with SPICE](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-quicksight-billion-row-dataset-spice/)
 - [AWS Cost Anomaly Detection adds account name and other important details to its alert notifications](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cost-anomaly-detection-account-name-alert-notifications/)
 - [Amazon SageMaker Data Wrangler now supports Amazon EMR Presto as a big data query engine](https://aws.amazon.com/about-aws/whats-new/2022/12/sagemaker-data-wrangler-supports-amazon-emr-presto-data-source-query-engine/)
-- [AWS Cost Management introduces 1-click experience to refresh Savings Plans Recommendations](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cost-management-1-click-experience-refresh-savings-plans-recommendations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
