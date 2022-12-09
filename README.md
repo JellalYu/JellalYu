@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Grafana adds support for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-managed-grafana-support-aws-cloudformation/)
+- [Amazon Braket now supports adjoint gradient computation, unlocking runtime improvements and cost savings](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-braket-adjoint-gradient-computation-runtime-cost-savings/)
+- [Announcing preview of SageMaker Model Training support for ml.p4de instances](https://aws.amazon.com/about-aws/whats-new/2022/12/sagemaker-model-training-ml-p4de-instances-preview/)
+- [Announcing Global Free Tier Pricing Rules for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2022/12/global-free-tier-pricing-rules-aws-billing-conductor/)
 - [Amazon EC2 Auto Scaling now supports Metric Math for Target Tracking Policies](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-auto-scaling-supports-metric-math-target-tracking-policies/)
-- [AWS IoT TwinMaker launches asset synchronization with AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-twinmaker-launches-asset-synchronization-aws-iot-sitewise/)
-- [Amazon QuickSight supports billion-row dataset with SPICE](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-quicksight-billion-row-dataset-spice/)
-- [AWS Cost Anomaly Detection adds account name and other important details to its alert notifications](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cost-anomaly-detection-account-name-alert-notifications/)
-- [Amazon SageMaker Data Wrangler now supports Amazon EMR Presto as a big data query engine](https://aws.amazon.com/about-aws/whats-new/2022/12/sagemaker-data-wrangler-supports-amazon-emr-presto-data-source-query-engine/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
