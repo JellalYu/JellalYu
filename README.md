@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 I4i Instances are now available in the Asia Pacific &lpar;Seoul&rpar; and South America &lpar;São Paulo&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-i4i-instances-available-asia-pacific-seoul-south-america-sao-paulo-regions/)
 - [Amazon ECS Service Connect now supports AWS Fargate on AWS Graviton Processors](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ecs-service-connect-supports-aws-fargate-graviton-processors/)
 - [Amazon Managed Grafana adds support for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-managed-grafana-support-aws-cloudformation/)
 - [Amazon Braket now supports adjoint gradient computation, unlocking runtime improvements and cost savings](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-braket-adjoint-gradient-computation-runtime-cost-savings/)
 - [Announcing preview of SageMaker Model Training support for ml.p4de instances](https://aws.amazon.com/about-aws/whats-new/2022/12/sagemaker-model-training-ml-p4de-instances-preview/)
-- [Announcing Global Free Tier Pricing Rules for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2022/12/global-free-tier-pricing-rules-aws-billing-conductor/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
