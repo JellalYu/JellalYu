@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches more granular access controls &lpar;using resource tags&rpar; for queues](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-granular-access-controls-resource-tags-queues/)
+- [Amazon Connect launches more granular access controls &lpar;using resource tags&rpar; for routing profiles](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-granular-access-controls-resource-tags-routing-profiles/)
+- [Amazon Translate enables language detection support for batch translation](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-translate-language-detection-support-batch-translation/)
 - [Amazon EC2 I4i Instances are now available in the Asia Pacific &lpar;Seoul&rpar; and South America &lpar;São Paulo&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-i4i-instances-available-asia-pacific-seoul-south-america-sao-paulo-regions/)
 - [Amazon ECS Service Connect now supports AWS Fargate on AWS Graviton Processors](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ecs-service-connect-supports-aws-fargate-graviton-processors/)
-- [Amazon Managed Grafana adds support for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-managed-grafana-support-aws-cloudformation/)
-- [Amazon Braket now supports adjoint gradient computation, unlocking runtime improvements and cost savings](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-braket-adjoint-gradient-computation-runtime-cost-savings/)
-- [Announcing preview of SageMaker Model Training support for ml.p4de instances](https://aws.amazon.com/about-aws/whats-new/2022/12/sagemaker-model-training-ml-p4de-instances-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
