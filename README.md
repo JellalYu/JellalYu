@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Advanced Notice: Amazon S3 will automatically enable S3 Block Public Access and disable access control lists for all new buckets starting in April 2023](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-s3-automatically-enable-block-public-access-disable-access-control-lists-buckets-april-2023/)
+- [Amazon GuardDuty now available in AWS Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-guardduty-available-aws-europe-zurich-region/)
 - [Amazon MQ is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-mq-available-middle-east-uae-region/)
 - [Amazon Connect launches more granular access controls &lpar;using resource tags&rpar; for security profiles](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-granular-access-controls-resource-tags-security-profiles/)
 - [Amazon Connect launches more granular access controls &lpar;using resource tags&rpar; for users](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-granular-access-controls-resource-tags-users/)
-- [AWS Amplify JavaScript library announces version 5 release](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-amplify-javascript-version-5-release/)
-- [Amazon RDS for Oracle now supports copying option groups during in-region cross-account snapshot copy](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-oracle-copying-option-groups-in-region-cross-account-snapshot-copy/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
