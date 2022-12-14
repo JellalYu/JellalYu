@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EKS now supports Nvidia RAPIDS Accelerator for Apache Spark](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-emr-eks-nvidia-rapids-accelerator-apache-spark/)
+- [Amazon Neptune now supports “Concise Bounded Description” queries for SPARQL query language](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-concise-bounded-description-queries-sparql-query-language/)
+- [AWS Cloud WAN helps simplify security inspection with Appliance Mode support](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cloud-wan-security-inspection-appliance-mode-support/)
 - [Amazon SageMaker Ground Truth synthetic data now supports dynamic 3D environments](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-ground-truth-synthetic-data-supports-dynamic-3d-environments/)
 - [Amazon CloudWatch launches Metrics Insights alarms](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-cloudwatch-metrics-insights-alarms/)
-- [Bring ML models built anywhere into Amazon SageMaker Canvas and generate predictions](https://aws.amazon.com/about-aws/whats-new/2022/12/ml-models-built-anywhere-amazon-sagemaker-canvas-generate-predictions/)
-- [Monitor Amazon EMR Serverless jobs in near real-time using CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2022/12/monitor-amazon-emr-serverless-jobs-near-real-time-cloudwatch-metrics/)
-- [Amazon RDS Proxy now supports PostgreSQL major version 14](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-proxy-supports-postgresql-major-version-14/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
