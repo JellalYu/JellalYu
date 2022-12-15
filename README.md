@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Timestream now enables you to protect your data through AWS Backup](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-timestream-enables-protect-data-through-aws-backup/)
 - [Amazon EKS add-ons now supports advanced configuration](https://aws.amazon.com/about-aws/whats-new/2022/12/eks-add-ons-supports-advanced-configuration/)
 - [Amazon Kendra now available in Asia-Pacific &lpar;Mumbai&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kendra-asia-pacific-mumbai-aws-region/)
 - [Amazon Kinesis Video Streams announces edge recording and scheduled cloud streaming capabilities &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kinesis-video-streams-edge-recording-scheduled-cloud-streaming-preview/)
 - [Contact Lens for Amazon Connect now provides conversational analytics in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-contact-lens-conversational-analytics-africa-cape-town-region/)
-- [SageMaker Data Wrangler now auto-generates feature-level visualizations](https://aws.amazon.com/about-aws/whats-new/2022/12/sagemaker-data-wrangler-auto-generates-feature-level-visualizations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
