@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Calculator supports dedicated instance pricing](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-calculator-dedicated-instance-pricing/)
+- [Introducing concurrent account provisioning operations for AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-control-tower-concurrent-account-provisioning-operations/)
+- [AWS Cost Anomaly Detection now supports percentage-based thresholds](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cost-anomaly-detection-percentage-based-thresholds/)
 - [Amazon AppFlow now supports Microsoft SharePoint Online as a source](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-appflow-microsoft-sharepoint-online-source/)
 - [Amazon Timestream now enables you to protect your data through AWS Backup](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-timestream-enables-protect-data-through-aws-backup/)
-- [Amazon EKS add-ons now supports advanced configuration](https://aws.amazon.com/about-aws/whats-new/2022/12/eks-add-ons-supports-advanced-configuration/)
-- [Amazon Kendra now available in Asia-Pacific &lpar;Mumbai&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kendra-asia-pacific-mumbai-aws-region/)
-- [Amazon Kinesis Video Streams announces edge recording and scheduled cloud streaming capabilities &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kinesis-video-streams-edge-recording-scheduled-cloud-streaming-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
