@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune Serverless is now available in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-serverless-available-5-additional-aws-regions/)
 - [AWS Storage Gateway introduces Terraform modules for Amazon S3 File Gateway](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-storage-gateway-terraform-modules-amazon-s3-file-gateway/)
 - [Amazon EC2 M6a and C6a instances now available in five additional regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-m6a-c6a-instances-additional-regions/)
 - [AWS IoT is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-available-aws-middle-east-uae-region/)
 - [Amazon ECS now supports container port ranges for port mapping](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ecs-supports-container-port-ranges-port-mapping/)
-- [AWS IQ launches public profiles for companies](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iq-launches-public-profiles-companies/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
