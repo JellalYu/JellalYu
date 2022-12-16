@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS DataSync adds support for using tags in task executions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-datasync-support-tags-task-executions/)
+- [Amazon SageMaker Experiments launches new capabilities to manage ML experiments performed in diverse IDEs](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-experiments-ml-experiment-management-diverse-ides/)
 - [Amazon EC2 C6id, M6id, R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-c6id-m6id-r6id-instances-available-additional-regions/)
 - [Amazon Route 53 now offers threat intelligence sourced from Recorded Future](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-route-53-threat-intelligence-recorded-future/)
 - [AWS Marketplace introduces free trials for SaaS usage-based pricing products](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-marketplace-free-trials-saas-usage-based-pricing-products/)
-- [Amazon Neptune Serverless is now available in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-serverless-available-5-additional-aws-regions/)
-- [AWS Storage Gateway introduces Terraform modules for Amazon S3 File Gateway](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-storage-gateway-terraform-modules-amazon-s3-file-gateway/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
