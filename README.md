@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppStream 2.0 is now available in the South America &lpar;São Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-appstream-2-0-south-america-sao-paulo-region/)
 - [Amazon Elastic File System &lpar;Amazon EFS&rpar; is now available in the AWS Europe &lpar;Zurich&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-elastic-file-system-efs-available-aws-europe-zurich-region/)
 - [Amazon Chime SDK launches pre-built CodeSandbox developer experience](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-chime-sdk-pre-built-codesandbox-developer-experience/)
 - [AWS Backup adds support for VMware vSphere tags](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-backup-adds-support-vmware-vsphere-tags/)
 - [AWS Backup adds schedule-based network throttling for VMware](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-backup-adds-schedule-based-network-throttling-vmware/)
-- [Amazon Athena releases new connector for Amazon Managed Streaming for Kafka &lpar;MSK&rpar; and Apache Kafka](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-athena-connector-amazon-managed-streaming-kafka-msk-apache/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
