@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon AppStream 2.0 is now available in the South America &lpar;São Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-appstream-2-0-south-america-sao-paulo-region/)
-- [Amazon Elastic File System &lpar;Amazon EFS&rpar; is now available in the AWS Europe &lpar;Zurich&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-elastic-file-system-efs-available-aws-europe-zurich-region/)
-- [Amazon Chime SDK launches pre-built CodeSandbox developer experience](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-chime-sdk-pre-built-codesandbox-developer-experience/)
-- [AWS Backup adds support for VMware vSphere tags](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-backup-adds-support-vmware-vsphere-tags/)
-- [AWS Backup adds schedule-based network throttling for VMware](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-backup-adds-schedule-based-network-throttling-vmware/)
+- [Amazon EC2 M6a and C6a instances now available in five additional regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-m6a-c6a-instances-additional-regions/)
+- [AWS IoT is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-available-aws-middle-east-uae-region/)
+- [Amazon ECS now supports container port ranges for port mapping](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ecs-supports-container-port-ranges-port-mapping/)
+- [AWS IQ launches public profiles for companies](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iq-launches-public-profiles-companies/)
+- [Introducing the new Amazon EMR Console](https://aws.amazon.com/about-aws/whats-new/2022/12/new-amazon-emr-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
