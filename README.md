@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Gateway Load Balancer and Gateway Load Balancer endpoint now support IPv6 traffic](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-gateway-load-balancer-endpoint-ipv6-traffic/)
+- [Amazon QuickSight Q Topic migration APIs now available in preview](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-quicksight-q-topic-migration-apis-available-preview/)
 - [AWS DataSync adds support for using tags in task executions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-datasync-support-tags-task-executions/)
 - [Amazon SageMaker Experiments launches new capabilities to manage ML experiments performed in diverse IDEs](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-experiments-ml-experiment-management-diverse-ides/)
 - [Amazon EC2 C6id, M6id, R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-c6id-m6id-r6id-instances-available-additional-regions/)
-- [Amazon Route 53 now offers threat intelligence sourced from Recorded Future](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-route-53-threat-intelligence-recorded-future/)
-- [AWS Marketplace introduces free trials for SaaS usage-based pricing products](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-marketplace-free-trials-saas-usage-based-pricing-products/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
