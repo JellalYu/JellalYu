@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue Crawlers enhances support for Delta Lake Tables](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-glue-crawlers-support-delta-lake-tables/)
+- [Amazon EKS now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-supports-aws-privatelink/)
+- [Amazon RDS on AWS Outposts now supports read replicas for MySQL and PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-aws-outposts-supports-read-replicas-mysql-postgresql/)
+- [AWS Elemental MediaConvert now available in the Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-elemental-mediaconvert-available-africa-cape-town-region/)
 - [AWS IAM Identity Center is now available in the Africa &lpar;Cape Town&rpar;, Asia Pacific &lpar;Jakarta&rpar;, and US West &lpar;N. California&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iam-identity-center-available-new-regions/)
-- [AWS IoT Device Client V1.8 now available through Elastic Container Registry with enhanced functionality](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-device-client-1-8-release-ecr-enhanced-fuctionality/)
-- [Amazon EC2 High Memory instances are now available in AWS GovCloud &lpar;US-East&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-high-memory-instances-available-aws-govcloud-us-east-region/)
-- [Amazon FinSpace web and data access events now available in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-finspace-web-data-access-events-aws-cloudtrail/)
-- [Renate an open source python library for automatic model re-training](https://aws.amazon.com/about-aws/whats-new/2022/12/renate-open-source-python-library-automatic-model-re-training/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
