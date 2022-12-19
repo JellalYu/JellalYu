@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IAM Identity Center is now available in the Africa &lpar;Cape Town&rpar;, Asia Pacific &lpar;Jakarta&rpar;, and US West &lpar;N. California&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iam-identity-center-available-new-regions/)
+- [AWS IoT Device Client V1.8 now available through Elastic Container Registry with enhanced functionality](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-device-client-1-8-release-ecr-enhanced-fuctionality/)
+- [Amazon EC2 High Memory instances are now available in AWS GovCloud &lpar;US-East&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-high-memory-instances-available-aws-govcloud-us-east-region/)
 - [Amazon FinSpace web and data access events now available in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-finspace-web-data-access-events-aws-cloudtrail/)
 - [Renate an open source python library for automatic model re-training](https://aws.amazon.com/about-aws/whats-new/2022/12/renate-open-source-python-library-automatic-model-re-training/)
-- [Fortuna, an open-source library for uncertainty quantification of ML models, is now available](https://aws.amazon.com/about-aws/whats-new/2022/12/fortuna-open-source-library-uncertainty-quantification-ml-models-available/)
-- [Amazon EBS Snapshots Archive is now available in new Middle East, Europe, and Asia Pacific Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ebs-snapshots-archive-available-new-middle-east-europe-asia-pacific-regions/)
-- [Amazon Managed Service for Prometheus now supports VPC endpoint policies](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-managed-services-prometheus-vpc-endpoint-policies/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
