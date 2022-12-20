@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 DescribeImages API now supports pagination](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-describeimages-supports-pagination/)
 - [Announcing the new security widget on AWS Console Home](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-console-home-security-widget/)
 - [Better reproducibility with SageMaker Automatic Model Tuning](https://aws.amazon.com/about-aws/whats-new/2022/12/better-reproducibility-sagemaker-automatic-model-tuning/)
 - [AWS Resource Access Manager is now available in the Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-resource-access-manager-asia-pacific-hyderabad-region/)
 - [AWS Resource Access Manager is now available in the AWS Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-resource-access-manager-aws-europe-zurich-region/)
-- [AWS Migration Hub Refactor Spaces enables AWS Lambda aliases as service endpoints](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-migration-hub-refactor-spaces-lambda-aliases-service-endpoints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
