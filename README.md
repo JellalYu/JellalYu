@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MQ now supports RabbitMQ version 3.9.24](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-mq-supports-rabbitmq-version-3-9-24/)
+- [Amazon RDS Custom for SQL Server now supports AWS CloudFormation Templates](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-custom-sql-server-supports-aws-cloudformation-templates/)
+- [Announcing label feedback API for Amazon Lookout for Equipment](https://aws.amazon.com/about-aws/whats-new/2022/12/label-feedback-api-amazon-lookout-equipment/)
 - [Amazon EC2 DescribeImages API now supports pagination](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-describeimages-supports-pagination/)
 - [Announcing the new security widget on AWS Console Home](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-console-home-security-widget/)
-- [Better reproducibility with SageMaker Automatic Model Tuning](https://aws.amazon.com/about-aws/whats-new/2022/12/better-reproducibility-sagemaker-automatic-model-tuning/)
-- [AWS Resource Access Manager is now available in the Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-resource-access-manager-asia-pacific-hyderabad-region/)
-- [AWS Resource Access Manager is now available in the AWS Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-resource-access-manager-aws-europe-zurich-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
