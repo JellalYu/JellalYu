@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the general availability of AWS Local Zones in Bangkok and Kolkata](https://aws.amazon.com/about-aws/whats-new/2022/12/general-availability-aws-local-zones-bangkok-kolkata/)
 - [Announcing the general availability of Amazon S3 Transfer Manager in the AWS SDK for Java 2.x](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-s3-transfer-manager-aws-sdk-java-2-x/)
 - [AWS Glue Crawlers enhances support for Delta Lake Tables](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-glue-crawlers-support-delta-lake-tables/)
 - [Amazon EKS now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-supports-aws-privatelink/)
 - [Amazon RDS on AWS Outposts now supports read replicas for MySQL and PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-aws-outposts-supports-read-replicas-mysql-postgresql/)
-- [AWS Elemental MediaConvert now available in the Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-elemental-mediaconvert-available-africa-cape-town-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
