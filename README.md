@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing the general availability of AWS Local Zones in Bangkok and Kolkata](https://aws.amazon.com/about-aws/whats-new/2022/12/general-availability-aws-local-zones-bangkok-kolkata/)
-- [Announcing the general availability of Amazon S3 Transfer Manager in the AWS SDK for Java 2.x](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-s3-transfer-manager-aws-sdk-java-2-x/)
-- [AWS Glue Crawlers enhances support for Delta Lake Tables](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-glue-crawlers-support-delta-lake-tables/)
-- [Amazon EKS now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-supports-aws-privatelink/)
-- [Amazon RDS on AWS Outposts now supports read replicas for MySQL and PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-aws-outposts-supports-read-replicas-mysql-postgresql/)
+- [AWS Migration Hub Refactor Spaces enables AWS Lambda aliases as service endpoints](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-migration-hub-refactor-spaces-lambda-aliases-service-endpoints/)
+- [Amazon ECS now integrates with Amazon CloudWatch alarms to improve safety for deployments](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ecs-cloudwatch-alarms-safety-deployments/)
+- [AWS announces Systems Manager Quick Setup for Resource Scheduler](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-systems-manager-quick-setup-resource-scheduler/)
+- [Service Quotas is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/service-quotas-available-aws-middle-east-uae-region/)
+- [Amazon Rekognition adds labels and improves accuracy of existing labels for video](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rekognition-labels-improves-accuracy-existing-labels-video/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
