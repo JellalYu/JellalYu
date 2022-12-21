@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing AWS Systems Manager widgets on AWS Console Home](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-systems-manager-widgets-aws-console-home/)
-- [Amazon MQ now supports RabbitMQ version 3.9.24](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-mq-supports-rabbitmq-version-3-9-24/)
-- [Amazon RDS Custom for SQL Server now supports AWS CloudFormation Templates](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-custom-sql-server-supports-aws-cloudformation-templates/)
-- [Announcing label feedback API for Amazon Lookout for Equipment](https://aws.amazon.com/about-aws/whats-new/2022/12/label-feedback-api-amazon-lookout-equipment/)
-- [Amazon EC2 DescribeImages API now supports pagination](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-describeimages-supports-pagination/)
+- [Amazon Rekognition improves accuracy of content moderation for images](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rekognition-accuracy-content-moderation-images/)
+- [Amazon Aurora Serverless v2 is now available in Africa &lpar;Cape Town&rpar; and Europe &lpar;Milan&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-aurora-serverless-v2-africa-cape-town-europe-milan/)
+- [PartiQL for DynamoDB now is supported in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/partiql-dynamodb-supported-aws-govcloud-us-regions/)
+- [Amazon Transcribe now supports speech to text in 2 new languages: Swedish and Vietnamese](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-transcribe-speech-text-languages-swedish-vietnamese/)
+- [Amazon Relational Database Service &lpar;Amazon RDS&rpar; now supports X2iedn instances for MySQL and PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-relational-database-service-2iedn-instances-mysql-postgresql/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
