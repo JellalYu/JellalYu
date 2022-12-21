@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS Anywhere now supports cluster lifecycle automation with GitOps and IaC tools like Terraform](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-anywhere-cluster-lifecycle-automation-gitops-lac-tools-terraform/)
+- [AWS announces Amazon EKS Anywhere on Nutanix](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-anywhere-nutanix/)
 - [Amazon Rekognition improves accuracy of content moderation for images](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rekognition-accuracy-content-moderation-images/)
 - [Amazon Aurora Serverless v2 is now available in Africa &lpar;Cape Town&rpar; and Europe &lpar;Milan&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-aurora-serverless-v2-africa-cape-town-europe-milan/)
 - [PartiQL for DynamoDB now is supported in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/partiql-dynamodb-supported-aws-govcloud-us-regions/)
-- [Amazon Transcribe now supports speech to text in 2 new languages: Swedish and Vietnamese](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-transcribe-speech-text-languages-swedish-vietnamese/)
-- [Amazon Relational Database Service &lpar;Amazon RDS&rpar; now supports X2iedn instances for MySQL and PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-relational-database-service-2iedn-instances-mysql-postgresql/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
