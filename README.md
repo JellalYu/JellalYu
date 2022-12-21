@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune Workbench now supports JupyterLab notebooks](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-workbench-supports-jupyterlab-notebooks/)
 - [Nimble Studio now supports configurable persistent storage and new EBS volumes](https://aws.amazon.com/about-aws/whats-new/2022/12/nimble-studio-configurable-persistent-storage-ebs-volumes/)
 - [Amazon Nimble Studio now supports EBS Snapshots with Auto Backup](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-nimble-studio-ebs-snapshots-auto-backup/)
 - [Amazon EKS Anywhere now supports single-node clusters on bare metal](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-anywhere-single-node-clusters-bare-metal/)
 - [Amazon RDS Custom for Oracle is now available in Asia Pacific &lpar;Seoul&rpar; and Asia Pacific &lpar;Osaka&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-custom-oracle-asia-pacific-seoul-osaka-regions/)
-- [Amazon EKS Anywhere now supports cluster lifecycle automation with GitOps and IaC tools like Terraform](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-anywhere-cluster-lifecycle-automation-gitops-lac-tools-terraform/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
