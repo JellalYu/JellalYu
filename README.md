@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS Systems Manager widgets on AWS Console Home](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-systems-manager-widgets-aws-console-home/)
 - [Amazon MQ now supports RabbitMQ version 3.9.24](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-mq-supports-rabbitmq-version-3-9-24/)
 - [Amazon RDS Custom for SQL Server now supports AWS CloudFormation Templates](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-custom-sql-server-supports-aws-cloudformation-templates/)
 - [Announcing label feedback API for Amazon Lookout for Equipment](https://aws.amazon.com/about-aws/whats-new/2022/12/label-feedback-api-amazon-lookout-equipment/)
 - [Amazon EC2 DescribeImages API now supports pagination](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-describeimages-supports-pagination/)
-- [Announcing the new security widget on AWS Console Home](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-console-home-security-widget/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
