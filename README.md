@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Batch adds visibility for terminated and cancelled jobs](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-batch-visibility-terminated-cancelled-jobs/)
-- [Amazon Connect now supports Edge Chromium](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-supports-edge-chromium/)
-- [Amazon Connect now supports JSON content-type in chat messages](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-json-content-type-chat-messages/)
-- [ROSA now provides an AWS Management Console experience for satisfying ROSA prerequisites](https://aws.amazon.com/about-aws/whats-new/2022/12/rosa-provides-aws-management-console-experience-satisfying-rosa-prerequisites/)
-- [Announcing AWS ParallelCluster 3.4 with Multi-AZ support and other important features](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-parallelcluster-3-4-multi-az-support/)
+- [AWS Compute Optimizer now supports Amazon ECS services running on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-compute-optimizer-amazon-ecs-services-aws-fargate/)
+- [Amazon Connect now allows contact center managers to join ongoing calls](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-contact-center-managers-join-ongoing-calls/)
+- [Amazon RDS announces integration with AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-integration-aws-secrets-manager/)
+- [Amazon RDS now supports renaming Multi-AZ deployments with two readable standbys](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-supports-renaming-multi-az-deployments-two-readable-standbys/)
+- [AWS IoT Core’s Rules Engine adds support for Google Protocol Buffer &lpar;Protobuf&rpar; messaging format](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-core-rules-engine-google-protocol-buffer-messaging-format/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
