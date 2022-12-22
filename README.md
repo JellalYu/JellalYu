@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EMR Serverless introduces account-level vCPU-based per-region quotas](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-emr-serverless-account-level-vcpu-based-per-region-quotas/)
-- [AWS Migration Hub Orchestrator adds support for importing virtual machine images](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-migration-hub-orchestrator-importing-virtual-machine-images/)
-- [Amazon Neptune Workbench now supports JupyterLab 3 notebooks](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-workbench-supports-jupyterlab-notebooks/)
-- [Nimble Studio now supports configurable persistent storage and new EBS volumes](https://aws.amazon.com/about-aws/whats-new/2022/12/nimble-studio-configurable-persistent-storage-ebs-volumes/)
-- [Amazon Nimble Studio now supports EBS Snapshots with Auto Backup](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-nimble-studio-ebs-snapshots-auto-backup/)
+- [AWS Batch adds visibility for terminated and cancelled jobs](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-batch-visibility-terminated-cancelled-jobs/)
+- [Amazon Connect now supports Edge Chromium](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-supports-edge-chromium/)
+- [Amazon Connect now supports JSON content-type in chat messages](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-json-content-type-chat-messages/)
+- [ROSA now provides an AWS Management Console experience for satisfying ROSA prerequisites](https://aws.amazon.com/about-aws/whats-new/2022/12/rosa-provides-aws-management-console-experience-satisfying-rosa-prerequisites/)
+- [Announcing AWS ParallelCluster 3.4 with Multi-AZ support and other important features](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-parallelcluster-3-4-multi-az-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
