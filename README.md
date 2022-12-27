@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Specify validation checks for CommaDelimitedList parameter with AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/12/specify-validation-checks-commadelimitedlist-parameter-aws-cloudformation/)
 - [AWS Storage Gateway management console simplifies file share creation for Amazon S3 File Gateway](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-storage-gateway-management-console-file-share-creation-amazon-s3-file-gateway/)
 - [Amazon Kendra releases ServiceNow Connector to index and search ServiceNow documents](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kendra-servicenow-connector-index-search-documents/)
 - [Amazon Kendra releases Salesforce Connector for easy and accurate content search in Salesforce](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kendra-salesforce-connector-content-search-salesforce/)
 - [AWS Network Firewall is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-network-firewall-available-asia-pacific-jakarta-region/)
-- [AWS Organizations console adds support to centrally manage region opt-in settings on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-organizations-console-support-manage-region-opt-in-settings-accounts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
