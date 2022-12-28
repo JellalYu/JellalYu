@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Config now supports 13 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-config-supports-new-resource-types/)
 - [Amazon Connect now provides “idle” chat participant events with auto close capability](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-idle-chat-participant-events-auto-close-capability/)
 - [Announcing Reserved Nodes for Amazon MemoryDB for Redis](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-memorydb-redis-reserved-nodes/)
 - [Specify validation checks for CommaDelimitedList parameter with AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/12/specify-validation-checks-commadelimitedlist-parameter-aws-cloudformation/)
 - [AWS Storage Gateway management console simplifies file share creation for Amazon S3 File Gateway](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-storage-gateway-management-console-file-share-creation-amazon-s3-file-gateway/)
-- [Amazon Kendra releases ServiceNow Connector to index and search ServiceNow documents](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kendra-servicenow-connector-index-search-documents/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
