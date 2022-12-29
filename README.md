@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect DID &amp; Toll-free numbers available in the Caribbean](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-did-toll-free-numbers-caribbean/)
 - [Amazon Connect reduces outbound rates to the Caribbean](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-reduces-outbound-rates-caribbean/)
 - [Announcing firewall status message for AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2022/12/firewall-status-message-aws-network-firewall/)
 - [Amazon Connect Wisdom now supports PDF &amp; Word documents](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-wisdom-supports-pdf-word-documents/)
 - [Amazon Connect now enables showing message receipts within the Chat experience](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-enables-showing-message-receipts-chat-experience/)
-- [Amazon Translate doubles its synchronous real-time text translation limits to 10,000 bytes](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-translate-doubles-synchronous-real-time-text-translation-limits/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
