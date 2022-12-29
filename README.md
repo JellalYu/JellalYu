@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Automatic Model Tuning now supports 30x higher limits for categorical hyperparameters](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-automatic-model-tuning-higher-limits-categorical-hyperparameters/)
 - [Amazon ElastiCache for Redis now supports enabling encryption in transit on existing clusters](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-elasticache-redis-enabling-encryption-transit-existing-clusters/)
 - [Enable RStudio on Amazon SageMaker support on your existing SageMaker Studio domains](https://aws.amazon.com/about-aws/whats-new/2022/12/rstudio-amazon-sagemaker-existing-sagemaker-studio-domains/)
 - [AWS Config now supports 13 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-config-supports-new-resource-types/)
 - [Amazon Connect now provides “idle” chat participant events with auto close capability](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-idle-chat-participant-events-auto-close-capability/)
-- [Announcing Reserved Nodes for Amazon MemoryDB for Redis](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-memorydb-redis-reserved-nodes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
