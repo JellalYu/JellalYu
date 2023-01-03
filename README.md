@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune announces graph-explorer, an open-source visual exploration tool for low-code users](https://aws.amazon.com/about-aws/whats-new/2023/01/neptune-graph-explorer-open-source-visual-exploration-tool-low-code-users/)
 - [Amazon RDS Performance Insights is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-performance-insights-aws-govcloud-us-regions/)
 - [Amazon SageMaker is now available in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-sagemaker-aws-middle-east-uae-region/)
 - [Amazon CloudFront now supports the removal of response headers](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudfront-supports-removal-response-headers/)
 - [AWS Private Certificate Authority publishes Matter PKI Compliance Customer Guide](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-private-certificate-authority-publishes-matter-pki-compliance-customer-guide/)
-- [Amazon Connect expands DID &amp; Toll-free numbers available in 6 countries](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-expands-did-toll-free-numbers-available-6-countries/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
