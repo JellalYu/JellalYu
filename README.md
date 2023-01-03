@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront now supports the removal of response headers](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudfront-supports-removal-response-headers/)
+- [AWS Private Certificate Authority publishes Matter PKI Compliance Customer Guide](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-private-certificate-authority-publishes-matter-pki-compliance-customer-guide/)
 - [Amazon Connect expands DID &amp; Toll-free numbers available in 6 countries](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-expands-did-toll-free-numbers-available-6-countries/)
 - [Amazon Connect DID &amp; Toll-free numbers available in the Caribbean](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-did-toll-free-numbers-caribbean/)
 - [Amazon Connect reduces outbound rates to the Caribbean](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-reduces-outbound-rates-caribbean/)
-- [Announcing firewall status message for AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2022/12/firewall-status-message-aws-network-firewall/)
-- [Amazon Connect Wisdom now supports PDF &amp; Word documents](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-wisdom-supports-pdf-word-documents/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
