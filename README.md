@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kinesis Data Streams for Amazon DynamoDB is now available in 11 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kinesis-data-streams-dynamodb-11-additional-regions/)
 - [Backtrack Support for Aurora MySQL Version 3 &lpar;Compatible with MySQL 8.0&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2023/01/backtrack-support-aurora-mysql-3-0-compatible-mysql-8-0-available/)
 - [AWS Glue Studio Job Notebooks are now available in the Asia Pacific &lpar;Jakarta&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-glue-studio-job-notebooks-asia-pacific-jakarta-region/)
 - [Amazon Neptune announces graph-explorer, an open-source visual exploration tool for low-code users](https://aws.amazon.com/about-aws/whats-new/2023/01/neptune-graph-explorer-open-source-visual-exploration-tool-low-code-users/)
 - [Amazon RDS Performance Insights is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-performance-insights-aws-govcloud-us-regions/)
-- [Amazon SageMaker is now available in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-sagemaker-aws-middle-east-uae-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
