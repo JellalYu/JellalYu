@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 now automatically encrypts all new objects](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-automatically-encrypts-new-objects/)
 - [Announcing Amazon Elastic Fabric Adapter Installer v1.21](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-elastic-fabric-adapter-installer-v1-21/)
 - [Amazon MWAA now supports Apache Airflow version 2.4 with Python 3.10](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-mwaa-supports-apache-airflow-version-2-4-python-3-10/)
 - [Amazon EC2 C5n instances are now available in Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-c5n-instances-available-asia-pacific-osaka/)
 - [Amazon EC2 R6i instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-r6i-instances-available-additional-regions/)
-- [Amazon EC2 R6g, R6gd, and M6gd instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-r6g-r6gd-m6gd-instances-available-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
