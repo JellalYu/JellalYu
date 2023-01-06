@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS App Runner now supports retrieving secrets and configuration from AWS Secrets Manager and AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-app-runner-secrets-configuration-aws-secrets-systems-manager/)
 - [Amazon EC2 M6in and M6idn instances are now available in US West &lpar;Oregon&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-m6in-m6idn-instances-uswest-oregon/)
 - [Amazon Route 53 Resolver endpoints for hybrid cloud are now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-route-53-resolver-endpoints-hybrid-cloud-middle-east-use-region/)
 - [Amazon S3 now automatically encrypts all new objects](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-automatically-encrypts-new-objects/)
 - [Announcing Amazon Elastic Fabric Adapter Installer v1.21](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-elastic-fabric-adapter-installer-v1-21/)
-- [Amazon MWAA now supports Apache Airflow version 2.4 with Python 3.10](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-mwaa-supports-apache-airflow-version-2-4-python-3-10/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
