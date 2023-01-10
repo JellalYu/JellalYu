@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra releases S3 connector with VPC support to enable customers to index and search content from S3](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-s3-connector-vpc-support-enable-customers-index-search-s3/)
+- [Amazon Personalize launches new recipe “Trending-Now”](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-personalize-new-recipe-trending-now/)
+- [Amazon Kendra releases new Google Drive Connector to enable document indexing and search on Google Drive](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-google-drive-connector-document-indexing-search-google-drive/)
 - [AWS CloudShell is now Health Insurance Portability and Accountability Act &lpar;HIPAA&rpar; eligible](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-cloudshell-health-insurance-portability-accountability-act-hipaa-eligible/)
 - [Amazon Kendra launches Kendra Intelligent Ranking for self-managed OpenSearch](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-intelligent-ranking-self-managed-opensearch/)
-- [Amazon S3 Storage Lens introduces tiered pricing for cost-effective monitoring at scale](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-storage-lens-tiered-pricing-cost-effective-monitoring-scale/)
-- [AWS Network Firewall adds support for reject action for TCP traffic](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-network-firewall-support-reject-action-tcp-traffic/)
-- [AWS Elemental MediaLive adds POIS signal conditioning](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-elemental-medialive-pois-signal-conditioning/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
