@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra launches Kendra Intelligent Ranking for self-managed OpenSearch](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-intelligent-ranking-self-managed-opensearch/)
 - [Amazon S3 Storage Lens introduces tiered pricing for cost-effective monitoring at scale](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-storage-lens-tiered-pricing-cost-effective-monitoring-scale/)
 - [AWS Network Firewall adds support for reject action for TCP traffic](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-network-firewall-support-reject-action-tcp-traffic/)
 - [AWS Elemental MediaLive adds POIS signal conditioning](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-elemental-medialive-pois-signal-conditioning/)
 - [Amazon EC2 Auto Scaling now forecasts frequently for more accurate predictive scaling](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-auto-scaling-forecasts-frequently-predictive-scaling/)
-- [Introducing Amazon EMR Serverless Custom images: Bring your own libraries and application dependencies](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-emr-serverless-custom-images-libraries-application-dependencies/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
