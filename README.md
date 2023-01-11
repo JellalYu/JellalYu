@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces changes to AWS Billing, Cost Management, and Account consoles permissions](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-changes-billing-cost-management-account-consoles-permissions/)
+- [AWS WAF is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-waf-available-aws-middle-east-uae-region/)
 - [Amazon SageMaker Canvas announces up to 3x faster ML model training time](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-sagemaker-canvas-3x-faster-ml-model-training-time/)
 - [Amazon EC2 G5g instances now available in Frankfurt region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-g5g-instances-available-frankfurt-region/)
 - [Announcing the general availability of Amazon Route 53 Application Recovery Controller zonal shift](https://aws.amazon.com/about-aws/whats-new/2023/01/general-availability-amazon-route-53-application-recovery-controller-zonal-shift/)
-- [AWS Transit Gateway is now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-transit-gateway-available-middle-east-uae-region/)
-- [Amazon RDS now supports restoring database snapshots from Multi-AZ with two readable standbys](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-restoring-database-snapshots-multi-az-two-readable-standbys/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
