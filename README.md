@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Config supports 22 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-config-22-new-resource-types/)
+- [AWS Clean Rooms is now available in preview](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-clean-rooms-now-available-preview/)
+- [Amazon ElastiCache for Redis data tiering is now available in the AWS Europe &lpar;Stockholm&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-elasticache-redis-data-tiering-aws-europe-stockholm-region/)
+- [AWS AppConfig allows tracking of stale feature flags, improving code hygiene](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-appconfig-tracking-stale-feature-flags-code-hygiene/)
 - [Amazon RDS Optimized Reads is now available for up to 2X faster queries on Amazon RDS for MariaDB](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-optimized-reads-2x-faster-queries-amazon-rds-mariadb/)
-- [AWS CloudFormation enhances Fn::FindInMap language extension to support default values and additional intrinsic functions](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-cloudformation-fnfindinmap-language-extension-default-values-additional-intrinsic-functions/)
-- [Announcing Amazon Pinpoint Singapore Sender ID registration workflow](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-pinpoint-singapore-sender-id-registration-workflow/)
-- [AWS announces changes to AWS Billing, Cost Management, and Account consoles permissions](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-changes-billing-cost-management-account-consoles-permissions/)
-- [AWS WAF is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-waf-available-aws-middle-east-uae-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
