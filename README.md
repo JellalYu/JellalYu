@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda now supports Maximum Concurrency for Amazon SQS as an event source](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-lambda-maximum-concurrency-amazon-sqs-event-source/)
 - [AWS Resource Groups now emits lifecycle events](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-resource-groups-emits-lifecycle-events/)
 - [Announcing the general availability of AWS Local Zones in Perth and Santiago](https://aws.amazon.com/about-aws/whats-new/2023/01/general-availability-aws-local-zones-perth-santiago/)
 - [Amazon Kendra releases the Microsoft Teams Connector to enable Microsoft Teams messaging search](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-microsoft-teams-connector-messaging-search/)
 - [Amazon Kendra releases Microsoft Exchange Connector to enable email-messaging search](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-microsoft-exchange-connector-enable-email-messaging-search/)
-- [AWS Config supports 22 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-config-22-new-resource-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
