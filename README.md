@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager announces Patch Policies, enabling cross account and cross Region patching](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-systems-manager-patch-policies-cross-account-region-patching/)
 - [Amazon CloudFront now supports the request header order and header count headers](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudfront-request-header-order-count-headers/)
 - [AWS Nitro Enclaves announces support for multiple enclaves](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-nitro-enclaves-support-multiple-enclaves/)
 - [Amazon RDS now supports new SSL/TLS certificates and certificate controls](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-new-ssl-tls-certificates-certificate-controls/)
 - [AWS Security Hub is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-security-hub-middle-east-uae-region/)
-- [AWS Lambda now supports Maximum Concurrency for Amazon SQS as an event source](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-lambda-maximum-concurrency-amazon-sqs-event-source/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
