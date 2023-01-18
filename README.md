@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing SKU pricing rules for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-billing-conductor-sku-pricing-rules/)
+- [AWS Elemental MediaTailor now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-elemental-mediatailor-available-additional-regions/)
 - [EC2 Image Builder can now include AWS Marketplace subscriptions in your custom Amazon Machine Images &lpar;AMIs&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/01/ec2-image-builder-aws-marketplace-subscriptions-custom-amis/)
 - [EC2 Image Builder adds Center for Internet Security &lpar;CIS&rpar; Benchmarks for security hardening of Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2023/01/ec2-image-builder-cis-benchmarks-security-hardening-amis/)
 - [Amazon Corretto January, 2023 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-corretto-january-2023-quarterly-updates/)
-- [EC2 network performance metrics add support for ConnTrack Utilization metric](https://aws.amazon.com/about-aws/whats-new/2023/01/ec2-network-performance-metrics-support-conntrack-utilization-metric/)
-- [AWS Network Firewall announces IPv6 support](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-network-firewall-ipv6-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
