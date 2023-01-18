@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EBS direct APIs are now available in new AWS Europe and Asia Pacific Regions](https://aws.amazon.com/about-aws/whats-new/2023/01/ebs-direct-apis-aws-europe-asia-pacific-regions/)
 - [Amazon EMR Serverless introduces account-level vCPU-based service quota](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-emr-serverless-account-level-vcpu-based-service-quota/)
 - [Validate AWS Serverless Application Model &lpar;SAM&rpar; templates with CloudFormation Linter to speed up development](https://aws.amazon.com/about-aws/whats-new/2023/01/validate-aws-serverless-application-model-templates-cloudformation-linter/)
 - [Announcing SKU pricing rules for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-billing-conductor-sku-pricing-rules/)
 - [AWS Elemental MediaTailor now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-elemental-mediatailor-available-additional-regions/)
-- [EC2 Image Builder can now include AWS Marketplace subscriptions in your custom Amazon Machine Images &lpar;AMIs&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/01/ec2-image-builder-aws-marketplace-subscriptions-custom-amis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
