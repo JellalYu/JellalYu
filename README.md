@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EC2 Image Builder can now include AWS Marketplace subscriptions in your custom Amazon Machine Images &lpar;AMIs&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/01/ec2-image-builder-aws-marketplace-subscriptions-custom-amis/)
+- [EC2 Image Builder adds Center for Internet Security &lpar;CIS&rpar; Benchmarks for security hardening of Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2023/01/ec2-image-builder-cis-benchmarks-security-hardening-amis/)
+- [Amazon Corretto January, 2023 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-corretto-january-2023-quarterly-updates/)
 - [EC2 network performance metrics add support for ConnTrack Utilization metric](https://aws.amazon.com/about-aws/whats-new/2023/01/ec2-network-performance-metrics-support-conntrack-utilization-metric/)
 - [AWS Network Firewall announces IPv6 support](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-network-firewall-ipv6-support/)
-- [Amazon EFS Supports 1,000 Access Points per File System](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-efs-1000-access-points-file-system/)
-- [Amazon CloudWatch announces enhanced error visibility for Embedded Metric Format &lpar;EMF&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudwatch-enhanced-error-visibility-embedded-metric-format-emf/)
-- [Amazon Detective adds new AWS managed IAM policies to improve secure access for security analysts](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-detective-aws-managed-iam-policies-secure-access-security-analysts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
