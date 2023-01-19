@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch launches cross-account Metric Streams](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudwatch-cross-account-metric-streams/)
+- [Amazon S3 File Gateway increases maximum file shares per gateway from 10 to 50](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-file-gateway-maximum-file-shares-gateway-10-50/)
+- [Amazon S3 File Gateway now supports DOS attributes](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-file-gateway-dos-attributes/)
 - [AWS Fault Injection Simulator announces increased quotas for target resources](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-fault-injection-simulator-increased-quotas-target-resources/)
 - [AWS CodeBuild is now available in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-codebuild-aws-uae-region/)
-- [Amazon OpenSearch Service announces enhanced dry run for configuration changes](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-opensearch-enhanced-dry-run-configuration-changes/)
-- [Amazon MWAA is now PCI DSS compliant](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-mwaa-pci-dss-compliant/)
-- [Amazon RDS for MariaDB now supports enforcing SSL/TLS connections](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-mariadb-supports-enforcing-ssl-tls-connections/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
