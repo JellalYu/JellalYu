@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS announces the new default console experience](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ecs-default-console-experience/)
+- [Amazon CloudWatch launches cross-account Metric Streams](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudwatch-account-metric-streams/)
 - [Amazon ElastiCache now supports Memcached 1.6.17](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-elasticache-supports-memcached-1-6-17/)
 - [Amazon EC2 Auto Scaling now gives recommendations about activating predictive scaling policy](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-auto-scaling-activating-predictive-scaling-policy/)
 - [Amazon EMR on Amazon Elastic Compute Cloud clusters launch up to 30% faster in private subnets with Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-emr-elastic-compute-cloud-clusters-30-percent-faster-private-subnets/)
-- [Amazon Chime SDK now supports 250 webcam video streams](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-chime-sdk-250-webcam-video-streams/)
-- [EBS direct APIs are now available in new AWS Europe and Asia Pacific Regions](https://aws.amazon.com/about-aws/whats-new/2023/01/ebs-direct-apis-aws-europe-asia-pacific-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
