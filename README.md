@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Supports PostgreSQL 14.6, 13.9, 12.13, 11.18](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-aurora-supports-postgresql-versions/)
 - [Amazon Detective adds Amazon VPC Flow Logs visualizations for Amazon EKS workloads](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-detective-vpc-flow-logs-visualizations-eks-workloads/)
 - [Amazon AppFlow announces 10 new connectors](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-appflow-new-connectors/)
 - [Amazon FSx for Windows File Server is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-fx-windows-file-server-aws-middle-east-uae-region/)
 - [Amazon FSx for Lustre is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-fsx-lustre-aws-middle-east-uae-region/)
-- [AWS Shield Advanced is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-shield-advanced-middle-east-uae-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
