@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing comprehensive controls management with AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2023/01/controls-management-aws-control-tower/)
+- [Announcing runtime management controls for AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2023/01/runtime-management-controls-aws-lambda/)
 - [AWS Elemental MediaLive adds timecode burn-in](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-elemental-medialive-timecode-burn-in/)
 - [Amazon EFS increases the maximum number of Access Points per file system](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-efs-increases-access-points-file-system/)
 - [Amazon RDS Multi-AZ with two readable standbys for RDS PostgreSQL now supports inbound replication](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-multi-az-readable-standbys-rds-postgresql-inbound-replication/)
-- [Amazon Aurora Supports PostgreSQL 14.6, 13.9, 12.13, 11.18](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-aurora-supports-postgresql-versions/)
-- [Amazon Detective adds Amazon VPC Flow Logs visualizations for Amazon EKS workloads](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-detective-vpc-flow-logs-visualizations-eks-workloads/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
