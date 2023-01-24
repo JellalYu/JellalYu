@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Blue/Green Deployments now supports Aurora MySQL 3 &lpar;with MySQL 8.0 compatibility&rpar; as a source cluster](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-blue-green-deployments-aurora-mysql-3-8-0-source-cluster/)
+- [Amazon Polly launches five new male NTTS voices](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-polly-male-ntts-voices/)
+- [Amazon MQ now supports RabbitMQ version 3.8.34](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-mq-rabbitmq-version-3-8-34/)
 - [Amazon SageMaker Automatic Model Tuning now allows you to specify environment variables for your tuning jobs](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-sagemaker-automatic-model-tuning-environment-variables-tuning-jobs/)
 - [Announcing comprehensive controls management with AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2023/01/controls-management-aws-control-tower/)
-- [Announcing runtime management controls for AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2023/01/runtime-management-controls-aws-lambda/)
-- [AWS Elemental MediaLive adds timecode burn-in](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-elemental-medialive-timecode-burn-in/)
-- [Amazon EFS increases the maximum number of Access Points per file system](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-efs-increases-access-points-file-system/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
