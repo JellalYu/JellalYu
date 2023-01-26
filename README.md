@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker is now available in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-sagemaker-aws-govcloud-us-east-region/)
+- [Amazon Personalize simplifies onboarding with data insights](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-personalize-onboarding-data-insights/)
 - [Announcing Porting Advisor for Graviton](https://aws.amazon.com/about-aws/whats-new/2023/01/porting-advisor-graviton/)
 - [Amazon VPC IP Address Manager &lpar;IPAM&rpar; now manages IP Addresses in your network outside your AWS Organization](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-vpc-ipam-ip-addresses-aws-organization/)
 - [Amazon QuickSight launches data bars for tables](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-quicksight-data-bars-tables/)
-- [Increased field limits and performance improvements for Pivot table in Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-quicksight-increased-field-limits-improvements-pivot-table/)
-- [AWS announces Amazon provided contiguous IPv6 CIDRs blocks](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-provided-contiguous-ipv6-cidrs-blocks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
