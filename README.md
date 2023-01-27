@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Fault Injection Simulator announces Pause I/O action for Amazon Elastic Block Store volumes](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-fault-injection-simulator-pause-io-action-elastic-block-store-volumes/)
 - [SageMaker announces preview of ml.p4de instances for model deployment](https://aws.amazon.com/about-aws/whats-new/2023/01/sagemaker-preview-mlp4de-instances-model-deployment/)
 - [Database Activity Streams for Amazon RDS for Oracle and Amazon Aurora now available in 3 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-oracle-aurora-database-activity-streams-3-aws-regions/)
 - [AWS announces three new AWS Direct Connect locations](https://aws.amazon.com/about-aws/whats-new/2023/01/three-aws-direct-connect-locations/)
 - [AWS announces Amazon-provided contiguous IPv6 CIDR blocks](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-provided-contiguous-ipv6-cidr-blocks/)
-- [AWS Compute Optimizer is now available in AWS GovCloud &lpar;US&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-compute-optimizer-aws-govcloud-us-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
