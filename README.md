@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaTailor now supports timeline logs for Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-elemental-mediatailor-supports-timeline-logs-channel-assembly/)
+- [Bottlerocket now supports network bonding and VLAN tagging](https://aws.amazon.com/about-aws/whats-new/2023/01/bottlerocket-network-bonding-vlan-tagging/)
+- [AWS Glue Studio Visual ETL now supports 5 new transforms](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-glue-studio-visual-etl-5-new-transforms/)
 - [AWS announces access of Simple Monthly Calculator estimates in the AWS Pricing Calculator](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-simple-monthly-calculator-estimates-pricing-calculator/)
 - [AWS Fault Injection Simulator announces Pause I/O action for Amazon Elastic Block Store volumes](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-fault-injection-simulator-pause-io-action-elastic-block-store-volumes/)
-- [SageMaker announces preview of ml.p4de instances for model deployment](https://aws.amazon.com/about-aws/whats-new/2023/01/sagemaker-preview-mlp4de-instances-model-deployment/)
-- [Database Activity Streams for Amazon RDS for Oracle and Amazon Aurora now available in 3 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-oracle-aurora-database-activity-streams-3-aws-regions/)
-- [AWS announces three new AWS Direct Connect locations](https://aws.amazon.com/about-aws/whats-new/2023/01/three-aws-direct-connect-locations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
