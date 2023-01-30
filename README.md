@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Snow Family now supports software updates on AWS Snowcone](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-software-updates-aws-snowcone/)
 - [Amazon Kendra Expanded Data Formats Support](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-data-formats/)
 - [Amazon RDS now supports increasing storage size when creating read replicas and restoring databases from snapshots](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-storage-size-read-replicas-databases-snapshots/)
 - [AWS Elemental MediaTailor now supports timeline logs for Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-elemental-mediatailor-supports-timeline-logs-channel-assembly/)
 - [Bottlerocket now supports network bonding and VLAN tagging](https://aws.amazon.com/about-aws/whats-new/2023/01/bottlerocket-network-bonding-vlan-tagging/)
-- [AWS Glue Studio Visual ETL now supports 5 new transforms](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-glue-studio-visual-etl-5-new-transforms/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
