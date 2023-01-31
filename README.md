@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch now simplifies metric extraction from structured logs](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudwatch-metric-extraction-structured-logs/)
 - [Amazon Athena releases data source connector for Google Cloud Storage](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-athena-data-source-connector-google-cloud-storage/)
 - [AWS CloudTrail Lake now supports ingestion of activity events from non-AWS sources](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-cloudtrail-lake-ingestion-activity-events-non-aws-sources/)
 - [Amazon MemoryDB for Redis Announces 99.99% Availability Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-memorydb-redis-service-level-agreement/)
 - [Amazon Polly launches two new US English NTTS voices](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-polly-two-new-us-english-ntts-voices/)
-- [Amazon ElastiCache for Redis announces 99.99% availability Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-elasticache-redis-service-level-agreement/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
