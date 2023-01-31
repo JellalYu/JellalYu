@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service simplifies remote reindex for VPC domains](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-opensearch-service-remote-reindex-vpc-domains/)
+- [EC2 Hibernate now supports Amazon EC2 C6i, C6id, M6i, M6id, and I3en instances](https://aws.amazon.com/about-aws/whats-new/2023/01/ec2-hibernate-amazon-ec2-c6i-c6id-m6i-m6id-i3en-instances/)
 - [Amazon CloudWatch now simplifies metric extraction from structured logs](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudwatch-metric-extraction-structured-logs/)
 - [Amazon Athena releases data source connector for Google Cloud Storage](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-athena-data-source-connector-google-cloud-storage/)
 - [AWS CloudTrail Lake now supports ingestion of activity events from non-AWS sources](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-cloudtrail-lake-ingestion-activity-events-non-aws-sources/)
-- [Amazon MemoryDB for Redis Announces 99.99% Availability Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-memorydb-redis-service-level-agreement/)
-- [Amazon Polly launches two new US English NTTS voices](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-polly-two-new-us-english-ntts-voices/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
