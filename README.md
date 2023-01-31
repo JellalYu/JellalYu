@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly launches two new US English NTTS voices](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-polly-two-new-us-english-ntts-voices/)
+- [Amazon ElastiCache for Redis announces 99.99% availability Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-elasticache-redis-service-level-agreement/)
+- [AWS Systems Manager announces integration of Automation with Change Calendar](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-systems-manager-integration-automation-change-calendar/)
 - [Amazon AppFlow announces 4 new data connectors](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-appflow-4-new-data-connectors/)
 - [AWS announces Credential Guard support for Windows instances on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-credential-guard-windows-instances-amazon-ec2/)
-- [AWS Artifact on-demand access to third-party compliance reports is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-artifact-on-demand-third-party-compliance-reports/)
-- [Amazon Redshift launches Concurrency Scaling in the China &lpar;Beijing, operated by Sinnet&rpar;, and China &lpar;Ningxia, operated by NWCD&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-redshift-concurrency-scaling-china-regions/)
-- [AWS Snow Family now supports Instance Metadata Service Version 2 for Amazon EC2 instances on Snow](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-instance-metadata-service-version-2-amazon-ec2-instances-snow/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
