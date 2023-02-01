@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Use your own training image in a private Docker registry with Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2023/02/training-image-private-docker-registry-amazon-sagemaker/)
 - [Amazon increases NAT Gateway’s capacity to support concurrent connections to a unique destination](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-nat-gateways-capacity-concurrent-connections-unique-destination/)
 - [Amazon Omics Supports PrivateLink &amp; CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-omics-private-link-cloudformation/)
 - [AWS IoT Core’s Rules Engine now supports batching of device logs while routing logs from IoT devices to Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-iot-cores-rule-engine-device-logs-routing-amazon-cloudwatch-logs/)
 - [AWS App Runner now supports HTTP 1.0 protocol](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-app-runner-http-1-0-protocol/)
-- [AWS CloudFormation StackSets gives quick access to list of Regions for stack instances of a stack set](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-cloudformation-stacksets-access-list-regions-stack-instances-stack-set/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
