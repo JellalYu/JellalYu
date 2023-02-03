@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS SAM CLI introduces ‘sam list’ command to inspect AWS SAM resources](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-cli-sam-list-command-inspect-resources/)
+- [AWS Panorama simplifies ordering of Panorama Appliances](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-panorama-simplifies-ordering-panorama-appliances/)
 - [AWS Elemental MediaLive adds Dolby E audio decoding](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-elemental-medialive-dolby-e-audio-decoding/)
 - [Amazon Kinesis Data Firehose is now available in Europe &lpar;Zurich&rpar;, Europe &lpar;Spain&rpar;, Asia Pacific &lpar;Hyderabad&rpar; AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-firehose-europe-zurich-spain-hyderabad-regions/)
 - [AWS AppConfig expands encryption capabilities, integrating with AWS Secrets Manager and AWS KMS](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-appconfig-expands-encryption-secrets-manager-kms/)
-- [AWS Directory Service for Microsoft Active Directory and AD Connector are now available in the AWS Europe &lpar;Spain&rpar;, Europe &lpar;Zurich&rpar; and Asia Pacific &lpar;Hyderabad&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-directory-service-microsoft-active-directory-ad-connector-spain-zurich-hyderabad/)
-- [Amazon Connect outbound campaign capabilities are now generally available in the Canada &lpar;Central&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-outbound-campaign-capabilities-canada-central-aws-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
