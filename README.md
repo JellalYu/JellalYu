@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS SimSpace Weaver now supports CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-simspace-weaver-cloudformation/)
 - [AWS Glue Crawlers now support MongoDB Atlas](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-glue-crawlers-mongodb-atlas/)
 - [AWS Systems Manager Change Manager now supports a more flexible way of approving change requests](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-systems-manager-change-manager-flexible-approving-change-requests/)
 - [AWS Systems Manager Change Calendar now provides a more comprehensive calendar view of operational events](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-systems-manager-change-calendar-view-operational-events/)
 - [Amazon RDS for PostgreSQL now supports seg extension](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-postgresql-supports-seg-extension/)
-- [Amazon Chime SDK now offers a Windows client library](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-chime-sdk-windows-client-library/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
