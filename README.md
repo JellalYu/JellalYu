@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue Crawlers now support MongoDB Atlas](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-glue-crawlers-mongodb-atlas/)
+- [AWS Systems Manager Change Manager now supports a more flexible way of approving change requests](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-systems-manager-change-manager-flexible-approving-change-requests/)
+- [AWS Systems Manager Change Calendar now provides a more comprehensive calendar view of operational events](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-systems-manager-change-calendar-view-operational-events/)
+- [Amazon RDS for PostgreSQL now supports seg extension](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-postgresql-supports-seg-extension/)
 - [Amazon Chime SDK now offers a Windows client library](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-chime-sdk-windows-client-library/)
-- [Amazon EC2 Mac instances now support replacing root volumes for quick instance restoration](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-mac-instances-root-volumes-quick-instance-restoration/)
-- [Amazon RDS for Oracle now supports additional cipher suites for OEM Agent and SSL option](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-oracle-cipher-suites-oem-gent-ssl-option/)
-- [AWS SAM CLI introduces ‘sam list’ command to inspect AWS SAM resources](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-cli-sam-list-command-inspect-resources/)
-- [AWS Panorama simplifies ordering of Panorama Appliances](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-panorama-simplifies-ordering-panorama-appliances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
