@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly launches two new Japanese NTTS voices](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-polly-two-japanese-ntts-voices/)
+- [Amazon EC2 R6gd instances now available in AWS Region Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-r6gd-instances-aws-region-europe-london/)
 - [Amazon Kendra now available in Asia-Pacific &lpar;Tokyo&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kendra-asia-pacific-tokyo-region/)
 - [Amazon RDS for MySQL supports new minor versions 5.7.41 and 8.0.32](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-mysql-new-minor-versions-5-8/)
 - [AWS DataSync is now available in 3 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-datasync-3-additional-regions/)
-- [AWS Service Management Connector for Jira Service Management customer portal](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-service-management-connector-jira-service-management-customer-portal/)
-- [AWS announces new AWS Direct Connect location in Kolkata, India](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-direct-connect-location-kolkata-india/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
