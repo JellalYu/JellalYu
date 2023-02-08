@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GuardDuty now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-guardduty-aws-europe-spain-region/)
 - [AWS CloudFormation announces spotlight for latest news on CloudFormation features, blogs, and workshops](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-cloudformation-news-features-blogs-workshops/)
 - [AWS Snow Family now supports Instance Metadata Service Version 2 for Amazon EC2 instances on Snow](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-instance-metadata-service-version-2-amazon-ec2-instances-snow/)
 - [Amazon Polly launches two new Japanese NTTS voices](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-polly-two-japanese-ntts-voices/)
 - [Amazon EC2 R6gd instances now available in AWS Region Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-r6gd-instances-aws-region-europe-london/)
-- [Amazon Kendra now available in Asia-Pacific &lpar;Tokyo&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kendra-asia-pacific-tokyo-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
