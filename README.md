@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EKS adds support for job execution retries](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-emr-eks-job-execution-retries/)
 - [AWS Lambda launches new CloudWatch metrics for asynchronous invocations](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lambda-launches-cloudwatch-metrics-asynchronous-invocations/)
 - [Amazon CloudFront now supports OAC with Elemental MediaStore origins](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudfront-oac-elemental-mediastore-regions/)
 - [AWS Config now supports 20 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-config-20-resource-types/)
 - [AWS Control Tower provides updates to access logging and exceptions to more global services for Region Deny](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-control-tower-logging-exceptions-global-services-region-deny/)
-- [Amazon SNS now supports AWS X-Ray active tracing to visualize, analyze, and debug application performance](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-sns-x-ray-active-tracing-visualize-analyze-debug-application-performance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
