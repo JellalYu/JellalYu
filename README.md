@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EMR on EKS adds support for job execution retries](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-emr-eks-job-execution-retries/)
-- [AWS Lambda launches new CloudWatch metrics for asynchronous invocations](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lambda-launches-cloudwatch-metrics-asynchronous-invocations/)
-- [Amazon CloudFront now supports OAC with Elemental MediaStore origins](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudfront-oac-elemental-mediastore-regions/)
-- [AWS Config now supports 20 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-config-20-resource-types/)
-- [AWS Control Tower provides updates to access logging and exceptions to more global services for Region Deny](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-control-tower-logging-exceptions-global-services-region-deny/)
+- [AWS Launch Wizard now automates deployment of SAP S/4HANA Foundation and SAP S/4HANA 2022](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-launch-wizard-automates-deployment-sap-s4hana-foundation-2022/)
+- [Amazon EC2 X2idn instances now available in Europe &lpar;Zurich&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-x2idn-instances-europe-zurich-region/)
+- [AWS Cloud Map increases default limit](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-cloud-map-increases-default-limit/)
+- [AWS Elemental MediaConnect expands support for event notifications in Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-elemental-mediaconnect-event-notifications-eventbridge/)
+- [Amazon EC2 M6i instances now available in AWS Asia Pacific &lpar;Jakarta&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m6i-instances-aws-asia-pacific-jakarta/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
