@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GameLift now supports publishing events to encrypted Amazon SNS topics](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-gamelift-publishing-events-encrypted-amazon-sns-topics/)
+- [AWS announces new AWS Direct Connect location in Ashburn, Virginia](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-direct-connect-location-ashburn-virginia/)
+- [AWS Snow Family now supports Amazon EKS Anywhere](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-snow-family-amazon-eks-anywhere/)
+- [Organizations-related condition keys for IAM policies now available in AWS China Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/organizations-related-condition-keys-iam-policies-aws-china-regions/)
 - [Introducing Amazon EC2 M7g and R7g Instances](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m7g-r7g-instances/)
-- [Amazon RDS for PostgreSQL now supports tcn extension](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-postgresql-supports-tcn-extension/)
-- [Amazon VPC Announces General Availability of Resource Map in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-vpc-resource-map-aws-management-console/)
-- [Amazon Elastic Container Service improves accuracy of Service Load Balancing](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-elastic-container-service-accuracy-service-load-balancing/)
-- [AWS announces AWS Modular Data Center &lpar;MDC&rpar; for U.S. Department of Defense customers](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-modular-data-center-mdc-us-department-defense-customers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
