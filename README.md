@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Workspot announces Cloud PCs powered by Amazon WorkSpaces Core](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-workspaces-core-workspot-cloud-pcs/)
 - [Amazon GameLift now supports publishing events to encrypted Amazon SNS topics](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-gamelift-publishing-events-encrypted-amazon-sns-topics/)
 - [AWS announces new AWS Direct Connect location in Ashburn, Virginia](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-direct-connect-location-ashburn-virginia/)
 - [AWS Snow Family now supports Amazon EKS Anywhere](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-snow-family-amazon-eks-anywhere/)
 - [Organizations-related condition keys for IAM policies now available in AWS China Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/organizations-related-condition-keys-iam-policies-aws-china-regions/)
-- [Introducing Amazon EC2 M7g and R7g Instances](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m7g-r7g-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
