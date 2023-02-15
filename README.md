@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Dedicated Hosts now support automated maintenance on rare degradation](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-dedicated-hosts-automated-maintenance-rare-degradation/)
 - [Announcing increased AWS Resource Access Manager default quota values](https://aws.amazon.com/about-aws/whats-new/2023/02/increased-aws-resource-access-manager-default-quota-values/)
 - [Database Activity Streams now supports Amazon RDS for SQL Server](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-sql-server-database-activity-streams/)
 - [Amazon Kinesis Data Streams for Amazon DynamoDB now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-streams-dynamodb-aws-cloudformation/)
 - [AWS Resource Access Manager is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-resource-access-manager-asia-pacific-melbourne-region/)
-- [ENA Express now supports 15 new EC2 Instances](https://aws.amazon.com/about-aws/whats-new/2023/02/ena-express-15-new-ec2-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
