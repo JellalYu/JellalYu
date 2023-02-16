@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MQ adds AWS Key Management Service &lpar;AWS KMS&rpar; support for RabbitMQ brokers](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-mq-kms-support-rabbitmq-brokers/)
+- [Amazon Elastic File System &lpar;Amazon EFS&rpar; is now available in the AWS Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-efs-available-aws-asia-pacific-hyderabad-region/)
 - [Request tracing for customizations now available for AWS Control Tower Account Factory for Terraform](https://aws.amazon.com/about-aws/whats-new/2023/02/tracing-customizations-aws-control-tower-account-factory-terraform/)
 - [Amazon EC2 X2iedn instances now available in Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-x2iedn-instances-osaka-region/)
 - [Amazon Managed Grafana now supports network access control](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-managed-grafana-network-access-control/)
-- [Amazon Kinesis Data Streams for Amazon DynamoDB now supports AWS CloudFormation for Global Tables](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-streams-dynamodb-aws-cloudformation-global-tables/)
-- [Amazon Cognito identity pool data events are now available in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cognito-identity-pool-data-events-aws-cloudtrail/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
