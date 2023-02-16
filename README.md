@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 X2iedn instances now available in Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-x2iedn-instances-osaka-region/)
+- [Amazon Managed Grafana now supports network access control](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-managed-grafana-network-access-control/)
 - [Amazon Kinesis Data Streams for Amazon DynamoDB now supports AWS CloudFormation for Global Tables](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-streams-dynamodb-aws-cloudformation-global-tables/)
 - [Amazon Cognito identity pool data events are now available in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cognito-identity-pool-data-events-aws-cloudtrail/)
 - [Amazon Pinpoint now supports SMS and voice spending metrics in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-pinpoint-sms-voice-spending-metrics-cloudwatch/)
-- [AWS WAF Captcha adds support for ten additional languages](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-waf-captcha-ten-additional-languages/)
-- [AWS WAF Fraud Control - Account Takeover Protection now allows inspection of origin responses](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-waf-fraud-control-account-takeover-prevention-cloudfront-origin-responses/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
