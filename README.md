@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports January 2023 Release Updates &lpar;RU&rpar; for 19c and 21c](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-oracle-release-updates-19c-21c/)
 - [Amazon MQ adds AWS Key Management Service &lpar;AWS KMS&rpar; support for RabbitMQ brokers](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-mq-kms-support-rabbitmq-brokers/)
 - [Amazon Elastic File System &lpar;Amazon EFS&rpar; is now available in the AWS Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-efs-available-aws-asia-pacific-hyderabad-region/)
 - [Request tracing for customizations now available for AWS Control Tower Account Factory for Terraform](https://aws.amazon.com/about-aws/whats-new/2023/02/tracing-customizations-aws-control-tower-account-factory-terraform/)
 - [Amazon EC2 X2iedn instances now available in Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-x2iedn-instances-osaka-region/)
-- [Amazon Managed Grafana now supports network access control](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-managed-grafana-network-access-control/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
