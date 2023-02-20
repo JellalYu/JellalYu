@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Detective launches an interactive workshop for investigating potential security issues](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-detective-interactive-workshop-investigating-security-issues/)
+- [Amazon Connect Cases is now available in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-cases-additional-regions/)
+- [Amazon OpenSearch Service now lets you schedule service software updates during off-peak hours](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-opensearch-service-schedule-service-software-updates-off-peak-hours/)
 - [AWS App Runner adds service level concurrency, CPU and Memory utilization metrics](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-app-runner-concurrency-cpu-memory-utilization-metrics/)
 - [Amazon Connect launches granular access controls for real-time metrics](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-granular-access-controls-real-time-metrics/)
-- [AWS Incident Detection and Response now supports New Relic integration](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-incident-detection-response-new-relic-integration/)
-- [AWS Step Functions adds integration for 35 services including EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-step-functions-integration-35-services-emr-serverless/)
-- [Amazon Data Lifecycle Manager is now available in the AWS Europe &lpar;Spain&rpar; and AWS Europe &lpar;Zurich&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-data-lifecycle-manager-aws-europe-spain-zurich-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
