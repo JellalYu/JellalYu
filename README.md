@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS ParallelCluster 3.5 with a new UI for AWS ParallelCluster](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-parallelcluster-cluster-3-5-new-ui/)
+- [Amazon Connect Cases now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-cases-aws-privatelink/)
+- [Amazon Kinesis Data Analytics is now available in the Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-analytics-middle-east-uae-region/)
 - [Amazon Detective launches an interactive workshop for investigating potential security issues](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-detective-interactive-workshop-investigating-security-issues/)
 - [Amazon Connect Cases is now available in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-cases-additional-regions/)
-- [Amazon OpenSearch Service now lets you schedule service software updates during off-peak hours](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-opensearch-service-schedule-service-software-updates-off-peak-hours/)
-- [AWS App Runner adds service level concurrency, CPU and Memory utilization metrics](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-app-runner-concurrency-cpu-memory-utilization-metrics/)
-- [Amazon Connect launches granular access controls for real-time metrics](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-granular-access-controls-real-time-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
