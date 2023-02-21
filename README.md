@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Announcing AWS ParallelCluster 3.5 with a new UI for AWS ParallelCluster](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-parallelcluster-cluster-3-5-new-ui/)
+- [Announcing the ability to enable AWS Systems Manager by default across all EC2 instances in an account](https://aws.amazon.com/about-aws/whats-new/2023/02/enable-aws-systems-manager-default-all-ec2-instances-account/)
 - [Amazon Connect Cases now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-cases-aws-privatelink/)
 - [Amazon Kinesis Data Analytics is now available in the Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-analytics-middle-east-uae-region/)
 - [Amazon Detective launches an interactive workshop for investigating potential security issues](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-detective-interactive-workshop-investigating-security-issues/)
-- [Amazon Connect Cases is now available in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-cases-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
