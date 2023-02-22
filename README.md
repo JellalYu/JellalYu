@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.25](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-eks-distro-kubernetes-version-1-25/)
+- [Amazon RDS Custom for Oracle is now available in Canada &lpar;Central&rpar; and South America &lpar;São Paulo&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-custom-oracle-canada-sao-paulo-regions/)
 - [Amazon ECS increases the number of provisioning tasks quota to deliver faster Cluster Auto Scaling](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ecs-increases-provisioning-tasks-quota-faster-cluster-auto-scaling/)
 - [Announcing Smart Data Validation for Amazon Fraud Detector](https://aws.amazon.com/about-aws/whats-new/2023/02/smart-data-validation-amazon-fraud-detector/)
 - [Amazon CloudWatch Synthetics announces new Synthetics NodeJS runtime version 3.9](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudwatch-synthetics-synthetics-nodejs-runtime-version-3-9/)
-- [Amazon RDS for Oracle now supports early notifications of Auto minor Version Upgrades &lpar;AmVU&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-oracle-early-notifications-auto-minor-version-upgrades/)
-- [Announcing AWS Telco Network Builder](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-telco-network-builder/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
