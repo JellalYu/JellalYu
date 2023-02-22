@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS increases the number of provisioning tasks quota to deliver faster Cluster Auto Scaling](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ecs-increases-provisioning-tasks-quota-faster-cluster-auto-scaling/)
 - [Announcing Smart Data Validation for Amazon Fraud Detector](https://aws.amazon.com/about-aws/whats-new/2023/02/smart-data-validation-amazon-fraud-detector/)
 - [Amazon CloudWatch Synthetics announces new Synthetics NodeJS runtime version 3.9](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudwatch-synthetics-synthetics-nodejs-runtime-version-3-9/)
 - [Amazon RDS for Oracle now supports early notifications of Auto minor Version Upgrades &lpar;AmVU&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-oracle-early-notifications-auto-minor-version-upgrades/)
 - [Announcing AWS Telco Network Builder](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-telco-network-builder/)
-- [AWS Expands Torn Write Prevention to EC2 Im4gn, Is4gen instances and additional EBS regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-expands-torn-write-prevention-ec2-im4gn-is4gen-instances-ebs-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
