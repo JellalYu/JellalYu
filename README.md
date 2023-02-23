@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Transfer Family announces support for sending AS2 messages over HTTPS](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-transfer-family-sending-as2-messages-over-https/)
-- [Amazon QuickSight enables role-based access control to data sources that connect to Amazon S3 and Athena](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-quicksight-role-based-access-control-data-sources-s3-athena/)
-- [Amazon EC2 Hpc6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-hpc6id-instances-additional-regions/)
-- [AWS Transfer Family announces AWS CloudFormation support and enhanced monitoring capabilities for AS2](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-transfer-family-aws-cloudformation-monitoring-capabilities-AS2/)
-- [Amazon Detective adds the ability to export data from Summary page panels and search results](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-detective-export-data-summary-page-panels-search-results/)
+- [Amazon EMR on EKS adds support for job execution retries](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-emr-eks-job-execution-retries/)
+- [AWS Lambda launches new CloudWatch metrics for asynchronous invocations](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lambda-launches-cloudwatch-metrics-asynchronous-invocations/)
+- [Amazon CloudFront now supports OAC with Elemental MediaStore origins](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudfront-oac-elemental-mediastore-regions/)
+- [AWS Config now supports 20 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-config-20-resource-types/)
+- [AWS Control Tower provides updates to access logging and exceptions to more global services for Region Deny](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-control-tower-logging-exceptions-global-services-region-deny/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
