@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Vertical specific bot templates in Lex Console](https://aws.amazon.com/about-aws/whats-new/2023/02/lex-console-vertical-specific-bot-templates/)
 - [AWS Systems Manager for SAP is now generally available, with initial support for backing up SAP HANA databases using AWS Backup](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-systems-manager-sap-generally-available/)
 - [AWS Transit Gateway is now available in Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-transit-gateway-europe-zurich-region/)
 - [Amazon EMR on EKS is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-emr-eks-available-aws-govloud-us-regions/)
 - [Amazon RDS for MariaDB adds new disaster recovery &lpar;DR&rpar; capabilities with Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-mariadb-disaster-recovery-capabilities-cross-region-automated-backups/)
-- [Amazon RDS for MySQL adds new disaster recovery &lpar;DR&rpar; capabilities with Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-mysql-dr-capabilities-cross-region-automated-backups/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
