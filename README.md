@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Vertical specific bot templates in Lex Console](https://aws.amazon.com/about-aws/whats-new/2023/02/lex-console-vertical-specific-bot-templates/)
-- [AWS Systems Manager for SAP is now generally available, with initial support for backing up SAP HANA databases using AWS Backup](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-systems-manager-sap-generally-available/)
-- [AWS Transit Gateway is now available in Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-transit-gateway-europe-zurich-region/)
-- [Amazon EMR on EKS is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-emr-eks-available-aws-govloud-us-regions/)
-- [Amazon RDS for MariaDB adds new disaster recovery &lpar;DR&rpar; capabilities with Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-mariadb-disaster-recovery-capabilities-cross-region-automated-backups/)
+- [AWS App Runner introduces web application firewall &lpar;WAF&rpar; support for enhanced security](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-app-runner-web-application-firewall-enhanced-security/)
+- [AWS SAM connectors now supports multiple destinations](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-connectors-multiple-destinations/)
+- [Announcing Consolidated Control Findings and a Consolidated Controls View for AWS Security Hub](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-security-hub-consolidated-control-findings-view/)
+- [Amazon EC2 C7g instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-c7g-instances-additional-regions/)
+- [AWS Glue Crawlers now support integration with Lake Formation](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-glue-crawlers-integration-lake-formation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
