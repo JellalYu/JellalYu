@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lake Formation extends Data Filters to all regions for supported services](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lake-formation-data-filters-all-regions-supported-services/)
 - [AWS Security Hub launches 7 new security best practice controls](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-security-hub-7-security-best-practice-controls/)
 - [AWS App Runner introduces web application firewall &lpar;WAF&rpar; support for enhanced security](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-app-runner-web-application-firewall-enhanced-security/)
 - [AWS SAM connectors now supports multiple destinations](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-connectors-multiple-destinations/)
 - [Announcing Consolidated Control Findings and a Consolidated Controls View for AWS Security Hub](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-security-hub-consolidated-control-findings-view/)
-- [Amazon EC2 C7g instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-c7g-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
