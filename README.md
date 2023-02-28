@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Serverless v1 now supports customer configurable maintenance windows](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-aurora-serverless-v1-configurable-maintenance-windows/)
 - [AWS Service Catalog now supports the ability to disassociate and delete products in one-action](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-service-catalog-disassociate-delete-products-one-action/)
 - [SageMaker Autopilot now offers the ability to select algorithms while launching a machine learning training experiment](https://aws.amazon.com/about-aws/whats-new/2023/02/sagemaker-autopilot-select-algorithms-machine-learning-training-experiment/)
 - [Amazon ECS now supports deletion of inactive task definition revisions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ecs-deletion-inactive-task-definition-revisions/)
 - [Amazon CloudWatch Internet Monitor is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudwatch-internet-monitor-generally-available/)
-- [AWS Lake Formation extends Data Filters to all regions for supported services](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lake-formation-data-filters-all-regions-supported-services/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
