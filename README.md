@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server now supports Cross Region Automated Backups with encryption](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-sql-server-cross-region-automated-backups-encryption/)
+- [Amazon Kinesis Data Streams increases On-Demand write throughput limit to 1 GB/s](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kinesis-data-streams-on-demand-write-throughput-1gb/)
+- [Introducing Amazon Lightsail for Research](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-lightsail-research/)
 - [Amazon EMR Serverless now supports application log encryption with Customer Managed Keys &lpar;CMK&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-serverless-log-encryption-customer-managed-keys/)
 - [Amazon Managed Blockchain &lpar;AMB&rpar; announces general availability of Ethereum Token-Based Access](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-managed-blockchain-ethereum-token-based-access/)
-- [AWS Comprehend simplifies custom model retraining and management](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-comprehend-simplifies-model-retraining-management/)
-- [AWS App Runner is now available in AWS Asia Pacific &lpar;Singapore, Sydney&rpar; and AWS Europe &lpar;Frankfurt&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-app-runner-singapore-frankfurt-sydney-regions/)
-- [AWS Elemental MediaConvert now Ingests FLAC and Animated GIF Inputs](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-elemental-mediaconvert-ingests-flac-animated-gif-inputs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
