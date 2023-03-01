@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaConvert now Ingests FLAC and Animated GIF Inputs](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-elemental-mediaconvert-ingests-flac-animated-gif-inputs/)
 - [Code scans for Lambda functions within Amazon Inspector now in preview](https://aws.amazon.com/about-aws/whats-new/2023/02/code-scans-lambda-functions-amazon-inspector-preview/)
 - [Amazon RDS for MariaDB supports new minor versions 10.6.12, 10.5.19, 10.4.28 and 10.3.38](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-mariadb-new-minor-versions/)
 - [AWS Private CA releases open source samples to help create Matter compliant certificate authorities](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-private-ca-open-source-samples-matter-compliant-certificate-authorities/)
 - [AWS SAM CLI announces preview of Rust build support](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-cli-preview-rust-build-support/)
-- [Autocomplete suggestions are now available on AWS Marketplace search](https://aws.amazon.com/about-aws/whats-new/2023/02/autocomplete-suggestions-aws-marketplace-search/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
