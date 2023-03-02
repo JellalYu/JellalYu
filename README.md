@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Step Functions Distributed Map is now available in more Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-step-functions-distributed-map-additional-regions/)
 - [AWS Network Firewall is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-network-firewall-middle-east-uae-region/)
 - [Amazon Timestream now supports batch loading data](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-timestream-supports-batch-loading-data/)
 - [AWS Control Tower announces a progress tracker for landing zone setup and upgrades](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-control-tower-progress-tracker-landing-zone-setup-upgrades/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; adds support for MongoDB 5.0 wire protocol and client-side field level encryption](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-documentdb-mongodb-5-0-wire-protocol-client-side-encryption/)
-- [Amazon Detective adds graph visualization for interactive security investigations](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-detective-graph-visualization-interactive-security-investigations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
