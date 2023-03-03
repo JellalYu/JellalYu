@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Key Management Service now supports FIPS 140-2 enabled interface VPC endpoint](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-key-management-service-fips-140-2-interface-vpc-endpoints/)
 - [AWS announces new AWS Direct Connect location in Hamburg, Germany](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-direct-connect-location-hamburg-germany/)
 - [AWS IoT SiteWise now supports Time-Weighted Average and Standard Deviation](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-iot-sitewise-time-weighted-average-standard-deviation/)
 - [AWS CloudShell now supports the modular variant of AWS Tools for PowerShell](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-cloudshell-modular-variant-aws-tools-powershell/)
 - [Amazon OpenSearch Service extends Amazon Graviton2 &lpar;C6g, M6g, R6g&rpar; instances support in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-opensearch-graviton2-c6g-m6g-rcg-instances-4-regions/)
-- [Amazon RDS Blue/Green Deployments is now available in AWS Asia Pacific &lpar;Hyderabad and Melbourne&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-blue-green-deployments-hyderabad-melbourne-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
