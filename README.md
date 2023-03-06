@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Migration Hub Refactor Spaces now supports environments without a network bridge](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-migration-hub-refactor-spaces-network-bridge/)
 - [AWS Snowball is now available in the AWS Middle East &lpar;UAE&rpar;  Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-snowball-middle-east-uae-region/)
 - [AWS Lambda now supports up to 10 GB of ephemeral storage for Lambda functions in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-lambda-10-gb-ephemeral-storage-lambda-functions-additional-regions/)
 - [IAM Roles for Amazon EC2 Now Provide Credential Control Properties](https://aws.amazon.com/about-aws/whats-new/2023/03/iam-roles-amazon-ec2-credential-control-properties/)
 - [Amazon EC2 announces the ability to create Amazon Machine Images &lpar;AMIs&rpar; that can boot on UEFI and Legacy BIOS](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-create-amis-boot-uefi-legacy-bios/)
-- [Introducing maintenance window feature for AWS IoT Device Management Jobs](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-iot-device-management-jobs-maintenance-window-feature/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
