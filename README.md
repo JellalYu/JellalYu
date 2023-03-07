@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 I3 Bare Metal Instance is now available in the Middle East &lpar;Bahrain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-i3-bare-metal-instance-bahrain-region/)
+- [AWS announces new competition structure for the 2023 Season](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-new-competition-structure-2023-season/)
+- [AWS Glue 4.0 now supports Streaming ETL](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-4-0-streaming-etl/)
 - [AWS Elemental MediaConvert now supports enhanced color processing](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-elemental-mediaconvert-enhanced-color-processing/)
 - [AWS Application Composer is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-application-composer-generally-available/)
-- [Delegated administrator for AWS Organizations launches in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/delegated-administrator-aws-organizations-aws-govcloud-us-regions/)
-- [AWS Resource Explorer supports 12 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-resource-explorer-12-new-resource-types/)
-- [Amazon Redshift Query Editor V2 is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-redshift-query-editor-v2-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
