@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Composer is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-application-composer-generally-available/)
+- [Delegated administrator for AWS Organizations launches in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/delegated-administrator-aws-organizations-aws-govcloud-us-regions/)
+- [AWS Resource Explorer supports 12 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-resource-explorer-12-new-resource-types/)
+- [Amazon Redshift Query Editor V2 is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-redshift-query-editor-v2-aws-govcloud-us-regions/)
 - [Amazon MSK is now available in Middle East &lpar;UAE&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-msk-middle-east-uae-aws-region/)
-- [Amazon Aurora extends the cross-region disaster recovery capabilities to additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-aurora-cross-region-disaster-recovery-capabilities-additional-regions/)
-- [AWS Migration Hub Refactor Spaces now supports environments without a network bridge](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-migration-hub-refactor-spaces-network-bridge/)
-- [AWS Snowball is now available in the AWS Middle East &lpar;UAE&rpar;  Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-snowball-middle-east-uae-region/)
-- [AWS Lambda now supports up to 10 GB of ephemeral storage for Lambda functions in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-lambda-10-gb-ephemeral-storage-lambda-functions-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
