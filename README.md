@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL supports minor versions PostgreSQL 14.7, 13.10, 12.14, and 11.19](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-postgresql-support-additional-minor-versions/)
+- [Amazon RDS for MariaDB now supports RDS Optimized Writes](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-mariadb-rds-optimized-writes/)
 - [AWS Glue now provides continuous logs in AWS Glue Job Monitoring](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-continuous-logs-job-monitoring/)
 - [AWS Glue introduces faster and simpler permissions setup](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-faster-simpler-permissions-setup/)
 - [AWS Database Migration Service Fleet Advisor now supports target recommendations](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-database-migration-service-fleet-advisor-target-recommendations/)
-- [AWS Config now supports 18 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-config-18-new-resource-types/)
-- [Amazon Kinesis Data Firehose now supports data delivery to Elastic](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kinesis-data-firehose-data-delivery-elastic/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
