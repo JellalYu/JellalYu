@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS is now available in the Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-eks-asia-pacific-melbourne-region/)
 - [Amazon Virtual Private Cloud &lpar;VPC&rpar; Prefix Lists now available in two additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-vpc-prefix-lists-two-regions/)
 - [Amazon SageMaker Data Wrangler now supports Amazon EMR Hive as a big query engine](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-data-wrangler-emr-hive-big-query-engine/)
 - [Amazon SES adds email receiving metrics for better visibility and control](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ses-email-receiving-metrics/)
 - [Announcing Favorites feature to organize AWS Systems Manager documents and runbooks](https://aws.amazon.com/about-aws/whats-new/2023/03/favorites-feature-aws-systems-manager-documents-runbooks/)
-- [AWS License Manager Linux subscriptions expands region and administrator support](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-license-manager-linux-subscriptions-expands-region-administrator-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
