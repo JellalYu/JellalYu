@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Wisdom now supports Microsoft SharePoint Online](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-connect-wisdom-microsoft-sharepoint-online/)
 - [Amazon Route 53 Resolver endpoints for hybrid cloud are now available in the Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-route-53-resolver-endpoints-hybrid-cloud-zurich/)
 - [Amazon QuickSight adds hide collapsed columns control for Pivot table](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-quicksight-hide-collapsed-columns-control-pivot-table/)
 - [Amazon OpenSearch Service now supports OpenSearch version 2.5](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-opensearch-service-opensearch-version-2-5/)
 - [Amazon Redshift adds support for 200K tables](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-redshift-200K-tables-single-cluster/)
-- [AWS announces new AWS Direct Connect location in Auckland, New Zealand](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-direct-connect-auckland-new-zealand/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
