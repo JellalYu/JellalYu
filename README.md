@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service now supports OpenSearch version 2.5](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-opensearch-service-opensearch-version-2-5/)
 - [Amazon Redshift adds support for 200K tables](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-redshift-200K-tables-single-cluster/)
 - [AWS announces new AWS Direct Connect location in Auckland, New Zealand](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-direct-connect-auckland-new-zealand/)
 - [Amazon Route 53 Resolver endpoints for hybrid cloud announces IPv6 support](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-route-53-resolver-endpoints-hybrid-cloud-ipv6-support/)
 - [Delegated administrator for AWS Organizations launches in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/delegated-administrator-aws-organizations-aws-govcloud-us-regions/)
-- [Amazon EMR on EKS adds support for emitting customer metrics for managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-eks-emitting-customer-metrics-managed-endpoints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
