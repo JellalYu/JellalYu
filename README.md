@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune introduces graph summary API](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-neptune-graph-summary-api/)
 - [Announcing R6i instances for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2023/03/r6i-instances-amazon-neptune/)
 - [Amazon Neptune announces support for Slow Query Logs](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-neptune-slow-query-logs/)
 - [Amazon Kinesis Data Firehose is now available in Asia Pacific &lpar;Melbourne&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kinesis-data-firehose-asia-pacific-melbourne-aws-region/)
 - [Amazon Connect Wisdom now supports Microsoft SharePoint Online](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-connect-wisdom-microsoft-sharepoint-online/)
-- [Amazon Route 53 Resolver endpoints for hybrid cloud are now available in the Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-route-53-resolver-endpoints-hybrid-cloud-zurich/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
