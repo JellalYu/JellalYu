@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra releases Confluence Server Connector](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-confluence-server-connector/)
+- [Amazon Kendra releases SharePoint OnPrem Connectors](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-sharepoint-onprem-connectors/)
+- [Amazon Kendra releases Confluence Cloud Connector](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-confluence-cloud-connector/)
 - [Amazon OpenSearch Service introduces security analytics](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-opensearch-service-security-analytics/)
 - [Announcing cross-account support for Amazon S3 Multi-Region Access Points](https://aws.amazon.com/about-aws/whats-new/2023/03/cross-account-support-amazon-s3-multi-region-access-points/)
-- [Amazon S3 simplifies private connectivity from on-premises networks](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-s3-private-connectivity-on-premises-networks/)
-- [AWS Data Exchange for Amazon S3 is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-data-exchange-amazon-s3/)
-- [Introducing Mountpoint for Amazon S3, a high performance open source file client](https://aws.amazon.com/about-aws/whats-new/2023/03/mountpoint-amazon-s3/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
