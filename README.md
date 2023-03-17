@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup now supports VMware vSphere 8 and multiple virtual NICs](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-backups-vmware-vsphere-8-virtual-nics/)
+- [AWS Database Migration Service now generates an AWS Glue Data Catalog when migrating to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-database-migration-service-aws-glue-data-catalog-amazon-s3/)
+- [AWS Transfer Family is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-transfer-family-aws-middle-east-uae-region/)
+- [AWS Migration Hub Strategy Recommendations adds support for binary analysis](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-migration-hub-strategy-recommendations-binary-analysis/)
 - [AWS Database Migration Service now supports S3 data validation](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-database-migration-service-s3-data-validation/)
-- [Amazon CloudWatch Logs adds support for new Amazon VPC Flow Logs metadata](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-cloudwatch-logs-amazon-vpc-flow-logs-metadata/)
-- [AWS CodeBuild now supports a small GPU machine type](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-codebuild-small-gpu-machine-type/)
-- [AWS Cloud Map is now available in Asia Pacific &lpar;Melbourne&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-cloudmap-melbourne-region/)
-- [Amazon GuardDuty RDS Protection for Amazon Aurora is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-guardduty-rds-protection-aurora-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
