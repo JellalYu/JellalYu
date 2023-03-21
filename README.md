@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EMR now supports Amazon EC2 C7g &lpar;Graviton3&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-amazon-ec2-c7g-graviton3-instances/)
-- [Amazon Connect launches support for multiple SAML 2.0 identity providers](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-connect-multiple-saml-2-0-identity-providers/)
-- [AWS Backup now supports VMware vSphere 8 and multiple virtual NICs](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-backups-vmware-vsphere-8-virtual-nics/)
-- [AWS Database Migration Service now generates an AWS Glue Data Catalog when migrating to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-database-migration-service-aws-glue-data-catalog-amazon-s3/)
-- [AWS Transfer Family is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-transfer-family-aws-middle-east-uae-region/)
+- [Amazon EMR on EKS adds support for emitting customer metrics for managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-eks-emitting-customer-metrics-managed-endpoints/)
+- [Amazon EKS is now available in the Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-eks-asia-pacific-melbourne-region/)
+- [Amazon Virtual Private Cloud &lpar;VPC&rpar; Prefix Lists now available in two additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-vpc-prefix-lists-two-regions/)
+- [Amazon SageMaker Data Wrangler now supports Amazon EMR Hive as a big query engine](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-data-wrangler-emr-hive-big-query-engine/)
+- [Amazon SES adds email receiving metrics for better visibility and control](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ses-email-receiving-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
