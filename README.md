@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Application Auto Scaling now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2023/03/application-auto-scaling-resource-tagging/)
 - [AWS now allows you to bring your Windows 11 licenses to Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-windows-11-licenses-workspaces/)
 - [Amazon VPC Reachability Analyzer now supports 3 additional AWS networking services](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-vpc-reachability-analyzer-3-networking-services/)
 - [AWS Clean Rooms is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-clean-rooms-generally-available/)
 - [Amazon Corretto 20 is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-corretto-20/)
-- [Amazon EMR now supports Amazon EC2 C7g &lpar;Graviton3&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-amazon-ec2-c7g-graviton3-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
