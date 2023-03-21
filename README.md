@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Clean Rooms is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-clean-rooms-generally-available/)
+- [Amazon Corretto 20 is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-corretto-20/)
 - [Amazon EMR now supports Amazon EC2 C7g &lpar;Graviton3&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-amazon-ec2-c7g-graviton3-instances/)
 - [Amazon Connect launches support for multiple SAML 2.0 identity providers](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-connect-multiple-saml-2-0-identity-providers/)
 - [AWS Backup now supports VMware vSphere 8 and multiple virtual NICs](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-backups-vmware-vsphere-8-virtual-nics/)
-- [AWS Database Migration Service now generates an AWS Glue Data Catalog when migrating to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-database-migration-service-aws-glue-data-catalog-amazon-s3/)
-- [AWS Transfer Family is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-transfer-family-aws-middle-east-uae-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
