@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces new edge location in Peru](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-edge-location-peru/)
 - [Amazon SageMaker Data Wrangler now enables OAuth based access to Snowflake](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-data-wrangler-oauth-based-access-snowflake/)
 - [AWS Security Hub is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-security-hub-available-additional-aws-regions/)
 - [VPC DNS Query Logging Now Available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/vpc-dns-query-logging-asia-pacific-jakarta-region/)
 - [AWS CloudFormation language extensions transform is now available in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-cloudformation-language-extensions-transform-5-regions/)
-- [Amazon EC2 C6in, M6in, M6idn, R6in, and R6idn metal instances are now available](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-c6in-m6in-m6idn-r6in-r6idn-metal-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
