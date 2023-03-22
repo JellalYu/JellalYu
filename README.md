@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Application Load Balancer now supports TLS 1.3](https://aws.amazon.com/about-aws/whats-new/2023/03/application-load-balancer-tls-1-3/)
 - [Amazon RDS Proxy now supports PostgreSQL major version 15](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-proxy-postgresql-version-15/)
 - [AWS announces new edge location in Peru](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-edge-location-peru/)
 - [Amazon SageMaker Data Wrangler now enables OAuth based access to Snowflake](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-data-wrangler-oauth-based-access-snowflake/)
 - [AWS Security Hub is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-security-hub-available-additional-aws-regions/)
-- [VPC DNS Query Logging Now Available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/vpc-dns-query-logging-asia-pacific-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
