@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Batch launches support for configurable Ephemeral Storage on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-batch-configurable-ephemeral-storage-fargate/)
+- [Amazon WorkDocs announces Search Resources API](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-workdocs-search-resources-api/)
 - [Amazon S3 Event Notifications now supports Amazon EventBridge in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-s3-event-notifications-eventbridge-govcloud/)
 - [Amazon ECS provides contextual failure reasons for troubleshooting task launches with capacity providers](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ecs-contextual-task-launches-capacity-providers/)
 - [Application Load Balancer now supports TLS 1.3](https://aws.amazon.com/about-aws/whats-new/2023/03/application-load-balancer-tls-1-3/)
-- [Amazon RDS Proxy now supports PostgreSQL major version 15](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-proxy-postgresql-version-15/)
-- [AWS announces new edge location in Peru](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-edge-location-peru/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
