@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SNS announces support for setting content-type request headers for HTTP/S notifications](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sns-content-type-request-headers-http-s-notifications/)
 - [Announcing per-second billing for all Amazon GameLift instances](https://aws.amazon.com/about-aws/whats-new/2023/03/per-second-billing-amazon-gamelift-instances/)
 - [Allow Listing tool for testing new Billing, Cost Management and Account console permissions](https://aws.amazon.com/about-aws/whats-new/2023/03/allow-listing-tool-testing-billing-cost-management-account-console-permissions/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Elastic Clusters are now available in 3 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-documentdb-mongodb-compatibility-elastic-clusters-3-additional-regions/)
 - [AWS Service Catalog now available in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-service-catalog-aws-middle-east-uae-region/)
-- [AWS IoT TwinMaker is now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-iot-twinmaker-aws-govcloud-us-west-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
