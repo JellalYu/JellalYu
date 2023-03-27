@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Automate JAVA Stack deployment with AWS Launch Wizard for SAP](https://aws.amazon.com/about-aws/whats-new/2023/03/automate-java-stack-deployment-aws-launch-wizard-sap/)
 - [Amazon Chime SDK launches call analytics](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-chime-sdk-call-analytics/)
 - [AWS MGN now supports inventory import and export, server status dashboard, and new modernization actions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-mgn-inventory-import-export-server-status-dashboard-modernization-actions/)
 - [Amazon Chime SDK now supports Amazon Lex chatbots](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-chime-sdk-amazon-lex-chatbots/)
 - [Amazon Connect Tasks now supports custom task templates in flows](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-connect-tasks-custom-templates-flow/)
-- [Amazon EMR on EKS adds managed and self-managed node groups support for managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-eks-managed-node-groups-endpoints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
