@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [NICE DCV releases version 2023.0 with support for Red Hat Enterprise Linux 9](https://aws.amazon.com/about-aws/whats-new/2023/03/nice-dcv-2023-0-red-hat-enterprise-linux9/)
+- [AWS Copilot adds support for full customization with AWS CDK or YAML overrides](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-copilot-customization-cdk-yaml-overrides/)
+- [Bottlerocket adds support for FireLens](https://aws.amazon.com/about-aws/whats-new/2023/03/bottlerocket-support-firelens/)
+- [Amazon Athena adds minimum encryption to enhance query result security](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-athena-minimum-encryption-query-result-security/)
 - [AWS IoT Core deepens integration with Amazon Sidewalk](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-iot-core-deepens-integration-amazon-sidewalk/)
-- [AWS Cost Anomaly Detection now automatically configured for all new Cost Explorer users](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-cost-anomaly-detection-configured-cost-explorer-users/)
-- [Amazon EKS adds domainless gMSA authentication for Windows containers](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-eks-domainless-gmsa-authentication-windows-containers/)
-- [Amazon EC2 High Memory instances are now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-high-memory-instances-aws-govlcoud-regions/)
-- [Amazon Connect now provides step-by-step guides in agent workspace](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-connect-step-by-step-guides-agent-workspace/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
