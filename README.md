@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Migration Service is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-application-migration-service-middle-east-uae-region/)
 - [Amazon GuardDuty simplifies enforcement of threat detection across all accounts in an Organization](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-guardduty-enforcement-threat-detection-organization/)
 - [Amazon SageMaker is now available in Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-europe-zurich-region/)
 - [AWS CodeBuild supports Arm-based workloads in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-codebuild-arm-based-workloads-additional-regions/)
 - [AWS Systems Manager Incident Manager announces the launch of on-call schedules](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-systems-manager-on-call-schedules/)
-- [NICE DCV releases version 2023.0 with support for Red Hat Enterprise Linux 9](https://aws.amazon.com/about-aws/whats-new/2023/03/nice-dcv-2023-0-red-hat-enterprise-linux9/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
