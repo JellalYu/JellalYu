@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Python SDK now supports setting default values for parameters](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-python-sdk-default-values-parameters/)
 - [AWS announces Amazon DataZone &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-amazon-datazone-preview/)
 - [Amazon Translate launches Batch Translation in eight additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-translate-batch-translation-eight-regions/)
 - [Amazon EC2 C6in instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-c6in-instances-additional-regions/)
 - [AWS Application Migration Service is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-application-migration-service-middle-east-uae-region/)
-- [Amazon GuardDuty simplifies enforcement of threat detection across all accounts in an Organization](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-guardduty-enforcement-threat-detection-organization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
