@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon SageMaker Python SDK now supports setting default values for parameters](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-python-sdk-default-values-parameters/)
-- [AWS announces Amazon DataZone &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-amazon-datazone-preview/)
-- [Amazon Translate launches Batch Translation in eight additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-translate-batch-translation-eight-regions/)
-- [Amazon EC2 C6in instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-c6in-instances-additional-regions/)
-- [AWS Application Migration Service is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-application-migration-service-middle-east-uae-region/)
+- [Amazon CloudFront announces support for HTTP status and response generation using CloudFront Functions](https://aws.amazon.com/about-aws/whats-new/2023/03/http-status-response-generation-cloudfront-functions/)
+- [AWS re:Post now includes AWS Knowledge Center articles](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-re-post-includes-knowledge-center-articles/)
+- [AWS Service Catalog is now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-service-catalog-four-regions/)
+- [AWS WAF is now available in the Zurich, Spain, Hyderabad, and Melbourne regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-waf-additional-regions/)
+- [AWS DataSync now supports copying data from Azure Blob Storage &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-datasync-copying-data-azure-blob-storage-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
