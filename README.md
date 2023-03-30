@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon CloudFront announces support for HTTP status and response generation using CloudFront Functions](https://aws.amazon.com/about-aws/whats-new/2023/03/http-status-response-generation-cloudfront-functions/)
-- [AWS re:Post now includes AWS Knowledge Center articles](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-re-post-includes-knowledge-center-articles/)
-- [AWS Service Catalog is now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-service-catalog-four-regions/)
-- [AWS WAF is now available in the Zurich, Spain, Hyderabad, and Melbourne regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-waf-additional-regions/)
-- [AWS DataSync now supports copying data from Azure Blob Storage &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-datasync-copying-data-azure-blob-storage-preview/)
+- [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; Version 22.2](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-oracle-apex-version-22-2/)
+- [AWS Batch now supports user-defined pod labels on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-batch-user-defined-pod-labels-amazon-eks/)
+- [Amazon SNS launches the Extended Client Library for Python to support payloads up to 2GB](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sns-extended-client-library-python/)
+- [AWS Elastic Disaster Recovery supports automated replication of new disks](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-elastic-disaster-recovery-automated-replication-disks/)
+- [AWS Wickr now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-wickr-govcloud-us-west-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
