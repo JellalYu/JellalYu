@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [AWS Site-to-Site VPN adds support for better visibility and control of VPN tunnel maintenance updates](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-site-vpn-visibility-control-tunnel-maintenance-updates/)
 - [Amazon GuardDuty now monitors runtime activity from containers running on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-guardduty-monitors-runtime-activity-containers-eks/)
+- [Amazon SageMaker Canvas now supports NLP and CV use cases](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-canvas-nlp-cv-use-cases/)
 - [AWS Compute Optimizer now supports HDD and io2 Block Express EBS volume types](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-compute-optimizer-hdd-io2-block-express-ebs-voulme-types/)
 - [Amazon EventBridge Scheduler is now available in 18 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-eventbridge-scheduler-18-regions/)
-- [Amazon Kendra launches Featured Results](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-featured-results/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
