@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Simple Email Service now detects gaps in BIMI configuration](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-simple-email-service-detects-gaps-bimi-configuration/)
+- [Amazon Simple Email Service now supports delivery and engagement graphs](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-simple-email-service-delivery-engagement-graphs/)
 - [AWS announces new AWS Direct Connect location in Mumbai, India](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-direct-connect-location-mumbai-india/)
 - [AWS Cloud Map enables service editing in AWS Console](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-cloud-map-service-editing-console/)
 - [Console Toolbar is now generally available for AWS CloudShell](https://aws.amazon.com/about-aws/whats-new/2023/03/console-toolbar-generally-available-aws-cloudshell/)
-- [AWS Glue Studio visual ETL adds 10 new visual transforms](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-studio-visual-etl-new-visual-transforms/)
-- [Service Quotas is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/service-quotas-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
