@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue Studio visual ETL adds 10 new visual transforms](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-studio-visual-etl-new-visual-transforms/)
+- [Service Quotas is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/service-quotas-additional-regions/)
 - [Amazon Managed Service for Prometheus supports 500M active metrics per workspace](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-managed-service-prometheus-500m-metrics-workspace/)
 - [AWS Blu Insights enhances user access with single sign-on](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-blu-insights-user-access-single-sign-on/)
 - [Announcing the general availability of Amazon VPC Lattice](https://aws.amazon.com/about-aws/whats-new/2023/03/general-availability-amazon-vpc-lattice/)
-- [AWS Site-to-Site VPN adds support for better visibility and control of VPN tunnel maintenance updates](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-site-vpn-visibility-control-tunnel-maintenance-updates/)
-- [Amazon GuardDuty now monitors runtime activity from containers running on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-guardduty-monitors-runtime-activity-containers-eks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
