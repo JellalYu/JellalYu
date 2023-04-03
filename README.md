@@ -50,8 +50,8 @@
 - [AWS License Manager now offers improved license visibility and distribution across your organization](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-license-manager-license-visibility-distribution-organization/)
 - [Amazon Simple Email Service now detects gaps in BIMI configuration](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-simple-email-service-detects-gaps-bimi-configuration/)
 - [Amazon Simple Email Service now supports delivery and engagement graphs](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-simple-email-service-delivery-engagement-graphs/)
+- [AWS Compute Optimizer now supports EC2 instances with non-consecutive utilization data](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-compute-optimizer-ec2-instances-non-consecutive-utilization-data/)
 - [AWS announces new AWS Direct Connect location in Mumbai, India](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-direct-connect-location-mumbai-india/)
-- [AWS Cloud Map enables service editing in AWS Console](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-cloud-map-service-editing-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
