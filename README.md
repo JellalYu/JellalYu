@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS License Manager now offers improved license visibility and distribution across your organization](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-license-manager-license-visibility-distribution-organization/)
-- [Amazon Simple Email Service now detects gaps in BIMI configuration](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-simple-email-service-detects-gaps-bimi-configuration/)
-- [Amazon Simple Email Service now supports delivery and engagement graphs](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-simple-email-service-delivery-engagement-graphs/)
-- [AWS Compute Optimizer now supports EC2 instances with non-consecutive utilization data](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-compute-optimizer-ec2-instances-non-consecutive-utilization-data/)
-- [AWS announces new AWS Direct Connect location in Mumbai, India](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-direct-connect-location-mumbai-india/)
+- [The sixth generation of Amazon EC2 instances powered by AMD processors now support faster Amazon EBS-optimized instance performance](https://aws.amazon.com/about-aws/whats-new/2023/04/sixth-generation-amazon-ec2-instances-ebs-optimized-instance-performance/)
+- [Amazon ElastiCache for Redis simplifies creating new clusters in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-elasticache-redis-clusters-management-console/)
+- [Amazon SWF now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-swf-aws-privatelink/)
+- [AWS Trusted Advisor now includes fault tolerance checks for Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-trusted-advisor-fault-tolerance-checks-amazon-ecs/)
+- [Amazon Textract announces updates to the AnalyzeDocument - Tables feature](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-textract-analyzedocument-tables-feature/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
