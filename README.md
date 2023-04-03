@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Utilization Notifications for EC2 On-Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2023/04/utilization-notifications-ec2-on-demand-capacity-reservations/)
+- [AWS Compute Optimizer now supports HDD and io2 Block Express EBS volume types](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-compute-optimizer-hdd-io2-block-express-ebs-voulme-types/)
+- [AWS Billing Conductor pricing change](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-billing-conductor-pricing-change/)
 - [Amazon Textract announces Bulk Document Uploader to test Textract on multiple documents](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-textract-bulk-document-uploader-test-documents/)
 - [AWS Config now supports 23 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-config-23-new-resource-types/)
-- [Amazon MWAA now supports Shell Launch Scripts](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-mwaa-shell-launch-scripts/)
-- [Announcing policies validations during synthesis time with AWS Cloud Development Kit &lpar;CDK&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-cloud-development-kit-cdk-policies-validations/)
-- [Import data from 45+ sources for no-code ML with Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-canvas-import-data-no-code-ml/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
