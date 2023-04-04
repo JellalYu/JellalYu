@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing general availability for macOS Support on Amplify Library for Swift](https://aws.amazon.com/about-aws/whats-new/2023/04/mac-os-support-amplify-library-swift/)
+- [Amazon Athena adds view support for external data sources](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-athena-view-support-external-data-sources/)
 - [AWS Migration Hub now supports High Availability SAP HANA systems](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-migration-hub-high-availability-sap-hana-systems/)
 - [Amplify Studio is now available in the Europe South &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amplify-studio-europe-south-milan-region/)
 - [AWS CodePipeline is now available in three additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-codepipeline-additional-regions/)
-- [Amazon SageMaker Feature Store now supports hard deletion in online store](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-feature-store-hard-deletion-online-store/)
-- [AWS Supply Chain is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-supply-chain-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
