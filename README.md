@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 adds new visibility into object replication status](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-visibility-object-replication-status/)
+- [Announcing CSV Export for AWS Resource Explorer Search Results](https://aws.amazon.com/about-aws/whats-new/2023/04/csv-export-aws-resource-explorer-search-results/)
 - [Amazon AppStream 2.0 Is Now Available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-appstream-2-0-aws-govcloud-us-east-region/)
 - [Amazon Polly offers full support in the AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-polly-support-osaka-region/)
 - [AWS Glue now available in AWS Europe &lpar;Spain&rpar; and AWS Europe &lpar;Zurich&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-glue-available-europe-spain-zurich/)
-- [AWS CodeBuild is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-codebuild-three-additional-regions/)
-- [Amazon Kendra releases Microsoft OneDrive Connector](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-kendra-microsoft-onedrive-connector/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
