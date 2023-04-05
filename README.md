@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Firewall now supports IPv6-only subnets](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-network-firewall-ipv6-only-subnets/)
+- [AWS CloudFormation StackSets is now available in 2 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-cloudformation-stacksets-2-regions/)
 - [AWS App Runner adds 7 new compute configurations](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-app-runner-compute-configurations/)
 - [Amazon S3 adds new visibility into object replication status](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-visibility-object-replication-status/)
 - [Announcing CSV Export for AWS Resource Explorer Search Results](https://aws.amazon.com/about-aws/whats-new/2023/04/csv-export-aws-resource-explorer-search-results/)
-- [Amazon AppStream 2.0 Is Now Available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-appstream-2-0-aws-govcloud-us-east-region/)
-- [Amazon Polly offers full support in the AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-polly-support-osaka-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
