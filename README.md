@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing AWS Cloud Operations Competency Partners](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-cloud-operations-competency-partners/)
+- [AWS Proton introduces Git management of service configurations](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-proton-git-management-service-configurations/)
 - [Amazon CodeCatalyst Dev Environments now supports GitHub repositories](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-codecatalyst-dev-environments-github-repositories/)
 - [Amazon Monitron extends data stream with closure codes and status from sensors](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-monitron-data-stream-codes-status-sensors/)
 - [AWS Controllers for Kubernetes &lpar;ACK&rpar; for Amazon MemoryDB is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-controllers-kubernetes-amazon-memorydb/)
-- [Amazon Kinesis Data Analytics is now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-kinesis-data-analytics-additional-regions/)
-- [Amazon HealthLake now available in Asia-Pacific &lpar;Mumbai&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-healthlake-asia-pacific-mumbai-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
