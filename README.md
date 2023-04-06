@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CodeCatalyst Dev Environments now supports GitHub repositories](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-codecatalyst-dev-environments-github-repositories/)
+- [Amazon Monitron extends data stream with closure codes and status from sensors](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-monitron-data-stream-codes-status-sensors/)
 - [AWS Controllers for Kubernetes &lpar;ACK&rpar; for Amazon MemoryDB is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-controllers-kubernetes-amazon-memorydb/)
 - [Amazon Kinesis Data Analytics is now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-kinesis-data-analytics-additional-regions/)
 - [Amazon HealthLake now available in Asia-Pacific &lpar;Mumbai&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-healthlake-asia-pacific-mumbai-region/)
-- [Amazon Virtual Private Cloud now supports Bring your own IP in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-virtual-private-cloud-byoip-two-regions/)
-- [Amazon SageMaker is now available in Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-asia-pacific-hyderabad-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
