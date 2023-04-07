@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon WorkSpaces Core introduces Microsoft Office 2019 Professional Plus bundle](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-workspaces-core-ms-office-2019-plus-bundle/)
-- [AWS Security Hub launches 4 new security best practice controls](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-security-hub-4-security-best-practice-controls/)
-- [Introducing AWS Cloud Operations Competency Partners](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-cloud-operations-competency-partners/)
-- [AWS Proton introduces Git management of service configurations](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-proton-git-management-service-configurations/)
-- [Amazon CodeCatalyst Dev Environments now supports GitHub repositories](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-codecatalyst-dev-environments-github-repositories/)
+- [NICE DCV announces the general availability of the DCV](https://aws.amazon.com/about-aws/whats-new/2023/04/nice-dcv-general-availability-dcv/)
+- [Amazon RDS for MySQL supports inbound replication for RDS Multi-AZ deployment option with two readable standby DB instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-mysql-inbound-replication-multi-az-two-readable-instances/)
+- [Amazon RDS for MySQL now supports up to 15 read replicas for RDS Multi-AZ deployment option with two readable standby database instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-mysql-15-read-replicas-multi-az-two-readable-instances/)
+- [EMR on EKS now supports Apache Spark with Java 11](https://aws.amazon.com/about-aws/whats-new/2023/04/emr-eks-apache-spark-java-11/)
+- [RDS Custom for SQL Server now supports Multi-AZ deployments](https://aws.amazon.com/about-aws/whats-new/2023/04/rds-custom-sql-server-multi-az-deployments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
