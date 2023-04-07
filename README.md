@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda introduces response payload streaming](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-response-payload-streaming/)
 - [Add an Amazon ElastiCache cache to Amazon RDS databases in the RDS console](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-elasticache-cache-rds-databases-console/)
 - [AWS Graviton2-based Amazon EC2 instances are available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-graviton2-based-amazon-ec2-instances-additional-regions/)
 - [NICE DCV announces the general availability of the DCV Extension SDK](https://aws.amazon.com/about-aws/whats-new/2023/04/nice-dcv-general-availability-dcv-extension-sdk/)
 - [Amazon RDS for MySQL supports inbound replication for RDS Multi-AZ deployment option with two readable standby DB instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-mysql-inbound-replication-multi-az-two-readable-instances/)
-- [Amazon RDS for MySQL now supports up to 15 read replicas for RDS Multi-AZ deployment option with two readable standby database instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-mysql-15-read-replicas-multi-az-two-readable-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
