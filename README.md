@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing media metrics for AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-elemental-mediaconvert-media-metrics/)
+- [AWS Well-Architected Framework strengthens prescriptive guidance](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-well-architected-framework-prescriptive-guidance/)
 - [Amazon SageMaker Inference Recommender improves usability and launches new features](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-inference-recommender-new-features/)
 - [Amazon Connect now enables agents to handle voice calls, chats, and tasks concurrently](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-connect-agents-calls-chats-tasks/)
 - [AWS Firewall Manager adds support for six additional AWS WAF features](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-firewall-manager-waf-features/)
-- [AWS Glue visual ETL now supports new native Amazon Redshift capabilities](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-glue-visual-etl-native-amazon-redshift-capabilities/)
-- [Amazon Connect Voice ID now supports multiple fraudster watchlists per Voice ID domain](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-connect-voice-id-fraudster-watchlists-voice-id-domain/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
