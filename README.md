@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Firewall Manager adds support for six additional AWS WAF features](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-firewall-manager-waf-features/)
+- [AWS Glue visual ETL now supports new native Amazon Redshift capabilities](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-glue-visual-etl-native-amazon-redshift-capabilities/)
 - [Amazon Connect Voice ID now supports multiple fraudster watchlists per Voice ID domain](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-connect-voice-id-fraudster-watchlists-voice-id-domain/)
 - [Amazon RDS Optimized Reads now offers up to 2X faster queries on RDS for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-optimized-reads-2x-faster-queries-rds-postgresql/)
 - [Amazon QuickSight now supports Row Level Security tags with OR condition](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-quicksight-rls-tags-or-condition/)
-- [Amazon GuardDuty Adds Three New Threat Detections to Alert Customers on Suspicious DNS Traffic](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-guardduty-threat-detections-dns-traffic/)
-- [Amazon ECS on AWS Fargate now supports FIPS 140-2 on AWS Fargate in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ecs-aws-fargate-fips-140-2-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
