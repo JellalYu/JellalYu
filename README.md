@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Optimized Reads now offers up to 2X faster queries on RDS for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-optimized-reads-2x-faster-queries-rds-postgresql/)
+- [Amazon QuickSight now supports Row Level Security tags with OR condition](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-quicksight-rls-tags-or-condition/)
 - [Amazon GuardDuty Adds Three New Threat Detections to Alert Customers on Suspicious DNS Traffic](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-guardduty-threat-detections-dns-traffic/)
 - [Amazon ECS on AWS Fargate now supports FIPS 140-2 on AWS Fargate in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ecs-aws-fargate-fips-140-2-govcloud-us-regions/)
 - [AWS Lambda introduces response payload streaming](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-response-payload-streaming/)
-- [Add an Amazon ElastiCache cache to Amazon RDS databases in the RDS console](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-elasticache-cache-rds-databases-console/)
-- [AWS Graviton2-based Amazon EC2 instances are available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-graviton2-based-amazon-ec2-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
