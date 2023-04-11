@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WAF increases web ACL capacity units limits](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-waf-web-acl-capacity-units-limits/)
+- [AWS WAF supports larger request body inspections for Amazon CloudFront distributions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-waf-body-inspections-amazon-cloudfront-distributions/)
 - [Amazon EC2 Serial Console is now available on EC2 bare metal instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-serial-console-bare-metal-instances/)
 - [Amazon Pinpoint now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-pinpoint-supports-aws-privatelink/)
 - [Amazon Rekognition launches Face Liveness to deter fraud in facial verification](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rekognition-face-liveness-deter-fraud-facial-verification/)
-- [AWS Config advanced queries supports 27 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-config-advanced-queries-new-resource-types/)
-- [Amazon MWAA now supports Apache Airflow version 2.5](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-mwaa-apache-airflow-version-2-5/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
