@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MWAA now supports Apache Airflow version 2.5](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-mwaa-apache-airflow-version-2-5/)
 - [AWS Lambda supports Maximum Concurrency for Amazon SQS as an event source in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-maximum-concurrency-amazon-sqs-event-source-govcloud/)
 - [AWS Firewall Manager is now available in three more regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-firewall-manager-new-regions/)
 - [Amazon AppFlow announces 6 new connectors](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-appflow-new-connectors/)
 - [AWS AppSync now supports publishing events to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-appsync-publishing-events-amazon-eventbridge/)
-- [Announcing media metrics for AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-elemental-mediaconvert-media-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
