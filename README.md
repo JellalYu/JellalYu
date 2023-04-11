@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS AppSync now supports publishing events to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-appsync-publishing-events-amazon-eventbridge/)
 - [Announcing media metrics for AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-elemental-mediaconvert-media-metrics/)
 - [AWS Well-Architected Framework strengthens prescriptive guidance](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-well-architected-framework-prescriptive-guidance/)
 - [Amazon SageMaker Inference Recommender improves usability and launches new features](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-inference-recommender-new-features/)
 - [Amazon Connect now enables agents to handle voice calls, chats, and tasks concurrently](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-connect-agents-calls-chats-tasks/)
-- [AWS Firewall Manager adds support for six additional AWS WAF features](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-firewall-manager-waf-features/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
