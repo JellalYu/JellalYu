@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Trn1n instances, optimized for network-intensive generative AI models, are now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-trn1n-instances-network-ai-models/)
+- [Amazon EC2 Inf2 instances, optimized for generative AI, are now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-inf2-instances-generative-ai-generally-available/)
+- [Amazon CodeWhisperer is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-codewhisperer-generally-available/)
 - [Amazon EFS is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-efs-asia-pacific-melbourne-region/)
 - [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.26](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-eks-distro-kubernetes-version-1-26/)
-- [AWS launches Split Cost Allocation Data for Amazon ECS and AWS Batch](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-split-cost-allocation-data-amazon-ecs-batch/)
-- [AWS Lake Formation is now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lake-formation-europe-spain-region/)
-- [AWS Lake Formation is now available in AWS Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lake-formation-europe-zurich-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
