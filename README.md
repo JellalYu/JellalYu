@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GameLift adds support for Unreal Engine 5](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-gamelift-unreal-engine-5/)
 - [Amazon Redshift enhances string query performance by up to 63x](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-redshift-string-query-performance-up-to-63x/)
 - [Announcing AWS Elemental MediaConnect Gateway](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-elemental-mediaconnect-gateway/)
 - [Amazon EC2 I4i instances available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-i4i-instance-additional-regions/)
 - [AWS IoT Core announces general availability for MQTT5 Shared Subscriptions and new CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-iot-core-mqtt5-shared-subscriptions-cloudwatch-metrics/)
-- [AWS Service Management Connector introduces AWS Support and Automation integrations in Jira  Cloud](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-service-management-connector-support-automation-jira-cloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
