@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup now available 3 new regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-new-regions/)
+- [AWS Directory Service for Microsoft AD and AD Connector available in &lpar;Melbourne&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-directory-service-microsoft-ad-connector-melbourne/)
 - [Introducing the Media &amp; Entertainment Competency](https://aws.amazon.com/about-aws/whats-new/2023/04/media-entertainment-competency/)
 - [Amazon EMR on EKS is now available in the Middle East and Asia Pacific regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-eks-middle-east-asia-pacific-regions/)
 - [Amazon ECS on AWS Fargate supports extensible ephemeral storage for Windows Tasks](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ecs-aws-fargate-extensible-ephemeral-storage-windows-tasks/)
-- [AWS Transit Gateway is now available in Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-transit-gateway-europe-spain-region/)
-- [AWS Transit Gateway is now available in Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-transit-gateway-asia-pacific-hyderabad-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
