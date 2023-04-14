@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Backup now available 3 new regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-new-regions/)
+- [Announcing availability of AL2023 and gMSA support on Amazon ECS Linux containers](https://aws.amazon.com/about-aws/whats-new/2023/04/al2023-gmsas-amazon-ecs-linux-containers/)
+- [AWS Backup now available in 3 new Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-new-regions/)
 - [AWS Directory Service for Microsoft AD and AD Connector available in &lpar;Melbourne&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-directory-service-microsoft-ad-connector-melbourne/)
 - [Introducing the Media &amp; Entertainment Competency](https://aws.amazon.com/about-aws/whats-new/2023/04/media-entertainment-competency/)
 - [Amazon EMR on EKS is now available in the Middle East and Asia Pacific regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-eks-middle-east-asia-pacific-regions/)
-- [Amazon ECS on AWS Fargate supports extensible ephemeral storage for Windows Tasks](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ecs-aws-fargate-extensible-ephemeral-storage-windows-tasks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
