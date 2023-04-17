@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing availability of AL2023 and gMSA support on Amazon ECS Linux containers](https://aws.amazon.com/about-aws/whats-new/2023/04/al2023-gmsas-amazon-ecs-linux-containers/)
-- [AWS Backup now available in 3 new Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-new-regions/)
-- [AWS Directory Service for Microsoft AD and AD Connector available in &lpar;Melbourne&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-directory-service-microsoft-ad-connector-melbourne/)
-- [Introducing the Media &amp; Entertainment Competency](https://aws.amazon.com/about-aws/whats-new/2023/04/media-entertainment-competency/)
-- [Amazon EMR on EKS is now available in the Middle East and Asia Pacific regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-eks-middle-east-asia-pacific-regions/)
+- [Introducing the AWS CloudFormation Template Sync Controller for Flux](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-cloudformation-template-sync-controller-flux/)
+- [AWS Elastic Disaster Recovery now simplifies launch settings management](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-elastic-disaster-recovery-launch-settings-management/)
+- [AWS Glue launches new capability to monitor usage of Glue resources](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-glue-monitor-usage-resources/)
+- [Amazon SageMaker Collections is a new capability to organize models in the Model Registry](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-collections-organize-model-registry/)
+- [AWS announces the Manufacturing and Industrial Competency](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-manufacturing-industrial-competency/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
