@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda adds support for Python 3.10](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-python-3-10/)
+- [AWS Backup announces support for SAP HANA databases on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-support-sap-hana-databases-amazon-ec2/)
+- [Amazon RDS events now include tags for filtering and routing](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-events-tags-filtering-routing/)
 - [Prepare data easily with Amazon Personalize and Amazon SageMaker Data Wrangler integration](https://aws.amazon.com/about-aws/whats-new/2023/04/prepare-data-amazon-personalize-sagemaker-data-wrangler-integration/)
 - [Amazon Connect Customer Profiles now shows cases information in the agent workspace](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-connect-customer-profiles-cases-information-agent-workspace/)
-- [Amazon EMR Studio now available in Middle East &lpar;Bahrain&rpar;, Asia Pacific &lpar;Hong Kong&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-studio-bahrain-hong-kong-regions/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; provides ODBC driver to connect from BI tools](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-documentdb-mongodb-odbc-driver-bi-tools/)
-- [Amazon EFS now supports up to 10 GiB/s of throughput](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-efs-10-gibs-throughput/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
