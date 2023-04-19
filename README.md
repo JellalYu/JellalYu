@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Control Tower is now available in 7 additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-control-tower-additional-regions/)
 - [Amazon EMR Serverless adds job-level billed resources for efficient cost management](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-serverless-job-billed-resources-cost-management/)
 - [AWS IoT Core for LoRaWAN supports public LoRaWAN network and roaming with Everynet &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-iot-core-lorawan-public-lorawan-network-roaming-everynet-preview/)
 - [Amazon EMR now makes troubleshooting easier with enhanced error details](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-enhanced-error-details/)
 - [AWS Lambda adds support for Python 3.10](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-python-3-10/)
-- [AWS Backup announces support for SAP HANA databases on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-support-sap-hana-databases-amazon-ec2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
