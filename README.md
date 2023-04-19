@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Lake Formation and Glue Data Catalog now manage Apache Hive Metastore resources](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lake-formation-glue-catalog-apache-hive-metastore-resources/)
-- [AWS Backup for Amazon S3 is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-s3-govcloud-us-regions/)
-- [AWS Amplify supports Push Notifications for mobile and cross platform apps](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-amplify-push-notifications-mobile-cross-platform-apps/)
-- [AWS Control Tower is now available in 7 additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-control-tower-additional-regions/)
-- [Amazon EMR Serverless adds job-level billed resources for efficient cost management](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-serverless-job-billed-resources-cost-management/)
+- [Announcing Dev Environment dashboard for Amazon CodeCatalyst &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-codecatalyst-preview-dev-environment-dashboard/)
+- [Amazon SageMaker Studio Lab combats bots with CAPTCHA](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-studiolab-combats-bots-captcha/)
+- [Amazon GuardDuty now available in AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-guardduty-aws-asia-pacific-melbourne-region/)
+- [Amazon Corretto April, 2023 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-corretto-april-quarterly-updates/)
+- [Amazon WorkSpaces Web Access with WSP is now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-workspaces-web-access-wsp-aws-govcloud-us-west-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
