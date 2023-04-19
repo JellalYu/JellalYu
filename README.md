@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Inspector now supports deep inspection of EC2 instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-inspector-deep-inspection-ec2-instances/)
+- [Amazon Comprehend improves accuracy of document classification using layout data](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-comprehend-document-classification-layout-data/)
 - [Announcing Dev Environment dashboard for Amazon CodeCatalyst &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-codecatalyst-preview-dev-environment-dashboard/)
 - [Amazon SageMaker Studio Lab combats bots with CAPTCHA](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-studiolab-combats-bots-captcha/)
 - [Amazon GuardDuty now available in AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-guardduty-aws-asia-pacific-melbourne-region/)
-- [Amazon Corretto April, 2023 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-corretto-april-quarterly-updates/)
-- [Amazon WorkSpaces Web Access with WSP is now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-workspaces-web-access-wsp-aws-govcloud-us-west-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
