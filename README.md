@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Redesigned opportunity management experience in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-partner-central-redesigned-management-experience/)
+- [Amazon EC2 supports Ubuntu Pro operating system in a subscription-included model](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-ubuntu-pro-subscription-model/)
 - [Amazon Chime SDK now supports Hindi and Thai languages for live transcription](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-chime-sdk-hindi-thai-live-transcription/)
 - [AWS SAM CLI announces local testing support for API Gateway Lambda authorizers](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-sam-cli-local-testing-api-gateway-lambda-authorizers/)
 - [Announcing Amazon GuardDuty support for AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-guardduty-aws-lambda/)
-- [Amazon Redshift announces general availability of Dynamic Data Masking](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-redshift-availability-dynamic-data-masking/)
-- [Introducing AWS WAF Ready Partner Offerings](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-waf-ready-partner-offerings/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
