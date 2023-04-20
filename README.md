@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces general availability of Dynamic Data Masking](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-redshift-availability-dynamic-data-masking/)
+- [Introducing AWS WAF Ready Partner Offerings](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-waf-ready-partner-offerings/)
+- [Amazon ECS Service Connect now available in the Middle East &lpar;UAE&rpar; and Europe &lpar;Zurich&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ecs-service-connect-uae-zurich-regions/)
 - [Amazon Redshift announces general availability of MERGE SQL command](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-redshift-availability-merge-sql-command/)
 - [AWS Snowball Edge Compute Optimized now supports Amazon S3 compatible storage](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-snowball-edge-compute-optimized-amazon-s3-compatible-storage/)
-- [Announcing the general availability of Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/04/general-availability-amazon-codecatalyst/)
-- [AWS Amplify Flutter announces general availability for web and desktop support](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-amplify-flutter-web-desktop-support/)
-- [Amazon Redshift announces centralized access control for data sharing with AWS Lake Formation](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-redshift-access-control-data-sharing-lake-formation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
