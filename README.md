@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime SDK now supports Hindi and Thai languages for live transcription](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-chime-sdk-hindi-thai-live-transcription/)
+- [AWS SAM CLI announces local testing support for API Gateway Lambda authorizers](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-sam-cli-local-testing-api-gateway-lambda-authorizers/)
+- [Announcing Amazon GuardDuty support for AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-guardduty-aws-lambda/)
 - [Amazon Redshift announces general availability of Dynamic Data Masking](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-redshift-availability-dynamic-data-masking/)
 - [Introducing AWS WAF Ready Partner Offerings](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-waf-ready-partner-offerings/)
-- [Amazon ECS Service Connect now available in the Middle East &lpar;UAE&rpar; and Europe &lpar;Zurich&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ecs-service-connect-uae-zurich-regions/)
-- [Amazon Redshift announces general availability of MERGE SQL command](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-redshift-availability-merge-sql-command/)
-- [AWS Snowball Edge Compute Optimized now supports Amazon S3 compatible storage](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-snowball-edge-compute-optimized-amazon-s3-compatible-storage/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
