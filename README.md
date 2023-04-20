@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces general availability of MERGE SQL command](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-redshift-availability-merge-sql-command/)
+- [AWS Snowball Edge Compute Optimized now supports Amazon S3 compatible storage](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-snowball-edge-compute-optimized-amazon-s3-compatible-storage/)
 - [Announcing the general availability of Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/04/general-availability-amazon-codecatalyst/)
 - [AWS Amplify Flutter announces general availability for web and desktop support](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-amplify-flutter-web-desktop-support/)
 - [Amazon Redshift announces centralized access control for data sharing with AWS Lake Formation](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-redshift-access-control-data-sharing-lake-formation/)
-- [Amazon VPC Prefix Lists now available in three additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-vpc-prefix-lists-new-regions/)
-- [Amazon Inspector now supports deep inspection of EC2 instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-inspector-deep-inspection-ec2-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
