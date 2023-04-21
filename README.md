@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Personalize enables popularity tuning for similar item recommendations](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-personalize-popularity-tuning-item-recommendations/)
+- [AWS Backup is now available in Asia Pacific &lpar;Melbourne&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-asia-pacific-melbourne/)
 - [AWS Backup for Amazon S3 is now available in South America &lpar;São Paulo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-s3-sao-paulo-region/)
 - [AWS announces new AWS Direct Connect location in Querétaro, Mexico](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-direct-connect-location-queretaro-mexico/)
 - [AWS Migration Hub Refactor Spaces is now available in 7 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-migration-hub-refactor-spaces-7-regions/)
-- [Apache Kafka support now available in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2023/04/apache-kafka-aws-distro-opentelemetry/)
-- [Amazon Personalize now supports Kafka Sink connector to ingest real-time data with ease](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-personalize-kafka-sink-connector/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
