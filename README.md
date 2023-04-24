@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager now supports AWS Cloud Development Kit &lpar;CDK&rpar; applications](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-systems-manager-cloud-development-kit-cdk-applications/)
+- [AWS License Manager now supports upgrading of EC2 Instances from Ubuntu to Ubuntu Pro operating system](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-license-manager-ec2-instances-ubuntu-pro-operating-system/)
 - [AWS Glue Crawlers now support creating partition indexes](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-glue-crawlers-creating-partition-indexes/)
 - [AWS IoT TwinMaker now supports data overlays and text annotations in 3D scenes](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-iot-twinmaker-data-overlays-text-annotations-3d-scenes/)
 - [Amazon Personalize enables popularity tuning for similar item recommendations](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-personalize-popularity-tuning-item-recommendations/)
-- [AWS Backup is now available in Asia Pacific &lpar;Melbourne&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-asia-pacific-melbourne/)
-- [AWS Backup for Amazon S3 is now available in South America &lpar;São Paulo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-s3-sao-paulo-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
