@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; supports IN operator for SELECT queries](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-keyspaces-cassandra-in-operator-select-queries/)
 - [AWS Resource Access Manager supports fine-grained customer managed permissions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-resource-access-manager-fine-grained-managed-permissions/)
 - [AWS Elemental Link UHD now supports Dolby Digital and Digital Plus](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-elemental-link-uhd-dolby-digital-digital-plus/)
 - [AWS Support in Korean is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-support-korean-generally-available/)
 - [AWS Firewall Manager adds support for multiple administrators](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-firewall-manager-multiple-administrators/)
-- [Amazon EC2 High Memory instances are now available in the Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-high-memory-instances-zurich-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
