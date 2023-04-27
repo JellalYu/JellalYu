@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service announces Amazon OpenSearch Ingestion](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-opensearch-service-ingestion/)
 - [Amazon Location Service adds support for long distance matrix routing](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-location-service-long-distance-matrix-routing/)
 - [AWS AppSync supports TypeScript and source maps in JavaScript resolvers](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-appsync-typescript-maps-javascript-resolvers/)
 - [Amazon MQ now supports RabbitMQ version 3.10.20 and 3.9.27](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-mq-rabbitmq-supports-additional-versions/)
 - [Amazon QuickSight launches two suites of data ingestion APIs](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-quicksight-data-ingestion-apis/)
-- [AWS Lambda adds support for Java 17](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-java-17/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
