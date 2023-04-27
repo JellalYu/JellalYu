@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker now supports a hosted TensorBoard experience](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-hosted-tensorboard/)
 - [AWS Systems Manager Fleet Manager console based access to Windows instances now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-systems-manager-fleet-manager-windows-instances-govcloud-regions/)
 - [AWS Network Firewall ingress TLS inspection is now available in 8 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-network-firewall-ingress-tls-inspection-new-regions/)
 - [Amazon CloudWatch Logs data protection is now available in all AWS Commercial Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-cloudwatch-logs-data-protection-aws-commercial-regions/)
 - [Amazon OpenSearch Service announces Amazon OpenSearch Ingestion](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-opensearch-service-ingestion/)
-- [Amazon Location Service adds support for long distance matrix routing](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-location-service-long-distance-matrix-routing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
