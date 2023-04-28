@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Grafana now supports workspace configuration with version 9.4 option](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-managed-grafana-workspace-configuration-version-9-4-option/)
+- [AWS Verified Access is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-verified-access-generally-available/)
 - [Amazon S3 now applies two security best practices to all new buckets by default](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-security-best-practices-buckets-default/)
 - [Amazon Route 53 Resolver endpoints for hybrid cloud are now available in three new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-route-53-resolver-endpoints-hybrid-cloud-new-regions/)
 - [Amazon CloudWatch adds new console capabilities and data visualizations](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-cloudwatch-console-capabilities-data-visualizations/)
-- [Amazon SageMaker now supports a hosted TensorBoard experience](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-hosted-tensorboard/)
-- [AWS Systems Manager Fleet Manager console based access to Windows instances now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-systems-manager-fleet-manager-windows-instances-govcloud-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
