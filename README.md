@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR Serverless is now available in Bahrain and Hong Kong Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-serverless-bahrain-hong-kong-regions/)
 - [Amazon RDS now supports M7g and R7g database &lpar;DB&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-m7g-r7g-database-instances/)
 - [Amazon EC2 C6id, M6id, R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-c6id-m6id-r6id-instances-new-regions/)
 - [Amazon MSK now offers multi-VPC private connectivity and cross-account access](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-msk-multi-vpc-private-connectivity-cross-account-access/)
 - [Announcing Provisioned Capacity for Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-athena-provisioned-capacity/)
-- [AWS Fault Injection Simulator now supports Amazon EC2 Instance disk fill](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-fault-injection-simulator-amazon-ec2-instance-disk-fill/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
