@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Config now supports 24 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-config-new-resource-types/)
 - [Amazon Sagemaker Data Wrangler now supports image data preparation](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-data-wrangler-image-data-preparation/)
 - [AWS Elemental MediaConnect adds support for SRT failover](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-elemental-mediaconnect-srt-failover/)
 - [AWS Compute Optimizer now supports filtering by tags](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-compute-optimizer-filtering-tags/)
 - [Announcing the general availability of AWS Local Zones in Auckland](https://aws.amazon.com/about-aws/whats-new/2023/05/general-availability-aws-local-zones-auckland/)
-- [AWS Security Hub adds four new integration partners](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-security-hub-four-integration-partners/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
