@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Compute Optimizer identifies and filters Microsoft SQL Server workloads](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-compute-optimizer-identifies-filters-sql-server-workloads/)
-- [AWS IoT Core announces TLS 1.3 support through Configurable Endpoints](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-core-tls-1-3-configurable-endpoints/)
-- [Amazon Redshift launches ra3.xlplus instances in additional Middle East, Europe and Asia Pacific Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-redshift-ra3-xlplus-instances-additional-regions/)
-- [Amazon GuardDuty Malware Protection adds on-demand scanning](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-guardduty-malware-protection-on-demand-scanning/)
-- [AWS SimSpace Weaver Snapshots are now generally available](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-simspace-weaver-snapshots/)
+- [Amazon Sagemaker Data Wrangler now supports image data preparation](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-data-wrangler-image-data-preparation/)
+- [AWS Elemental MediaConnect adds support for SRT failover](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-elemental-mediaconnect-srt-failover/)
+- [AWS Compute Optimizer now supports filtering by tags](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-compute-optimizer-filtering-tags/)
+- [Announcing the general availability of AWS Local Zones in Auckland](https://aws.amazon.com/about-aws/whats-new/2023/05/general-availability-aws-local-zones-auckland/)
+- [AWS Security Hub adds four new integration partners](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-security-hub-four-integration-partners/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
