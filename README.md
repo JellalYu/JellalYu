@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect forecasting, capacity planning, and scheduling is now available in Canada Central](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-connect-forecasting-capacity-planning-scheduling-canada/)
+- [Amazon Neptune is now available in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-neptune-aws-middle-east-uae-region/)
 - [AWS Health now publishes service health events to Amazon EventBridge in primary and backup Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-health-publishes-events-eventbridge-primary-backup-regions/)
 - [Amazon SNS now supports message data protection in five additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sns-message-data-protection-additional-regions/)
 - [Amazon SNS now supports FIFO topics in five additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sns-fifo-topics-five-regions/)
-- [Amazon Inspector now allows customers to search its vulnerability intelligence database](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-inspector-vulnerability-intelligence-database/)
-- [Amazon EFS Replication is now available in all AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-efs-replication-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
