@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Config now supports 24 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-config-new-resource-types/)
-- [Amazon Sagemaker Data Wrangler now supports image data preparation](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-data-wrangler-image-data-preparation/)
-- [AWS Elemental MediaConnect adds support for SRT failover](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-elemental-mediaconnect-srt-failover/)
-- [AWS Compute Optimizer now supports filtering by tags](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-compute-optimizer-filtering-tags/)
-- [Announcing the general availability of AWS Local Zones in Auckland](https://aws.amazon.com/about-aws/whats-new/2023/05/general-availability-aws-local-zones-auckland/)
+- [AWS Health now publishes service health events to Amazon EventBridge in primary and backup Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-health-publishes-events-eventbridge-primary-backup-regions/)
+- [Amazon SNS now supports message data protection in five additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sns-message-data-protection-additional-regions/)
+- [Amazon SNS now supports FIFO topics in five additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sns-fifo-topics-five-regions/)
+- [Amazon Inspector now allows customers to search its vulnerability intelligence database](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-inspector-vulnerability-intelligence-database/)
+- [Amazon EFS Replication is now available in all AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-efs-replication-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
