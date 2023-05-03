@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Virtual Private Cloud now supports Bring Your Own IP in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-vpc-byoip-additional-aws-regions/)
+- [Amazon WorkSpaces is now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-workspace-aws-govcloud-us-east-region/)
+- [AWS Well-Architected Tool Deepens Integration with AWS Service Catalog AppRegistry](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-well-architected-tool-integration-service-catalog-appregistry/)
 - [Amazon RDS for PostgreSQL now supports pgvector for simplified ML model integration](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-postgresql-pgvector-ml-model-integration/)
 - [AWS announces Amazon WorkSpaces Core in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-amazon-workspaces-core-govcloud-regions/)
-- [Announcing AWS User Notifications general availability](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-user-notifications-available/)
-- [AWS Console Mobile Application launches push notifications](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-console-mobile-application-launches-push-notifications/)
-- [Amazon Kendra now supports content-based query suggestions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kendra-content-based-query-suggestions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
