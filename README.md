@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL now supports pgvector for simplified ML model integration](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-postgresql-pgvector-ml-model-integration/)
 - [AWS announces Amazon WorkSpaces Core in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-amazon-workspaces-core-govcloud-regions/)
 - [Announcing AWS User Notifications general availability](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-user-notifications-available/)
 - [AWS Console Mobile Application launches push notifications](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-console-mobile-application-launches-push-notifications/)
 - [Amazon Kendra now supports content-based query suggestions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kendra-content-based-query-suggestions/)
-- [AWS announces new AWS Direct Connect location in Phoenix](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-location-phoenix/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
