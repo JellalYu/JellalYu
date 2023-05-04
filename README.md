@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EKS now supports self-hosted notebooks for managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-emr-eks-self-hosted-notebooks-managed-endpoints/)
+- [Amazon Kinesis Data Analytics is now available in the Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kinesis-data-analytics-melbourne-region/)
+- [New in AWS Security Hub: detailed tracking of finding changes with finding history feature](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-security-hub-tracking-changes-finding-history-feature/)
+- [Amazon EMR on EKS launches vertical autoscaling to auto-tune application resources](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-emr-eks-vertical-auto-scaling/)
 - [AWS Elemental MediaConvert now supports video passthrough](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-elemental-mediaconvert-video-pass-through/)
-- [AWS Resilience Hub expands AWS Trusted Advisor and Amazon DynamoDB support](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-resilience-hub-trust-advisor-dynamodb-support/)
-- [Zonal shift for Amazon Route 53 Application Recovery Controller now available in 18 additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/zonal-shift-amazon-route-53-recovery-controller-18-regions/)
-- [Amazon MSK adds support for Apache Kafka version 3.4.0](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-msk-apache-kafka-version-3-4-0/)
-- [AWS Batch now includes dashboard customization on the console](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-batch-dashboard-customization-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
