@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Resilience Hub expands AWS Trusted Advisor and Amazon DynamoDB support](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-resilience-hub-trust-advisor-dynamodb-support/)
+- [Zonal shift for Amazon Route 53 Application Recovery Controller now available in 18 additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/zonal-shift-amazon-route-53-recovery-controller-18-regions/)
+- [Amazon MSK adds support for Apache Kafka version 3.4.0](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-msk-apache-kafka-version-3-4-0/)
+- [AWS Batch now includes dashboard customization on the console](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-batch-dashboard-customization-console/)
 - [AWS Directory Service supports smart card authentication in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-directory-service-smart-card-authentication-govcloud-us-east-region/)
-- [Announcing Private API support for AWS AppSync GraphQL APIs](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-appsync-graphql-apis-private-api-support/)
-- [Amazon Virtual Private Cloud now supports Bring Your Own IP in Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-vpc-byoip-asia-pacific-hyderabad-region/)
-- [Aurora Serverless v2 is now available in AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-aurora-serverless-v2-govcloud-regions/)
-- [AWS CloudFormation Hooks is now available in 2 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-cloudformation-hooks-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
