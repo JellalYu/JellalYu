@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Firewall now supports Reject action in stream exception policy](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-network-firewall-reject-action-stream-exception-policy/)
+- [SageMaker announces ml.inf2 and ml.trn1 instances for model deployment](https://aws.amazon.com/about-aws/whats-new/2023/05/sagemaker-ml-inf2-ml-trn1-instances-model-deployment/)
+- [Amazon VPC IP Address Manager &lpar;IPAM&rpar; is now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-vpc-ipam-additional-aws-regions/)
 - [AWS VSS application-consistent backups now supports PowerShell logging](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-vss-application-backups-powershell-logging/)
 - [AWS CodePipeline is now available in AWS GovCloud &lpar;US-East&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-codepipeline-govcloud-us-east/)
-- [Amazon EMR on EKS now supports self-hosted notebooks for managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-emr-eks-self-hosted-notebooks-managed-endpoints/)
-- [Amazon Kinesis Data Analytics is now available in the Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kinesis-data-analytics-melbourne-region/)
-- [New in AWS Security Hub: detailed tracking of finding changes with finding history feature](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-security-hub-tracking-changes-finding-history-feature/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
