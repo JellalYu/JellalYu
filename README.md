@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Serverless v2 is now available in 4 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-aurora-serverless-v2-additional-regions/)
 - [Amazon Rekognition launches face occlusion detection to improve identity verification accuracy](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rekognition-face-occlusion-identity-verification-accuracy/)
 - [AWS Backup supports cross-Region backups in four new Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-backup-cross-region-backups-four-regions/)
 - [Amazon CloudWatch Metric Streams adds support for filtering by metric name](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-cloudwatch-metric-streams-filtering-name/)
 - [Amazon QuickSight launches dataset parameters to optimize slicing and dicing experiences](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-dataset-parameters-slicing-dicing-experiences/)
-- [AWS Network Firewall now supports Reject action in stream exception policy](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-network-firewall-reject-action-stream-exception-policy/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
