@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift Data Sharing now available in AWS China Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-redshift-data-sharing-aws-china-regions/)
+- [Amazon MemoryDB for Redis simplifies creating new clusters in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-memorydb-redis-creating-clusters-management-console/)
 - [Amazon CloudWatch Synthetics announces new Synthetics NodeJS runtime version 4.0](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-cloudwatch-synthetics-synthetics-nodejs-runtime-version-4-0/)
 - [AWS Device Farm announces support for Rooted Android Private Devices](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-device-farm-rooted-android-private-devices/)
 - [Amazon Aurora Serverless v2 is now available in 4 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-aurora-serverless-v2-additional-regions/)
-- [AWS Health now publishes service health events to Amazon EventBridge in primary and backup Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-health-publishes-events-eventbridge-primary-backup-regions/)
-- [Amazon Rekognition launches face occlusion detection to improve identity verification accuracy](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rekognition-face-occlusion-identity-verification-accuracy/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
