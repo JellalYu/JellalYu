@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight adds new scatterplot options supporting additional use cases](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-scatterplot-options-additional-use-cases/)
+- [Amazon Athena now supports Apache Hudi 0.12.2](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-athena-apache-hudi/)
 - [Amazon QuickSight now supports State Persistence and Bookmarks for embedded dashboards](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-state-persistence-bookmarks-embedded-dashboards/)
 - [Amazon QuickSight now supports VPC Connections via public APIs with Multi-AZ support](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-vpc-public-apis-multi-az-support/)
 - [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-high-memory-instances-asia-pacific-mumbai-region/)
-- [Amazon Redshift Data Sharing now available in AWS China Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-redshift-data-sharing-aws-china-regions/)
-- [Amazon MemoryDB for Redis simplifies creating new clusters in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-memorydb-redis-creating-clusters-management-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
