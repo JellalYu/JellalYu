@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue large instance types are now generally available](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-glue-large-instance-types-generally-available/)
+- [AWS IoT SiteWise enhances optimized storage in hot path data for higher throughput](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-sitewise-optimized-storage-hot-path-data/)
+- [Amazon Managed Service for Prometheus now available in 4 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-managed-services-prometheus-4-regions/)
 - [Amazon QuickSight adds new scatterplot options supporting additional use cases](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-scatterplot-options-additional-use-cases/)
 - [Amazon Athena now supports Apache Hudi 0.12.2](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-athena-apache-hudi/)
-- [Amazon QuickSight now supports State Persistence and Bookmarks for embedded dashboards](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-state-persistence-bookmarks-embedded-dashboards/)
-- [Amazon QuickSight now supports VPC Connections via public APIs with Multi-AZ support](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-vpc-public-apis-multi-az-support/)
-- [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-high-memory-instances-asia-pacific-mumbai-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
