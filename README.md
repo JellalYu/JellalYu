@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup now supports AWS User Notifications](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-backup-aws-user-notifications/)
+- [Amazon MemoryDB for Redis now supports IAM Authentication](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-memorydb-redis-iam-authentication/)
 - [Amazon CodeGuru Security plugin for SageMaker Studio and Jupyter Notebooks now in preview](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-codeguru-security-plugin-sagemaker-studio-jupyter-notebooks-preview/)
 - [Amazon SageMaker Canvas can now operationalize ML models in production](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-canvas-operationalize-ml-models-production/)
 - [Introducing Cedar, an open-source language for access control](https://aws.amazon.com/about-aws/whats-new/2023/05/cedar-open-source-language-access-control/)
-- [Amazon MemoryDB for Redis adds support for Redis 7](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-memorydb-support-redis-7/)
-- [Announcing Provisioned Concurrency for Amazon SageMaker Serverless Inference](https://aws.amazon.com/about-aws/whats-new/2023/05/provisioned-concurrency-amazon-sagemaker-serverless-inference/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
