@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Device Defender and secure tunneling is now available in Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-device-defender-secure-tunneling-uae-region/)
 - [Introducing Amazon EC2 I4g storage-optimized instances](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-i4g-storage-optimized-instances/)
 - [AWS Network Firewall ingress TLS inspection is now available in all regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-network-firewall-ingress-tls-inspection-all-regions/)
 - [AWS CloudTrail Lake enhances query support for all Presto SQL SELECT functions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-cloudtrail-lake-query-presto-sql-select-functions/)
 - [AWS IoT SiteWise now supports 15-minute intervals for automatically computing aggregated asset property values](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-sitewise-15-minute-intervals/)
-- [AWS Glue large instance types are now generally available](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-glue-large-instance-types-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
