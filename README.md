@@ -50,7 +50,7 @@
 - [Private Access to the AWS Management Console is generally available](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-management-console-private-access/)
 - [Amazon CloudFront announces one-click security protections](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-cloudfront-one-click-security-protections/)
 - [AWS Lambda now supports AWS X-Ray tracing for SnapStart-enabled functions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-lambda-x-ray-tracing-snapstart-enabled-functions/)
-- [AWS announces new AWS Direct in Atlanta Georgia](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-atlanta-georgia/)
+- [AWS announces new AWS Direct Connect location in Atlanta, Georgia](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-atlanta-georgia/)
 - [Amazon SNS now supports faster automatic deletion of unconfirmed subscriptions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sns-automatic-deletion-unconfirmed-subscriptions/)
 <!-- AWS-NEWS:END -->
 
