@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS now supports M6g and R6g database instances in four additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-m6g-r6g-database-instances-four-regions/)
 - [Amazon Connect Contact Lens now provides supervisor alerts on agent performance](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-connect-contact-lens-supervisor-alerts-agent-performance/)
 - [AWS Glue Crawler now support custom JDBC drivers](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-glue-crawler-custom-jdbc-drivers/)
 - [Amazon SageMaker Studio is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-studio-aws-govcloud-us-regions/)
 - [AWS Lambda now supports Kafka and Amazon MQ event sources in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-lambda-kafka-mq-event-sources-govcloud-regions/)
-- [Amazon FSx for NetApp ONTAP is now available in US West &lpar;N. California&rpar; and Asia Pacific &lpar;Jakarta&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-fsx-netapp-ontap-california-jakarta/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
