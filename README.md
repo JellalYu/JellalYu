@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Contact Lens now provides supervisor alerts on agent performance](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-connect-contact-lens-supervisor-alerts-agent-performance/)
+- [AWS Glue Crawler now support custom JDBC drivers](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-glue-crawler-custom-jdbc-drivers/)
+- [Amazon SageMaker Studio is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-studio-aws-govcloud-us-regions/)
 - [AWS Lambda now supports Kafka and Amazon MQ event sources in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-lambda-kafka-mq-event-sources-govcloud-regions/)
 - [Amazon FSx for NetApp ONTAP is now available in US West &lpar;N. California&rpar; and Asia Pacific &lpar;Jakarta&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-fsx-netapp-ontap-california-jakarta/)
-- [Monitor the health of your Amazon IVS channels with multiple hosts](https://aws.amazon.com/about-aws/whats-new/2023/05/monitor-health-amazon-ivs-channels-multiple-hosts/)
-- [AWS announces Amazon Aurora I/O-Optimized](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-aurora-i-o-optimized/)
-- [Amazon Aurora MySQL and PostgreSQL support for Graviton3 based R7g instance family](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-aurora-mysql-postgresql-graviton3-based-r7g-instance-family/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
