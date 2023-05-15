@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Clean Rooms is now Health Insurance Portability and Accountability Act &lpar;HIPAA&rpar; eligible](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-clean-room-hipaa-eligible/)
-- [AWS IoT Core registry adds additional AWS CloudFormation resource types](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-core-registry-cloudformation-resource-types/)
-- [AWS Marketplace introduces new self-service listing feature for single AMI products](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-marketplace-self-service-listing-feature-single-ami-products/)
-- [Amazon RDS now supports M6g and R6g database instances in four additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-m6g-r6g-database-instances-four-regions/)
-- [Amazon Connect Contact Lens now provides supervisor alerts on agent performance](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-connect-contact-lens-supervisor-alerts-agent-performance/)
+- [Amazon Textract updates its Queries feature within Analyze Document API](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-textract-updates-queries-analyze-document-api/)
+- [AWS Config advanced queries support 62 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-config-advanced-queries-new-resource-types/)
+- [Amazon Omics now supports direct upload to Omics storage and automatic variant data parsing](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-omic-direct-upload-storage-automatic-variant-data-parsing/)
+- [Amazon Omics announces support for Graphical Processing Units for workflows](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-omics-graphical-processing-units-workflows/)
+- [Amazon Omics adds pre-built bioinformatic workflows with predictable pricing](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-omics-pre-built-bioinformatic-workflows-predictable-pricing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
