@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Advanced sampling now available in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-distro-opentelemetry-advanced-sampling/)
 - [Amazon Timestream now supports unloading data to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-timestream-unloading-data-amazon-s3/)
 - [Amazon Textract updates its Queries feature within Analyze Document API](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-textract-updates-queries-analyze-document-api/)
 - [AWS Config advanced queries support 62 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-config-advanced-queries-new-resource-types/)
 - [Amazon Omics now supports direct upload to Omics storage and automatic variant data parsing](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-omic-direct-upload-storage-automatic-variant-data-parsing/)
-- [Amazon Omics announces support for Graphical Processing Units for workflows](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-omics-graphical-processing-units-workflows/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
