@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaTailor now supports query parameter pass through](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-elemental-mediatailor-query-parameter-pass-through/)
+- [Amazon Kendra releases Adobe Experience Manager Cloud Connector](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kendra-adobe-experience-manager-cloud-connector/)
+- [Amazon Omics adds integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-omics-integration-eventbridge/)
 - [AWS Systems Manager Patch Manager now supports Alma Linux](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-systems-manager-patch-manager-alma-linux/)
 - [Amazon QuickSight launches Common Sub-expression Elimination for SPICE performance optimization](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-common-sub-expression-elimination/)
-- [Advanced sampling now available in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-distro-opentelemetry-advanced-sampling/)
-- [Amazon Timestream now supports unloading data to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-timestream-unloading-data-amazon-s3/)
-- [Amazon Textract updates its Queries feature within Analyze Document API](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-textract-updates-queries-analyze-document-api/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
