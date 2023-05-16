@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS now supports M6i and R6i database instances in 16 new regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-m6i-r6i-database-instances-16-regions/)
 - [AWS Cost Categories now supports “Usage Type” dimension](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-cost-categories-usage-type-dimension/)
 - [AWS WAF enhances rate-based rules to support request headers and composite keys](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-waf-rate-based-rules-request-headers-composite-keys/)
 - [Amazon Kendra releases Gmail Connector to enable messaging search](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kendra-gmail-connector-messaging-search/)
 - [Amazon Kendra releases Adobe Experience Manager On-Premise Connector](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kendra-adobe-experience-manager-on-premise-connector/)
-- [AWS Elemental MediaTailor now supports query parameter pass through](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-elemental-mediatailor-query-parameter-pass-through/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
