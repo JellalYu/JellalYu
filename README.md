@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Rekognition launches eye gaze direction detection in Face APIs](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rekognition-eye-gaze-direction-detection-face-apis/)
+- [Amazon CloudFront now supports stale-while-revalidate and stale-if-error cache control directives](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-cloudfront-stale-while-revalidate-stale-if-error-cache-control-directives/)
+- [AWS Systems Manager Distributor now supports the CrowdStrike Falcon Sensor agent](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-systems-manager-distributor-crowdstrike-falcon-sensor-agent/)
 - [Amazon Braket supports new trapped-ion quantum computer named Aria from IonQ](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-braket-trapped-ion-quantum-computer-aria-ionq/)
 - [Amazon RDS now supports M6i and R6i database instances in 16 new regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-m6i-r6i-database-instances-16-regions/)
-- [AWS Cost Categories now supports “Usage Type” dimension](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-cost-categories-usage-type-dimension/)
-- [AWS WAF enhances rate-based rules to support request headers and composite keys](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-waf-rate-based-rules-request-headers-composite-keys/)
-- [Amazon Kendra releases Gmail Connector to enable messaging search](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kendra-gmail-connector-messaging-search/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
