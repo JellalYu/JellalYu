@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Device Farm announces VPC integration for Private Devices](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-device-farm-vpc-integration-private-devices/)
 - [Amazon CloudFront now supports stale-while-revalidate and stale-if-error cache control directives](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-cloudfront-stale-while-revalidate-stale-if-error-cache-control-directives/)
 - [Amazon Rekognition launches eye gaze direction detection in Face APIs](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rekognition-eye-gaze-direction-detection-face-apis/)
 - [AWS Systems Manager Distributor now supports the CrowdStrike Falcon Sensor agent](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-systems-manager-distributor-crowdstrike-falcon-sensor-agent/)
 - [Amazon Braket supports new trapped-ion quantum computer named Aria from IonQ](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-braket-trapped-ion-quantum-computer-aria-ionq/)
-- [Amazon RDS now supports M6i and R6i database instances in 16 new regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-m6i-r6i-database-instances-16-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
