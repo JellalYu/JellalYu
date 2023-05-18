@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Device Farm announces VPC integration for Private Devices](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-device-farm-vpc-integration-private-devices/)
-- [Amazon CloudFront now supports stale-while-revalidate and stale-if-error cache control directives](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-cloudfront-stale-while-revalidate-stale-if-error-cache-control-directives/)
-- [Amazon Rekognition launches eye gaze direction detection in Face APIs](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rekognition-eye-gaze-direction-detection-face-apis/)
-- [AWS Systems Manager Distributor now supports the CrowdStrike Falcon Sensor agent](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-systems-manager-distributor-crowdstrike-falcon-sensor-agent/)
-- [Amazon Braket supports new trapped-ion quantum computer named Aria from IonQ](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-braket-trapped-ion-quantum-computer-aria-ionq/)
+- [Amazon Athena now supports IPv6 endpoints for inbound connections](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-athena-ipv6-endpoints-inbound-connections/)
+- [Amazon RDS for Oracle now supports April 2023 Release Update for 19c](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-oracle-april-2023-update-19c/)
+- [AWS Global Accelerator extends TCP termination to IPv6 traffic](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-global-accelerator-extends-tcp-termination-ipv6-traffic/)
+- [AWS User Notifications is now generally available for AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-user-notifications-aws-data-exchange/)
+- [Amazon Kendra releases Alfresco Enterprise Connector](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kendra-alfresco-enterprise-connector/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
