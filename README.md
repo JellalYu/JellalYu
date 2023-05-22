@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Aurora MySQL improves performance and failover recovery time when binlog is enabled](https://aws.amazon.com/about-aws/whats-new/2023/05/aurora-mysql-performance-failover-recovery-time-binlog-enabled/)
 - [AWS Chatbot supports access to Amazon CloudWatch dashboards and Logs Insights in chat channels](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-chatbot-cloudwatch-dashboards-logs-insights-chat-channels/)
 - [Announcing AWS ParallelCluster 3.6 with GPU instance health checks and RHEL8 support](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-parallelcluster-3-6-gpu-instance-health-checks-rhel8/)
 - [Amazon Transcribe now supports streaming transcription in 3 more AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-transcribe-streaming-transcription-3-aws-regions/)
 - [AWS partners bring choice of temporary elevated access capabilities to IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-partners-temporary-elevated-access-capabilities-iam-identity-center/)
-- [AWS Control Tower launches 28 new proactive controls](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-control-tower-new-proactive-controls/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
