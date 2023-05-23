@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces support for auto-commit statements in stored procedure](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-redshift-auto-commit-statements-stored-procedures/)
 - [Amazon RDS for PostgreSQL now supports Rust to build high performance database functions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-postgresql-rust/)
 - [AWS Wickr is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-wickr-hipaa-eligible/)
 - [AWS Backup now supports restoring resources with tags](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-backup-restoring-resources-tags/)
 - [Aurora MySQL improves performance and failover recovery time when binlog is enabled](https://aws.amazon.com/about-aws/whats-new/2023/05/aurora-mysql-performance-failover-recovery-time-binlog-enabled/)
-- [AWS Chatbot supports access to Amazon CloudWatch dashboards and Logs Insights in chat channels](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-chatbot-cloudwatch-dashboards-logs-insights-chat-channels/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
