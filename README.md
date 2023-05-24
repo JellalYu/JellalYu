@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon RDS Performance Insights provides an enhanced console experience](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-performance-insights-enhanced-console/)
-- [Amazon SES adds new enhancements to its dedicated IPs &lpar;managed&rpar; feature](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ses-enhancements-dedicated-ips-managed-feature/)
-- [Amazon Translate launches real time document translation](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-translate-document-translation/)
-- [Amazon EC2 M1 Mac instances now support beta macOS versions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-m1-mac-instances-beta-macos-versions/)
-- [Amazon MWAA is now SOC Compliant](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-mwaa-soc-compliant/)
+- [Amazon Connect Contact Lens launches theme detection](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-connect-contact-lens-theme-detection/)
+- [AWS Amplify announces Authenticator UI Library for Swift and Android](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-amplify-authenticator-ul-library-swift-android/)
+- [Amazon FSx for Windows File Server is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-fsx-windows-file-server-aws-asia-pacific-melbourne-region/)
+- [AWS KMS HSMs upgraded to FIPS 140-2 Security Level 3](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-kms-hsm-fips-security-level-3/)
+- [Amazon FSx for Lustre is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-fsx-lustre-aws-asia-pacific-melbourne-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
