@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MWAA is now SOC Compliant](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-mwaa-soc-compliant/)
+- [AWS Elemental MediaPackage now supports Low-Latency HLS](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-elemental-mediapackage-low-latency-hls/)
+- [AWS announces new AWS Direct Connect location in Toronto](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-location-toronto/)
 - [Amazon EC2 X2idn and X2iedn instances now available in &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-x2idn-x2iedn-instances-hyderabad-region/)
 - [Amazon EC2 C6i and M6i instances are now available in AWS Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-c6i-m6i-instances-hyderabad/)
-- [AWS Global Accelerator now supports endpoints in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-global-accelerator-endpoints-additional-regions/)
-- [AWS re:Post now supports adding multiple email addresses to your profile](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-re-post-multiple-email-addresses-profile/)
-- [Amazon Redshift announces support for auto-commit statements in stored procedure](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-redshift-auto-commit-statements-stored-procedures/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
