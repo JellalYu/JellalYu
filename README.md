@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Performance Insights provides an enhanced console experience](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-performance-insights-enhanced-console/)
+- [Amazon SES adds new enhancements to its dedicated IPs &lpar;managed&rpar; feature](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ses-enhancements-dedicated-ips-managed-feature/)
 - [Amazon Translate launches real time document translation](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-translate-document-translation/)
 - [Amazon EC2 M1 Mac instances now support beta macOS versions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-m1-mac-instances-beta-macos-versions/)
 - [Amazon MWAA is now SOC Compliant](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-mwaa-soc-compliant/)
-- [AWS Elemental MediaPackage now supports Low-Latency HLS](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-elemental-mediapackage-low-latency-hls/)
-- [AWS announces new AWS Direct Connect location in Toronto](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-location-toronto/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
