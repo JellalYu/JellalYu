@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Athena updates data source connectors to improve performance and reduce cost](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-athena-data-source-connectors-performance-cost/)
+- [Amazon ElastiCache for Redis data tiering now supports auto scaling](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-elasticache-redis-data-tiering-auto-scaling/)
 - [AWS Copilot announces Static Site pattern to host single-page web applications](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-copilot-static-site-pattern-single-page-web-applications/)
 - [AWS Compute Optimizer supports external performance metrics in 5 new regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-compute-optimizer-performance-metrics-5-regions/)
 - [Amazon SageMaker JumpStart now supports fine-tuning of Foundation Models with domain adaptation](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-jumpstart-fine-tuning-foundation-models-domain-adaptation/)
-- [Amazon RDS for PostgreSQL supports minor versions 15.3, 14.8, 13.11, 12.15, and 11.20](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-postgresql-supports-new-minor-versions/)
-- [Amazon Cognito launches an improved console experience for identity pools](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-cognito-console-identity-pools/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
