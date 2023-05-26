@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family is now available in three additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-transfer-family-three-regions/)
+- [AWS announces new AWS Direct Connect location in Manila, Philippines](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-location-manila-philippines/)
 - [Amazon Connect now provides contact records and events for external third-party calls](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-connect-contact-records-events-third-party-calls/)
 - [AWS Firewall Manager is now available in the Asia Pacific &lpar;Melbourne&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-firewall-manager-asia-pacific-melbourne/)
 - [AWS Graviton2-based Amazon EC2 instances available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-graviton-2-based-ec2-instances-additional-regions/)
-- [Amazon GameLift improves FleetIQ game session placement logic](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-gamelift-fleetiq-game-session-placement-logic/)
-- [Amazon SageMaker is now available in Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-asia-pacific-melbourne-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
