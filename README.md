@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GameLift improves FleetIQ game session placement logic](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-gamelift-fleetiq-game-session-placement-logic/)
+- [Amazon SageMaker is now available in Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-asia-pacific-melbourne-region/)
+- [PostgreSQL 16 Beta 1 is Now Available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2023/05/postgresql-16-beta-1-amazon-rds-database-preview-environment/)
 - [Amazon Aurora PostgreSQL improves availability of read replicas](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-aurora-postgresql-read-replicas/)
 - [Amazon EC2 C7g instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-c7g-instances-additional-regions/)
-- [Amazon MSK is now available in Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-msk-asia-pacific-melbourne-region/)
-- [AWS Security Hub is now available in the Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-security-hub-asia-pacific-melbourne-region/)
-- [AWS Shield Advanced is now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-shield-advanced-four-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
