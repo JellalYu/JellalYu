@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Invoice Summary is now available](https://aws.amazon.com/about-aws/whats-new/2023/05/invoice-summary-now-available/)
+- [AWS Direct Connect new location in Bogotá, Colombia](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-bogota-colombia/)
 - [Amazon AppStream 2.0 announces support for DCV Extension SDK](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-appstream-2-0-dcv-extension-sdk/)
 - [AWS announces new AWS Direct Connect location in Santiago, Chile](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-location-santiago-chile/)
 - [Amazon SageMaker Ground Truth Plus now supports human feedback and fine-tuning data for Generative AI](https://aws.amazon.com/about-aws/whats-new/2023/05/sagemaker-ground-truth-plus-human-feedback-fine-tuning-data-generative-ai/)
-- [AWS Shield Advanced now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-shield-advanced-cloudformation/)
-- [Amazon WorkSpaces announces support for NICE DCV Extension SDK](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-workspaces-nice-dcv-extension-sdk/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
