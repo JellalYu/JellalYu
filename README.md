@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Migration Service available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-application-migration-service-govcloud-regions/)
 - [AWS Pricing Calculator now offers visibility of point in time cost estimations](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-pricing-calculator-point-in-time-cost-estimations/)
 - [AWS Service Catalog now supports wildcards in IAM principal name associations](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-service-catalog-wildcards-iam-principal-name-associations/)
 - [Amazon VPC IP Address Manager introduces a customizable dashboard with new insights](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-vpc-ip-address-manager-customizable-dashboard/)
 - [Amazon Route 53 now integrates with Amazon GuardDuty threat intelligence](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-route-53-amazon-guardduty-threat-intelligence/)
-- [AWS Elemental MediaTailor now supports delivery of client-side overlay ads](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-elemental-mediatailor-client-side-overlay-ads/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
