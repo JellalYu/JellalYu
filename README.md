@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EventBridge announces open-source connector for Kafka Connect](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-eventbridge-open-source-connector-kafka-connect/)
 - [AWS announces new AWS Direct Connect location in Inzai, Japan](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-location-inzai-japan/)
 - [Amazon Personalize now offers more flexibility in model training](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-personalize-model-training/)
 - [Amazon Security Lake is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-security-lake-generally-available/)
 - [Amazon RDS for MySQL supports Optimized Reads on Multi-AZ deployment option with two readable standby database instances](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-mysql-optimized-reads-multi-az-readable-instances/)
-- [Invoice Summary is now available](https://aws.amazon.com/about-aws/whats-new/2023/05/invoice-summary-now-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
