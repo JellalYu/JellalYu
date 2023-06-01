@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT FleetWise now supports object storage in Amazon S3](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-iot-fleetwise-object-storage-amazon-s3/)
 - [AWS Fault Injection Simulator adds new actions for Amazon EKS and Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-fault-injection-simulator-new-actions-amazon-eks-ecs/)
 - [AWS Lambda supports Kafka and Amazon MQ event sources in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-kafka-mq-event-sources-four-regions/)
 - [Amazon ECR adds registry.k8s.io as a supported upstream for pull through cache repositories](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ecr-registry-k8s-io-upstream-pull-through-cache-repositories/)
 - [Amazon RDS for PostgreSQL now supports HypoPG for creating hypothetical indexes](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-postgresql-hypopg-hypothetical-indexes/)
-- [Amazon SNS now supports AWS X-Ray active tracing for FIFO topics](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sns-x-ray-active-tracing-fifo-topics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
