@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transit Gateway is now available in Asia Pacific &lpar;Melbourne&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-transit-gateway-asia-pacific-melbourne-region/)
 - [Amazon Fraud Detector announces Event Orchestration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-fraud-detector-event-orchestration-eventbridge/)
 - [Announcing fine-grained seller permissions access to AWS Marketplace Management Portal](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-marketplace-management-portal-fine-grained-seller-permissions/)
 - [Amazon RDS for Oracle now supports converting instances to CDB architecture](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-oracle-instances-cdb-architecture/)
 - [Amazon Interactive Video Service introduces Advanced channel types for flexible input encoding](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ivs-advanced-channel-types-input-encoding/)
-- [Amazon HealthLake capabilities help customers meet interoperability-related ONC and CMS patient access rules](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-healthlake-interoperability-related-onc-cms-patient-access-rules/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
