@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FinSpace with Managed kdb Insights is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-finspace-managed-kdb-insights/)
+- [Amazon MWAA now supports in-place version upgrades](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-mwaa-in-place-version-upgrades/)
+- [AWS KMS now supports importing asymmetric and HMAC keys](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-kms-importing-asymmetric-hmac-keys/)
+- [Amazon Kendra now available in Europe &lpar;London&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kendra-europe-london-aws-region/)
 - [Announcing Multi-Region Replication for Amazon Keyspaces &lpar;for Apache Cassandra&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/multi-region-replication-amazon-keyspaces-apache-cassandra/)
-- [AWS Database Migration Service now supports enhanced homogeneous migration capabilities](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-database-migration-service-homogeneous-migration/)
-- [AWS CloudFormation StackSets launches APIs to allow programmatic trust access with AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudformation-stacksets-apis-organizations/)
-- [AWS Trusted Advisor adds new checks for Amazon EFS](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-trusted-advisor-checks-amazon-efs/)
-- [AWS Config advanced queries support 30 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-config-advanced-queries-new-resource-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
