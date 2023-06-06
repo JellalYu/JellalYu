@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda launches CloudWatch metrics for asynchronous invocations in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-cloudwatch-metrics-invocations-govcloud/)
+- [AWS CloudTrail Lake now supports selective start or stop ingestion of CloudTrail events](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudtrail-lake-start-stop-ingestion-cloudtrail-events/)
 - [Amazon FinSpace with Managed kdb Insights is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-finspace-managed-kdb-insights/)
 - [Amazon MWAA now supports in-place version upgrades](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-mwaa-in-place-version-upgrades/)
 - [AWS KMS now supports importing asymmetric and HMAC keys](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-kms-importing-asymmetric-hmac-keys/)
-- [Amazon Kendra now available in Europe &lpar;London&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kendra-europe-london-aws-region/)
-- [Announcing Multi-Region Replication for Amazon Keyspaces &lpar;for Apache Cassandra&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/multi-region-replication-amazon-keyspaces-apache-cassandra/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
