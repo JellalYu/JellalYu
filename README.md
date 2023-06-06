@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Control Tower increases account access configuration flexibility](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-control-tower-account-access-configuration-flexibility/)
+- [AWS Marketplace Vendor Insights security profiles now include FedRAMP authorization](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-marketplace-vendor-insights-security-profiles-fedramp/)
 - [AWS IoT Device Management introduces Software Package Catalog](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-iot-device-management-software-package-catalog/)
 - [AWS introduces container image signing](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-container-image-signing/)
 - [Amazon EMR on EKS now supports Spark Operator and spark-submit](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-emr-eks-spark-operator-submit/)
-- [Announcing Live Tail in Amazon CloudWatch Logs, providing real-time exploration of logs](https://aws.amazon.com/about-aws/whats-new/2023/06/live-tail-amazon-cloudwatch-logs/)
-- [AWS Migration Hub Refactor Spaces now provides more flexibility routing with path parameters](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-migration-hub-refactor-spaces-flexibility-routing-path-parameters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
