@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Live Tail in Amazon CloudWatch Logs, providing real-time exploration of logs](https://aws.amazon.com/about-aws/whats-new/2023/06/live-tail-amazon-cloudwatch-logs/)
+- [AWS Migration Hub Refactor Spaces now provides more flexibility routing with path parameters](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-migration-hub-refactor-spaces-flexibility-routing-path-parameters/)
 - [AWS Glue Data Quality is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-data-quality-generally-available/)
 - [SageMaker Automatic Model Tuning automatically chooses tuning configurations](https://aws.amazon.com/about-aws/whats-new/2023/06/sagemaker-automatic-model-tuning-configurations/)
 - [AWS Lambda launches CloudWatch metrics for asynchronous invocations in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-cloudwatch-metrics-invocations-govcloud/)
-- [AWS CloudTrail Lake now supports selective start or stop ingestion of CloudTrail events](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudtrail-lake-start-stop-ingestion-cloudtrail-events/)
-- [Amazon FinSpace with Managed kdb Insights is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-finspace-managed-kdb-insights/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
