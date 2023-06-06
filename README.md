@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue Data Quality is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-data-quality-generally-available/)
+- [SageMaker Automatic Model Tuning automatically chooses tuning configurations](https://aws.amazon.com/about-aws/whats-new/2023/06/sagemaker-automatic-model-tuning-configurations/)
 - [AWS Lambda launches CloudWatch metrics for asynchronous invocations in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-cloudwatch-metrics-invocations-govcloud/)
 - [AWS CloudTrail Lake now supports selective start or stop ingestion of CloudTrail events](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudtrail-lake-start-stop-ingestion-cloudtrail-events/)
 - [Amazon FinSpace with Managed kdb Insights is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-finspace-managed-kdb-insights/)
-- [Amazon MWAA now supports in-place version upgrades](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-mwaa-in-place-version-upgrades/)
-- [AWS KMS now supports importing asymmetric and HMAC keys](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-kms-importing-asymmetric-hmac-keys/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
