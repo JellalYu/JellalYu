@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EC2 High Memory instances now available in new regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-high-memory-instances-new-regions/)
-- [AWS SimSpace Weaver is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-simspace-weaver-govcloud-us-regions/)
-- [AWS Mainframe Modernization service is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-mainframe-modernization-service-hipaa-eligible/)
-- [Daily invoice consolidation is now available in AWS EMEA SARL](https://aws.amazon.com/about-aws/whats-new/2023/06/daily-invoice-consolidation-aws-emea-sarl/)
-- [Announcing AWS Snowblade for U.S. Department of Defense JWCC customers](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-snowblade-us-defense-jwcc-customers/)
+- [Amazon SageMaker Canvas supports retraining ML models, automating prediction workflows on updated datasets](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-canvas-ml-models-workflows-datasets/)
+- [AWS CloudFormation StackSets skips suspended accounts for faster deployments](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudformation-stacksets-suspended-accounts-deployments/)
+- [Announcing Test Workbench for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-lex-test-workbench/)
+- [AWS Lambda adds support for Ruby 3.2](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-support-ruby-3-2/)
+- [Amazon Redshift Serverless now supports query scheduling and Single sign-on support](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-redshift-query-scheduling-single-sign-on/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
