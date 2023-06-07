@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Pipelines now supports Selective Executions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-pipelines-selective-executions/)
 - [Amazon QuickSight now supports APIs to automate and accelerate assets deployment](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-quicksight-apis-automate-accelerate-assets-deployment/)
 - [AWS Application Migration Service is now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-application-migration-service-additional-regions/)
 - [Amazon Polly launches a new female NTTS voice in Belgian Dutch &lpar;Flemish&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-polly-female-ntts-voice-belgian-dutch-flemish/)
 - [Amazon SageMaker Canvas supports retraining ML models, automating prediction workflows on updated datasets](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-canvas-ml-models-workflows-datasets/)
-- [AWS CloudFormation StackSets skips suspended accounts for faster deployments](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudformation-stacksets-suspended-accounts-deployments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
