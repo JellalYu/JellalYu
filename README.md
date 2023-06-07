@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight now supports APIs to automate and accelerate assets deployment](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-quicksight-apis-automate-accelerate-assets-deployment/)
+- [AWS Application Migration Service is now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-application-migration-service-additional-regions/)
+- [Amazon Polly launches a new female NTTS voice in Belgian Dutch &lpar;Flemish&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-polly-female-ntts-voice-belgian-dutch-flemish/)
 - [Amazon SageMaker Canvas supports retraining ML models, automating prediction workflows on updated datasets](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-canvas-ml-models-workflows-datasets/)
 - [AWS CloudFormation StackSets skips suspended accounts for faster deployments](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudformation-stacksets-suspended-accounts-deployments/)
-- [Announcing Test Workbench for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-lex-test-workbench/)
-- [AWS Lambda adds support for Ruby 3.2](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-support-ruby-3-2/)
-- [Amazon Redshift Serverless now supports query scheduling and Single sign-on support](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-redshift-query-scheduling-single-sign-on/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
