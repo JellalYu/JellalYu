@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Athena for Apache Spark now supports custom Java libraries](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-apache-spark-custom-java-libraries/)
-- [Amazon Athena for Apache Spark now supports Apache Hudi, Apache Iceberg, and Delta Lake](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-apache-spark-hudi-iceberg-delta-lake/)
-- [Amazon SQS announces support for dead-letter queue redrive via AWS SDK or CLI](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sqs-dead-letter-queue-redrive-aws-sdk-cli/)
-- [AWS Managed Microsoft AD simplifies directory administrative tools access](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-managed-microsoft-ad-directory-administrative-tools-access/)
-- [Amazon CloudWatch Logs data protection account level policy configuration](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-cloudwatch-logs-data-protection-policy-configuration/)
+- [AWS Lambda now supports SnapStart for Java in 7 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-snapstart-java-7-additional-regions/)
+- [AWS announces scripts to bulk updates policies per new AWS Billing and Cost Management permissions](https://aws.amazon.com/about-aws/whats-new/2023/06/scripts-bulk-updates-policies-aws-billing-cost-management-permissions/)
+- [AWS announces Amazon Aurora I/O-Optimized in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-aurora-i-o-optimized-aws-govcloud-us-regions/)
+- [Amazon Connect Customer Profiles now exports profile updates in real-time](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-customer-profiles-real-time/)
+- [Amazon Timestream now supports Customer Defined Partition Keys](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-timestream-customer-defined-partition-keys/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
