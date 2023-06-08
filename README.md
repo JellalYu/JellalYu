@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Athena for Apache Spark now supports custom Java libraries](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-apache-spark-custom-java-libraries/)
+- [Amazon Athena for Apache Spark now supports Apache Hudi, Apache Iceberg, and Delta Lake](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-apache-spark-hudi-iceberg-delta-lake/)
+- [Amazon SQS announces support for dead-letter queue redrive via AWS SDK or CLI](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sqs-dead-letter-queue-redrive-aws-sdk-cli/)
 - [AWS Managed Microsoft AD simplifies directory administrative tools access](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-managed-microsoft-ad-directory-administrative-tools-access/)
 - [Amazon CloudWatch Logs data protection account level policy configuration](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-cloudwatch-logs-data-protection-policy-configuration/)
-- [RDS Custom for SQL Server lets you Bring Your Own Media](https://aws.amazon.com/about-aws/whats-new/2023/06/rds-custom-sql-server-bring-your-own-media/)
-- [Amazon RDS for Oracle now supports April 2023 Release Update for 21c](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-oracle-april-2023-ru-21c/)
-- [QuickSight now provides standardized user level cost and usage data](https://aws.amazon.com/about-aws/whats-new/2023/06/quicksight-standardized-user-level-cost-usage-data/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
