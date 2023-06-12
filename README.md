@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Control Tower adds 10 new AWS Security Hub controls](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-control-tower-new-aws-security-hub-controls/)
 - [Announcing preview of the AWS Database Encryption SDK for Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2023/06/preview-aws-database-encryption-sdk-amazon-dynamodb/)
 - [Amazon Route 53 DNS resource record set permissions now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-route-53-dns-resource-record-set-permissions-aws-govcloud-regions/)
 - [Amazon Connect launches search APIs for three more resources](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-search-apis-three-resources/)
 - [Amazon EventBridge Archive and Replay now in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-eventbridge-archive-replay-additional-regions/)
-- [Amazon EMR supports price-capacity-optimized allocation strategy for EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-emr-price-allocation-ec2-spot-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
