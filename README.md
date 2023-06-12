@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EventBridge Archive and Replay now in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-eventbridge-archive-replay-additional-regions/)
+- [Amazon EMR supports price-capacity-optimized allocation strategy for EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-emr-price-allocation-ec2-spot-instances/)
 - [AWS Transfer Family announces quantum-safe key exchange for SFTP](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-transfer-family-quantum-safe-key-exchange-sftp/)
 - [Amazon EC2 R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-r6id-instances-additional-regions/)
 - [AWS announces AWS Payment Cryptography](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-payment-cryptography/)
-- [Falcon 40B foundation model from TII available on SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2023/06/falcon-40b-foundation-model-tii-sagemaker-jumpstart/)
-- [AWS Config supports recording exclusions by resource type](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-config-recording-exclusions-resource-type/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
