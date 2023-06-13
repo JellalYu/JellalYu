@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon GuardDuty enhances console experience with findings summary view](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-guardduty-console-summary-view/)
-- [Amazon CodeGuru Security is now available in preview](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-codeguru-security-available-preview/)
-- [AWS WAF Fraud Control launches account creation fraud prevention and reduced pricing](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-waf-fraud-control-account-creation-prevention-pricing/)
-- [AWS CloudTrail Lake launches curated dashboards for visualizing top CloudTrail trends](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudtrail-lake-curated-dashboards-visualizing-trends/)
-- [Well-Architected introduces Profiles](https://aws.amazon.com/about-aws/whats-new/2023/06/well-architected-introduces-profiles/)
+- [AWS IAM Identity Center now supports automated user provisioning from Google Workspace](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-iam-identity-center-automated-user-provisioning-google-workspace/)
+- [EMR on EKS now supports container log rotation for Apache Spark](https://aws.amazon.com/about-aws/whats-new/2023/06/emr-eks-container-log-rotation-apache-spark/)
+- [Amazon Rekognition improves face search accuracy with user vectors](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rekognition-face-search-accuracy-user-vectors/)
+- [Amazon Personalize now supports VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-personalize-vpc-endpoints/)
+- [Announcing third-party risk assessments and CSV exports in AWS Audit Manager](https://aws.amazon.com/about-aws/whats-new/2023/06/third-party-risk-assessments-csv-exports-aws-audit-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
