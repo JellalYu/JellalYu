@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing the AWS Global Partner Security Initiative](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-global-partner-security-initiative/)
-- [AWS announces Software Bill of Materials export capability in Amazon Inspector](https://aws.amazon.com/about-aws/whats-new/2023/06/software-bill-materials-export-capability-amazon-inspector/)
-- [Amazon Inspector announces the general availability of Code Scans for AWS Lambda function](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-inspector-code-scans-aws-lambda-function/)
-- [Amazon Verified Permissions is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-verified-permissions-generally-available/)
-- [Amazon EC2 Instance Connect supports SSH and RDP connectivity without public IP address](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-instance-connect-ssh-rdp-public-ip-address/)
+- [Amazon GuardDuty enhances console experience with findings summary view](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-guardduty-console-summary-view/)
+- [Amazon CodeGuru Security is now available in preview](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-codeguru-security-available-preview/)
+- [AWS WAF Fraud Control launches account creation fraud prevention and reduced pricing](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-waf-fraud-control-account-creation-prevention-pricing/)
+- [AWS CloudTrail Lake launches curated dashboards for visualizing top CloudTrail trends](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudtrail-lake-curated-dashboards-visualizing-trends/)
+- [Well-Architected introduces Profiles](https://aws.amazon.com/about-aws/whats-new/2023/06/well-architected-introduces-profiles/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
