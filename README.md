@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Global Accelerator now supports endpoints in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-global-accelerator-endpoints-jakarta-region/)
 - [Amazon Location Service adds support for place categories](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-location-service-place-categories/)
 - [Amazon RDS now supports T4g database instances in 3 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-t4g-database-instances-additional-aws-regions/)
 - [AWS Security Hub launches 6 new security controls](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-security-hub-new-security-controls/)
 - [Skip unavailable clusters during cross-cluster search in Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-opensearch-service-skip-cross-cluster-search/)
-- [ECR basic scanning now uses version 3 of the Common Vulnerability Scoring System &lpar;CVSS&rpar; framework](https://aws.amazon.com/about-aws/whats-new/2023/06/ecr-basic-scanning-version-3-cvss-framework/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
