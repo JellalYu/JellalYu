@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Clean Rooms launches two capabilities to make it easier to collaborate at scale](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-clean-rooms-two-capabilities-collaborate-scale/)
+- [AWS CloudShell is now available in 12 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudshell-additional-regions/)
+- [Introducing Amazon EC2 M7a instances &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-m7a-instances-preview/)
 - [AWS Elastic Disaster Recovery now supports VPC configurations recovery](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-elastic-disaster-recovery-vpc-configurations-recovery/)
 - [Amazon RDS for Oracle supports migration via RMAN Transportable Tablespaces](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-oracle-migration-rman-tablespaces/)
-- [Amazon RDS for MariaDB supports minor versions 10.6.13, 10.5.20, 10.4.29, 10.3.39](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-maria-db-minor-versions/)
-- [Amazon Location Service now supports geofence metadata](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-location-service-geofence-metadata/)
-- [AWS announces new edge location in Nigeria](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-edge-location-nigeria/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
