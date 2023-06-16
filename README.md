@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MySQL supports new minor versions 5.7.42 and 8.0.33](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-mysql-new-minor-versions/)
+- [AWS Step Functions adds integration for 7 services including Amazon VPC Lattice](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-step-functions-7-services-vpc-lattice/)
 - [Amazon Connect Contact Lens now offers screen recording](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-contact-lens-offers-screen-recording/)
 - [Announcing AWS Partner Analytics Dashboard for AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-partner-analytics-dashboard-partner-central/)
 - [AWS Clean Rooms launches two capabilities to make it easier to collaborate at scale](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-clean-rooms-two-capabilities-collaborate-scale/)
-- [AWS CloudShell is now available in 12 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudshell-additional-regions/)
-- [Introducing Amazon EC2 M7a instances &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-m7a-instances-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
