@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager Quick Setup enables automatic updates for EC2 launch agents](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-systems-manager-quick-setup-automatic-updates-ec2-launch-agents/)
+- [AWS Lake Formation and Glue Data Catalog now support cross-Region table access](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lake-formation-glue-data-catalog-cross-region-access/)
 - [Announcing simplified cross-account management of operational issues in AWS Systems Manager OpsCenter](https://aws.amazon.com/about-aws/whats-new/2023/06/simplified-cross-account-management-aws-systems-manager-opscenter/)
 - [Amazon VPC CNI now supports IPv6 Egress for Pods in IPv4 enabled Kubernetes Clusters](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-vpc-cni-ipv6-egress-pods-ipv4-kubernetes-clusters/)
 - [Amazon Kinesis Data Firehose adds support for data stream delivery to Amazon Redshift Serverless](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kinesis-data-firehose-data-stream-delivery-redshift-serverless/)
-- [Announcing general availability of AWS Control Tower&#39;s integration with Security Hub](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-control-tower-account-integration-security-hub/)
-- [AWS Verified Access adds a new logging functionality to improve troubleshooting](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-verified-access-logging-functionality/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
