@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon EC2 C7gn instances general availability](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-c7gn-instances-general-availability/)
+- [Announcing nightly builds of Amazon Corretto](https://aws.amazon.com/about-aws/whats-new/2023/06/nightly-builds-amazon-corretto/)
+- [Amazon CloudWatch Logs announces new Log Insights dedup command](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-clouwatch-logs-insights-dedup-command/)
 - [AWS Config now supports 21 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-config-new-resource-types/)
 - [AWS CloudFormation accelerates dev-test cycle with new ChangeSets parameter](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudformation-accelerates-dev-test-cycle-changesets-parameter/)
-- [AWS Systems Manager Quick Setup enables automatic updates for EC2 launch agents](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-systems-manager-quick-setup-automatic-updates-ec2-launch-agents/)
-- [AWS Lake Formation and Glue Data Catalog now support cross-Region table access](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lake-formation-glue-data-catalog-cross-region-access/)
-- [Announcing simplified cross-account management of operational issues in AWS Systems Manager OpsCenter](https://aws.amazon.com/about-aws/whats-new/2023/06/simplified-cross-account-management-aws-systems-manager-opscenter/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
