@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift improves the experience for encrypting the data warehouse](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-redshift-experience-encrypting-data-warehouse/)
 - [Transform data into ML features using SageMaker Feature Store feature processing](https://aws.amazon.com/about-aws/whats-new/2023/06/data-ml-features-sagemaker-feature-store-processing/)
 - [AWS Application Discovery Service introduces Amazon EC2 recommendations](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-application-discovery-service-amazon-ec2-recommendations/)
 - [Amazon EMR now publishes events for insufficient instance capacity errors](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-emr-insufficient-capacity-errors/)
 - [Announcing service-scoped free tier pricing rules for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-billing-conductor-free-tier-pricing/)
-- [AWS Transfer Family announces Drummond Group Applicability Statement 2 &lpar;AS2&rpar; Certification](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-transfer-family-drummond-group-as2-certification/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
