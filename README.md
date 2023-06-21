@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Tagging support for AWS Purchase Order Management](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-purchase-order-management-tagging/)
+- [AWS Elemental MediaConvert releases bandwidth reduction filter for HEVC and AVC](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-elemental-mediaconvert-bandwidth-reduction-filter-hevc-avc/)
+- [AWS Lambda supports starting from timestamp for Kafka event sources](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-starting-timestamp-kafka-sources/)
 - [Amazon EC2 M6gd instances are now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-m6gd-instances-europe-paris-region/)
 - [Amazon Redshift improves the experience for encrypting the data warehouse](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-redshift-experience-encrypting-data-warehouse/)
-- [Transform data into ML features using SageMaker Feature Store feature processing](https://aws.amazon.com/about-aws/whats-new/2023/06/data-ml-features-sagemaker-feature-store-processing/)
-- [AWS Application Discovery Service introduces Amazon EC2 recommendations](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-application-discovery-service-amazon-ec2-recommendations/)
-- [Amazon EMR now publishes events for insufficient instance capacity errors](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-emr-insufficient-capacity-errors/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
