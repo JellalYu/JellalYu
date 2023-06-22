@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda adds support for Ruby 3.2 in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-ruby-3-2-aws-govcloud-us-regions/)
+- [AWS Lambda adds support for Java 17 in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-java-17-aws-govcloud-regions/)
 - [AWS Lambda adds support for Python 3.10 in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-python-3-10-aws-govcloud-regions/)
 - [AWS launches AWS AppSync abstraction](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-appsync-abstraction/)
 - [Amazon RDS for SQL Server supports minor versions 2014 GDR, 2016 GDR, 2017 CU31 GDR, and 2019 CU20](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-sql-server-new-minor-versions/)
-- [Announcing the AWS Amplify UI Builder Figma plugin](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-amplify-ui-builder-figma-plugin/)
-- [Amazon Connect reduces toll free rates for Australia and New Zealand](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-reduces-rates-australia-new-zealand/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
