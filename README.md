@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MariaDB supports minor versions 10.6.14, 10.5.21, 10.4.30](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-mariadb-new-minor-version-support/)
 - [AWS Transfer Family announces structured JSON log format](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-transfer-family-structured-json-log-format/)
 - [AWS Step Functions launches Versions and Aliases](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-step-functions-versions-aliases/)
 - [Amazon EC2 R6i instances now available in AWS Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-r6i-instances-asia-pacific-hyderabad/)
 - [Amazon Managed Grafana now supports OpenSearch Trace Analytics](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-managed-grafana-opensearch-trace-analytics/)
-- [AWS Lambda adds support for Ruby 3.2 in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-ruby-3-2-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
