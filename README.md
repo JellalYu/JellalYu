@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MQ now supports cross-region data replication for ActiveMQ brokers](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-mq-cross-region-data-replication-activemq/)
 - [Amazon SageMaker Inference Recommender now in AWS Console, gives recommendations at model creation](https://aws.amazon.com/about-aws/whats-new/2023/06/sagemaker-inference-recommender-console-recommendations-model-creation/)
 - [AWS Glue Studio now provides data previews for Glue Streaming jobs](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-studio-data-previews-glue-streaming-jobs/)
 - [AWS IAM now supports FIDO2 for multi-factor authentication in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-iam-fido2-multi-authentication-govcloud-regions/)
 - [AWS Glue now can detect 250 sensitive entity types from over 50 countries](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-250-entity-types-50-countries/)
-- [Amazon MemoryDB for Redis achieves FedRAMP Moderate compliance](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-memorydb-redis-fedramp-moderate-compliance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
