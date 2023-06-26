@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Data Wrangler now enables direct connection to Snowflake data](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-data-wrangler-direct-connection-snowflake-data/)
 - [AWS Glue now supports native Snowflake connector with new ETL capabilities &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-native-snowflake-connector-etl-capabilities-preview/)
 - [Amazon SageMaker Neo now supports compilation of PyTorch and TensorFlow models for Inferentia 2 and Trainium 1 instances](https://aws.amazon.com/about-aws/whats-new/2023/06/sagemaker-neo-pytorch-tensorflow-models-inferentia-2-trainium-1-instances/)
 - [AWS Control Tower achieves FedRAMP High authorization in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-control-tower-fedramp-high-authorization-aws-govcloud-us-regions/)
 - [Amazon Redshift announces native console integration with ThoughtSpot](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-redshift-native-console-integration-thoughtspot/)
-- [AWS SAM CLI announces remote invoke feature for AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-sam-cli-announces-remote-invoke-aws-lambda/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
