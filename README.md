@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon RDS Optimized Writes for MySQL and MariaDB supports m5d, r5d, and m6gd database instances](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-optimized-writes-mysql-mariadb-instances/)
-- [Amazon Connect now allows you to search for tags within an instance](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-search-tags-within-instance/)
-- [Amazon Pinpoint journeys now supports time zone estimation for endpoints](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-pinpoint-journey-time-zone-estimation-endpoints/)
-- [Amazon SageMaker Role Manager now provides CDK library to create fine-grained permissions within minutes](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-role-manager-cdk-library-fine-grained-permissions/)
-- [Amazon OpenSearch Ingestion now supports ingesting events from Amazon Security Lake](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-opensearch-ingestion-events-security-lake/)
+- [AWS Resilience Hub Expands Amazon EC2 Support](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-resilience-hub-amazon-ec2-support/)
+- [Amazon EC2 R6in and R6idn instances are now available in Europe &lpar;Frankfurt&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-r6in-r6idn-instances-europe-frankfurt/)
+- [Amazon EC2 M6in and M6idn instances are now available in Europe &lpar;Frankfurt&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-m6in-m6idn-instances-europe-frankfurt/)
+- [AWS announces general availability of AWS Wavelength in Manchester with British Telecom](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-wavelength-manchester-british-telecom/)
+- [Amazon OpenSearch Service now lets you update cluster manager nodes without blue/green](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-opensearch-service-cluster-manager-nodes-blue-green/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
