@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaTailor now supports creative ad id signaling in video manifests](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-elemental-mediatailor-creative-ad-id-signaling-video-manifests/)
 - [Announcing general availability for watchOS and tvOS support on AWS Amplify Library for Swift](https://aws.amazon.com/about-aws/whats-new/2023/06/watchos-tvos-aws-amplify-library-swift/)
 - [Amazon Connect Chat now offers additional customization options for the chat widget](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-chat-options-chat-widget/)
 - [AWS announces AWS AppFabric](https://aws.amazon.com/about-aws/whats-new/2023/06/announcing-aws-appfabric/)
 - [AWS Resilience Hub Expands Amazon EC2 Support](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-resilience-hub-amazon-ec2-support/)
-- [Amazon EC2 R6in and R6idn instances are now available in Europe &lpar;Frankfurt&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-r6in-r6idn-instances-europe-frankfurt/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
