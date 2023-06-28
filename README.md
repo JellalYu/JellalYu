@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Timestream now offers a free trial](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-timestream-free-trial/)
 - [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-rosa-middle-east-uae-region/)
 - [AWS Elemental MediaTailor now supports creative ad id signaling in video manifests](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-elemental-mediatailor-creative-ad-id-signaling-video-manifests/)
 - [Announcing general availability for watchOS and tvOS support on AWS Amplify Library for Swift](https://aws.amazon.com/about-aws/whats-new/2023/06/watchos-tvos-aws-amplify-library-swift/)
 - [Amazon Connect Chat now offers additional customization options for the chat widget](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-chat-options-chat-widget/)
-- [AWS announces AWS AppFabric](https://aws.amazon.com/about-aws/whats-new/2023/06/announcing-aws-appfabric/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
