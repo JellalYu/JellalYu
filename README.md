@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kinesis Data Analytics Studio now supports Apache Flink version 1.15](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kinesis-data-analytics-studio-apache-flink-version-1-15/)
 - [AWS announces Amazon Aurora MySQL zero-ETL integration with Amazon Redshift &lpar;Public Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-aurora-mysql-zero-etl-integration-redshift-public-preview/)
 - [Aurora MySQL improves performance when binlog is enabled in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aurora-mysql-recovery-time-binlog-enabled-govcloud/)
 - [Amazon Linux announces support for secure boot with AL2023.1](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-linux-secure-boot-al2023-1/)
 - [Amazon Aurora Serverless v2 is now available in Asia Pacific &lpar;Melbourne&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-aurora-serverless-v2-melbourne/)
-- [New commitment pricing is now generally available for AWS Private 5G](https://aws.amazon.com/about-aws/whats-new/2023/06/commitment-pricing-aws-private-5g/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
