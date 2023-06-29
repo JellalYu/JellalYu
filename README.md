@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Batch now supports ‘Min vCPUs’ for Multi-Node Parallel Jobs](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-batch-min-vcpus-multi-node-parallel-jobs/)
-- [Amazon S3 provides restore status of S3 Glacier objects using the S3 LIST API](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-s3-restore-status-s3-glacier-objects-list-api/)
-- [Amazon Kinesis Video Streams Edge Agent is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kinesis-video-streams-edge-agent/)
-- [Amazon Athena now supports querying restored data in S3 Glacier](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-querying-restored-data-s3-glacier/)
-- [Amazon EC2 R6a instances now support faster Amazon EBS-optimized performance](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-r6a-instances-ebs-performance/)
+- [AWS Backup expands cross-account management in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-backup-cross-account-management-govcloud/)
+- [Amazon Simple Email Service now supports metric export](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-simple-email-service-metric-export/)
+- [AWS Global Accelerator adds new edge location](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-global-accelerator-new-edge-location/)
+- [AWS Cloud WAN is now available in AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloud-wan-asia-pacific-osaka-region/)
+- [Amazon VPC IP Address Manager is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-vpc-ip-address-manager-three-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
