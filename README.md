@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 provides restore status of S3 Glacier objects using the S3 LIST API](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-s3-restore-status-s3-glacier-objects-list-api/)
+- [Amazon Athena now supports querying restored data in S3 Glacier](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-querying-restored-data-s3-glacier/)
+- [Amazon EC2 R6a instances now support faster Amazon EBS-optimized performance](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-r6a-instances-ebs-performance/)
 - [NoSQL Workbench is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/nosql-workbench-govcloud-regions/)
 - [AWS Backup Audit Manager is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-backup-audit-manager-aws-govcloud-us-regions/)
-- [Amazon Kendra launches Retrieval API](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kendra-retrieval-api/)
-- [AWS announces general availability of AWS Wavelength in Manchester with BT](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-wavelength-manchester-bt/)
-- [AWS Amplify Hosting announces support for monorepo frameworks](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-amplify-hosting-monorepo-frameworks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
