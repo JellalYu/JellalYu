@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Chat now supports quick reply and carousel messages](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-chat-quick-reply-carousel-messages/)
+- [AWS CloudFormation launches Guard 3.0 with support for stateful rules](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudformation-guard-3-0-stateful-rules/)
+- [AWS Database Migration Service now provides more comprehensive premigration assessments](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-database-migration-service-premigration-assessments/)
 - [AWS Elemental MediaConnect now publishes higher frequency metrics](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-elemental-mediaconnect-publishes-higher-frequency-metrics/)
 - [Amazon Translate enhances its custom terminology feature](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-translate-enhances-terminology-feature/)
-- [AWS introduces CSI Driver for Amazon FSx for OpenZFS](https://aws.amazon.com/about-aws/whats-new/2023/06/csi-driver-amazon-fsx-openzfs/)
-- [AWS SDK for SAP ABAP now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-sdk-sap-abap-available/)
-- [Amazon DynamoDB now simplifies and lowers the cost of handling failed conditional writes](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-dynamodb-cost-failed-conditional-writes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
