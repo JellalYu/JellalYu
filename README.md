@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Backup expands cross-account management in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-backup-cross-account-management-govcloud/)
-- [Amazon Simple Email Service now supports metric export](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-simple-email-service-metric-export/)
-- [AWS Global Accelerator adds new edge location](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-global-accelerator-new-edge-location/)
-- [AWS Cloud WAN is now available in AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloud-wan-asia-pacific-osaka-region/)
-- [Amazon VPC IP Address Manager is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-vpc-ip-address-manager-three-regions/)
+- [3rd Party Event Ingestion for AWS Incident Detection &amp; Response](https://aws.amazon.com/about-aws/whats-new/2023/06/3rd-party-event-ingestion-aws-incident-detection-response/)
+- [AWS Elemental MediaConnect now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-elemental-mediaconnect-additional-aws-regions/)
+- [AWS App Runner adds support to update and rebuild a failed service](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-app-runner-update-rebuild-failed-service/)
+- [AWS IoT TwinMaker Knowledge Graph now supports showing query results in scenes](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-iot-twinmaker-knowledge-graph-showing-query-results-scenes/)
+- [RStudio on Amazon SageMaker now provides improved developer productivity](https://aws.amazon.com/about-aws/whats-new/2023/06/rstudio-amazon-sagemaker-developer-productivity/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
