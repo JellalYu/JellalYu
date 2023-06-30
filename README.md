@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Mountpoint for Amazon S3 adds support for creating new files](https://aws.amazon.com/about-aws/whats-new/2023/06/mountpoint-amazon-s3-creating-new-files/)
+- [Amazon ECS now launches tasks faster alongside tasks with prolonged shutdown](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ecs-tasks-faster-prolonged-shutdown/)
+- [Amazon Omics now supports Common Workflow Language](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-omics-common-workflow-language/)
 - [3rd Party Event Ingestion for AWS Incident Detection &amp; Response](https://aws.amazon.com/about-aws/whats-new/2023/06/3rd-party-event-ingestion-aws-incident-detection-response/)
 - [AWS Elemental MediaConnect now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-elemental-mediaconnect-additional-aws-regions/)
-- [AWS App Runner adds support to update and rebuild a failed service](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-app-runner-update-rebuild-failed-service/)
-- [AWS IoT TwinMaker Knowledge Graph now supports showing query results in scenes](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-iot-twinmaker-knowledge-graph-showing-query-results-scenes/)
-- [RStudio on Amazon SageMaker now provides improved developer productivity](https://aws.amazon.com/about-aws/whats-new/2023/06/rstudio-amazon-sagemaker-developer-productivity/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
