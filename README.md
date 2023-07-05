@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Systems Manager Parameter Store increases API throughput limit](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-systems-manager-parameter-store-api-limit/)
-- [AWS Wickr is now available in the Canada &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-wickr-canada-central-region/)
-- [Amazon Personalize improves quality for batch recommendations by using the latest streamed data](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-personalize-quality-batch-recommendations/)
-- [Amazon Connect Chat now supports quick reply and carousel messages](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-chat-quick-reply-carousel-messages/)
-- [AWS CloudFormation launches Guard 3.0 with support for stateful rules](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudformation-guard-3-0-stateful-rules/)
+- [Amazon CloudWatch now supports Cross-Account Service Quotas](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-cross-account-service-quotas/)
+- [Announcing DynamoDB local version 2.0](https://aws.amazon.com/about-aws/whats-new/2023/07/dynamodb-local-version-2-0/)
+- [AWS Backup expands cross-account backup AWS Region coverage](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-backup-cross-account-aws-region-coverage/)
+- [Amazon SageMaker Model Cards now integrated with model versions in Registry](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-model-cards-model-versions-registry/)
+- [AWS Application Migration Service now supports multi-account migrations](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-application-migration-service-multi-account-migrations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
