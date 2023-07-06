@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SQS announces support for dead-letter queue redrive via AWS SDK or CLI in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sqs-dead-letter-queue-redrive-aws-sdk-cli-govcloud-us-regions/)
 - [AWS Config now supports 16 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-config-16-new-resource-types/)
 - [Amazon RDS for PostgreSQL Multi-AZ Deployment with two readable standbys supports logical replication](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-rds-postgresql-multi-az-logical-replication/)
 - [AWS Network Firewall is now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-network-firewall-four-regions/)
 - [Amazon Textract announces updates to AnalyzeDocument - Forms](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-textract-updates-analyzedocument-forms/)
-- [AWS Blu Age runtime is now available packaged for easier Amazon EC2 deployment](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-blu-runtime-packaged-ec2-deployment/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
