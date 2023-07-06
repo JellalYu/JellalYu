@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [PostgreSQL 16 Beta 2 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2023/07/postgresql-16-beta-2-amazon-rds-database-preview-environment/)
 - [Amazon CloudWatch now supports Cross-Account Service Quotas](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-cross-account-service-quotas/)
 - [Announcing DynamoDB local version 2.0](https://aws.amazon.com/about-aws/whats-new/2023/07/dynamodb-local-version-2-0/)
 - [AWS Backup expands cross-account backup AWS Region coverage](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-backup-cross-account-aws-region-coverage/)
 - [Amazon SageMaker Model Cards now integrated with model versions in Registry](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-model-cards-model-versions-registry/)
-- [AWS Application Migration Service now supports multi-account migrations](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-application-migration-service-multi-account-migrations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
