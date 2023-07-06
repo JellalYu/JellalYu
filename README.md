@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS increases pod density limits for Windows containers](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-eks-pod-density-limits-windows-containers/)
 - [AWS Backup support for Amazon S3 is now available in 4 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-backup-s3-4-regions/)
 - [PostgreSQL 16 Beta 2 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2023/07/postgresql-16-beta-2-amazon-rds-database-preview-environment/)
 - [Amazon CloudWatch now supports Cross-Account Service Quotas](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-cross-account-service-quotas/)
 - [Announcing DynamoDB local version 2.0](https://aws.amazon.com/about-aws/whats-new/2023/07/dynamodb-local-version-2-0/)
-- [AWS Backup expands cross-account backup AWS Region coverage](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-backup-cross-account-aws-region-coverage/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
