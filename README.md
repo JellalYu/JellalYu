@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-transfer-family-asia-pacific-melbourne-region/)
 - [AWS CodeBuild now supports GitHub Actions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-codebuild-github-actions/)
 - [Introducing the AWS .NET Distributed Cache Provider for DynamoDB](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-net-distributed-cache-provider-dynamodb/)
 - [Amazon SQS announces support for dead-letter queue redrive via AWS SDK or CLI in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sqs-dead-letter-queue-redrive-aws-sdk-cli-govcloud-us-regions/)
 - [AWS Config now supports 16 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-config-16-new-resource-types/)
-- [Amazon RDS for PostgreSQL Multi-AZ Deployment with two readable standbys supports logical replication](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-rds-postgresql-multi-az-logical-replication/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
