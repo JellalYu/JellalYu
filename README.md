@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Omics achieves FedRAMP Moderate authorization](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-omics-fedramp-authorization/)
 - [AWS Elemental MediaLive now publishes 1-second metrics](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-medialive-publishes-1-second-metrics/)
 - [Amazon OpenSearch Service now supports OpenSearch version 2.7](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-opensearch-service-opensearch-version-2-7/)
 - [Amazon Location Service now supports API Keys for Maps, Places, and Routes](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-location-services-api-keys-maps-places-routes/)
 - [AWS Elemental MediaLive adds support for input thumbnail images](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-medialive-input-thumbnail-images/)
-- [Amazon GuardDuty EKS Runtime Monitoring expands operating systems and processor support](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-guardduty-eks-monitoring-systems-processor/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
