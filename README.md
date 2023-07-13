@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Karpenter now supports Windows containers](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-karpenter-windows-containers/)
+- [Amazon FSx for NetApp ONTAP announces two additional monitoring and troubleshooting capabilities](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-fsx-netapp-ontap-additional-monitoring-troubleshooting-capabilities/)
+- [Amazon FSx for NetApp ONTAP now supports IPSec encryption of data in transit](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-fsx-netapp-ontap-ipsec-encryption-data-transit/)
+- [Amazon FSx for NetApp ONTAP supports write once, read many &lpar;WORM&rpar; protection with SnapLock](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-fsx-netapp-ontap-worm-protection/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; launches index improvements](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-documentdb-mongodb-index-improvements/)
-- [AWS Mainframe Modernization expands control and visibility of runtime environments](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-mainframe-modernization-control-visibility-runtime-environments/)
-- [Amazon QuickSight launches unified color experience for analysis and dashboards](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-quicksight-unified-color-experience-analysis-dashboards/)
-- [Amazon QuickSight adds axis customization options for small multiples and radar chart](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-quicksight-axis-customization-multiples-radar-chart/)
-- [Amazon Location Service now supports publishing device position updates on EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-location-service-device-updates-eventbridge/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
