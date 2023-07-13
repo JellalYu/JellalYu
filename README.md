@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Mainframe Modernization expands control and visibility of runtime environments](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-mainframe-modernization-control-visibility-runtime-environments/)
+- [Amazon QuickSight launches unified color experience for analysis and dashboards](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-quicksight-unified-color-experience-analysis-dashboards/)
+- [Amazon QuickSight adds axis customization options for small multiples and radar chart](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-quicksight-axis-customization-multiples-radar-chart/)
 - [Amazon Location Service now supports publishing device position updates on EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-location-service-device-updates-eventbridge/)
 - [Amazon RDS for SQL Server now supports self-managed Active Directory](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-rds-sql-server-self-managed-active-directory/)
-- [Amazon Omics achieves FedRAMP Moderate authorization](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-omics-fedramp-authorization/)
-- [AWS Elemental MediaLive now publishes 1-second metrics](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-medialive-publishes-1-second-metrics/)
-- [Amazon OpenSearch Service now supports OpenSearch version 2.7](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-opensearch-service-opensearch-version-2-7/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
