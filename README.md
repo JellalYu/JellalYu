@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; launches index improvements](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-documentdb-mongodb-index-improvements/)
 - [AWS Mainframe Modernization expands control and visibility of runtime environments](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-mainframe-modernization-control-visibility-runtime-environments/)
 - [Amazon QuickSight launches unified color experience for analysis and dashboards](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-quicksight-unified-color-experience-analysis-dashboards/)
 - [Amazon QuickSight adds axis customization options for small multiples and radar chart](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-quicksight-axis-customization-multiples-radar-chart/)
 - [Amazon Location Service now supports publishing device position updates on EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-location-service-device-updates-eventbridge/)
-- [Amazon RDS for SQL Server now supports self-managed Active Directory](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-rds-sql-server-self-managed-active-directory/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
