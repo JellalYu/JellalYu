@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda now detects and stops recursive loops in Lambda functions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lambda-detects-recursive-loops-lambda-functions/)
+- [Amazon Aurora PostgreSQL now supports pgvector for vector storage and similarity search](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-aurora-postgresql-pgvector-vector-storage-similarity-search/)
+- [Amazon Aurora supports PostgreSQL 15.3, 14.8, 13.11, 12.15, and 11.20 versions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-aurora-postgresql-additional-versions/)
 - [AWS Karpenter now supports Windows containers](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-karpenter-windows-containers/)
 - [Amazon FSx for NetApp ONTAP announces two additional monitoring and troubleshooting capabilities](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-fsx-netapp-ontap-additional-monitoring-troubleshooting-capabilities/)
-- [Amazon FSx for NetApp ONTAP now supports IPSec encryption of data in transit](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-fsx-netapp-ontap-ipsec-encryption-data-transit/)
-- [Amazon FSx for NetApp ONTAP supports write once, read many &lpar;WORM&rpar; protection with SnapLock](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-fsx-netapp-ontap-worm-protection/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; launches index improvements](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-documentdb-mongodb-index-improvements/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
