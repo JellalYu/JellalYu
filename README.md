@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Batch on AWS Fargate now supports Linux ARM64 and Windows x86 containers in CLI/SDK](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-batch-fargate-linux-arm64-windows-x86-containers-cli-sdk/)
 - [Amazon EMR on EKS adds programmatic execution for managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-eks-programmatic-execution-managed-endpoints/)
 - [Amazon S3 Inventory can include ACLs as object metadata in inventory reports](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-s3-inventory-access-control-lists-metadata-inventory/)
 - [AWS Proton introduces deployment history](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-proton-deployment-history/)
 - [Amazon CloudFront announces support for 3072-bit RSA certificates](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudfront-3072-bit-rsa-certificates/)
-- [Amazon EC2 M7g and R7g instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-m7g-r7g-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
