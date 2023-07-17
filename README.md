@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon IVS now supports rendition filtering and higher frequency thumbnails for the Record to S3 feature](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ivs-rendition-filtering-thumbnails-record-s3-feature/)
+- [Amazon ECS adds domainless gMSA authentication for Linux and Windows containers](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ecs-domainless-gmsa-authentication-linux-windows-containers/)
 - [AWS Elemental MediaTailor now supports cue ad tags in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-mediatailor-cue-ad-tags-channel-assembly/)
 - [Amazon Redshift announces support of QUALIFY clause in SELECT SQL statement](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-qualify-clause-select-sql-statement/)
 - [AWS Elemental MediaPackage now available in AWS Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-mediapackage-canada-central/)
-- [Amazon Connect launches APIs to programmatically delete Routing Profiles and Queues](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-apis-programmatically-delete-routing-profiles-queues/)
-- [AWS Batch on AWS Fargate now supports Linux ARM64 and Windows x86 containers in CLI/SDK](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-batch-fargate-linux-arm64-windows-x86-containers-cli-sdk/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
