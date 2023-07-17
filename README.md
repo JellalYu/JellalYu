@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS simplifies writing  .NET 6 Lambda functions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-simplifies-writing-net-6-lambda-functions/)
+- [Amazon Connect Wisdom is now available for chat agents](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-wisdom-chat-agents/)
+- [AWS Fargate enables faster container startup using Seekable OCI](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-fargate-container-startup-seekable-oci/)
 - [Amazon IVS now supports rendition filtering and higher frequency thumbnails for the Record to S3 feature](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ivs-rendition-filtering-thumbnails-record-s3-feature/)
 - [Amazon ECS adds domainless gMSA authentication for Linux and Windows containers](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ecs-domainless-gmsa-authentication-linux-windows-containers/)
-- [AWS Elemental MediaTailor now supports cue ad tags in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-mediatailor-cue-ad-tags-channel-assembly/)
-- [Amazon Redshift announces support of QUALIFY clause in SELECT SQL statement](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-qualify-clause-select-sql-statement/)
-- [AWS Elemental MediaPackage now available in AWS Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-mediapackage-canada-central/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
