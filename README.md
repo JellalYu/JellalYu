@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Karpenter now supports Windows containers](https://aws.amazon.com/about-aws/whats-new/2023/07/karpenter-windows-containers/)
+- [Amazon Aurora PostgreSQL supports Microsoft AD authentication in AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-aurora-postgresql-ad-authentication-govcloud-regions/)
+- [AWS Mainframe Modernization service is now PCI DSS Compliant](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-mainframe-modernization-pci-dss-compliant/)
 - [Llama 2 foundation models from Meta now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2023/07/llama-2-foundation-models-meta-amazon-sagemaker-jumpstart/)
 - [AWS Lambda and Amazon EventBridge Pipes now support enhanced filtering](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lambda-eventbridge-pipes-enhanced-filtering/)
-- [AWS simplifies writing  .NET 6 Lambda functions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-simplifies-writing-net-6-lambda-functions/)
-- [Amazon Connect Wisdom is now available for chat agents](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-wisdom-chat-agents/)
-- [AWS Fargate enables faster container startup using Seekable OCI](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-fargate-container-startup-seekable-oci/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
