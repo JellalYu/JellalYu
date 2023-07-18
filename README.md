@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Analytics on Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2023/07/analytics-amazon-lex/)
+- [Amazon Connect launches pre-defined Contact Lens conversational analytics metrics](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-pre-defined-contact-lens-conversational-analytics-metrics/)
 - [Amazon Corretto July, 2023 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-corretto-july-2023-quarterly-updates/)
 - [Amazon EC2 C6in instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-c6in-instances-additional-regions/)
 - [Karpenter now supports Windows containers](https://aws.amazon.com/about-aws/whats-new/2023/07/karpenter-windows-containers/)
-- [Amazon Aurora PostgreSQL supports Microsoft AD authentication in AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-aurora-postgresql-ad-authentication-govcloud-regions/)
-- [AWS Mainframe Modernization service is now PCI DSS Compliant](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-mainframe-modernization-pci-dss-compliant/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
