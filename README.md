@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CodeCatalyst now supports workflows triggered by GitHub pull requests](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-codecatalyst-workflows-triggered-github-pull-requests/)
+- [AWS Amplify JavaScript library enhances the performance of Auth, Storage, Notifications, and Analytics](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-amplify-javascript-library-auth-storage-notifications-analytics/)
+- [Amazon EC2 X2idn instances now available in Middle East &lpar;Dubai&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-x2idn-instances-middle-east-dubai-region/)
 - [Introducing Analytics on Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2023/07/analytics-amazon-lex/)
 - [Amazon Connect launches pre-defined Contact Lens conversational analytics metrics](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-pre-defined-contact-lens-conversational-analytics-metrics/)
-- [Amazon Corretto July, 2023 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-corretto-july-2023-quarterly-updates/)
-- [Amazon EC2 C6in instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-c6in-instances-additional-regions/)
-- [Karpenter now supports Windows containers](https://aws.amazon.com/about-aws/whats-new/2023/07/karpenter-windows-containers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
