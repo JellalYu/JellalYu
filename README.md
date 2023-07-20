@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SNS can now deliver mobile push notifications in twelve new regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sns-mobile-notifications-twelve-regions/)
 - [Amazon Managed Grafana now supports in-place update for version 9.4](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-managed-grafana-in-place-update-version-9-4/)
 - [Amazon Translate enables real time translation of Docx files](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-translate-real-time-translation-docx-files/)
 - [Amazon CloudWatch announces ML backed Logs Insights pattern query command](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-ml-backed-logs-insights-pattern-query-command/)
 - [Amazon CodeCatalyst now supports workflows triggered by GitHub pull requests](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-codecatalyst-workflows-triggered-github-pull-requests/)
-- [AWS Amplify JavaScript library enhances the performance of Auth, Storage, Notifications, and Analytics](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-amplify-javascript-library-auth-storage-notifications-analytics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
