@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS PrivateLink announces integration with Amazon CloudWatch Contributor Insights](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-privatelink-integration-cloudwatch-insights/)
 - [Amazon Route 53 Resolver now available on AWS Outposts rack](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-route-53-resolver-aws-outposts-rack/)
 - [AWS Supply Chain extends availability in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-supply-chain-additional-regions/)
 - [Amazon Connect launches CloudFormation support for routing profiles and queues](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-cloudformation-routing-profiles-queues/)
 - [Amazon Redshift ML announces integration with Amazon Forecast](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-ml-integration-amazon-forecast/)
-- [AWS IoT Device Defender now supports monitoring of device disconnect durations](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-iot-device-defender-monitoring-device-disconnect-durations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
