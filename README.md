@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue Crawlers now supports Apache Hudi Tables](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-crawlers-apache-hudi-tables/)
+- [EMR on EKS now supports Apache Spark with Java 17](https://aws.amazon.com/about-aws/whats-new/2023/07/emr-eks-apache-spark-java-17/)
 - [AWS Config advanced queries support 65 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-config-advanced-queries-65-resource-types/)
 - [AWS Lake Formation now supports delegation of LF-Tag management](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lake-formation-delegation-lf-tag-management/)
 - [AWS PrivateLink announces integration with Amazon CloudWatch Contributor Insights](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-privatelink-integration-cloudwatch-insights/)
-- [Amazon Route 53 Resolver now available on AWS Outposts rack](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-route-53-resolver-aws-outposts-rack/)
-- [AWS Supply Chain extends availability in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-supply-chain-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
