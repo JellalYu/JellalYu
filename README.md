@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace Vendor Insights now includes PCI DSS, HIPAA, and GDPR certifications](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-marketplace-vendor-insights-pci-dss-hipaa-gdpr/)
+- [Amazon Omics now provides workflow run queuing](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-omics-workflow-run-queuing/)
 - [Access resource and stack drift information directly in AWS CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2023/07/access-resource-stack-drift-information-aws-cloudformation-stacksets/)
 - [AWS Control Tower launches additional proactive controls](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-control-tower-proactive-controls/)
 - [Amazon SageMaker Feature Store now supports cross account sharing, discovery and access](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-feature-store-account-sharing-discovery-access/)
-- [Amazon EMR launches new capabilities to enhance EMR on EC2 cluster scaling experience](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-capabilities-emr-ec2-cluster-scaling-experience/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports document compression](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-document-db-mongo-db-document-compression/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
