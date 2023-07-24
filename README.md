@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports document compression](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-document-db-mongo-db-document-compression/)
 - [AWS Supply Chain Demand Planning announces AWS CloudTrail support for event history](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-supply-chain-demand-planning-cloudtrail-event-history/)
 - [AWS Supply Chain Demand Planning supports multiple override management](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-supply-chain-demand-planning-multiple-override-management/)
 - [Amazon CloudWatch Synthetics announces new Synthetics NodeJS runtime version 5.0](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-synthetics-node-js-runtime-version-5-0/)
 - [Announcing enhanced user interface for AWS Supply Chain Demand Planning](https://aws.amazon.com/about-aws/whats-new/2023/07/ui-aws-supply-chain-demand-planning/)
-- [AWS AppConfig Agent simplifies feature flag and configuration use for Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-appconfig-agent-feature-flag-configuration-amazon-ec2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
