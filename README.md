@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Supply Chain Demand Planning announces AWS CloudTrail support for event history](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-supply-chain-demand-planning-cloudtrail-event-history/)
+- [AWS Supply Chain Demand Planning supports multiple override management](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-supply-chain-demand-planning-multiple-override-management/)
+- [Amazon CloudWatch Synthetics announces new Synthetics NodeJS runtime version 5.0](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-synthetics-node-js-runtime-version-5-0/)
+- [Announcing enhanced user interface for AWS Supply Chain Demand Planning](https://aws.amazon.com/about-aws/whats-new/2023/07/ui-aws-supply-chain-demand-planning/)
 - [AWS AppConfig Agent simplifies feature flag and configuration use for Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-appconfig-agent-feature-flag-configuration-amazon-ec2/)
-- [AWS Glue Crawlers now supports Apache Hudi Tables](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-crawlers-apache-hudi-tables/)
-- [EMR on EKS now supports Apache Spark with Java 17](https://aws.amazon.com/about-aws/whats-new/2023/07/emr-eks-apache-spark-java-17/)
-- [AWS Config advanced queries support 65 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-config-advanced-queries-65-resource-types/)
-- [AWS Lake Formation now supports delegation of LF-Tag management](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lake-formation-delegation-lf-tag-management/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
