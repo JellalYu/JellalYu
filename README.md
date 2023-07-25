@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR Serverless now supports storing logs in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-storing-logs-amazon-cloudwatch/)
+- [AWS DataSync now supports copying data to and from Azure Blob Storage](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-datasync-copying-data-azure-blob-storage/)
 - [Amazon SageMaker Canvas supports custom Amazon S3 output location for ML artifacts](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-canvas-custom-s3-ml-artifacts/)
 - [CloudWatch Application Insights adds monitoring for multi-app instance deployments](https://aws.amazon.com/about-aws/whats-new/2023/07/cloudwatch-application-insights-monitoring-multi-app-instance-deployments/)
 - [Amazon SageMaker Canvas supports training ML models with different objective metrics](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-canvas-training-ml-models-objective-metrics/)
-- [Amazon SageMaker Canvas expands data preparation with five new capabilities](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-canvas-data-preparation-five-capabilities/)
-- [Amazon SageMaker Canvas supports sharing ML models with Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-canvas-sharing-ml-models-amazon-quicksight/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
