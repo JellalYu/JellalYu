@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EC2 announces support for native LDAP authentication](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-ec2-native-ldap-authentication/)
 - [Amazon Redshift announces automatic mounting of AWS Glue Data Catalog](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-automatic-mounting-aws-glue-data-catalog/)
 - [Amazon CloudWatch Internet Monitor now supports Network Load Balancers as a resource type](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-internet-monitor-load-balancers/)
 - [Amazon QuickSight now supports Snapshot Export APIs](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-quicksight-snapshot-export-apis/)
 - [AWS Transfer Family launches SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-transfer-family-sftp-connectors/)
-- [AWS Cost Management introduces visual Savings Plans recommendations](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-cost-management-visual-savings-plans-recommendations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
