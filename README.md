@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Marketplace Vendor Insights now includes PCI DSS, HIPAA, and GDPR certifications](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-marketplace-vendor-insights-pci-dss-hipaa-gdpr/)
-- [Amazon Omics now provides workflow run queuing](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-omics-workflow-run-queuing/)
-- [Access resource and stack drift information directly in AWS CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2023/07/access-resource-stack-drift-information-aws-cloudformation-stacksets/)
-- [AWS Control Tower launches additional proactive controls](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-control-tower-proactive-controls/)
-- [Amazon SageMaker Feature Store now supports cross account sharing, discovery and access](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-feature-store-account-sharing-discovery-access/)
+- [Amazon Redshift announces automatic mounting of AWS Glue Data Catalog](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-automatic-mounting-aws-glue-data-catalog/)
+- [Amazon CloudWatch Internet Monitor now supports Network Load Balancers as a resource type](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-internet-monitor-load-balancers/)
+- [Amazon QuickSight now supports Snapshot Export APIs](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-quicksight-snapshot-export-apis/)
+- [AWS Transfer Family launches SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-transfer-family-sftp-connectors/)
+- [AWS Cost Management introduces visual Savings Plans recommendations](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-cost-management-visual-savings-plans-recommendations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
