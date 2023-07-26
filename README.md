@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Entity Resolution is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-entity-resolution-generally-available/)
+- [Vector engine for Amazon OpenSearch Serverless now in preview](https://aws.amazon.com/about-aws/whats-new/2023/07/vector-engine-amazon-opensearch-serverless-preview/)
+- [Enable generative AI applications to complete tasks in just a few clicks](https://aws.amazon.com/about-aws/whats-new/2023/07/enable-generative-ai-applications-complete-tasks/)
 - [Announcing the general availability of AWS HealthImaging](https://aws.amazon.com/about-aws/whats-new/2023/07/general-availability-aws-healthimaging/)
 - [Snowflake connectivity for AWS Glue for Apache Spark is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/snowflake-connectivity-aws-glue-apache-spark/)
-- [Amazon Redshift now supports querying Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-querying-apache-iceberg-tables/)
-- [AWS Glue jobs can now include AWS Glue DataBrew Recipes](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-jobs-databrew-recipes/)
-- [AWS Glue Studio now supports Amazon Redshift Serverless](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-studio-amazon-redshift-serverless/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
