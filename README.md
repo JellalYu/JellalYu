@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/07/red-hat-openshift-service-aws-rosa-asia-pacific-hyderabad-region/)
+- [Amazon AppStream 2.0 launches Graphics G5 instances](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-appstream-2-0-graphics-g5-instances/)
+- [Amazon RDS for Oracle now supports Oracle Application Express version 23.1](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-rds-oracle-oracle-application-express-version-23-1/)
 - [Amazon Transcribe supports Toxicity Detection for spoken conversations](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-transcribe-toxicity-detection-conversations/)
 - [Amazon ECS Service Discovery is now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ecs-service-discovery-five-regions/)
-- [AWS Elastic Disaster Recovery is now available in 5 additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elastic-disaster-recovery-additional-regions/)
-- [AWS announces new AWS Direct Connect location in Lima, Peru](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-direct-connect-location-lima-peru/)
-- [Amazon RDS now has a progress indicator for the storage optimization process](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-rds-progress-indicator-storage-optimization-process/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
