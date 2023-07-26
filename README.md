@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 P5 instances, optimized for generative AI and HPC, are generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-p5-instances-generative-ai-hpc-generally-available/)
+- [Announcing AWS HealthScribe &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-healthscribe-preview/)
+- [AWS Glue Studio now supports Amazon CodeWhisperer](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-studio-amazon-codewhisperer/)
 - [AWS Entity Resolution is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-entity-resolution-generally-available/)
 - [Vector engine for Amazon OpenSearch Serverless now in preview](https://aws.amazon.com/about-aws/whats-new/2023/07/vector-engine-amazon-opensearch-serverless-preview/)
-- [Enable generative AI applications to complete tasks in just a few clicks](https://aws.amazon.com/about-aws/whats-new/2023/07/enable-generative-ai-applications-complete-tasks/)
-- [Announcing the general availability of AWS HealthImaging](https://aws.amazon.com/about-aws/whats-new/2023/07/general-availability-aws-healthimaging/)
-- [Snowflake connectivity for AWS Glue for Apache Spark is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/snowflake-connectivity-aws-glue-apache-spark/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
