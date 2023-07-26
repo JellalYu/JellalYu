@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EC2 P5 instances, optimized for generative AI and HPC, are generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-p5-instances-generative-ai-hpc-generally-available/)
-- [Announcing AWS HealthScribe &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-healthscribe-preview/)
-- [AWS Glue Studio now supports Amazon CodeWhisperer](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-studio-amazon-codewhisperer/)
-- [AWS Entity Resolution is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-entity-resolution-generally-available/)
-- [Vector engine for Amazon OpenSearch Serverless now in preview](https://aws.amazon.com/about-aws/whats-new/2023/07/vector-engine-amazon-opensearch-serverless-preview/)
+- [AWS announces new AWS Direct Connect location in Lima, Peru](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-direct-connect-location-lima-peru/)
+- [Amazon RDS now has a progress indicator for the storage optimization process](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-rds-progress-indicator-storage-optimization-process/)
+- [Introducing the Connect Ready Program](https://aws.amazon.com/about-aws/whats-new/2023/07/connect-ready-program/)
+- [Accelerate your CloudFormation authoring experience with looping function](https://aws.amazon.com/about-aws/whats-new/2023/07/accelerate-cloudformation-authoring-experience-looping-function/)
+- [Amazon Aurora MySQL 2.12 &lpar;compatible with MySQL 5.7.40&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-aurora-mysql-2-12-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
