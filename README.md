@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Customer Profiles now supports rule-based identity resolution](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-customer-profiles-rule-identity-resolution/)
+- [AWS SimSpace Weaver now supports multiple spatial domains per simulation](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-simspace-weaver-multiple-spatial-domains-per-simulation/)
 - [Amazon ECS console now has enhanced support for task definition workflows](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ecs-console-task-definition-workflows/)
 - [AWS Health now supports delegated administrator](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-health-delegated-administrator/)
 - [AWS SimSpace Weaver now supports custom container images and new clock](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-simspace-weaver-custom-container-images-new-clock/)
-- [ACE Pipeline Manager now includes an opportunity bulk import in-line editing experience](https://aws.amazon.com/about-aws/whats-new/2023/07/ace-pipeline-manager-opportunity-bulk-import-in-line-editing/)
-- [AWS Enterprise On-Ramp now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-enterprise-on-ramp-govcloud-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
