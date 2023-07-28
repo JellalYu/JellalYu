@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Route 53 adds support for 14 additional Top-Level Domains](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-route-53-support-14-top-level-domains/)
+- [VMware Cloud on AWS is now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/07/vmware-cloud-2-additional-regions/)
 - [Announcing preview of JSON protocol support for Amazon SQS](https://aws.amazon.com/about-aws/whats-new/2023/07/json-protocol-support-amazon-sqs/)
 - [AWS announces Public IP Insights, a new feature of VPC IP Address Manager](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-public-ip-insights-vpc-ip-address-manager/)
 - [AWS Database Encryption SDK for Amazon DynamoDB now generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-database-encryption-sdk-dynamodb-available/)
-- [Amazon CodeCatalyst supports deployments to Elastic Kubernetes Service](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-codecatalyst-deployments-elastic-kubernetes-service/)
-- [AWS Wickr offers federated data retention for internal and external conversations](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-wickr-federated-data-retention-internal-external-conversations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
