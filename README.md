@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Lake Formation launches Read-Only Administrator role](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lake-formation-read-only-administrator-role/)
-- [AWS launches a new Local Zone in Phoenix, Arizona](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-local-zone-phoenix-arizona/)
-- [Amazon RDS for SQL Server supports minor version 2019 CU21](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-rds-sql-server-minor-version-2019-cu21/)
-- [Amazon EC2 G5g instances now available in Spain region](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-g5g-instances-spain-region/)
-- [Amazon EC2 M6a instances now available in Hyderabad region](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-m6a-instances-hyderabad-region/)
+- [AWS announces Public IP Insights, a new feature of VPC IP Address Manager](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-public-ip-insights-vpc-ip-address-manager/)
+- [AWS Database Encryption SDK for Amazon DynamoDB now generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-database-encryption-sdk-dynamodb-available/)
+- [Amazon CodeCatalyst supports deployments to Elastic Kubernetes Service](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-codecatalyst-deployments-elastic-kubernetes-service/)
+- [AWS Wickr offers federated data retention for internal and external conversations](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-wickr-federated-data-retention-internal-external-conversations/)
+- [Introducing Amazon EC2 C7gd, M7gd, and R7gd Instances](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-c7gd-m7gd-r7gd-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
