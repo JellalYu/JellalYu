@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing preview of JSON protocol support for Amazon SQS](https://aws.amazon.com/about-aws/whats-new/2023/07/json-protocol-support-amazon-sqs/)
 - [AWS announces Public IP Insights, a new feature of VPC IP Address Manager](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-public-ip-insights-vpc-ip-address-manager/)
 - [AWS Database Encryption SDK for Amazon DynamoDB now generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-database-encryption-sdk-dynamodb-available/)
 - [Amazon CodeCatalyst supports deployments to Elastic Kubernetes Service](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-codecatalyst-deployments-elastic-kubernetes-service/)
 - [AWS Wickr offers federated data retention for internal and external conversations](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-wickr-federated-data-retention-internal-external-conversations/)
-- [Introducing Amazon EC2 C7gd, M7gd, and R7gd Instances](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-c7gd-m7gd-r7gd-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
