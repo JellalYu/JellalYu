@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches flows UI toolbar and ability to add notes](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-flows-ui-toolbar-add-notes/)
 - [Introducing custom query and template capabilities for AWS Clean Rooms](https://aws.amazon.com/about-aws/whats-new/2023/07/custom-query-template-capabilities-aws-clean-rooms/)
 - [Amazon Connect scheduling now offers automated flexible days scheduling](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-scheduling-automated-flexible-days-scheduling/)
 - [Amazon Connect now offers automatic activity scheduling based on shift duration](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-automatic-activity-scheduling-shift-duration/)
 - [Amazon Connect scheduling agent time-off balance and group allowance support](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-scheduling-agent-time-off-balance-group-allowance/)
-- [AWS NAT Gateway is now available in the AWS US West Phoenix Local Zone](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-nat-gateway-us-west-phoenix-local-zone/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
