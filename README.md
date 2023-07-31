@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now supports custom flow block titles](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-custom-flow-block-titles/)
+- [AWS IoT Core announces new certificate signing &amp; key generation algorithms](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-iot-core-new-certificate-signing-key-generation-algorithms/)
 - [AWS CloudFormation enhances deletion policies to accelerate dev-test cycle](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-cloudformation-deletion-policies-dev-test-cycle/)
 - [Amazon Inspector adds enhanced vulnerability intelligence to its findings](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-inspector-vulnerability-intelligence-findings/)
 - [Amazon Data Lifecycle Manager is now available in the AWS Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-data-lifecycle-manager-aws-asia-pacific-hyderabad/)
-- [Amazon Connect now supports archiving and deleting flows from the UI](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-archiving-deleting-flows-ui/)
-- [Amazon Connect now supports flow-only attributes](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-flow-only-attributes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
