@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing Amazon ECS templates for Amazon EC2 Spot Instances Blueprints](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ecs-templates-ec2-spot-instances-blueprints/)
-- [AWS Launch Wizard now available in Hyderabad and Dubai Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-launch-wizard-hyderabad-dubai-regions/)
-- [Amazon Route 53 adds support for 14 additional Top-Level Domains](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-route-53-support-14-top-level-domains/)
-- [VMware Cloud on AWS is now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/07/vmware-cloud-2-additional-regions/)
-- [Announcing preview of JSON protocol support for Amazon SQS](https://aws.amazon.com/about-aws/whats-new/2023/07/json-protocol-support-amazon-sqs/)
+- [Introducing custom query and template capabilities for AWS Clean Rooms](https://aws.amazon.com/about-aws/whats-new/2023/07/custom-query-template-capabilities-aws-clean-rooms/)
+- [Amazon Connect scheduling now offers automated flexible days scheduling](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-scheduling-automated-flexible-days-scheduling/)
+- [Amazon Connect now offers automatic activity scheduling based on shift duration](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-automatic-activity-scheduling-shift-duration/)
+- [Amazon Connect scheduling agent time-off balance and group allowance support](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-scheduling-agent-time-off-balance-group-allowance/)
+- [AWS NAT Gateway is now available in the AWS US West Phoenix Local Zone](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-nat-gateway-us-west-phoenix-local-zone/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
