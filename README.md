@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS makes it easier to configure and use Amazon EFS for persistent shared file storage](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-eks-configure-efs-shared-file-storage/)
+- [SageMaker Studio announces pre-built docker ‘SageMaker Distribution’ for machine learning](https://aws.amazon.com/about-aws/whats-new/2023/08/sagemaker-studio-pre-built-docker-sagemaker-distribution-machine-learning/)
+- [Amazon RDS for Oracle now supports replicas for Single-tenant instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-oracle-replicas-single-tenant-instances/)
+- [AWS Batch now supports price capacity optimized allocation strategy for Spot Instances](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-batch-price-capacity-optimized-allocation-strategy-spot-instances/)
 - [AWS Directory Service for Microsoft AD and AD Connector available in &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-directory-service-microsoft-ad-connector-tel-aviv/)
-- [AWS Shield Advanced and AWS WAF are now available in AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-shield-advanced-waf-israel-tel-aviv-region/)
-- [AWS Lake Formation is now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-lake-formation-additional-regions/)
-- [Improved AWS Backup performance for Amazon S3 buckets](https://aws.amazon.com/about-aws/whats-new/2023/08/improved-aws-backup-performance-amazon-s3-buckets/)
-- [AWS Transit Gateway is now available in Israel &lpar;Tel Aviv&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-transit-gateway-israel-tel-aviv-aws-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
