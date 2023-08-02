@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Batch on AWS Fargate now supports Linux ARM64 and Windows x86 containers in Console](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-batch-fargate-linux-arm64-windows-x86-containers-console/)
 - [Amazon EKS makes it easier to configure and use Amazon EFS for persistent shared file storage](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-eks-configure-efs-shared-file-storage/)
 - [SageMaker Studio announces pre-built docker ‘SageMaker Distribution’ for machine learning](https://aws.amazon.com/about-aws/whats-new/2023/08/sagemaker-studio-pre-built-docker-sagemaker-distribution-machine-learning/)
 - [Amazon RDS for Oracle now supports replicas for Single-tenant instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-oracle-replicas-single-tenant-instances/)
 - [AWS Batch now supports price capacity optimized allocation strategy for Spot Instances](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-batch-price-capacity-optimized-allocation-strategy-spot-instances/)
-- [AWS Directory Service for Microsoft AD and AD Connector available in &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-directory-service-microsoft-ad-connector-tel-aviv/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
