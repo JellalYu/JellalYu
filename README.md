@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker announces a new direct integration with Salesforce Data Cloud](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-direct-integration-salesforce-data-cloud/)
 - [Amazon RDS for SQL Server now supports secondary host metrics in Enhanced Monitoring](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-sql-server-secondary-host-metrics-enhanced-monitoring/)
 - [Amazon Route 53 Resolver Endpoints now available in the Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-route-53-resolver-endpoints-israel-tel-aviv-region/)
 - [Amazon EFS now supports up to 55,000 IOPS per file system](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-efs-55000-iops-per-file-system/)
 - [RDS Custom for SQL Server now supports Local Time Zones](https://aws.amazon.com/about-aws/whats-new/2023/08/rds-custom-sql-server-local-time-zones/)
-- [Amazon EC2 VT1 now supports improved control of stream quality, latency and bandwidth](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-vt1-improved-control-stream-quality-latency-bandwidth/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
