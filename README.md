@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transit Gateway Flow Logs is now available in five additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-transit-gateway-flow-logs-additional-regions/)
 - [Announcing the release of AWS Thinkbox Deadline 10.3](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-thinkbox-deadline-10-3/)
 - [Amazon Translate enables language detection for real time document translation](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-translate-language-detection-document-translation/)
 - [AWS Resilience Hub announces application resilience drift detection](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-resilience-hub-application-resilience-drift-detection/)
 - [Amazon SageMaker announces a new direct integration with Salesforce Data Cloud](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-direct-integration-salesforce-data-cloud/)
-- [Amazon RDS for SQL Server now supports secondary host metrics in Enhanced Monitoring](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-sql-server-secondary-host-metrics-enhanced-monitoring/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
