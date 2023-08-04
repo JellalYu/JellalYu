@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon VPC now supports primary IPv6 address on an elastic network interface](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-vpc-primary-ipv6-address-elastic-interface/)
+- [Announcing support for ml.p5 instances for Amazon SageMaker Model Training](https://aws.amazon.com/about-aws/whats-new/2023/08/support-ml-p5-instances-amazon-sagemaker-model-training/)
 - [Amazon Aurora now supports automatic backup of deleted clusters](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-aurora-automatic-backup-deleted-clusters/)
 - [Amazon RDS simplifies connectivity between an RDS or Aurora database and AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-connectivity-rds-aurora-database-lambda/)
 - [AWS Transit Gateway Flow Logs is now available in five additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-transit-gateway-flow-logs-additional-regions/)
-- [Announcing the release of AWS Thinkbox Deadline 10.3](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-thinkbox-deadline-10-3/)
-- [Amazon Translate enables language detection for real time document translation](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-translate-language-detection-document-translation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
