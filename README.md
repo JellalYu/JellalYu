@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now supports excluding outbound calls in deciding agent routing order](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-excluding-outbound-calls-agent-order/)
+- [Amazon MSK Serverless expands availability to three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-msk-serverless-additional-aws-regions/)
+- [AWS Security Hub launches 12 new security controls](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-security-hub-new-security-controls/)
 - [Amazon VPC now supports primary IPv6 address on an elastic network interface](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-vpc-primary-ipv6-address-elastic-interface/)
 - [Announcing support for ml.p5 instances for Amazon SageMaker Model Training](https://aws.amazon.com/about-aws/whats-new/2023/08/support-ml-p5-instances-amazon-sagemaker-model-training/)
-- [Amazon Aurora now supports automatic backup of deleted clusters](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-aurora-automatic-backup-deleted-clusters/)
-- [Amazon RDS simplifies connectivity between an RDS or Aurora database and AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-connectivity-rds-aurora-database-lambda/)
-- [AWS Transit Gateway Flow Logs is now available in five additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-transit-gateway-flow-logs-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
