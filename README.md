@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Service Catalog is now available in the AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-service-catalog-israel-tel-aviv-region/)
+- [Amazon Interactive Video Service announces Real-Time Streaming](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-interactive-video-service-real-time-streaming/)
 - [Amazon SageMaker is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-israel-tel-aviv-region/)
 - [Amazon Connect now supports excluding outbound calls in deciding agent routing order](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-excluding-outbound-calls-agent-order/)
 - [Amazon MSK Serverless expands availability to three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-msk-serverless-additional-aws-regions/)
-- [AWS Security Hub launches 12 new security controls](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-security-hub-new-security-controls/)
-- [Amazon VPC now supports primary IPv6 address on an elastic network interface](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-vpc-primary-ipv6-address-elastic-interface/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
