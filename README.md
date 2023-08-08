@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue Studio now supports Amazon CodeWhisperer in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-glue-studio-amazon-codewhisperer-additional-regions/)
 - [Amazon EFS is now available in the AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-efs-aws-israel-tel-aviv-region/)
 - [Amazon EMR Studio adds support for AWS Lake Formation fine-grained access control](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-emr-studio-lake-formation-grained-access-control/)
 - [AWS Artifact launches email notifications](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-artifact-email-notifications/)
 - [AWS Service Catalog is now available in the AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-service-catalog-israel-tel-aviv-region/)
-- [Amazon Interactive Video Service announces Real-Time Streaming](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-interactive-video-service-real-time-streaming/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
