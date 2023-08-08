@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EFS is now available in the AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-efs-aws-israel-tel-aviv-region/)
+- [Amazon EMR Studio adds support for AWS Lake Formation fine-grained access control](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-emr-studio-lake-formation-grained-access-control/)
+- [AWS Artifact launches email notifications](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-artifact-email-notifications/)
 - [AWS Service Catalog is now available in the AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-service-catalog-israel-tel-aviv-region/)
 - [Amazon Interactive Video Service announces Real-Time Streaming](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-interactive-video-service-real-time-streaming/)
-- [Amazon SageMaker is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-israel-tel-aviv-region/)
-- [Amazon Connect now supports excluding outbound calls in deciding agent routing order](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-excluding-outbound-calls-agent-order/)
-- [Amazon MSK Serverless expands availability to three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-msk-serverless-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
