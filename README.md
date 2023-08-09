@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS Backup logically air-gapped vault &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-backup-logically-air-gapped-vault-preview/)
+- [AWS DataSync expands support for copying data to and from other clouds](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-datasync-copying-data-other-clouds/)
 - [Amazon Timestream releases open-source ODBC driver](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-timestream-open-source-odbc-driver/)
 - [Amazon ElastiCache for Redis adds support for online migration of clusters running in cluster mode](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-elasticache-redis-online-migration-clusters-cluster-mode/)
 - [AWS Global Accelerator extends IPv6 support to EC2 endpoints](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-global-accelerator-extends-ipv6-support-ec2-endpoints/)
-- [AWS Glue Studio now supports Amazon CodeWhisperer in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-glue-studio-amazon-codewhisperer-additional-regions/)
-- [Amazon EFS is now available in the AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-efs-aws-israel-tel-aviv-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
