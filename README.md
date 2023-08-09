@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the ability to release inactive data from Amazon FSx for Lustre file systems](https://aws.amazon.com/about-aws/whats-new/2023/08/release-inactive-data-amazon-fsx-lustre-file-systems/)
 - [Amazon FSx for OpenZFS now provides a Multi-AZ deployment option for file systems](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-fsx-openzfs-multi-az-deployment-file-systems/)
 - [Amazon FSx for Windows File Server increases maximum throughput to 12 GB/s](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-fsx-windows-file-server-increases-throughput-12-gbs/)
 - [Mountpoint for Amazon S3 is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/08/mountpoint-amazon-s3-generally-available/)
 - [You can now scale IOPS separately from storage on Amazon FSx for Windows File Server](https://aws.amazon.com/about-aws/whats-new/2023/08/scale-iops-separately-storage-amazon-fsx-windows-file-server/)
-- [Amazon S3 Glacier Flexible Retrieval improves data restore time by up to 85%](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-s3-glacier-flexible-retrieval-improves-restore-time/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
