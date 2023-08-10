@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Network Load Balancer now supports security groups](https://aws.amazon.com/about-aws/whats-new/2023/08/network-load-balancer-supports-security-groups/)
+- [AWS Firewall Manager announces enhancements to optimize AWS WAF web ACL creation in AWS accounts](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-firewall-manager-optimize-waf-web-acl-creation-accounts/)
 - [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-rosa-asia-pacific-melbourne-region/)
 - [Amazon MWAA now supports Apache Airflow version 2.6](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-mwaa-apache-airflow-version-2-6/)
 - [Amazon EventBridge Schema Registry and Schema Discovery now in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-eventbridge-schema-registry-discovery-regions/)
-- [AWS Service Catalog announces support for HashiCorp Terraform Cloud](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-service-catalog-hashicorp-terraform-cloud/)
-- [Amazon S3 Glacier Flexible Retrieval improves data restore time by up to 85%](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-s3-glacier-flexible-retrieval-improves-restore-time/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
