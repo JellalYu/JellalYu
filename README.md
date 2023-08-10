@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-rosa-asia-pacific-melbourne-region/)
+- [Amazon MWAA now supports Apache Airflow version 2.6](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-mwaa-apache-airflow-version-2-6/)
+- [Amazon EventBridge Schema Registry and Schema Discovery now in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-eventbridge-schema-registry-discovery-regions/)
+- [AWS Service Catalog announces support for HashiCorp Terraform Cloud](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-service-catalog-hashicorp-terraform-cloud/)
 - [Amazon S3 Glacier Flexible Retrieval improves data restore time by up to 85%](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-s3-glacier-flexible-retrieval-improves-restore-time/)
-- [Amazon RDS for MySQL supports new minor versions 5.7.43 and 8.0.34](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-mysql-new-minor-versions/)
-- [Amazon EC2 Inf2 instances, optimized for generative AI, now available in US West &lpar;Oregon&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-inf2-instances-us-west-oregon-region/)
-- [Announcing Terraform support for Amazon OpenSearch Serverless deployments](https://aws.amazon.com/about-aws/whats-new/2023/08/terraform-amazon-opensearch-serverless-deployments/)
-- [Amazon QuickSight now supports embedded callback actions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-quicksight-embedded-workflows-callback-actions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
