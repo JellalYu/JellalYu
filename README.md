@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight launches hierarchy layout for pivot tables](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-quicksight-hierarchy-pivot-tables/)
+- [Amazon RDS for Oracle now supports July 2023 Release Update](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-oracle-july-2023-release-update/)
+- [PostgreSQL 16 Beta 3 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2023/08/postgresql-16-beta-3-amazon-rds-database-preview/)
 - [Network Load Balancer now supports security groups](https://aws.amazon.com/about-aws/whats-new/2023/08/network-load-balancer-supports-security-groups/)
 - [AWS Firewall Manager announces enhancements to optimize AWS WAF web ACL creation in AWS accounts](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-firewall-manager-optimize-waf-web-acl-creation-accounts/)
-- [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-rosa-asia-pacific-melbourne-region/)
-- [Amazon MWAA now supports Apache Airflow version 2.6](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-mwaa-apache-airflow-version-2-6/)
-- [Amazon EventBridge Schema Registry and Schema Discovery now in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-eventbridge-schema-registry-discovery-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
