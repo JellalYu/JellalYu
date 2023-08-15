@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kinesis Video Streams improves image sampling frequency to 5 frames per second](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-kinesis-video-streams-image-sampling-frequency/)
 - [Amazon OpenSearch Serverless expands support for larger workloads and collections](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-opensearch-serverless-workloads-collections/)
 - [Amazon VPC Lattice is now available in 4 additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-vpc-lattice-additional-regions/)
 - [AWS Resilience Hub supports Exclude Recommendations](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-resilience-hub-exclude-recommendations/)
 - [Amazon EMR Serverless now makes it easier to specify fine grained log configurations](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-emr-serverless-specify-fine-grained-log-configurations/)
-- [AWS IAM Identity Center integration is now generally available for Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-iam-identity-center-integration-amazon-quicksight/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
