@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Custom for Oracle now supports R6i, M6i, and T3 instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-custom-oracle-r6i-m6i-t3-instances/)
+- [AWS HealthOmics now supports versioning of annotation stores](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-healthomics-versioning-annotation-stores/)
+- [AWS HealthOmics supports cross-account sharing of omics analytics stores](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-healthomics-cross-account-sharing-analytics-stores/)
 - [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/red-hat-openshift-service-aws-rosa-zurich-region/)
 - [AWS Mainframe Modernization Data Replication with Precisely is now available](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-mainframe-modernization-data-replication-precisely/)
-- [Amazon Kinesis Video Streams improves image sampling frequency to 5 frames per second](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-kinesis-video-streams-image-sampling-frequency/)
-- [Amazon OpenSearch Serverless expands support for larger workloads and collections](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-opensearch-serverless-workloads-collections/)
-- [Amazon VPC Lattice is now available in 4 additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-vpc-lattice-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
