@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS now supports T4g database instances in 6 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-t4g-instances-6-regions/)
+- [Amazon RDS now supports M6g and R6g database instances in six additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-m6g-r6g-database-instances-six-regions/)
+- [Amazon EC2 D3en instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-d3en-instances-additional-regions/)
+- [Announcing general purpose Amazon EC2 M7a instances](https://aws.amazon.com/about-aws/whats-new/2023/08/general-purpose-amazon-ec2-m7a-instances/)
 - [AWS Backup Audit Manager now supports delegated backup administrator](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-backup-audit-manager-delegated-backup-administrator/)
-- [Amazon EC2 M7g and R7g instances are now available in AWS Region Asia Pacific &lpar;Singapore&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7g-r7g-instances-singapore/)
-- [AWS Glue Studio Visual ETL adds 5 new visual transforms](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-glue-studio-visual-etl-new-visual-transforms/)
-- [Amazon Polly launches new Gulf Arabic male NTTS voice](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-polly-gulf-arabic-male-ntts-voice/)
-- [Amazon RDS Custom for Oracle now supports R6i, M6i, and T3 instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-custom-oracle-r6i-m6i-t3-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
