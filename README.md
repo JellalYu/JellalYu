@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup Audit Manager now supports delegated backup administrator](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-backup-audit-manager-delegated-backup-administrator/)
+- [Amazon EC2 M7g and R7g instances are now available in AWS Region Asia Pacific &lpar;Singapore&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7g-r7g-instances-singapore/)
+- [AWS Glue Studio Visual ETL adds 5 new visual transforms](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-glue-studio-visual-etl-new-visual-transforms/)
+- [Amazon Polly launches new Gulf Arabic male NTTS voice](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-polly-gulf-arabic-male-ntts-voice/)
 - [Amazon RDS Custom for Oracle now supports R6i, M6i, and T3 instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-custom-oracle-r6i-m6i-t3-instances/)
-- [AWS HealthOmics now supports versioning of annotation stores](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-healthomics-versioning-annotation-stores/)
-- [AWS HealthOmics supports cross-account sharing of omics analytics stores](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-healthomics-cross-account-sharing-analytics-stores/)
-- [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/red-hat-openshift-service-aws-rosa-zurich-region/)
-- [AWS Mainframe Modernization Data Replication with Precisely is now available](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-mainframe-modernization-data-replication-precisely/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
