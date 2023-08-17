@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon EC2 Hpc7a instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-hpc7a-instances/)
+- [AWS DeepRacer Student launches educator playbooks](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-deepracer-educator-playbooks/)
 - [Amazon Lex now supports Confirmation slot type](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-lex-confirmation-slot-type/)
 - [AWS Client VPN now supports Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-client-vpn-israel-tel-aviv-region/)
 - [Amazon RDS Performance Insights enhanced console experience in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-performance-insights-enhanced-console-govcloud/)
-- [AWS AppSync now supports JavaScript for all resolvers in GraphQL APIs](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-appsync-javascript-all-resolvers-graphql-apis/)
-- [Amazon RDS Performance Insights provides an on-demand analysis experience](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-performance-insights-on-demand-analysis-experience/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
