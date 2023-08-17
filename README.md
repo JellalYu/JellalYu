@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Client VPN now supports Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-client-vpn-israel-tel-aviv-region/)
 - [Amazon RDS Performance Insights enhanced console experience in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-performance-insights-enhanced-console-govcloud/)
 - [AWS AppSync now supports JavaScript for all resolvers in GraphQL APIs](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-appsync-javascript-all-resolvers-graphql-apis/)
 - [Amazon RDS Performance Insights provides an on-demand analysis experience](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-performance-insights-on-demand-analysis-experience/)
 - [Amazon RDS Custom for Oracle now supports R5b and X2iedn instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-custom-oracle-r5b-x2iedn-instances/)
-- [Amazon RDS now supports T4g database instances in 6 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-t4g-instances-6-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
