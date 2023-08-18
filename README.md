@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Audit Manager adds integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-audit-manager-integration-amazon-eventbridge/)
+- [AWS Batch on Amazon ECS now supports AL2023](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-batch-amazon-ecs-al2023/)
+- [Amazon EC2 I4i is available in UAE, Jakarta, and Hyderabad regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-l4i-uae-jakarta-hyderabad-regions/)
 - [Amazon FSx for NetApp ONTAP now provides additional performance metrics and an enhanced monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-fsx-netapp-ontap-additional-performance-metrics-monitoring-dashboard/)
 - [New self-service Vendor Insights onboarding experience for AWS Marketplace sellers](https://aws.amazon.com/about-aws/whats-new/2023/08/self-service-vendor-insights-onboarding-experience-aws-marketplace-sellers/)
-- [Announcing Amazon GameLift support for instances powered by AWS Graviton3 processors](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-gamelift-instances-aws-graviton-3-processors/)
-- [Announcing Amazon EC2 Hpc7a instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-hpc7a-instances/)
-- [AWS DeepRacer Student launches educator playbooks](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-deepracer-educator-playbooks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
