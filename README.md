@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Global Database introduces Global Database Failover](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-aurora-global-database-failover/)
 - [Amazon RDS for MariaDB now supports MariaDB 10.11 for up to 40% higher transaction throughput](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-mariadb-mariadb-10-11-higher-transaction-throughput/)
 - [AWS PrivateLink announces support for user defined IP on VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-privatelink-user-defined-ip-vpc-endpoints/)
 - [Amazon SageMaker Studio Lab supports SageMaker Distribution](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-studio-lab-supports-sagemaker-distribution/)
 - [AWS Application Migration Service now available in Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-application-migration-service-israel-tel-aviv/)
-- [AWS CloudFormation StackSets is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-cloudformation-stacksets-israel-tel-aviv-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
