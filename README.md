@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Model Cards now supports cross account sharing of model cards](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-model-cards-cross-account-sharing-model-cards/)
+- [AWS DataSync is now available in the Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-datasync-israel-tel-aviv-region/)
 - [Manage Cost Allocation Tags with Last-Updated and Last-Used timestamps](https://aws.amazon.com/about-aws/whats-new/2023/08/manage-cost-allocation-tags-updated-used-timestamps/)
 - [AWS Backup is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-backup-israel-tel-aviv-region/)
 - [Announcing AWS Dedicated Local Zones](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-dedicated-local-zones/)
-- [Amazon SageMaker announces new Rolling Deployment endpoint update option](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-rolling-deployment-endpoint-update-option/)
-- [AWS Cost Explorer announces support for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-cost-explorer-billing-conductor/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
