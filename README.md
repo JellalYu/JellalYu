@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL supports minor versions 15.4, 14.9, 13.12, 12.16, and 11.21](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-postgresql-minor-versions/)
 - [Aurora MySQL supports Percona Xtrabackup for MySQL 8 physical migrations](https://aws.amazon.com/about-aws/whats-new/2023/08/aurora-mysql-percona-xtrabackup-mysql-8-physical-migrations/)
 - [Trn1 instances optimized for Generative AI now available in US East &lpar;Ohio&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/trn1-instances-generative-ai-us-east-ohio/)
 - [AWS Wickr is now available in the Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-wickr-europe-london-region/)
 - [AWS Certificate Manager introduces Enterprise Controls to help govern certificate issuance](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-certificate-manager-enterprise-controls-certificate-issuance/)
-- [AWS Storage Gateway is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-storage-gateway-israel-tel-aviv-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
