@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Trn1 instances optimized for Generative AI now available in US East &lpar;Ohio&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/trn1-instances-generative-ai-us-east-ohio/)
+- [AWS Wickr is now available in the Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-wickr-europe-london-region/)
 - [AWS Certificate Manager introduces Enterprise Controls to help govern certificate issuance](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-certificate-manager-enterprise-controls-certificate-issuance/)
 - [AWS Storage Gateway is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-storage-gateway-israel-tel-aviv-region/)
 - [Amazon Athena is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-athena-israel-tel-aviv-region/)
-- [Amazon EC2 C7gd, M7gd, and R7gd instances now available in Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-c7gd-m7gd-r7gd-instances-frankfurt-region/)
-- [Amazon SageMaker Model Cards now supports cross account sharing of model cards](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-model-cards-cross-account-sharing-model-cards/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
