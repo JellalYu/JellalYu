@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Detective launches in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-detective-israel-tel-aviv-region/)
 - [Amazon Route 53 Resolver DNS Firewall available in Middle East &lpar;UAE&rpar; and Israel &lpar;Tel Aviv&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-route-53-resolver-dns-firewall-uae-israel/)
 - [Amazon Simple Email Service is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-simple-email-service-israel-tel-aviv-region/)
 - [Amazon Connect  now supports scheduling of agent group activities](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-scheduling-agent-group-activities/)
 - [Amazon GuardDuty now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-guardduty-available-israel-tel-aviv-region/)
-- [AWS Microservice Extractor now supports visualizing very large enterprise applications](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-microservice-extractor-visualizing-enterprise-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
