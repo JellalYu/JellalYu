@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Neuron adds support for Llama 2, GPT-NeoX, and SDXL generative AI models](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-neuron-llama2-gpt-neox-sdxl-ai-models/)
-- [Announcing availability of AWS Outposts in Iceland and Uruguay](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-outposts-iceland-uruguay/)
-- [AWS Transfer Family announces multiple methods to authenticate SFTP users](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-transfer-family-multiple-methods-authenticate-sftp-users/)
-- [Amazon VPC CNI now supports Kubernetes NetworkPolicy enforcement](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-vpc-cni-kubernetes-networkpolicy-enforcement/)
-- [AWS Elemental MediaTailor supports per-session control of non-linear overlay video ads](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-elemental-mediatailor-session-control-non-linear-video-ads/)
+- [Amazon RDS for Oracle supports time zone auto-upgrade for Single-tenant instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-oracle-time-zone-auto-upgrade-single-tenant-instances/)
+- [Service Quotas adds support to increase the instances per domain quota for Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/08/service-quotas-increase-instances-domain-quota-amazon-opensearch-service/)
+- [Announcing refactor environment automation for Application Migration Service](https://aws.amazon.com/about-aws/whats-new/2023/08/refactor-environment-automation-application-migration-service/)
+- [AWS Application Migration Service supports additional modernization actions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-application-migration-service-modernization-actions/)
+- [Amazon RDS for PostgreSQL now supports PL/Rust in versions 13 and 14](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-postgresql-pl-rust-version-13-14/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
