@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [App Runner adds support for Bitbucket source code repository](https://aws.amazon.com/about-aws/whats-new/2023/08/app-runner-bitbucket-source-code-repository/)
+- [AWS Outposts rack now supports intra-VPC communication across multiple Outposts](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-outposts-rack-intra-vpc-communication-multiple-outposts/)
 - [AWS Amplify supports time-based one-time password for MFA on Android, Swift, Flutter](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-amplify-time-based-password-mfa-android-swift-flutter/)
 - [Amazon Connect launches new bulk editing features for users](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-bulk-editing-features/)
 - [Now deploy Gateway Load Balancer Endpoint between virtual private gateway and subnets in Amazon VPC](https://aws.amazon.com/about-aws/whats-new/2023/08/gateway-load-balancer-endpoint-virtual-private-gateway-vpc/)
-- [AWS Clean Rooms launches new capabilities for increased configurability](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-clean-rooms-capabilities-increased-configurability/)
-- [Introducing Amazon Managed Service for Apache Flink](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-managed-service-apache-flink/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
