@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Amplify supports time-based one-time password for MFA on Android, Swift, Flutter](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-amplify-time-based-password-mfa-android-swift-flutter/)
+- [Amazon Connect launches new bulk editing features for users](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-bulk-editing-features/)
 - [Now deploy Gateway Load Balancer Endpoint between virtual private gateway and subnets in Amazon VPC](https://aws.amazon.com/about-aws/whats-new/2023/08/gateway-load-balancer-endpoint-virtual-private-gateway-vpc/)
 - [AWS Clean Rooms launches new capabilities for increased configurability](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-clean-rooms-capabilities-increased-configurability/)
 - [Introducing Amazon Managed Service for Apache Flink](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-managed-service-apache-flink/)
-- [Amazon RDS for Oracle supports time zone auto-upgrade for Single-tenant instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-oracle-time-zone-auto-upgrade-single-tenant-instances/)
-- [Service Quotas adds support to increase the instances per domain quota for Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/08/service-quotas-increase-instances-domain-quota-amazon-opensearch-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
