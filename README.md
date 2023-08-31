@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS SDK for SAP ABAP is now available in Amazon Web Services China Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-sdk-sap-abap-china-regions/)
 - [AWS AppSync provides an improved module and functions for JavaScript DynamoDB resolvers](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-appsync-module-functions-javascript-dynamodb-resolvers/)
 - [AWS Step Functions streamlines the authoring experience in Workflow Studio](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-step-functions-authoring-experience-workflow-studio/)
 - [PostgreSQL 16 Release Candidate 1 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2023/08/postgresql-16-release-candidate-1-amazon-rds-database-preview-environment/)
 - [Amazon QuickSight launches scaled shared folders for asset sharing at scale in a multi-tenant setup](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-quick-sight-scaled-shared-folders-asset-sharing-scale-multi-tenant-setup/)
-- [AWS DataSync now provides detailed data transfer task reports](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-datasync-detailed-data-transfer-task-reports/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
