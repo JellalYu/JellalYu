@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IAM Identity Center is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-iam-identity-center-israel-tel-aviv-region/)
+- [AWS Lambda Functions powered by AWS Graviton2 now available in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-lambda-functions-graviton2-6-regions/)
 - [Announcing improved user experience with console enhancements for AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2023/08/improved-user-experience-console-enhancements-aws-network-firewall/)
 - [Announcing Amazon CodeCatalyst’s Launch in Europe &lpar;Ireland&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-codecatalyst-europe-ireland/)
 - [Amazon OpenSearch Ingestion now supports ingesting streaming data from Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-opensearch-ingestion-streaming-data-msk/)
-- [AWS Directory Service and AWS Private CA provide certificates for Active Directory](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-directory-service-private-ca-certificates-active-directory/)
-- [Amazon SES now offers email delivery and engagement history for every email](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ses-email-delivery-engagement-history/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
