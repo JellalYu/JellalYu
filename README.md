@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS AppSync provides an improved module and functions for JavaScript DynamoDB resolvers](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-appsync-module-functions-javascript-dynamodb-resolvers/)
+- [AWS Step Functions streamlines the authoring experience in Workflow Studio](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-step-functions-authoring-experience-workflow-studio/)
+- [PostgreSQL 16 Release Candidate 1 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2023/08/postgresql-16-release-candidate-1-amazon-rds-database-preview-environment/)
+- [Amazon QuickSight launches scaled shared folders for asset sharing at scale in a multi-tenant setup](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-quick-sight-scaled-shared-folders-asset-sharing-scale-multi-tenant-setup/)
 - [AWS DataSync now provides detailed data transfer task reports](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-datasync-detailed-data-transfer-task-reports/)
-- [Amazon Chime SDK now supports meetings in the AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-chime-sdk-meetings-israel-tel-aviv-region/)
-- [AWS HealthOmics now provides workflow run archiving and retention](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-healthomics-workflow-run-archiving-retention/)
-- [Amazon S3 now supports multivalue answer in response to DNS queries](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-s3-multivalue-answer-response-dns-queries/)
-- [Announcing AWS ParallelCluster 3.7 with Login nodes and Ubuntu 22 support](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-parallelcluster-3-7-login-nodes-ubuntu-22-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
