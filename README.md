@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing improved user experience with console enhancements for AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2023/08/improved-user-experience-console-enhancements-aws-network-firewall/)
+- [Announcing Amazon CodeCatalyst’s Launch in Europe &lpar;Ireland&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-codecatalyst-europe-ireland/)
+- [Amazon OpenSearch Ingestion now supports ingesting streaming data from Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-opensearch-ingestion-streaming-data-msk/)
 - [AWS Directory Service and AWS Private CA provide certificates for Active Directory](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-directory-service-private-ca-certificates-active-directory/)
 - [Amazon SES now offers email delivery and engagement history for every email](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ses-email-delivery-engagement-history/)
-- [Amazon SNS now supports additional usage metrics in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sns-usage-metrics-cloudwatch/)
-- [Amazon RDS Optimized Writes for MySQL and MariaDB now supports r5 database instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-optimized-writes-mysql-mariadb-r5-database-instances/)
-- [AWS SimSpace Weaver SDK for Python now available](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-simspace-weaver-sdk-python/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
