@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Directory Service and AWS Private CA provide certificates for Active Directory](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-directory-service-private-ca-certificates-active-directory/)
+- [Amazon SES now offers email delivery and engagement history for every email](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ses-email-delivery-engagement-history/)
+- [Amazon SNS now supports additional usage metrics in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sns-usage-metrics-cloudwatch/)
+- [Amazon RDS Optimized Writes for MySQL and MariaDB now supports r5 database instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-optimized-writes-mysql-mariadb-r5-database-instances/)
 - [AWS SimSpace Weaver SDK for Python now available](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-simspace-weaver-sdk-python/)
-- [AWS SDK for SAP ABAP is now available in Amazon Web Services China Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-sdk-sap-abap-china-regions/)
-- [AWS AppSync provides an improved module and functions for JavaScript DynamoDB resolvers](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-appsync-module-functions-javascript-dynamodb-resolvers/)
-- [AWS Step Functions streamlines the authoring experience in Workflow Studio](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-step-functions-authoring-experience-workflow-studio/)
-- [PostgreSQL 16 Release Candidate 1 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2023/08/postgresql-16-release-candidate-1-amazon-rds-database-preview-environment/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
