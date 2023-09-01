@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS IAM Identity Center is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-iam-identity-center-israel-tel-aviv-region/)
-- [AWS Lambda Functions powered by AWS Graviton2 now available in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-lambda-functions-graviton2-6-regions/)
-- [Announcing improved user experience with console enhancements for AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2023/08/improved-user-experience-console-enhancements-aws-network-firewall/)
-- [Announcing Amazon CodeCatalyst’s Launch in Europe &lpar;Ireland&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-codecatalyst-europe-ireland/)
-- [Amazon OpenSearch Ingestion now supports ingesting streaming data from Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-opensearch-ingestion-streaming-data-msk/)
+- [Amazon RDS Custom for SQL Server lets you stop and start your database instance on demand](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-custom-sql-stop-start-database-instance/)
+- [Amazon SageMaker Canvas now supports additional data connectors with JDBC](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-canvas-data-connectors-jdbc/)
+- [Amazon Connect now supports Universal International Freephone Numbers](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-universal-international-freephone-numbers/)
+- [AWS Marketplace now supports AWS CloudTrail to improve procurement activity monitoring](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-marketplace-cloudtrail-improve-procurement-activity-monitoring/)
+- [Amazon Cognito now available in Asia Pacific &lpar;Osaka&rpar; and Israel &lpar;Tel Aviv&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cognito-new-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
