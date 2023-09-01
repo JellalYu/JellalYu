@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Macie is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-macie-israel-tel-aviv-region/)
+- [Sagemaker Real-time Inference now supports response streaming](https://aws.amazon.com/about-aws/whats-new/2023/09/sagemaker-real-time-inference-response-streaming/)
 - [Amazon RDS Custom for SQL Server lets you stop and start your database instance on demand](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-custom-sql-stop-start-database-instance/)
 - [Amazon SageMaker Canvas now supports additional data connectors with JDBC](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-canvas-data-connectors-jdbc/)
 - [Amazon Connect now supports Universal International Freephone Numbers](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-universal-international-freephone-numbers/)
-- [AWS Marketplace now supports AWS CloudTrail to improve procurement activity monitoring](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-marketplace-cloudtrail-improve-procurement-activity-monitoring/)
-- [Amazon Cognito now available in Asia Pacific &lpar;Osaka&rpar; and Israel &lpar;Tel Aviv&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cognito-new-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
