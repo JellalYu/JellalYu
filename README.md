@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-transfer-family-aws-israel-tel-aviv-region/)
 - [Amazon AppFlow now supports concurrent processing for data transfers from SAP applications](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-appflow-current-processing-data-transfers-sap-applications/)
 - [Amazon Macie is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-macie-israel-tel-aviv-region/)
 - [Sagemaker Real-time Inference now supports response streaming](https://aws.amazon.com/about-aws/whats-new/2023/09/sagemaker-real-time-inference-response-streaming/)
 - [Amazon RDS Custom for SQL Server lets you stop and start your database instance on demand](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-custom-sql-stop-start-database-instance/)
-- [Amazon SageMaker Canvas now supports additional data connectors with JDBC](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-canvas-data-connectors-jdbc/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
