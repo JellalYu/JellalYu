@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx for NetApp ONTAP is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-fsx-netapp-ontap-aws-israel-tel-aviv-region/)
 - [AWS Compute Optimizer supports rightsizing for G4dn and P3 instances](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-compute-optimizer-rightsizing-g4dn-p3-instances/)
 - [Amazon Personalize simplifies implementation by extending column limits](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-personalize-implementation-column-limits/)
 - [Amazon SageMaker geospatial capabilities now support Notebook with GPU-based Instances](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-geospatial-notebook-gpu-instances/)
 - [AWS SAM CLI announces local testing and debugging support on Terraform projects](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-sam-cli-local-testing-debugging-terraform-projects/)
-- [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-high-memory-instances-asia-pacific-seoul-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
