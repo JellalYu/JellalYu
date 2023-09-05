@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Trusted Advisor adds 1 new fault tolerance check](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-trusted-advisor-new-fault-tolerance-check/)
+- [Amazon RDS for PostgreSQL now supports h3-pg for geospatial indexing](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-postgresql-h3-pg-geospatial-indexing/)
+- [AWS Partner network launches new AWS Automotive Competency](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-partner-network-aws-automotive-competency/)
+- [Amazon CloudWatch adds Amazon EKS control plane logs as Vended Logs](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cloudwatch-eks-control-plane-vended-logs/)
 - [Amazon Aurora and Amazon RDS announces Extended Support for MySQL and PostgreSQL databases](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-aurora-rds-extended-support-mysql-postgresql-databases/)
-- [AWS Transfer Family is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-transfer-family-aws-israel-tel-aviv-region/)
-- [Amazon AppFlow now supports concurrent processing for data transfers from SAP applications](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-appflow-current-processing-data-transfers-sap-applications/)
-- [Amazon Macie is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-macie-israel-tel-aviv-region/)
-- [Sagemaker Real-time Inference now supports response streaming](https://aws.amazon.com/about-aws/whats-new/2023/09/sagemaker-real-time-inference-response-streaming/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
