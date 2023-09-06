@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C6id instances are now available in AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-c6id-instances-aws-europe-london-region/)
 - [AWS WAF Bot Control now protects against distributed proxy-based attacks](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-waf-bot-control-protects-against-distributed-proxy-based-attacks/)
 - [Amazon SageMaker Inference now supports Multi Model Endpoints for PyTorch](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-inference-multi-model-endpoints-pytorch/)
 - [Amazon Location Service is now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-location-service-aws-govcloud-us-west-region/)
 - [Amazon EC2 M6i and R6i instances are now available in Europe &lpar;Zurich&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-m6i-r6i-instances-europe-zurich-region/)
-- [Amazon CloudWatch Logs announces regular expression filter pattern syntax support](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cloudwatch-logs-regular-expression-filter-pattern-syntax-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
