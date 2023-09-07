@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaConnect adds new Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-elemental-mediaconnect-cloudwatch-metrics/)
+- [Amazon Detective adds Amazon EKS security investigations to AWS Workshop Studio](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-detective-eks-investigations-workshop-studio/)
 - [Announcing daily disbursements for AWS Marketplace sellers](https://aws.amazon.com/about-aws/whats-new/2023/09/daily-disbursements-aws-marketplace-sellers/)
 - [Introducing Amazon EC2 R7iz instances](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-r7iz-instances/)
 - [Amazon Kendra releases Web Crawler for dynamic content support](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-kendra-web-crawler-dynamic-content/)
-- [AWS Security Hub now supports findings consolidation in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-security-hub-findings-consolidation-aws-govcloud-us-regions/)
-- [Amazon RDS now supports custom data types in Trusted Language Extensions for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-custom-data-types-trusted-language-extensions-postgre-sql/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
