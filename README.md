@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Step Functions launches enhanced error handling](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-step-functions-enhanced-error-handling/)
+- [Amazon RDS for MariaDB supports minors 10.11.5, 10.6.15, 10.5.22, 10.4.31](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-mariadb-supports-new-minors/)
+- [Amazon SageMaker now provides a new quick Studio setup experience](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-quick-studio-setup-experience/)
 - [AWS Elemental MediaConnect adds new Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-elemental-mediaconnect-cloudwatch-metrics/)
 - [Amazon Detective adds Amazon EKS security investigations to AWS Workshop Studio](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-detective-eks-investigations-workshop-studio/)
-- [Announcing daily disbursements for AWS Marketplace sellers](https://aws.amazon.com/about-aws/whats-new/2023/09/daily-disbursements-aws-marketplace-sellers/)
-- [Introducing Amazon EC2 R7iz instances](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-r7iz-instances/)
-- [Amazon Kendra releases Web Crawler for dynamic content support](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-kendra-web-crawler-dynamic-content/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
