@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing daily disbursements for AWS Marketplace sellers](https://aws.amazon.com/about-aws/whats-new/2023/09/daily-disbursements-aws-marketplace-sellers/)
+- [Introducing Amazon EC2 R7iz instances](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-r7iz-instances/)
+- [Amazon Kendra releases Web Crawler for dynamic content support](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-kendra-web-crawler-dynamic-content/)
+- [AWS Security Hub now supports findings consolidation in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-security-hub-findings-consolidation-aws-govcloud-us-regions/)
 - [Amazon RDS now supports custom data types in Trusted Language Extensions for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-custom-data-types-trusted-language-extensions-postgre-sql/)
-- [New Amazon FSx for NetApp ONTAP capabilities simplify managing file systems using ONTAP CLI](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-fsx-netapp-ontap-managing-file-systems-ontap-cli/)
-- [Amazon EC2 C6id instances are now available in AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-c6id-instances-aws-europe-london-region/)
-- [AWS WAF Bot Control now protects against distributed proxy-based attacks](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-waf-bot-control-protects-against-distributed-proxy-based-attacks/)
-- [Amazon SageMaker Inference now supports Multi Model Endpoints for PyTorch](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-inference-multi-model-endpoints-pytorch/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
