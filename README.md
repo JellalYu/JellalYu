@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL Multi-AZ Deployment with two readable standbys now supports major version upgrades](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-postgresql-multi-az-deployment-readable-standbys-major-version-upgrades/)
 - [Get programmatic notifications for AWS Marketplace Offer Published events](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-marketplace-published-events-notifications/)
 - [ROSA now available in the Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/rosa-europe-spain-region/)
 - [AWS Backup announces support for Amazon Aurora continuous backup](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-backup-amazon-aurora-continuous-backup/)
 - [Amazon SES email receiving service expands to 7 new regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ses-email-service-7-regions/)
-- [AWS NAT Gateway is now available in the AWS Los Angeles Local Zone us-west-2-lax-1a](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-nat-gateway-available-los-angeles-local-zone/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
