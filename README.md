@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IAM Identity Center session duration limit increases from 7 to 90 days](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iam-identity-center-session-duration-limit-increases/)
+- [Announcing compute optimized Amazon EC2 R7a instances](https://aws.amazon.com/about-aws/whats-new/2023/09/compute-optimized-amazon-ec2-r7a-instances/)
 - [Amazon Connect Cases now includes author name on comments](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-cases-author-name-comments/)
 - [Amazon Connect Cases now supports attachments](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-cases-attachments/)
 - [AWS Elemental Link UHD simplifies live video contribution with MediaConnect](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-elemental-link-uhd-live-video-contribution-mediaconnect/)
-- [Amazon DocumentDB is now available in the Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-documentdb-asia-pacific-hyderabad-region/)
-- [Amazon RDS now supports M6id and R6id database instances](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-m6id-r6id-database-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
