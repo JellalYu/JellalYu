@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace introduces new self-service listing feature for SaaS products](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-marketplace-self-service-listing-saas/)
 - [Amazon Connect outbound campaigns is now generally available in the Europe &lpar;Frankfurt&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-outbound-campaigns-europe-frankfurt-region/)
 - [Amazon EC2 now supports Block Public Access for Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-block-public-access-machine-images/)
 - [Amazon OpenSearch Serverless extends auto-scaling to handle high query rates](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-opensearch-serverless-auto-scaling-query-rates/)
 - [Amazon EMR on EKS now supports Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-emr-eks-linux-2023/)
-- [Knowledge base for Amazon Bedrock connects foundation models to your data sources](https://aws.amazon.com/about-aws/whats-new/2023/09/knowledge-base-amazon-bedrock-models-data-sources/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
