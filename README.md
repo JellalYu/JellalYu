@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing API Gateway console refresh](https://aws.amazon.com/about-aws/whats-new/2023/09/api-gateway-console-refresh/)
-- [AWS Marketplace introduces new self-service listing feature for SaaS products](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-marketplace-self-service-listing-saas/)
-- [Amazon Connect outbound campaigns is now generally available in the Europe &lpar;Frankfurt&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-outbound-campaigns-europe-frankfurt-region/)
-- [Amazon EC2 now supports Block Public Access for Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-block-public-access-machine-images/)
-- [Amazon OpenSearch Serverless extends auto-scaling to handle high query rates](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-opensearch-serverless-auto-scaling-query-rates/)
+- [AWS Supply Chain adds new override retention capability](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-supply-chain-override-retention-capability/)
+- [AWS Supply Chain Demand Planning extends availability into Sydney region](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-supply-chain-demand-planning-extends-availability-sydney-region/)
+- [AWS Control Tower is now available in Hyderabad, Spain, UAE, and Zurich Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-control-tower-new-regions/)
+- [AWS Glue Streaming now supports Kinesis Data Streams enhanced fan-out feature](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-glue-streaming-data-streams-fan-out-feature/)
+- [Amazon QuickSight launches pixel based font size and text highlighting for textbox visual](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-quicksight-pixel-based-font-size-text-highlighting/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
