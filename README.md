@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CodeCatalyst now supports IP address access restrictions in GitHub Enterprise Cloud](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-codecatalyst-ip-address-access-restrictions-github-enterprise-cloud/)
+- [Amazon EMR on EKS now supports managed Apache Flink &lpar;Public Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-emr-eks-managed-apache-flink-public-preview/)
 - [Announcing AWS managed IAM policies for ROSA with hosted control planes](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-managed-iam-policies-rosa-control-planes/)
 - [Amazon SNS FIFO topics now support message delivery to Amazon SQS Standard queues](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sns-fifo-topics-message-delivery-sqs-standard-queues/)
 - [Amplify Studio now offers full support of GraphQL APIs](https://aws.amazon.com/about-aws/whats-new/2023/09/amplify-studio-full-support-graphql-apis/)
-- [Amazon EC2 X2idn and X2iedn instances now available in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-x2idn-x2iedn-instances-africa-cape-town-region/)
-- [AWS Identity and Access Management provides action last accessed information for more than 140 services](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-identity-access-management-action-last-accessed-information/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
