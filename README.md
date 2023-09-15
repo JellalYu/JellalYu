@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [PostgreSQL 16.0 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2023/09/postgresql-16-rds-database-preview-environment/)
+- [CodePipeline support for GitLab Groups](https://aws.amazon.com/about-aws/whats-new/2023/09/codepipeline-gitlab-groups/)
 - [AWS Cloud Map now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-cloudmap-supports-privatelink/)
 - [Amazon CodeCatalyst now supports IP address access restrictions in GitHub Enterprise Cloud](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-codecatalyst-ip-address-access-restrictions-github-enterprise-cloud/)
 - [Amazon EMR on EKS now supports managed Apache Flink &lpar;Public Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-emr-eks-managed-apache-flink-public-preview/)
-- [Announcing AWS managed IAM policies for ROSA with hosted control planes](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-managed-iam-policies-rosa-control-planes/)
-- [Amazon SNS FIFO topics now support message delivery to Amazon SQS Standard queues](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sns-fifo-topics-message-delivery-sqs-standard-queues/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
