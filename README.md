@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing AWS Telecom Services Competency Partners](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-telecom-services-competency-partners/)
+- [AWS IAM Identity Center is now available in the Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iam-identity-europe-zurich-region/)
+- [Bottlerocket announces new ECS-optimized AMI](https://aws.amazon.com/about-aws/whats-new/2023/09/bottlerocket-new-ecs-optimized-ami/)
 - [Amazon EBS Multi-Attach on io2 volumes now supports NVMe reservations](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ebs-multi-attach-io2-volumes-nvme-reservations/)
 - [Amazon CloudWatch Synthetics announces new Synthetics Python runtime version 2.0](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cloudwatch-synthetics-synthetics-python-runtime-version-2-0/)
-- [Amazon RDS Performance Insights supports SQL-level metrics for Amazon RDS for SQL Server](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-performance-insights-sql-metrics-rds-server/)
-- [PostgreSQL 16.0 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2023/09/postgresql-16-rds-database-preview-environment/)
-- [CodePipeline support for GitLab Groups](https://aws.amazon.com/about-aws/whats-new/2023/09/codepipeline-gitlab-groups/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
