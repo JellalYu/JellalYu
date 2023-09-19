@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Usability improvements and navigation bar enhancements for the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-management-console-usability-navigation-bar/)
 - [Announcing general availability of Amazon EC2 M2 Pro Mac instances for macOS](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-m2-pro-mac-instances-macos/)
 - [Amazon QuickSight adds new layout and sparkline to KPI visual](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-quicksight-layout-sparkline-kpi-visual/)
 - [Amazon RDS now supports X2iedn instances for SQL Server](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-x2iedn-instances-sql-server/)
 - [Announcing model retraining for Amazon Lookout for Equipment](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-lookout-equipment-model-retraining/)
-- [AWS Step Functions distributed map is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-step-functions-distributed-map-govcloud-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
