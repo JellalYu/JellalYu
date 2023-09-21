@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Corretto 21 is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-corretto-21-generally-available/)
 - [Simulate interruptions in your Spot Fleet directly from the Amazon EC2 Console](https://aws.amazon.com/about-aws/whats-new/2023/09/simulate-interruptions-spot-fleet-amazon-ec2-console/)
 - [Announcing Swift Package Manager support in AWS CodeArtifact](https://aws.amazon.com/about-aws/whats-new/2023/09/swift-package-manager-aws-code-artifact/)
 - [IAM Roles Anywhere credential helper now supports PKCS #11 modules](https://aws.amazon.com/about-aws/whats-new/2023/09/iam-roles-anywhere-credential-helper-pkcs-11-modules/)
 - [Amazon Location Services announces a price reduction of up to 75% for tracking and geofencing](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-location-services-price-reduction-tracking-geofencing/)
-- [AWS Cloud Map introduces new API for retrieving service revision](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-cloud-map-api-service-revision/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
