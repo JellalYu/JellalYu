@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS HealthImaging supports CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-healthimaging-cloudformation/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; supports in-place major version upgrade](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-documentdb-mongodb-in-place-version-upgrade/)
 - [Amazon SNS message data protection can now de-identify outbound messages via redaction or masking](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sns-message-data-protection-de-identify-outbound-messages/)
 - [AWS App Runner launches improvements for Auto-Scaling configuration management](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-app-runner-auto-scaling-management/)
 - [Amazon Corretto 21 is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-corretto-21-generally-available/)
-- [Simulate interruptions in your Spot Fleet directly from the Amazon EC2 Console](https://aws.amazon.com/about-aws/whats-new/2023/09/simulate-interruptions-spot-fleet-amazon-ec2-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
