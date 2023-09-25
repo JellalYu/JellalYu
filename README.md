@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is now available in the &lpar;Hong Kong&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-documentdb-mongodb-hong-kong/)
+- [Amazon Connect Contact Lens now enables supervisors to manage in-progress contacts](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-contact-lens-supervisors-in-progress-contacts/)
 - [You can now generate human-readable sample data with NoSQL Workbench](https://aws.amazon.com/about-aws/whats-new/2023/09/human-readable-sample-data-nosql-workbench/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports JSON schema validation](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-documentdb-mongodb-json-schema-validation/)
 - [Amazon QuickSight now supports freeze/unfreeze columns in Tables](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-quicksight-freeze-unfreeze-columns-tables/)
-- [AWS IAM Identity Center is now available in the Beijing and Ningxia Regions in China](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iam-identity-center-beijing-ningxia-regions/)
-- [Amazon SageMaker Model Monitor now supports one-time monitoring jobs for quick troubleshooting](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-model-monitor-one-time-monitoring-jobs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
