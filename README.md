@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lake Formation launches Hybrid Access Mode for AWS Glue Data Catalog](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-lake-formation-hybrid-access-mode-glue-catalog/)
+- [AWS HealthOmics is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-healthomic-israel-tel-aviv-region/)
 - [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.28](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-eks-distro-kubernetes-version-1-28/)
 - [AWS Verified Access supports FIPS 140-2 compliant endpoints in US and Canada Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-verified-access-fips-140-2-compliant-endpoints-us-canada/)
 - [AWS Application Composer now supports all 1000+ AWS CloudFormation resources](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-application-composer-1000-cloudformation-resources/)
-- [Amazon EC2 Hpc7g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-hpc7g-instances-additional-regions/)
-- [AWS Glue Studio now supports custom icons](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-glue-studios-custom-icons/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
