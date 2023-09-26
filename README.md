@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Contact Lens launches permission for agents to view their own contacts](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-contact-lens-agents-view-contacts/)
 - [Amazon EMR Serverless introduces application-wide default job configurations](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-emr-serverless-application-wide-default-job-configurations/)
 - [Amazon MSK adds support for Apache Kafka version 3.5.1](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-msk-apache-kafka-version-3-5-1/)
 - [AWS Global Accelerator now supports endpoints in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-global-accelerator-endpoints-four-regions/)
 - [Amazon Braket now provides real-time visibility into quantum task and hybrid job queues](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-braket-real-time-visibility-quantum-task-hybrid-job-queues/)
-- [Amazon Chime SDK meetings API endpoints are now available in six new regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-chime-sdk-meetings-api-endpoints-six-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
