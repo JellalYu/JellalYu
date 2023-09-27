@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Lake Formation launches Hybrid Access Mode for AWS Glue Data Catalog](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-lake-formation-hybrid-access-mode-glue-catalog/)
-- [AWS HealthOmics is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-healthomic-israel-tel-aviv-region/)
-- [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.28](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-eks-distro-kubernetes-version-1-28/)
-- [AWS Verified Access supports FIPS 140-2 compliant endpoints in US and Canada Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-verified-access-fips-140-2-compliant-endpoints-us-canada/)
-- [AWS Application Composer now supports all 1000+ AWS CloudFormation resources](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-application-composer-1000-cloudformation-resources/)
+- [Amazon S3 now provides the Last-Modified time for delete markers using S3 Head and Get APIs](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-s3-last-modified-time-delete-markers-s3-head-get-apis/)
+- [Amazon MQ now supports RabbitMQ version 3.11.20](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-mq-rabbitmq-version-3-11-20/)
+- [Amazon RDS Custom for SQL Server now supports changing the server-level collation](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-custom-sql-server-changing-server-level-collation/)
+- [Amazon OpenSearch Service now provides improved visibility into Auto-Tune actions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-opensearch-service-improved-visibility-auto-tune-actions/)
+- [Analyze multi-account app health with CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2023/09/analyze-multi-account-app-health-cloudwatch-application-insights/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
