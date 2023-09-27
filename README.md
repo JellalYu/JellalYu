@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Firewall is now available in the AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-network-firewall-aws-israel-tel-aviv-region/)
+- [AWS WAF now supports JA3 Fingerprint Match](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-waf-ja3-fingerprint-match/)
 - [Amazon CloudFront announces security recommendations](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cloudfront-security-recommendations/)
 - [Amazon MSK now supports fully managed data delivery to Amazon S3 using Kinesis Data Firehose](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-msk-data-s3-kinesis-data-firehose/)
 - [Amazon EC2 Instance Connect now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-instance-connect-additional-aws-regions/)
-- [AWS Telco Network Builder is now available in 5 new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-telco-network-builder-5-new-aws-regions/)
-- [AWS Systems Manager OpsCenter identifies the most issue-prone resources](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-systems-manager-opscenter-issue-resources/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
