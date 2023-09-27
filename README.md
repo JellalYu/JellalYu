@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront announces security recommendations](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cloudfront-security-recommendations/)
+- [Amazon MSK now supports fully managed data delivery to Amazon S3 using Kinesis Data Firehose](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-msk-data-s3-kinesis-data-firehose/)
+- [Amazon EC2 Instance Connect now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-instance-connect-additional-aws-regions/)
 - [AWS Telco Network Builder is now available in 5 new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-telco-network-builder-5-new-aws-regions/)
 - [AWS Systems Manager OpsCenter identifies the most issue-prone resources](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-systems-manager-opscenter-issue-resources/)
-- [Amazon S3 now provides the Last-Modified time for delete markers using S3 Head and Get APIs](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-s3-last-modified-time-delete-markers-s3-head-get-apis/)
-- [Amazon MQ now supports RabbitMQ version 3.11.20](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-mq-rabbitmq-version-3-11-20/)
-- [Amazon RDS Custom for SQL Server now supports changing the server-level collation](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-custom-sql-server-changing-server-level-collation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
