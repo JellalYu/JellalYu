@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime SDK now provides improved audio playback across high-loss networks](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-chime-sdk-audio-playback-high-loss-networks/)
 - [Amazon EC2 P5 instances are now available in AWS US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-p5-instances-us-east-ohio-region/)
 - [Announcing the Amazon GameLift Plugin for Unreal Engine](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-gamelift-plugin-unreal-engine/)
 - [Amazon SNS now supports AWS CloudTrail data event logging for the Publish and PublishBatch API actions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sns-aws-cloudtrail-data-event-logging-publish-publishbatch-api-actions/)
 - [Amazon SageMaker Canvas now provides up to 50% faster forecasting](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-canvas-50-percent-faster-forecasting/)
-- [DynamoDB global tables is now available in all AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/dynamodb-global-tables-all-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
