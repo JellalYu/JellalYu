@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Generative BI dashboard authoring capabilities for Amazon QuickSight &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/09/generative-bi-dashboard-authoring-capabilities-amazon-quicksight-preview/)
-- [Amazon Titan Embeddings is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-titan-embeddings-generally-available/)
-- [Amazon Bedrock is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-bedrock-generally-available/)
-- [AWS Network Firewall is now available in the AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-network-firewall-aws-israel-tel-aviv-region/)
-- [AWS WAF now supports JA3 Fingerprint Match](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-waf-ja3-fingerprint-match/)
+- [Announcing AWS Amplify JavaScript v6 developer preview](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-amplify-javascript-v6-preview/)
+- [AWS IoT Core introduces support for headers in Rules Engine’s Kafka Action](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iot-core-headers-rules-engines-kafka-action/)
+- [AWS Application Migration Service now supports automated agent installation](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-application-migration-service-automated-agent-installation/)
+- [Amazon SQS announces Attribute-Based Access Control &lpar;ABAC&rpar; for scalable access permissions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sqs-abac-scalable-access-permissions/)
+- [AWS App Runner adds support for Monorepos](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-app-runner-monorepos/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
