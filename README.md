@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Generative BI dashboard authoring capabilities for Amazon QuickSight &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/09/generative-bi-dashboard-authoring-capabilities-amazon-quicksight-preview/)
+- [Amazon Titan Embeddings is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-titan-embeddings-generally-available/)
+- [Amazon Bedrock is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-bedrock-generally-available/)
 - [AWS Network Firewall is now available in the AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-network-firewall-aws-israel-tel-aviv-region/)
 - [AWS WAF now supports JA3 Fingerprint Match](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-waf-ja3-fingerprint-match/)
-- [Amazon CloudFront announces security recommendations](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cloudfront-security-recommendations/)
-- [Amazon MSK now supports fully managed data delivery to Amazon S3 using Kinesis Data Firehose](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-msk-data-s3-kinesis-data-firehose/)
-- [Amazon EC2 Instance Connect now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-instance-connect-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
