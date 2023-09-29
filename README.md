@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Fargate now supports Amazon ECS Windows containers in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-fargate-ecs-windows-containers-govcloud-regions/)
+- [Amazon Macie adds support for discovering more types of sensitive data](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-macie-discovering-sensitive-data/)
 - [Amazon Inspector is now available in additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-inspector-additional-regions/)
 - [VPC DNS Query Logging now available in the Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/vpc-dns-query-logging-israel-tel-aviv-region/)
 - [AWS IoT Core for LoRaWAN announces support for public LoRaWAN networks &lpar;GA&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iot-core-lorawan-public-networks-ga/)
-- [Amazon Chime SDK now provides improved audio playback across high-loss networks](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-chime-sdk-audio-playback-high-loss-networks/)
-- [Amazon EC2 P5 instances are now available in AWS US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-p5-instances-us-east-ohio-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
