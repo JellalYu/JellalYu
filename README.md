@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodeDeploy now supports multiple load balancers for Amazon EC2 applications](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codedeploy-multiple-load-balancers-amazon-ec2-applications/)
+- [Amazon OpenSearch Service now supports OpenSearch version 2.9](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-opensearch-version-2-9/)
+- [Application Load Balancer and Network Load Balancer now support registering instances addressed by IPv6 as targets](https://aws.amazon.com/about-aws/whats-new/2023/10/application-load-balancer-network-load-balancer-registering-instances-ipv6-targets/)
 - [AWS Verified Access now supports customer managed KMS keys](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-verified-access-managed-kms-keys/)
 - [Amazon OpenSearch Service version 2.9 expands geospatial aggregations support](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-version-2-9-geospatial-aggregations-support/)
-- [AWS Systems Manager Fleet Manager RDP now supports up to 1080p Resolution](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-systems-manager-fleet-rdp-1080p-resolution/)
-- [AWS Fargate now supports Amazon ECS Windows containers in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-fargate-ecs-windows-containers-govcloud-regions/)
-- [Amazon Macie adds support for discovering more types of sensitive data](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-macie-discovering-sensitive-data/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
