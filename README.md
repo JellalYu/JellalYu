@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EKS Interactive Endpoints is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-emr-eks-interactive-endpoints-generally-available/)
+- [Amazon IVS introduces in-console broadcasting for low-latency streaming](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ivs-in-console-broadcasting-low-latency-streaming/)
 - [Amazon EC2 Hibernate now supports more operating systems](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-hibernate-supports-more-operating-systems/)
 - [AWS Glue Data Quality is now generally available in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-glue-data-quality-generally-available-aws-govcloud-us/)
 - [AWS CodeDeploy now supports multiple load balancers for Amazon EC2 applications](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codedeploy-multiple-load-balancers-amazon-ec2-applications/)
-- [Amazon OpenSearch Service now supports OpenSearch version 2.9](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-opensearch-version-2-9/)
-- [Application Load Balancer and Network Load Balancer now support registering instances addressed by IPv6 as targets](https://aws.amazon.com/about-aws/whats-new/2023/10/application-load-balancer-network-load-balancer-registering-instances-ipv6-targets/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
