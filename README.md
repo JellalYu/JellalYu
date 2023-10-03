@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service announced Amazon OpenSearch Service Integrations](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-integrations/)
+- [Amazon Connect Contact Lens now provides manager alerts on real-time metrics](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-connect-contact-lens-manager-alerts-real-time-metrics/)
+- [AWS Supply Chain Demand Planning now supports Product Lineage](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-supply-chain-demand-planning-product-lineage/)
+- [Amazon ECR Public introduces new navigation and search features to the ECR Public Gallery](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ecr-public-navigation-search-features-gallery/)
 - [Amazon EMR on EKS Interactive Endpoints is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-emr-eks-interactive-endpoints-generally-available/)
-- [Amazon IVS introduces in-console broadcasting for low-latency streaming](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ivs-in-console-broadcasting-low-latency-streaming/)
-- [Amazon EC2 Hibernate now supports more operating systems](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-hibernate-supports-more-operating-systems/)
-- [AWS Glue Data Quality is now generally available in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-glue-data-quality-generally-available-aws-govcloud-us/)
-- [AWS CodeDeploy now supports multiple load balancers for Amazon EC2 applications](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codedeploy-multiple-load-balancers-amazon-ec2-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
