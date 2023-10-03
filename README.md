@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Lambda test events are now available in AWS SAM CLI](https://aws.amazon.com/about-aws/whats-new/2023/10/lambda-test-events-aws-sam-cli/)
+- [New updates to the AWS Well-Architected Framework](https://aws.amazon.com/about-aws/whats-new/2023/10/updates-aws-well-architected-framework/)
+- [Reduce duplication using Well-Architected Templates](https://aws.amazon.com/about-aws/whats-new/2023/10/reduce-duplication-well-architected-templates/)
 - [Amazon EventBridge announces support for wildcard filters in rules](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-eventbridge-wildcard-filters-rules/)
 - [Amazon Location Service adds bounding box search for device positions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-location-service-bounding-box-search-device-positions/)
-- [Amazon OpenSearch Service announced Amazon OpenSearch Service Integrations](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-integrations/)
-- [Amazon Connect Contact Lens now provides manager alerts on real-time metrics](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-connect-contact-lens-manager-alerts-real-time-metrics/)
-- [AWS Supply Chain Demand Planning now supports Product Lineage](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-supply-chain-demand-planning-product-lineage/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
