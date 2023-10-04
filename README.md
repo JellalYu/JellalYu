@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS Extended support for Kubernetes Versions now available in preview](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-eks-support-kubernetes-versions-preview/)
+- [Announcing compute optimized Amazon EC2 C7a instances](https://aws.amazon.com/about-aws/whats-new/2023/10/compute-optimized-amazon-ec2-c7a-instances/)
 - [Announcing Amazon SQS binding extension support in CoreWCF](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-sqs-binding-extension-corewcf/)
 - [Announcing memory optimized Amazon EC2 R7a bare metal instances](https://aws.amazon.com/about-aws/whats-new/2023/10/memory-optimized-amazon-ec2-r7a-bare-metal-instances/)
 - [AWS Firewall Manager supports referencing of Security Groups](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-firewall-manager-referencing-security-groups/)
-- [AWS CodePipeline can use external source providers in Europe &lpar;Milan&rpar; and AWS GovCloud &lpar;US-East&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codepipeline-providers-europe-milan-govcloud-us-east/)
-- [Amazon DataZone is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-datazone-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
