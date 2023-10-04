@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Lambda test events are now available in AWS SAM CLI](https://aws.amazon.com/about-aws/whats-new/2023/10/lambda-test-events-aws-sam-cli/)
-- [New updates to the AWS Well-Architected Framework](https://aws.amazon.com/about-aws/whats-new/2023/10/updates-aws-well-architected-framework/)
-- [Reduce duplication using Well-Architected Templates](https://aws.amazon.com/about-aws/whats-new/2023/10/reduce-duplication-well-architected-templates/)
-- [Amazon EventBridge announces support for wildcard filters in rules](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-eventbridge-wildcard-filters-rules/)
-- [Amazon Location Service adds bounding box search for device positions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-location-service-bounding-box-search-device-positions/)
+- [AWS Mainframe Modernization is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-mainframe-modernization-aws-govcloud-us-regions/)
+- [AWS Amplify&#39;s GraphQL API capabilities now available as AWS CDK construct](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-amplifys-graphql-api-cdk-construct/)
+- [Amazon SageMaker Feature Store in-memory online store for low latency feature retrieval](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-feature-store-memory-store-latency-retrieval/)
+- [Amazon CloudWatch Metric Insights available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-cloudwatch-metric-insights-aws-govcloud-us-regions/)
+- [Amazon Kendra releases Drupal Connector to enable Drupal document search](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-kendra-drupal-connector-drupal-document-search/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
