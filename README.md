@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon SQS binding extension support in CoreWCF](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-sqs-binding-extension-corewcf/)
+- [Announcing memory optimized Amazon EC2 R7a bare metal instances](https://aws.amazon.com/about-aws/whats-new/2023/10/memory-optimized-amazon-ec2-r7a-bare-metal-instances/)
+- [AWS Firewall Manager supports referencing of Security Groups](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-firewall-manager-referencing-security-groups/)
 - [AWS CodePipeline can use external source providers in Europe &lpar;Milan&rpar; and AWS GovCloud &lpar;US-East&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codepipeline-providers-europe-milan-govcloud-us-east/)
 - [Amazon DataZone is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-datazone-generally-available/)
-- [AWS Global Accelerator adds a new edge location in Nigeria](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-global-accelerator-edge-location-nigeria/)
-- [Amazon OpenSearch Service now supports alerting and anomalies on dashboards](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-alerting-anomalies-dashboards/)
-- [Amazon SageMaker Model Registry announces support for private model repositories](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-model-registry-private-model-repositories/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
