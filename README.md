@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodePipeline can use external source providers in Europe &lpar;Milan&rpar; and AWS GovCloud &lpar;US-East&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codepipeline-providers-europe-milan-govcloud-us-east/)
+- [Amazon DataZone is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-datazone-generally-available/)
 - [AWS Global Accelerator adds a new edge location in Nigeria](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-global-accelerator-edge-location-nigeria/)
 - [Amazon OpenSearch Service now supports alerting and anomalies on dashboards](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-alerting-anomalies-dashboards/)
 - [Amazon SageMaker Model Registry announces support for private model repositories](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-model-registry-private-model-repositories/)
-- [AWS Mainframe Modernization is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-mainframe-modernization-aws-govcloud-us-regions/)
-- [AWS Amplify&#39;s GraphQL API capabilities now available as AWS CDK construct](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-amplifys-graphql-api-cdk-construct/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
