@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Global Accelerator adds a new edge location in Nigeria](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-global-accelerator-edge-location-nigeria/)
+- [Amazon OpenSearch Service now supports alerting and anomalies on dashboards](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-alerting-anomalies-dashboards/)
+- [Amazon SageMaker Model Registry announces support for private model repositories](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-model-registry-private-model-repositories/)
 - [AWS Mainframe Modernization is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-mainframe-modernization-aws-govcloud-us-regions/)
 - [AWS Amplify&#39;s GraphQL API capabilities now available as AWS CDK construct](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-amplifys-graphql-api-cdk-construct/)
-- [Amazon SageMaker Feature Store in-memory online store for low latency feature retrieval](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-feature-store-memory-store-latency-retrieval/)
-- [Amazon CloudWatch Metric Insights available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-cloudwatch-metric-insights-aws-govcloud-us-regions/)
-- [Amazon Kendra releases Drupal Connector to enable Drupal document search](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-kendra-drupal-connector-drupal-document-search/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
