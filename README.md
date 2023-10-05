@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS IoT Device Management announces general availability of Software Package Catalog](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-iot-device-management-general-availability-software-package-catalog/)
-- [AWS App Runner launches improvements for using custom domains](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-app-runner-improvements-custom-domains/)
-- [Amazon SageMaker Canvas expands its support for ready-to-use models to include foundation models &lpar;FMs&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-canvas-ready-to-use-models-fms/)
-- [AWS Resource Explorer is now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-resource-explorer-additional-regions/)
-- [Amazon Connect launches new contact and agent metrics in the API](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-connect-contact-agent-metrics-api/)
+- [Amazon Connect now supports multiple out-of-the-box chat widgets per instance](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-connect-multiple-out-of-the-box-chat-widgets-per-instance/)
+- [Amazon WorkSpaces Services expand Microsoft productivity apps offerings](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-workspaces-services-microsoft-apps/)
+- [Amazon VPC IP Address Manager is now available in Israel &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-vpc-ip-address-manager-israel-tel-aviv/)
+- [Amazon EC2 C7g, M7g and R7g instances are now available in AWS Region US West &lpar;N. California&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-c7g-m7g-r7g-instances-california-region/)
+- [Amazon RDS for PostgreSQL now supports pgvector v0.5.0 with HNSW indexing](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-postgresql-pgvector-hnsw-indexing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
