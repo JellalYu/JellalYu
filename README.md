@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Device Management announces general availability of Software Package Catalog](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-iot-device-management-general-availability-software-package-catalog/)
 - [AWS App Runner launches improvements for using custom domains](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-app-runner-improvements-custom-domains/)
 - [Amazon SageMaker Canvas expands its support for ready-to-use models to include foundation models &lpar;FMs&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-canvas-ready-to-use-models-fms/)
 - [AWS Resource Explorer is now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-resource-explorer-additional-regions/)
 - [Amazon Connect launches new contact and agent metrics in the API](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-connect-contact-agent-metrics-api/)
-- [AWS Health now aggregates Health events in your organization to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-health-aggregates-events-organization-eventbridge/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
