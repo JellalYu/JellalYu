@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches new contact and agent metrics in the API](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-connect-contact-agent-metrics-api/)
+- [AWS Health now aggregates Health events in your organization to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-health-aggregates-events-organization-eventbridge/)
+- [Amazon Connect enhances API for accessing historical agent and contact metrics](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-connect-api-historical-agent-contact-metrics/)
 - [AWS Lambda adds support for Python 3.11 in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-lambda-python-3-11-aws-govcloud-regions/)
 - [AWS Wickr is now available in the AWS Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-wickr-aws-asia-pacific-sydney-region/)
-- [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-high-memory-instances-sydney-region/)
-- [AWS launches more encryption options for AWS AppConfig feature flags](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-encryption-options-appconfig-feature-flags/)
-- [Amazon EKS Extended support for Kubernetes Versions now available in preview](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-eks-support-kubernetes-versions-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
