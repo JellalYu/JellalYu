@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Connect now supports multiple out-of-the-box chat widgets per instance](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-connect-multiple-out-of-the-box-chat-widgets-per-instance/)
-- [Amazon WorkSpaces Services expand Microsoft productivity apps offerings](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-workspaces-services-microsoft-apps/)
-- [Amazon VPC IP Address Manager is now available in Israel &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-vpc-ip-address-manager-israel-tel-aviv/)
-- [Amazon EC2 C7g, M7g and R7g instances are now available in AWS Region US West &lpar;N. California&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-c7g-m7g-r7g-instances-california-region/)
-- [Amazon RDS for PostgreSQL now supports pgvector v0.5.0 with HNSW indexing](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-postgresql-pgvector-hnsw-indexing/)
+- [Amazon RDS Custom for Oracle is now available in Asia Pacific &lpar;Jakarta&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-custom-oracle-asia-pacific-jakarta-aws-region/)
+- [Amazon Bedrock now available in Asia Pacific &lpar;Tokyo&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-bedrock-asia-pacific-tokyo-aws-region/)
+- [Catalog API now supports JSON object alongside String for “Details” attribute](https://aws.amazon.com/about-aws/whats-new/2023/10/catalog-api-json-object-string-details-attribute/)
+- [AWS HealthOmics sequence store now includes auto-calculated ETags for read sets](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-healthomics-sequence-store-auto-calculated-etags-read-sets/)
+- [AWS Elemental MediaConvert now supports video source replacement](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-elemental-mediaconvert-video-source-replacement/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
