@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Private Access to the AWS Management Console is available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/private-access-aws-management-console-israel-tel-aviv-region/)
 - [Amazon RDS Custom for Oracle is now available in Asia Pacific &lpar;Jakarta&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-custom-oracle-asia-pacific-jakarta-aws-region/)
 - [Amazon Bedrock now available in Asia Pacific &lpar;Tokyo&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-bedrock-asia-pacific-tokyo-aws-region/)
 - [Catalog API now supports JSON object alongside String for “Details” attribute](https://aws.amazon.com/about-aws/whats-new/2023/10/catalog-api-json-object-string-details-attribute/)
 - [AWS HealthOmics sequence store now includes auto-calculated ETags for read sets](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-healthomics-sequence-store-auto-calculated-etags-read-sets/)
-- [AWS Elemental MediaConvert now supports video source replacement](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-elemental-mediaconvert-video-source-replacement/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
