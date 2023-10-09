@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New features for cdk8s include synthesize and import Helm charts and resolve cloud tokens](https://aws.amazon.com/about-aws/whats-new/2023/10/cdk8s-synthesize-import-helm-charts-cloud-tokens/)
 - [Amazon QuickSight now supports running queries as an IAM role for Redshift data sources](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-queries-iam-role-redshift-data-sources/)
 - [AWS Glue now supports GitLab, BitBucket in its Git integration feature](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-glue-gitlab-bitbucket-git-integration-feature/)
 - [AWS Elemental MediaTailor now supports ad break discovery in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-elemental-mediatailor-ad-break-discovery-channel-assembly/)
 - [Private Access to the AWS Management Console is available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/private-access-aws-management-console-israel-tel-aviv-region/)
-- [Amazon RDS Custom for Oracle is now available in Asia Pacific &lpar;Jakarta&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-custom-oracle-asia-pacific-jakarta-aws-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
