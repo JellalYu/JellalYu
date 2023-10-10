@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing pgactive: Active-active Replication Extension for PostgreSQL on Amazon RDS](https://aws.amazon.com/about-aws/whats-new/2023/10/pgactive-active-active-replication-extension-postgre-sql-amazon-rds/)
+- [Amazon Linux announces support for Ansible and Corretto 21 with AL2023.2](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-linux-ansible-corretto-21-al-2023-2/)
+- [Amazon QuickSight adds total positioning options for pivot table](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-total-positioning-pivot-table/)
 - [AWS Verified Access is now available in two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-verified-access-two-regions/)
 - [Launch Amazon CloudWatch Internet Monitor from Amazon Virtual Private Cloud console](https://aws.amazon.com/about-aws/whats-new/2023/10/launch-amazon-cloudwatch-internet-monitor-amazon-virtual-private-cloud-console/)
-- [AWS Organizations now supports service control policies &lpar;SCPs&rpar; in AWS China Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-organizations-service-control-policies-scps-aws-china-regions/)
-- [New features for cdk8s include synthesize and import Helm charts and resolve cloud tokens](https://aws.amazon.com/about-aws/whats-new/2023/10/cdk8s-synthesize-import-helm-charts-cloud-tokens/)
-- [Amazon QuickSight now supports running queries as an IAM role for Redshift data sources](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-queries-iam-role-redshift-data-sources/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
