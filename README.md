@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New Amazon CloudWatch metric monitors EC2 instance reachability to EBS volumes](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-cloudwatch-metric-monitors-reachability-ebs-volumes/)
+- [Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-fsx-netapp-ontap-osaka-region/)
+- [AWS Systems Manager Application Manager now supports SAP HANA](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-systems-manager-application-manager-sap-hana/)
 - [Announcing pgactive: Active-active Replication Extension for PostgreSQL on Amazon RDS](https://aws.amazon.com/about-aws/whats-new/2023/10/pgactive-active-active-replication-extension-postgre-sql-amazon-rds/)
 - [Amazon Linux announces support for Ansible and Corretto 21 with AL2023.2](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-linux-ansible-corretto-21-al-2023-2/)
-- [Amazon QuickSight adds total positioning options for pivot table](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-total-positioning-pivot-table/)
-- [AWS Verified Access is now available in two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-verified-access-two-regions/)
-- [Launch Amazon CloudWatch Internet Monitor from Amazon Virtual Private Cloud console](https://aws.amazon.com/about-aws/whats-new/2023/10/launch-amazon-cloudwatch-internet-monitor-amazon-virtual-private-cloud-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
