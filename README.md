@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS Lambda’s support for Internet Protocol Version 6 &lpar;IPv6&rpar; for outbound connections in VPC](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-lambda-ipv6-outbound-connections-vpc/)
 - [Amazon Textract launches Custom Queries to improve information extraction for business-specific documents](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-textract-custom-queries-information-extraction-business-specific-documents/)
 - [Announcing new AWS Network Load Balancer &lpar;NLB&rpar; availability and performance capabilities](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-nlb-availability-performance-capabilities/)
 - [AWS Direct Connect announces new location in Seoul, South Korea](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-direct-connect-seoul-south-korea/)
 - [AWS Step Functions launches Optimized Integration for Amazon EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-step-functions-optimized-integration-amazon-emr-serverless/)
-- [Amazon SageMaker Canvas expands content summarization and information extraction capabilities](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-canvas-content-information-extraction/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
