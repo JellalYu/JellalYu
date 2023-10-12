@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Global Accelerator launches second Edge location in Vietnam](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-global-accelerator-second-edge-location-vietnam/)
 - [Announcing Link Your Bank Account for SEPA direct debit payments in Germany](https://aws.amazon.com/about-aws/whats-new/2023/10/link-your-bank-account-sepa-direct-debit-payments-germany/)
 - [AWS announces Search Pipelines for OpenSearch](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-search-pipelines-opensearch/)
 - [New Amazon CloudWatch metric monitors EC2 instance reachability to EBS volumes](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-cloudwatch-metric-monitors-reachability-ebs-volumes/)
 - [Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-fsx-netapp-ontap-osaka-region/)
-- [AWS Systems Manager Application Manager now supports SAP HANA](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-systems-manager-application-manager-sap-hana/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
