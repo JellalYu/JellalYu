@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing ability to enable AWS Systems Manager by default for all EC2 instances in an organization](https://aws.amazon.com/about-aws/whats-new/2023/10/enable-aws-systems-manager-ec2-instances-organization/)
+- [Amazon EC2 M6in and M6idn instances are now available in new regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-m6in-m6idn-instances-new-regions/)
 - [Announcing AWS Lambda’s support for Internet Protocol Version 6 &lpar;IPv6&rpar; for outbound connections in VPC](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-lambda-ipv6-outbound-connections-vpc/)
 - [Amazon Textract launches Custom Queries to improve information extraction for business-specific documents](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-textract-custom-queries-information-extraction-business-specific-documents/)
 - [Announcing new AWS Network Load Balancer &lpar;NLB&rpar; availability and performance capabilities](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-nlb-availability-performance-capabilities/)
-- [AWS Direct Connect announces new location in Seoul, South Korea](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-direct-connect-seoul-south-korea/)
-- [AWS Step Functions launches Optimized Integration for Amazon EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-step-functions-optimized-integration-amazon-emr-serverless/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
