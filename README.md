@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Recover into Existing Instance for AWS Elastic Disaster Recovery](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-elastic-disaster-recovery-existing-instance/)
 - [Bitcoin Testnet and new Asset APIs now available for Amazon Managed Blockchain Query](https://aws.amazon.com/about-aws/whats-new/2023/10/bitcoin-testnet-asset-apis-amazon-managed-blockchain-query/)
 - [AWS Entity Resolution launches records matching with data service providers](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-entity-resolution-records-matching-providers/)
 - [Introducing Amazon EC2 R7i instances](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-r7i-instances/)
 - [CloudWatch launches out-of-the-box alarm recommendations for AWS services](https://aws.amazon.com/about-aws/whats-new/2023/10/cloudwatch-out-of-the-box-alarm-recommendations-aws-services/)
-- [AWS Client VPN extends availability to three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-client-vpn-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
