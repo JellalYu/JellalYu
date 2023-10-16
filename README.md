@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Security analytics in OpenSearch Service now supports OCSF and custom logs](https://aws.amazon.com/about-aws/whats-new/2023/10/security-analytics-opensearch-service-ocsf-custom-logs/)
 - [Deploy ML models built in SageMaker Canvas to SageMaker real-time endpoints](https://aws.amazon.com/about-aws/whats-new/2023/10/deploy-ml-models-sagemaker-canvas-real-time-endpoints/)
 - [Amazon RDS for PostgreSQL, MySQL, and MariaDB supports M6in, M6idn, R6in, R6idn database instances](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-postgresql-mysql-mariadb-m6-r6-instances/)
 - [Enhance accuracy of pre-trained Rekognition moderation model with Custom Moderation](https://aws.amazon.com/about-aws/whats-new/2023/10/accuracy-pre-trained-rekognition-moderation-model-custom-moderation/)
 - [Announcing Unified Settings for the AWS Management Console in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/unified-settings-aws-management-console-aws-govcloud-us-regions/)
-- [Amazon EC2 now supports setting AMIs to a disabled state](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-amis-disabled-state/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
