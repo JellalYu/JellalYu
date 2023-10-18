@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Resource Explorer supports 12 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-resource-explorer-new-resource-types/)
 - [Amazon Relational Database Service announces Dedicated Log Volume](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-relational-database-service-dedicated-log-volume/)
 - [Amazon Corretto October, 2023 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-corretto-october-2023-quarterly-updates/)
 - [AWS CodePipeline supports retrying a pipeline execution from the first action in a failed stage](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codepipeline-retrying-execution-first-action-failed-stage/)
 - [Preview of Regional Expansion for ml.p4d, ml.trn1, and ml.g5 instances on SageMaker Inference](https://aws.amazon.com/about-aws/whats-new/2023/10/preview-regional-expansion-ml-p4d-ml-trn1-ml-g5-instances-sagemaker-inference/)
-- [Announcing Regional Expansion of ml.p4d instances on SageMaker Inference](https://aws.amazon.com/about-aws/whats-new/2023/10/regional-expansion-ml-p4d-instances-sagemaker-inference/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
