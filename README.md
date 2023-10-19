@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR Managed Scaling is now available in Indonesia &lpar;Jakarta&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-emr-managed-scaling-indonesia-jakarta/)
 - [AWS announces member account level credit sharing preferences](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-member-account-credit-sharing-preferences/)
 - [Enable Amazon RDS Optimized Writes using RDS Blue/Green Deployments](https://aws.amazon.com/about-aws/whats-new/2023/10/enable-amazon-rds-optimized-writes-blue-green-deployments/)
 - [Amazon WorkSpaces introduces Graphics G4dn bundles for Ubuntu desktops](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-workspaces-graphics-g4dn-bundles-ubuntu-desktops/)
 - [Amazon EC2 M6in and M6idn instances are now available in new regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-m6in-m6idn-instances-new-regions/)
-- [Amazon Redshift announces integration with AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-redshift-integration-secrets-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
