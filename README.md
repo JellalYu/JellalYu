@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Sepolia Testnet support for Amazon Managed Blockchain Query](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-managed-blockchain-query-sepolia-testnet/)
 - [Amazon Route 53 traffic flow now supports geoproximity routing for AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-route-53-traffic-flow-geoproximity-routing-local-zones/)
 - [AWS Resilience Hub now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-resilience-hub-govcloud-regions/)
 - [Amazon WorkSpaces now supports Windows Server 2022 bundles](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-workspaces-windows-server-2022-bundles/)
 - [Amazon OpenSearch Service now offers Amazon EC2 Im4gn instances](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-amazon-ec2-im4gn-instances/)
-- [Amazon Bedrock now available in Europe &lpar;Frankfurt&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-bedrock-europe-frankfurt-aws-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
