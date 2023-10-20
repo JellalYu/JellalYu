@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing Sepolia Testnet support for Amazon Managed Blockchain Query](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-managed-blockchain-query-sepolia-testnet/)
-- [Amazon Route 53 traffic flow now supports geoproximity routing for AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-route-53-traffic-flow-geoproximity-routing-local-zones/)
-- [AWS Resilience Hub now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-resilience-hub-govcloud-regions/)
-- [Amazon WorkSpaces now supports Windows Server 2022 bundles](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-workspaces-windows-server-2022-bundles/)
-- [Amazon OpenSearch Service now offers Amazon EC2 Im4gn instances](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-amazon-ec2-im4gn-instances/)
+- [AWS Wickr is now FedRAMP Moderate authorized](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-wicr-fedramp-moderate-authorized/)
+- [Amazon EC2 C6a, M6a, R6a instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-c6a-m6a-r6a-instances-additional-regions/)
+- [AWS Service Catalog announces support for additional Infrastructure as Code &lpar;IaC&rpar; provisioning tools](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-service-catalog-support-infrastructure-code-provisioning-tools/)
+- [Amazon EC2 M6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-m6id-instances-additional-regions/)
+- [AMI Block Public Access now enabled for all new accounts and existing accounts with no public AMIs](https://aws.amazon.com/about-aws/whats-new/2023/10/ami-block-public-enabled-aws-accounts-no-public-amis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
