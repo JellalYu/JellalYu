@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight now supports direct connectivity to Trino](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-direct-connectivity-trino/)
+- [Amazon QuickSight now supports direct connectivity to Starburst](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-direct-connectivity-starburst/)
+- [AWS Config conformance packs are now available in Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-config-conformance-packs-asia-pacific-melbourne-region/)
 - [Amazon Kendra releases connectors for 11 JDBC data sources to enable structured data search](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-kendra-connectors-jdbc-data-sources-structured-data-search/)
 - [AWS Wickr is now FedRAMP Moderate authorized](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-wickr-fedramp-moderate-authorized/)
-- [Amazon EC2 C6a, M6a, R6a instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-c6a-m6a-r6a-instances-additional-regions/)
-- [AWS Service Catalog announces support for additional Infrastructure as Code &lpar;IaC&rpar; provisioning tools](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-service-catalog-support-infrastructure-code-provisioning-tools/)
-- [Amazon EC2 M6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-m6id-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
