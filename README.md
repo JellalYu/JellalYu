@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace announces enhanced private offer user experience for sellers](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-marketplace-enhanced-private-offer-user-experience-sellers/)
+- [AWS Systems Manager Patch Manager now supports additional MacOS and Linux versions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-systems-manager-macos-linux-versions/)
 - [AWS Entity Resolution expands data protection capabilities](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-entity-resolution-data-protection-capabilities/)
 - [Amazon RDS Custom for SQL Server now supports M6i and R6i instances](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-custom-sql-server-m6i-r6i-instances/)
 - [AWS re:Post introduces Selections](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-repost-selections/)
-- [Build ML feature pipelines from custom data sources with Amazon SageMaker Feature Store](https://aws.amazon.com/about-aws/whats-new/2023/10/build-ml-feature-pipelines-custom-data-sources-amazon-sagemaker-feature-store/)
-- [Amazon RDS for SQL Server supports minor version 2019 CU22](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-sql-server-minor-version-2019-cu22/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
