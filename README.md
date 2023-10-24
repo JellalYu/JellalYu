@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Core Credential Provider supports Virtual Private Cloud endpoints](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-iot-core-credential-provider-virtual-private-cloud-endpoints/)
+- [EC2 Hibernate now supports 20 additional instance families on EC2 Spot](https://aws.amazon.com/about-aws/whats-new/2023/10/ec2-hibernate-additional-instance-families-ec2-spot/)
 - [Amazon EKS now allows modification of cluster subnets and security groups](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-eks-modification-cluster-subnets-security/)
 - [AWS Cloud WAN goes Tunnel-less to enable high-performant global SD-WANs](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-cloud-wan-tunnel-less-high-performant-global-sd-wans/)
 - [Amazon MemoryDB now supports Graviton3-based R7g nodes](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-memorydb-graviton3-based-r7g-nodes/)
-- [Amazon SQS announces increased throughput quota for FIFO High Throughput mode](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sqs-increased-throughput-quota-fifo-high-throughput-mode/)
-- [Amazon FinSpace with Managed kdb Insights now available in five additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-finspace-managed-kdb-insights-five-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
