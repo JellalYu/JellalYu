@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C6gn instances are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-c6gn-instances-govcloud-regions/)
+- [Amazon RDS Blue/Green Deployments now supports Aurora and RDS PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-blue-green-deployments-aurora-rds-postgresql/)
 - [Announcing general availability of Amazon EC2 M2 Mac instances for macOS](https://aws.amazon.com/about-aws/whats-new/2023/10/general-availability-amazon-ec2-m2-mac-instances-mac-os/)
 - [AWS Config now supports 19 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-config-supports-19-resource-types/)
 - [Amazon SNS message data protection now supports custom data identifiers](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sns-message-data-protection-data-identifiers/)
-- [AWS Application Discovery Service adds new actions to remove servers, data collectors and imports](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-application-discovery-service-new-actions/)
-- [AWS Migration Hub adds ability to change the AWS Region used to store migration data](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-migration-hub-change-aws-region-migration-data/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
