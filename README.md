@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing general availability of Amazon EC2 M2 Mac instances for macOS](https://aws.amazon.com/about-aws/whats-new/2023/10/general-availability-amazon-ec2-m2-mac-instances-mac-os/)
 - [AWS Config now supports 19 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-config-supports-19-resource-types/)
 - [Amazon SNS message data protection now supports custom data identifiers](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sns-message-data-protection-data-identifiers/)
 - [AWS Application Discovery Service adds new actions to remove servers, data collectors and imports](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-application-discovery-service-new-actions/)
 - [AWS Migration Hub adds ability to change the AWS Region used to store migration data](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-migration-hub-change-aws-region-migration-data/)
-- [Amazon RDS Custom for Oracle is now available in Europe &lpar;Milan&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-custom-oracle-europe-milan-aws-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
