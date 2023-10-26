@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS User Notifications is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-user-notifications-israel-tel-aviv-region/)
+- [Amazon AppStream 2.0 announces multi-session fleets for Windows Server OS](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-appstream-2-0-session-fleets-windows-server-os/)
+- [Amazon EC2 I4i instances introduce two new sizes: I4i.12xlarge and I4i.24xlarge](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-i4i-two-new-sizes/)
 - [Multi-VPC ENI Attachments](https://aws.amazon.com/about-aws/whats-new/2023/10/multi-vpc-eni-attachments/)
 - [AWS Systems Manager OpsCenter now supports deletion of operational issues](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-systems-manager-opscenter-supports-deletion-operational-issues/)
-- [Amazon Kendra launches feature to collapse and expand query results](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-kendra-collapse-expand-query-results/)
-- [Amazon EC2 C6gn instances are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-c6gn-instances-govcloud-regions/)
-- [Amazon RDS Blue/Green Deployments now supports Aurora and RDS PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-blue-green-deployments-aurora-rds-postgresql/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
