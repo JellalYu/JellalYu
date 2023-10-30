@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Trusted Advisor adds 64 new checks powered by AWS Config](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-trusted-advisor-64-checks-aws-config/)
 - [AWS Config advanced queries support 41 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-config-advanced-queries-41-resource-types/)
 - [Amazon SageMaker now supports geospatial Processing jobs](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-geospatial-processing-jobs/)
 - [AWS Elemental MediaTailor now available in seven additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-elemental-mediatailor-additional-regions/)
 - [Amazon Connect supports third-party applications &lpar;preview&rpar; in the unified agent workspace](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-connect-third-party-applications-agent-workspace/)
-- [Amazon Kinesis Data Streams increases On-Demand write throughput limit to 2 GB/s](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-kinesis-data-streams-increases-write-throughput-limit/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
