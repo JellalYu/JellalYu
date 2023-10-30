@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect supports third-party applications &lpar;preview&rpar; in the unified agent workspace](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-connect-third-party-applications-agent-workspace/)
+- [Amazon Kinesis Data Streams increases On-Demand write throughput limit to 2 GB/s](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-kinesis-data-streams-increases-write-throughput-limit/)
+- [Amazon QuickSight launches Custom Total for Table and Pivot table charts](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-custom-total-table-pivot-table-charts/)
+- [AWS Wickr is now available in the Europe &lpar;Frankfurt&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-wickr-europe-frankfurt-region/)
 - [Amazon EC2 C6in instances are now available in Asia Pacific &lpar;Seoul&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-c6in-instances-asia-pacific-seoul/)
-- [AWS X-Ray now supports W3C format trace IDs for distributed tracing](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-x-ray-w3c-format-trace-ids-distributed-tracing/)
-- [AWS IoT ExpressLink announces Technical Specification v1.2 with BLE connectivity](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-iot-expresslink-technical-specification-v1-2-ble-connectivity/)
-- [Amazon Security Lake is now available in four additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-security-lake-additional-regions/)
-- [Amazon SNS now supports in-place message archiving and replay for FIFO topics](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sns-in-place-message-archiving-replay-fifo-topics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
