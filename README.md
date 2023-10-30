@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaTailor now available in seven additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-elemental-mediatailor-additional-regions/)
 - [Amazon Connect supports third-party applications &lpar;preview&rpar; in the unified agent workspace](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-connect-third-party-applications-agent-workspace/)
 - [Amazon Kinesis Data Streams increases On-Demand write throughput limit to 2 GB/s](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-kinesis-data-streams-increases-write-throughput-limit/)
 - [Amazon QuickSight launches Custom Total for Table and Pivot table charts](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-custom-total-table-pivot-table-charts/)
 - [AWS Wickr is now available in the Europe &lpar;Frankfurt&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-wickr-europe-frankfurt-region/)
-- [Amazon EC2 C6in instances are now available in Asia Pacific &lpar;Seoul&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-c6in-instances-asia-pacific-seoul/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
