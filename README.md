@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Object Lambda now integrates with Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-s3-object-lambda-integrates-amazon-athena/)
+- [Amazon FinSpace with Managed kdb Insights clusters now support code updates without restarting](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-finspace-managed-kdb-insights-clusters-code-updates/)
 - [AWS Resilience Hub adds support for AWS Step Functions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-resilience-support-hub-step-functions/)
 - [Introducing eight new Amazon EC2 bare metal instances](https://aws.amazon.com/about-aws/whats-new/2023/10/new-amazon-ec2-bare-metal-instances/)
 - [AWS Trusted Advisor adds 64 new checks powered by AWS Config](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-trusted-advisor-64-checks-aws-config/)
-- [AWS Config advanced queries support 41 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-config-advanced-queries-41-resource-types/)
-- [Amazon SageMaker now supports geospatial Processing jobs](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-geospatial-processing-jobs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
