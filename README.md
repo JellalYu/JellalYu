@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing provider-generated notifications for AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2023/10/provider-generated-notifications-aws-data-exchange/)
 - [AWS Blu Age Runtime on Amazon EC2 adds new AWS Regions and new build, logging, alerting features](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-blu-age-runtime-amazon-ec2-regions-build-logging-alerting-features/)
 - [Amazon S3 Object Lambda now integrates with Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-s3-object-lambda-integrates-amazon-athena/)
 - [Amazon FinSpace with Managed kdb Insights clusters now support code updates without restarting](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-finspace-managed-kdb-insights-clusters-code-updates/)
 - [AWS Resilience Hub adds support for AWS Step Functions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-resilience-support-hub-step-functions/)
-- [Introducing eight new Amazon EC2 bare metal instances](https://aws.amazon.com/about-aws/whats-new/2023/10/new-amazon-ec2-bare-metal-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
