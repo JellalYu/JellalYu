@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Elemental MediaPackage expands manifest configuration options](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-elemental-mediapackage-manifest-configuration-options/)
-- [AWS Elemental MediaPackage now available in Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-elemental-mediapackage-osaka-region/)
-- [Amazon EMR Studio adds support for interactive analytics on Amazon EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-emr-studio-interactive-analytics-amazon-emr-serverless/)
-- [Announcing product lifecycle support for AWS Supply Chain Demand Planning](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-supply-chain-demand-planning-product-lifecycle/)
-- [Amazon Athena announces one hour reservations for Provisioned Capacity](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-athena-one-hour-reservations-provisioned-capacity/)
+- [Announcing Favorites feature to organize AWS Systems Manager Documents and Runbooks in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/favorites-aws-systems-manager-documents-runbooks-aws-govcloud-us-regions/)
+- [Amazon RDS for Oracle now supports October 2023 Release Update](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-oracle-october-2023-release-updates/)
+- [Amazon Redshift Multi-AZ is generally available for RA3 clusters](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-multi-az-ra3-clusters/)
+- [AWS Supply Chain Demand Planning adds new Perpetual Forecast capability](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-supply-chain-demand-planning-perpetual-forecast-capability/)
+- [Announcing new user roles for Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/11/new-user-roles-amazon-codecatalyst/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
