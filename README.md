@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [IAM Access Analyzer policy generation now extends coverage to over 200 AWS services](https://aws.amazon.com/about-aws/whats-new/2023/11/iam-access-analyzer-policy-generation-coverage-over-200-aws-services/)
 - [Announcing cross-account support for AWS Global Accelerator](https://aws.amazon.com/about-aws/whats-new/2023/11/cross-account-support-aws-global-accelerator/)
-- [AWS AppFabric now supports Github and ServiceNow](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-appfabric-github-servicenow/)
+- [AWS AppFabric now supports GitHub and ServiceNow](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-appfabric-github-servicenow/)
 - [Launch low code data preparation for machine learning with Amazon SageMaker Data Wrangler from Amazon EMR Studio](https://aws.amazon.com/about-aws/whats-new/2023/11/low-code-data-preparation-machine-learning-amazon-sagemaker-data-wrangler-emr-studio/)
 - [Finch is now Generally Available on macOS](https://aws.amazon.com/about-aws/whats-new/2023/11/finch-generally-available-macos/)
-- [Amazon RDS for MySQL supports new minor version 5.7.44](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-new-minor-version-5-7-44/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
