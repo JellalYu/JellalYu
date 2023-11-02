@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Redshift Multi-AZ is generally available for RA3 clusters](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-multi-az-ra3-clusters/)
-- [Announcing Favorites feature to organize AWS Systems Manager Documents and Runbooks in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/favorites-aws-systems-manager-documents-runbooks-aws-govcloud-us-regions/)
-- [Amazon RDS for Oracle now supports October 2023 Release Update](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-oracle-october-2023-release-updates/)
-- [AWS Supply Chain Demand Planning adds new Perpetual Forecast capability](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-supply-chain-demand-planning-perpetual-forecast-capability/)
-- [Announcing new user roles for Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/11/new-user-roles-amazon-codecatalyst/)
+- [Announcing cross-account support for AWS Global Accelerator](https://aws.amazon.com/about-aws/whats-new/2023/11/cross-account-support-aws-global-accelerator/)
+- [AWS AppFabric now supports Github and ServiceNow](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-appfabric-github-servicenow/)
+- [Launch low code data preparation for machine learning with Amazon SageMaker Data Wrangler from Amazon EMR Studio](https://aws.amazon.com/about-aws/whats-new/2023/11/low-code-data-preparation-machine-learning-amazon-sagemaker-data-wrangler-emr-studio/)
+- [Finch is now Generally Available on macOS](https://aws.amazon.com/about-aws/whats-new/2023/11/finch-generally-available-macos/)
+- [Amazon RDS for MySQL supports new minor version 5.7.44](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-new-minor-version-5-7-44/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
