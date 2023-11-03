@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda supports IPv6 for outbound connections in VPC in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-lambda-ipv6-outbound-connections-vpc-6-regions/)
 - [AWS Global Accelerator extends IPv6 support to dual stack NLB endpoints](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-global-accelerator-ipv6-dual-stack-nlb-endpoints/)
 - [IAM Access Analyzer policy generation now extends coverage to over 200 AWS services](https://aws.amazon.com/about-aws/whats-new/2023/11/iam-access-analyzer-policy-generation-coverage-over-200-aws-services/)
 - [Announcing cross-account support for AWS Global Accelerator](https://aws.amazon.com/about-aws/whats-new/2023/11/cross-account-support-aws-global-accelerator/)
 - [AWS AppFabric now supports GitHub and ServiceNow](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-appfabric-github-servicenow/)
-- [Launch low code data preparation for machine learning with Amazon SageMaker Data Wrangler from Amazon EMR Studio](https://aws.amazon.com/about-aws/whats-new/2023/11/low-code-data-preparation-machine-learning-amazon-sagemaker-data-wrangler-emr-studio/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
