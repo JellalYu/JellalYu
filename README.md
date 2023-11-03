@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kinesis Data Streams announces Amazon EventBridge Pipes console integration](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-data-streams-eventbridge-pipes-console/)
 - [Enhanced content navigation and discovery in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/11/enhanced-content-navigation-discovery-aws-partner-central/)
 - [New Search feature in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/11/new-search-feature-aws-partner-central/)
 - [AWS Marketplace introduces new self-service listing feature for container products](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-marketplace-self-service-listing-feature-container-products/)
 - [AWS Marketplace launches programmatic notifications for AWS Marketplace Management Portal &lpar;AMMP&rpar; and Catalog API request completion](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-marketplace-programmatic-notifications-ammp-catalog-api-request-completion/)
-- [AWS App Runner now supports Internet Protocol Version 6 &lpar;IPv6&rpar; for public inbound traffic](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-app-runner-supports-ipv6-public-inbound-traffic/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
