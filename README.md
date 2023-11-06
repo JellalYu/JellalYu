@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK adds check for too many partitions to AWS Trusted Advisor](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-check-partitions-aws-trusted-advisor/)
+- [AWS Control Tower is now available in Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-control-tower-asia-pacific-melbourne-region/)
+- [AWS Lambda supports faster polling scale-up rate for Amazon SQS as an event source](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-polling-scale-rate-sqs-event-source/)
 - [VMware Cloud on AWS is now available in Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/11/vmware-cloud-aws-asia-pacific-hyderabad-region/)
 - [EC2 Image Builder adds Amazon Linux 2023 and Ubuntu 22.04 LTS managed image support](https://aws.amazon.com/about-aws/whats-new/2023/11/ec2-image-builder-linux-ubuntu-lts-image-support/)
-- [Amazon SQS announces Amazon EventBridge Pipes console integration](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-eventbridge-pipes-console-integration/)
-- [Amazon CloudWatch Container Insights launches enhanced observability for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudwatch-container-insights-enhanced-observability-eks/)
-- [Amazon Connect now makes it easier to deliver persistent chat experiences for your customers](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-persistent-chat-experiences/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
