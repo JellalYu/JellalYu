@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [VMware Cloud on AWS is now available in Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/11/vmware-cloud-aws-asia-pacific-hyderabad-region/)
+- [EC2 Image Builder adds Amazon Linux 2023 and Ubuntu 22.04 LTS managed image support](https://aws.amazon.com/about-aws/whats-new/2023/11/ec2-image-builder-linux-ubuntu-lts-image-support/)
+- [Amazon SQS announces Amazon EventBridge Pipes console integration](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-eventbridge-pipes-console-integration/)
 - [Amazon CloudWatch Container Insights launches enhanced observability for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudwatch-container-insights-enhanced-observability-eks/)
 - [Amazon Connect now makes it easier to deliver persistent chat experiences for your customers](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-persistent-chat-experiences/)
-- [Amazon Kinesis Data Streams announces Amazon EventBridge Pipes console integration](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-data-streams-eventbridge-pipes-console/)
-- [Enhanced content navigation and discovery in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/11/enhanced-content-navigation-discovery-aws-partner-central/)
-- [New Search feature in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/11/new-search-feature-aws-partner-central/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
