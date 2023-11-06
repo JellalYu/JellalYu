@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon MSK adds check for too many partitions to AWS Trusted Advisor](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-check-partitions-aws-trusted-advisor/)
-- [AWS Control Tower is now available in Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-control-tower-asia-pacific-melbourne-region/)
-- [AWS Lambda supports faster polling scale-up rate for Amazon SQS as an event source](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-polling-scale-rate-sqs-event-source/)
-- [VMware Cloud on AWS is now available in Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/11/vmware-cloud-aws-asia-pacific-hyderabad-region/)
-- [EC2 Image Builder adds Amazon Linux 2023 and Ubuntu 22.04 LTS managed image support](https://aws.amazon.com/about-aws/whats-new/2023/11/ec2-image-builder-linux-ubuntu-lts-image-support/)
+- [AWS Service Management Connector introduces AWS Health and AWS Systems Manager OpsCenter integrations in Jira Cloud](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-service-management-connector-aws-health-systems-manager-opscenter-jira-cloud/)
+- [Amazon MWAA now supports Apache Airflow version 2.7 and deferrable operators](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-mwaa-apache-airflow-version-2-7-deferrable-operators/)
+- [Amazon EC2 High Memory instances now available in Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-high-memory-instances-europe-milan-region/)
+- [AWS CodeBuild now supports AWS Lambda compute](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-codebuild-lambda-compute/)
+- [Amazon EC2 D3 instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-d3-instances-available-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
