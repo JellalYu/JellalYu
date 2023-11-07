@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS adds ability for shared Windows AMIs users to enable faster launching](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-shared-windows-amis-faster-launching/)
+- [AWS Cost Management now provides purchase recommendations for Amazon MemoryDB Reserved Nodes](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cost-management-purchase-recommendations-amazon-memory-db-reserved-nodes/)
 - [AWS Health enhances integration via AWS Service Management Connector for ServiceNow](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-health-integration-service-management-connector-servicenow/)
 - [AWS Fargate now enables Amazon ECS tasks to selectively leverage SOCI](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fargate-amazon-ecs-tasks-selectively-leverage-soci/)
 - [AWS Service Management Connector introduces AWS Health and AWS Systems Manager OpsCenter integrations in Jira Cloud](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-service-management-connector-aws-health-systems-manager-opscenter-jira-cloud/)
-- [Amazon MWAA now supports Apache Airflow version 2.7 and deferrable operators](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-mwaa-apache-airflow-version-2-7-deferrable-operators/)
-- [Amazon EC2 High Memory instances now available in Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-high-memory-instances-europe-milan-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
