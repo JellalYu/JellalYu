@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ElastiCache now supports network-optimized C7gn Graviton3-based nodes](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elasticache-network-optimized-c7gn-graviton-3-nodes/)
 - [AWS Config launches inventory and compliance dashboards](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-config-inventory-compliance-dashboards/)
 - [Build ML models w/ advanced configurations, gain Model Leaderboard visibility on SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2023/11/build-ml-models-configurations-model-leaderboard-visibility-sagemaker-canvas/)
 - [AWS adds ability for shared Windows AMIs users to enable faster launching](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-shared-windows-amis-faster-launching/)
 - [AWS Cost Management now provides purchase recommendations for Amazon MemoryDB Reserved Nodes](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cost-management-purchase-recommendations-amazon-memory-db-reserved-nodes/)
-- [AWS Health enhances integration via AWS Service Management Connector for ServiceNow](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-health-integration-service-management-connector-servicenow/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
