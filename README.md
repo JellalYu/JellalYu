@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Fault Injection Simulator announces scenarios and scheduled experiments](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fault-injection-simulator-scenarios-scheduled-experiments/)
+- [Database Activity Streams creates Kinesis data streams in on-demand mode](https://aws.amazon.com/about-aws/whats-new/2023/11/database-activity-streams-kinesis-data-streams-on-demand-mode/)
+- [AWS announces general availability of Amazon Aurora MySQL  zero-ETL integration with Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-general-availability-amazon-aurora-mysql-zero-etl-integration-redshift/)
 - [Amazon Data Lifecycle Manager adds support for pre-script and post-script automation of EBS Snapshots](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-data-lifecycle-manager-pre-post-script-automation-ebs-snapshots/)
 - [Amazon ElastiCache now supports network-optimized C7gn Graviton3-based nodes](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elasticache-network-optimized-c7gn-graviton-3-nodes/)
-- [AWS Config launches inventory and compliance dashboards](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-config-inventory-compliance-dashboards/)
-- [Build ML models w/ advanced configurations, gain Model Leaderboard visibility on SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2023/11/build-ml-models-configurations-model-leaderboard-visibility-sagemaker-canvas/)
-- [AWS adds ability for shared Windows AMIs users to enable faster launching](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-shared-windows-amis-faster-launching/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
