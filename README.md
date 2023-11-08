@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Amazon Aurora PostgreSQL Optimized Reads](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-postgresql-optimized-reads/)
 - [AWS Lambda makes it easier to troubleshoot errors and timeouts of Init and Restore phase](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-troubleshoot-errors-timeouts-init-restore-phases/)
 - [AWS Application Migration Service supports AWS App2Container Replatforming](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-application-migration-service-app2container-replatforming/)
 - [Amazon Kinesis Video Streams WebRTC Ingestion is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-video-streams-webrtc-ingestion/)
 - [AWS App Runner is now available in London, Mumbai, and Paris AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-app-runner-london-mumbai-paris-regions/)
-- [AWS Audit Manager introduces framework for generative AI on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-audit-manager-framework-generative-ai-bedrock/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
