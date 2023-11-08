@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Migration Service supports AWS App2Container Replatforming](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-application-migration-service-app2container-replatforming/)
+- [Amazon Kinesis Video Streams WebRTC Ingestion is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-video-streams-webrtc-ingestion/)
 - [AWS App Runner is now available in London, Mumbai, and Paris AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-app-runner-london-mumbai-paris-regions/)
 - [AWS Audit Manager introduces framework for generative AI on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-audit-manager-framework-generative-ai-bedrock/)
 - [Amazon RDS Performance Insights supports exporting dashboards to CloudWatch](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-performance-insights-dashboards-cloudwatch/)
-- [Amazon Lex introduces Selective Conversation Log Capture for Amazon Lex V2](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-lex-selective-conversation-log-capture-lex-v2/)
-- [AWS Fault Injection Simulator announces scenarios and scheduled experiments](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fault-injection-simulator-scenarios-scheduled-experiments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
