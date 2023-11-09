@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service introduces Neural Search](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-neural-search/)
 - [Extended Protocol Support for AWS IoT SiteWise Edge through EasyEdge](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-edge-easy-edge-protocol-support/)
 - [Amazon RDS for MySQL delivers up to 3X higher write throughput at no additional charge](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-3x-write-throughput/)
 - [Amazon RDS for Oracle now supports Oracle Multitenant](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-oracle-supports-oracle-multitenant/)
 - [Announcing next generation Resiliency Scores for AWS Resilience Hub](https://aws.amazon.com/about-aws/whats-new/2023/11/next-generation-resiliency-scores-aws-resilience-hub/)
-- [Amazon SNS increases default FIFO topic throughput by 10x to 3,000 messages per second](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sns-fifo-topic-10x-3000-messages-second/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
