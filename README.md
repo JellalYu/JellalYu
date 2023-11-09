@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [QuickSight launches FLOAT data type support for SPICE datasets](https://aws.amazon.com/about-aws/whats-new/2023/11/quicksight-float-data-type-spice-datasets/)
-- [Deploy SAP applications programmatically using AWS Launch Wizard APIs](https://aws.amazon.com/about-aws/whats-new/2023/11/sap-applications-programmatically-aws-wizard-apis/)
-- [AWS announces Amazon Aurora PostgreSQL Optimized Reads](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-postgresql-optimized-reads/)
-- [AWS Lambda makes it easier to troubleshoot errors and timeouts of Init and Restore phase](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-troubleshoot-errors-timeouts-init-restore-phases/)
-- [AWS Application Migration Service supports AWS App2Container Replatforming](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-application-migration-service-app2container-replatforming/)
+- [AWS Health provides improved visibility into planned lifecycle events](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-health-improved-visibility-planned-lifecycle-events/)
+- [Amazon RDS Custom for Oracle is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-custom-oracle-aws-govcloud-us-regions/)
+- [NICE DCV releases version 2023.1 with support for WebAuthn redirection](https://aws.amazon.com/about-aws/whats-new/2023/11/nice-dcv-2023-1-webauthn-redirection/)
+- [Amazon EC2 C7g, M7g and R7g instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-c7g-m7g-r7g-instances-regions/)
+- [AWS Application Discovery Service adds support for communication through network proxy](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-application-discovery-service-communication-proxy/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
