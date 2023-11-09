@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Elastic Block Store now supports Block Public Access for EBS Snapshots](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elastic-block-store-public-access-ebs-snapshots/)
+- [Amazon EKS Anywhere now supports self-service Enterprise Subscription purchases](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eks-anywhere-self-service-enterprise-subscription-purchases/)
+- [Deploy your stack sets faster with ConcurrencyMode in AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/11/deploy-stack-sets-faster-concurrencymode-aws-cloudformation/)
+- [AWS Batch array jobs now support array size environment variable](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-batch-array-jobs-size-environment-variable/)
 - [Amazon OpenSearch Service introduces Neural Search](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-neural-search/)
-- [Extended Protocol Support for AWS IoT SiteWise Edge through EasyEdge](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-edge-easy-edge-protocol-support/)
-- [Amazon RDS for MySQL delivers up to 3X higher write throughput at no additional charge](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-3x-write-throughput/)
-- [Amazon RDS for Oracle now supports Oracle Multitenant](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-oracle-supports-oracle-multitenant/)
-- [Announcing next generation Resiliency Scores for AWS Resilience Hub](https://aws.amazon.com/about-aws/whats-new/2023/11/next-generation-resiliency-scores-aws-resilience-hub/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
