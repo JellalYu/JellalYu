@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Device Farm announces upgraded test environment for Android Devices](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-device-farm-upgraded-test-environment-android-devices/)
-- [Amazon Aurora Global Database for PostgreSQL now supports write forwarding](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-global-database-postgresql-forwarding/)
-- [News and Events Feature in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-partner-central-news-events/)
-- [AWS Lambda enhances auto scaling for Kafka event sources](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-auto-scaling-kafka-event-sources/)
-- [Amazon SQS announces support for JSON protocol](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-support-json-protocol/)
+- [Amazon RDS Proxy now supports PostgreSQL Extended Query Protocol](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-proxy-postgresql-extended-query-protocol/)
+- [Amazon Connect reduces outbound telephony pricing across Europe](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-reduces-outbound-telephony-pricing-europe/)
+- [Amazon Connect supports Representative Numbers in South Korea](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-supports-representative-numbers-south-korea/)
+- [Amazon Connect reduces telephony pricing across South America](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-reduces-telephony-pricing-south-america/)
+- [Glue Studio Visual now supports interactive data previews](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-studio-visual-interactive-data-previews/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
