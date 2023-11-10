@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda adds support for Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-amazon-linux-2023/)
 - [Amazon RDS Proxy now supports PostgreSQL Extended Query Protocol](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-proxy-postgresql-extended-query-protocol/)
 - [Amazon Connect reduces outbound telephony pricing across Europe](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-reduces-outbound-telephony-pricing-europe/)
 - [Amazon Connect supports Representative Numbers in South Korea](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-supports-representative-numbers-south-korea/)
 - [Amazon Connect reduces telephony pricing across South America](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-reduces-telephony-pricing-south-america/)
-- [Glue Studio Visual now supports interactive data previews](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-studio-visual-interactive-data-previews/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
