@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Global Database for PostgreSQL now supports write forwarding](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-global-database-postgresql-forwarding/)
+- [News and Events Feature in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-partner-central-news-events/)
+- [AWS Lambda enhances auto scaling for Kafka event sources](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-auto-scaling-kafka-event-sources/)
 - [Amazon SQS announces support for JSON protocol](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-support-json-protocol/)
 - [Amazon Comprehend launches new trust and safety features](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-comprehend-trust-safety-features/)
-- [Amazon RDS Proxy now supports RDS Multi-AZ Deployments with two readable standbys](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-multi-az-deployments-readable-standbys/)
-- [Amazon FSx for OpenZFS is now available in ten additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-openzfs-additional-aws-regions/)
-- [Amazon FSx for OpenZFS now supports additional deployment types in seven AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-openzfs-deployment-types-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
