@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront announces unified security dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudfront-unified-security-dashboard/)
 - [AWS Control Tower now supports tagging for controls enabled in AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-control-tower-tagging-controls-enabled/)
 - [Amazon Connect prompts configuration page provides CloudTrail coverage](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-prompts-configuration-page-provides-cloudtrail-coverage/)
 - [Amazon EventBridge now supports over 20 new Amazon CloudWatch Metrics for event buses](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eventbridge-20-cloudwatch-metrics-event-buses/)
 - [AWS Lambda adds support for Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-amazon-linux-2023/)
-- [Amazon RDS Proxy now supports PostgreSQL Extended Query Protocol](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-proxy-postgresql-extended-query-protocol/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
