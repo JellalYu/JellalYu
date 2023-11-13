@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Logs announces regular expression filter pattern support for Live Tail](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudwatch-logs-filter-pattern-live-tail/)
 - [Launch templates now support ENA Express](https://aws.amazon.com/about-aws/whats-new/2023/11/launch-templates-ena-express/)
 - [Amazon Connect now enables scanning of attachments for malware](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-scanning-attachments-malware/)
 - [Amazon RDS for MySQL supports Innovation Release version 8.1 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-innovation-release-8-1-rds-database-preview-environment/)
 - [AWS Lambda runtime management controls are now available in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-runtime-controls-6-regions/)
-- [Amazon CloudFront announces unified security dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudfront-unified-security-dashboard/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
