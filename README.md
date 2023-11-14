@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Customizable action buttons are now available in AWS Chatbot](https://aws.amazon.com/about-aws/whats-new/2023/11/customizable-action-buttons-available-aws-chatbot/)
+- [Announcing Research and Engineering Studio on AWS](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-research-engineering-studio/)
+- [Amazon MSK extends AWS IAM support to all programming languages for new clusters](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-iam-programming-languages-clusters/)
+- [Amazon MSK Serverless now supports all programming languages](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-serverless-all-programming-languages/)
 - [Amazon Elastic Container Service now supports idempotency for task launches](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elastic-container-service-idempotency-launches/)
-- [AWS Elastic Load Balancing introduces IAM condition keys for encryption and access controls](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-elastic-load-balancing-iam-condition-keys/)
-- [AWS launches a new Local Zone in Dallas, Texas](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-new-local-zone-dallas-texas/)
-- [Llama 2 Chat 13B foundation model from Meta is now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/llama-2-chat-13b-model-meta-amazon-bedrock/)
-- [Cohere’s Command Light, Embed English, and multilingual models now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-coheres-light-english-multilingual/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
