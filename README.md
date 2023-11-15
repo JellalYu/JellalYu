@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS CloudTrail Lake now supports CloudTrail Insights](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloudtrail-lake-supports-cloudtrail-insights/)
-- [AWS CloudTrail Lake announces new pricing option optimized for flexible retention](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloudtrail-lake-pricing-option-optimized-flexible-retention/)
-- [Amazon MWAA adds shared VPC support via customer managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-mwaa-vpc-customer-managed-endpoints/)
-- [Amazon EC2 X2iedn instances now available in Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-x2iedn-instances-europe-spain-region/)
-- [AWS Glue Data Catalog supports automatic compaction for Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-data-catalog-compaction-iceberg-tables/)
+- [Amazon Connect launches updated hours of operation UI with CloudTrail support](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-updated-hours-operation-ui-cloudtrail-support/)
+- [Enhanced AWS Partner Central experience to build and promote your offerings](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-partner-central-build-promote-offerings/)
+- [Introducing account and product linking across AWS Marketplace and AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-marketplace-partner-central-account-product-linking/)
+- [Announcing general availability of Amazon EC2 DL2q instances](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-dl2q-instances/)
+- [Amazon Aurora now supports PostgreSQL 16.0 in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-postgresql-16-rds-database-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
