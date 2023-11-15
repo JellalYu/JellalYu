@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Trusted Advisor adds 37 Amazon RDS checks](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-trusted-advisor-37-checks-aws-config/)
-- [Amazon EC2 High Memory instances now available in Europe &lpar;London&rpar; and Europe &lpar;Spain&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-high-memory-instances-europe-london-spain-regions/)
-- [AWS Resource Explorer supports 86 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-resource-explorer-86-resource-types/)
-- [New self-guided Software Path experience](https://aws.amazon.com/about-aws/whats-new/2023/11/new-self-guided-software-path-experience/)
-- [Announcing frozen collections for Amazon Keyspaces &lpar;for Apache Cassandra&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/frozen-collections-amazon-keyspaces-apache-cassandra/)
+- [AWS CloudTrail Lake now supports CloudTrail Insights](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloudtrail-lake-supports-cloudtrail-insights/)
+- [AWS CloudTrail Lake announces new pricing option optimized for flexible retention](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloudtrail-lake-pricing-option-optimized-flexible-retention/)
+- [Amazon MWAA adds shared VPC support via customer managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-mwaa-vpc-customer-managed-endpoints/)
+- [Amazon EC2 X2iedn instances now available in Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-x2iedn-instances-europe-spain-region/)
+- [AWS Glue Data Catalog supports automatic compaction for Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-data-catalog-compaction-iceberg-tables/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
