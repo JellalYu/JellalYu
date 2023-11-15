@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New self-guided Software Path experience](https://aws.amazon.com/about-aws/whats-new/2023/11/new-self-guided-software-path-experience/)
 - [Announcing frozen collections for Amazon Keyspaces &lpar;for Apache Cassandra&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/frozen-collections-amazon-keyspaces-apache-cassandra/)
 - [Announcing AWS Amplify JavaScript v6 general availability](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amplify-javascript-v6/)
 - [AWS Lambda adds support for Node.js 20](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-support-node-js-20/)
 - [AWS Ground Station expands Wideband Digital Intermediate Frequency to Oregon, Ohio, and Dubbo](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-ground-station-expands-wideband-digital-frequency/)
-- [AWS Audit Manager launches its first GRC integration with MetricStream](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-audit-manager-integrates-metricstream/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
