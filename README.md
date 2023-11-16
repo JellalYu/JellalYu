@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon RDS Multi-AZ with two readable standbys now supports minor version upgrades with 1 second of downtime](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-multi-az-two-stanbys-upgrades-downtime/)
-- [Amazon Neptune is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-neptune-aws-israel-tel-aviv-region/)
-- [Amazon MSK now sends storage capacity alerts](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-storage-capacity-alerts/)
-- [AWS Systems Manager publishes status updates for operational issues, change requests to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-systems-manager-updates-operational-requests-eventbridge/)
-- [Amazon IVS now supports server-side composition](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ivs-server-side-composition/)
+- [Amazon EC2 C7gn instances are now available in AWS Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-c7gn-instances-tokyo-region/)
+- [Amazon SQS announces support for logging data events in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-support-logging-data-events-aws-cloudtrail/)
+- [New Amazon CloudWatch metric monitors EBS volume I/O  health](https://aws.amazon.com/about-aws/whats-new/2023/11/new-amazon-cloudwatch-metric-monitors-ebs-volume-i-o-health/)
+- [AWS Cost Explorer now provides more historical and granular data](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cost-explorer-provides-historical-granular-data/)
+- [AWS AppSync introduces new metrics for monitoring of real-time GraphQL subscriptions](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-appsync-metrics-monitoring-graphql-subscriptions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
