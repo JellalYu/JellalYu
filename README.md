@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing PartyRock, an Amazon Bedrock Playground](https://aws.amazon.com/about-aws/whats-new/2023/11/partyrock-amazon-bedrock-playground/)
-- [AWS Cost Management now supports AppRegistry resource tags](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cost-management-appregistry-resource-tags/)
-- [Amazon S3 announces S3 Storage Lens groups for customized and granular visibility](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-storage-lens-groups-customized-granular-visibility/)
-- [Amazon RDS for SQL Server supports SQL Server major version 2022](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-sql-server-sql-server-major-version-2022/)
-- [Amazon EBS announces Snapshot Lock to protect snapshots from inadvertent or malicious deletions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ebs-snapshot-lock/)
+- [Amazon Time Sync Service now supports microsecond-accurate time](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-time-sync-service-microsecond-accurate-time/)
+- [Microservice Extractor simplifies porting of large .NET applications to Linux](https://aws.amazon.com/about-aws/whats-new/2023/11/microservice-extractor-porting-net-linux/)
+- [AWS Backup launches new console experience with jobs dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-backup-console-jobs-dashboard/)
+- [Amazon EC2 R6a instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-r6a-instances-available-additional-regions/)
+- [AWS IAM Identity Center enhances the multi-factor authentication &lpar;MFA&rpar; defaults for new IAM Identity Center instances](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iam-identity-center-mfa-defaults-iam-identity-center-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
