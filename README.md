@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Time Sync Service now supports microsecond-accurate time](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-time-sync-service-microsecond-accurate-time/)
-- [Microservice Extractor simplifies porting of large .NET applications to Linux](https://aws.amazon.com/about-aws/whats-new/2023/11/microservice-extractor-porting-net-linux/)
-- [AWS Backup launches new console experience with jobs dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-backup-console-jobs-dashboard/)
-- [Amazon EC2 R6a instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-r6a-instances-available-additional-regions/)
-- [AWS IAM Identity Center enhances the multi-factor authentication &lpar;MFA&rpar; defaults for new IAM Identity Center instances](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iam-identity-center-mfa-defaults-iam-identity-center-instances/)
+- [Amazon MSK adds support for Apache Kafka version 3.6.0 with Tiered Storage](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-support-apache-kafka-version-3-6-0-tiered-storage/)
+- [AWS IoT Device Management adds support for indexing and querying device location](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-device-management-indexing-querying-device-location/)
+- [AWS announces multiple stats query command for Amazon CloudWatch Logs Insights](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudwatch-logs-insights-stats-query-command/)
+- [Amazon Transcribe now supports automatic language identification for multi-lingual real-time audio streams](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-transcribe-automatic-language-identification/)
+- [Amazon SNS launches additional message filtering operators, including suffix and case-insensitive matching](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sns-message-additional-filtering-operators/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
