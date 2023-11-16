@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing PartyRock, an Amazon Bedrock Playground](https://aws.amazon.com/about-aws/whats-new/2023/11/partyrock-amazon-bedrock-playground/)
 - [AWS Cost Management now supports AppRegistry resource tags](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cost-management-appregistry-resource-tags/)
 - [Amazon S3 announces S3 Storage Lens groups for customized and granular visibility](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-storage-lens-groups-customized-granular-visibility/)
 - [Amazon RDS for SQL Server supports SQL Server major version 2022](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-sql-server-sql-server-major-version-2022/)
 - [Amazon EBS announces Snapshot Lock to protect snapshots from inadvertent or malicious deletions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ebs-snapshot-lock/)
-- [Amazon Route 53 Resolver DNS Firewall now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-route-53-resolver-firewall-4-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
