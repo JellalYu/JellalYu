@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS announces IPv6 tiered VPCs and subnets](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-ipv6-tiered-vpcs-subnets/)
-- [AWS Amplify Hosting now supports wildcard subdomains](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amplify-hosting-supports-wildcard-subdomains/)
-- [AWS Cloud Map now supports AWS CloudTrail data events](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloud-map-cloudtrail-data-events/)
-- [AWS Managed Microsoft AD adds support for One Identity Active Roles](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-managed-microsoft-ad-identity-active-roles/)
-- [Amazon Elastic Block Store announces default policies to backup EC2 instances and EBS volumes](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elastic-block-store-policies-ec2-ebs/)
+- [Amazon RDS Multi-AZ with two readable standbys now supports minor version upgrades with 1 second of downtime](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-multi-az-two-stanbys-upgrades-downtime/)
+- [Amazon Neptune is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-neptune-aws-israel-tel-aviv-region/)
+- [Amazon MSK now sends storage capacity alerts](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-storage-capacity-alerts/)
+- [AWS Systems Manager publishes status updates for operational issues, change requests to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-systems-manager-updates-operational-requests-eventbridge/)
+- [Amazon IVS now supports server-side composition](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ivs-server-side-composition/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
