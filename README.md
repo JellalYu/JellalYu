@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon MSK adds support for Apache Kafka version 3.6.0 with Tiered Storage](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-support-apache-kafka-version-3-6-0-tiered-storage/)
-- [AWS IoT Device Management adds support for indexing and querying device location](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-device-management-indexing-querying-device-location/)
-- [AWS announces multiple stats query command for Amazon CloudWatch Logs Insights](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudwatch-logs-insights-stats-query-command/)
-- [Amazon Transcribe now supports automatic language identification for multi-lingual real-time audio streams](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-transcribe-automatic-language-identification/)
-- [Amazon SNS launches additional message filtering operators, including suffix and case-insensitive matching](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sns-message-additional-filtering-operators/)
+- [AWS announces IPv6 tiered VPCs and subnets](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-ipv6-tiered-vpcs-subnets/)
+- [AWS Amplify Hosting now supports wildcard subdomains](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amplify-hosting-supports-wildcard-subdomains/)
+- [AWS Cloud Map now supports AWS CloudTrail data events](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloud-map-cloudtrail-data-events/)
+- [AWS Managed Microsoft AD adds support for One Identity Active Roles](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-managed-microsoft-ad-identity-active-roles/)
+- [Amazon Elastic Block Store announces default policies to backup EC2 instances and EBS volumes](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elastic-block-store-policies-ec2-ebs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
