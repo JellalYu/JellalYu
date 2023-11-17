@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon QuickSight now supports programmatic user access management by assigning groups to roles](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-programmatic-user-access-management/)
-- [Amazon CodeCatalyst now supports Virtual Private Cloud](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codecatalyst-supports-virtual-private-cloud/)
-- [Amazon Connect now offers quick responses for contact center agents engaged in chats](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-quick-responses-contact-center-agents-engaged-chats/)
-- [AWS Glue Data Catalog now supports generating column-level statistics](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-data-catalog-generating-column-level-statistics/)
-- [QuickSight launches Custom Week Start](https://aws.amazon.com/about-aws/whats-new/2023/11/quicksight-custom-week-start/)
+- [Amazon SageMaker Studio now supports automated user setup with IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-studio-automated-user-setup-iam-identity-center/)
+- [AWS Supply Chain Demand Planning provides up to 3x faster forecasting and 75% lower UI latency](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-supply-chain-demand-planning-faster-forecasting-lower-ui-latency/)
+- [AWS DMS now supports Amazon Timestream as a target](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-dms-amazon-timestream-target/)
+- [Announcing teams for Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codecatalyst-teams/)
+- [Amazon VPC IP Address Manager adds a free features tier, including AWS Organization-wide Public IP Insights](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-vpc-address-manager-free-features-tier/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
