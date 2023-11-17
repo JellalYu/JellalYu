@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [VPCs and subnets now support more sizes for IPv6 CIDRs](https://aws.amazon.com/about-aws/whats-new/2023/11/vpcs-subnets-support-more-sizes-ipv6-cidrs/)
-- [Amazon EC2 C7gn instances are now available in AWS Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-c7gn-instances-tokyo-region/)
-- [Amazon SQS announces support for logging data events in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-support-logging-data-events-aws-cloudtrail/)
-- [New Amazon CloudWatch metric monitors EBS volume I/O  health](https://aws.amazon.com/about-aws/whats-new/2023/11/new-amazon-cloudwatch-metric-monitors-ebs-volume-i-o-health/)
-- [AWS Cost Explorer now provides more historical and granular data](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cost-explorer-provides-historical-granular-data/)
+- [Amazon EMR Serverless is now available 4 new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-serverless-available-new-aws-regions/)
+- [Amazon Connect now provides a Contact Lens conversational analytics dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-contact-lens-analytics-dashboard/)
+- [Amazon OpenSearch Ingestion is now available in 3 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-ingestion-available-additional-commercial-regions/)
+- [Amazon RDS Custom for SQL Server extends Point in Time Recovery support for up to 1000 databases](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-custom-sql-server-recovery-1000-databases/)
+- [Monitor SAP Sybase ASE database with Amazon CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2023/11/monitor-sap-ase-database-cloudwatch-insights/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
