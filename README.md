@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon QuickSight launches custom access to capabilities based on roles](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-custom-access-capabilities-based-roles/)
-- [New payment options for the AWS Marketplace flexible payment scheduler](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-marketplace-scheduler-payment-options/)
-- [Amazon EventBridge EventBus announces support for read-only API events from CloudTrail](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eventbridge-read-only-api-cloudtrail/)
-- [Amazon ECR pull through cache now supports additional upstream registries](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ecr-pull-through-cache-additional-upstream-registries/)
-- [Amazon EC2 C7g, M7g and R7g instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-c7g-m7g-r7g-additional-regions/)
+- [AWS CloudFormation simplifies resource import with a new parameter for ChangeSets](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloudformation-import-parameter-changesets/)
+- [Amazon Redshift announces support for CNAME](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-support-cname/)
+- [Amazon Connect now provides a pre-built queue performance dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-pre-built-queue-performance-dashboard/)
+- [Automate application-consistent EBS Snapshots for SAP HANA databases](https://aws.amazon.com/about-aws/whats-new/2023/11/automate-application-ebs-snapshots-sap-hana-databases/)
+- [Enhancements to AWS Partner Analytics Dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/enhancements-aws-partner-analytics-dashboard/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
