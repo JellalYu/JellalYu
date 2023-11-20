@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS CloudFormation simplifies resource import with a new parameter for ChangeSets](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloudformation-import-parameter-changesets/)
-- [Amazon Redshift announces support for CNAME](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-support-cname/)
-- [Amazon Connect now provides a pre-built queue performance dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-pre-built-queue-performance-dashboard/)
-- [Automate application-consistent EBS Snapshots for SAP HANA databases](https://aws.amazon.com/about-aws/whats-new/2023/11/automate-application-ebs-snapshots-sap-hana-databases/)
-- [Enhancements to AWS Partner Analytics Dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/enhancements-aws-partner-analytics-dashboard/)
+- [EC2 Security group connection tracking adds support for configurable idle timeouts](https://aws.amazon.com/about-aws/whats-new/2023/11/ec2-security-connection-tracking-idle-timeouts/)
+- [Amazon OpenSearch Service now supports OpenSearch version 2.11](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-supports-version-2-11/)
+- [Amazon Athena adds CloudWatch metrics for Provisioned Capacity](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-athena-cloudwatch-metrics-capacity/)
+- [AWS Glue announces entity-level actions to manage sensitive data](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-entity-level-actions-sensitive-data/)
+- [AWS Outposts rack supports service link interface throughput metrics](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-outposts-rack-service-link-interface-throughput-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
