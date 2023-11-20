@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS IAM Identity Center APIs for visibility into workforce access to AWS](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iam-identity-center-apis-workforce-access/)
+- [Amazon Redshift Serverless is now generally available in the AWS China &lpar;Beijing&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-serverless-china-beijing-region/)
 - [EC2 Security group connection tracking adds support for configurable idle timeouts](https://aws.amazon.com/about-aws/whats-new/2023/11/ec2-security-connection-tracking-idle-timeouts/)
 - [Amazon OpenSearch Service now supports OpenSearch version 2.11](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-supports-version-2-11/)
 - [Amazon Athena adds CloudWatch metrics for Provisioned Capacity](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-athena-cloudwatch-metrics-capacity/)
-- [AWS Glue announces entity-level actions to manage sensitive data](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-entity-level-actions-sensitive-data/)
-- [AWS Outposts rack supports service link interface throughput metrics](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-outposts-rack-service-link-interface-throughput-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
