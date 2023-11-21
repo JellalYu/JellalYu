@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing AWS IAM Identity Center APIs for visibility into workforce access to AWS](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iam-identity-center-apis-workforce-access/)
-- [Amazon Redshift Serverless is now generally available in the AWS China &lpar;Beijing&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-serverless-china-beijing-region/)
-- [EC2 Security group connection tracking adds support for configurable idle timeouts](https://aws.amazon.com/about-aws/whats-new/2023/11/ec2-security-connection-tracking-idle-timeouts/)
-- [Amazon OpenSearch Service now supports OpenSearch version 2.11](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-supports-version-2-11/)
-- [Amazon Athena adds CloudWatch metrics for Provisioned Capacity](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-athena-cloudwatch-metrics-capacity/)
+- [Introducing Amazon CodeWhisperer for command line &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codewhisperer-command-line-preview/)
+- [Application and Network Load Balancer now supports FIPS 140-3 for TLS Termination](https://aws.amazon.com/about-aws/whats-new/2023/11/application-load-balancer-fips-tls-termination/)
+- [Amazon RDS for PostgreSQL now supports major version 16](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-postgresql-major-version-16/)
+- [AWS Amplify Hosting extends server-side rendering &lpar;SSR&rpar; support to additional frameworks](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amplify-hosting-ssr-additional-frameworks/)
+- [Customer Profiles Flow block simplifies authentication and retrieval of customer profile information.](https://aws.amazon.com/about-aws/whats-new/2023/11/customer-profiles-flow-authentication-customer-profiles/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
