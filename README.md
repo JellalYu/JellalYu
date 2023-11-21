@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Amplify launches next generation of backend building capabilities](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amplify-next-generation-backend-capabilities/)
 - [Amazon DocumentDB now supports no-code machine learning with Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-documentdb-no-code-learning-sagemaker-canvas/)
 - [Apache Flink is now generally available for Amazon EMR on EKS](https://aws.amazon.com/about-aws/whats-new/2023/11/apache-flink-available-amazon-emr-eks/)
 - [EC2 Image Builder now supports image lifecycle management and deletion](https://aws.amazon.com/about-aws/whats-new/2023/11/ec2-image-builder-lifecycle-management-deletion/)
 - [Amazon Elastic Block Store announces io2 Block Express volumes available on all EC2 Nitro instances](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elastic-block-store-io2-block-express-nitro/)
-- [AWS Lake Formation data filters now support permissions on nested data](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lake-formation-data-filters-permissions-nested-data/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
