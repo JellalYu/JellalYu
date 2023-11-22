@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Logs support now available in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2023/11/logs-support-aws-distro-opentelemetry/)
 - [AWS Entity Resolution is now Health Insurance Portability and Accountability Act &lpar;HIPAA&rpar; eligible](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-entity-resolution-hippa-eligible/)
 - [AWS IoT TwinMaker launches new features to improve the digital twin entity modeling experience](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-twinmaker-features-improve-digital-twin-entity-modeling-experience/)
 - [Amazon EMR Studio is now available in 4 new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-studio-4-new-regions/)
 - [AWS IoT SiteWise announces a new storage tier for industrial data](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-storage-tier-industrial-data/)
-- [AWS IoT SiteWise supports ingestion of buffered and batched measurement data](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-buffered-batched-measurement-data/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
