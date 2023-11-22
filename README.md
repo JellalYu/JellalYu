@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS announces Amazon DocumentDB I/O-Optimized](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-documentdb-i-o-optimized/)
-- [Amazon CloudFront announces CloudFront KeyValueStore, a globally managed key value datastore](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudfront-keyvaluestore-globally-managed-key-value-datastore/)
-- [Amazon QuickSight supports SPICE capacity auto-purchase](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-spice-capacity-auto-purchase/)
-- [Amazon S3 server access logging now supports automatic date-based partitioning](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-server-access-logging-date-partitioning/)
-- [AWS Amplify launches next generation of backend building capabilities](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amplify-next-generation-backend-capabilities/)
+- [AWS Entity Resolution is now Health Insurance Portability and Accountability Act &lpar;HIPAA&rpar; eligible](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-entity-resolution-hippa-eligible/)
+- [AWS IoT TwinMaker launches new features to improve the digital twin entity modeling experience](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-twinmaker-features-improve-digital-twin-entity-modeling-experience/)
+- [Amazon EMR Studio is now available in 4 new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-studio-4-new-regions/)
+- [AWS IoT SiteWise announces a new storage tier for industrial data](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-storage-tier-industrial-data/)
+- [AWS IoT SiteWise supports ingestion of buffered and batched measurement data](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-buffered-batched-measurement-data/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
