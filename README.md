@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing preview of AMB Access Polygon, serverless access to Polygon blockchain](https://aws.amazon.com/about-aws/whats-new/2023/11/amb-access-polygon-serverless-blockchain-preview/)
+- [Application Load Balancer increases application availability with Automatic Target Weights](https://aws.amazon.com/about-aws/whats-new/2023/11/application-load-balancer-availability-target-weights/)
 - [AWS Glue Data Quality announces anomaly detection and dynamic rules](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-data-quality-anomaly-detection-dynamic-rules/)
 - [ENA Express supports 58 new instances with sizes as small as 16 vCPUs](https://aws.amazon.com/about-aws/whats-new/2023/11/ena-express-58-instances-sizes-16-vcpus/)
 - [AWS Free Tier usage is now available through the GetFreeTierUsage API](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-free-tier-usage-getfreetierusage-api/)
-- [AWS Step Functions launches optimized integration for Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-step-functions-optimized-integration-bedrock/)
-- [Powered by foundation model, Amazon Transcribe now supports over 100 languages](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-transcribe-over-100-languages/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
