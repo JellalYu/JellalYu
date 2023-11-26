@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Security and MSSP Specializations now included in AWS Marketplace Vendor Insights](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-security-mssp-specializations-marketplace-vendor-insights/)
-- [AWS CodePipeline supports starting a pipeline execution with source revision overrides](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-codepipeline-pipeline-execution-source-revision-overrides/)
-- [Amazon Kinesis Data Streams launches cross-account access with AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-data-streams-cross-account-access-aws-lambda/)
-- [Introducing the Amazon S3 Connector for PyTorch](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-connector-pytorch/)
-- [Mountpoint for Amazon S3 optimizes for repeated data access](https://aws.amazon.com/about-aws/whats-new/2023/11/mountpoint-amazon-s3-optimizes-repeated-data-access/)
+- [AWS Glue Data Quality announces anomaly detection and dynamic rules](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-data-quality-anomaly-detection-dynamic-rules/)
+- [ENA Express supports 58 new instances with sizes as small as 16 vCPUs](https://aws.amazon.com/about-aws/whats-new/2023/11/ena-express-58-instances-sizes-16-vcpus/)
+- [AWS Free Tier usage is now available through the GetFreeTierUsage API](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-free-tier-usage-getfreetierusage-api/)
+- [AWS Step Functions launches optimized integration for Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-step-functions-optimized-integration-bedrock/)
+- [Powered by foundation model, Amazon Transcribe now supports over 100 languages](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-transcribe-over-100-languages/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
