@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Entity Resolution is now Health Insurance Portability and Accountability Act &lpar;HIPAA&rpar; eligible](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-entity-resolution-hipaa-eligible/)
 - [Announcing vision system data from AWS IoT FleetWise &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/vision-system-data-aws-iot-fleetwise-preview/)
 - [Announcing utterance generation for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-lex-utterance-generation/)
 - [Descriptive Bot Builder with Generative AI](https://aws.amazon.com/about-aws/whats-new/2023/11/descriptive-bot-builder-generative-ai/)
 - [Amazon Detective introduces finding group summaries using generative AI](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-detective-group-summaries-generative-ai/)
-- [Announcing Lens Catalog for the AWS Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-well-architected-tool-lens-catalog/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
