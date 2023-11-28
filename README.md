@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS announces Amazon Q &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amazon-q-preview/)
-- [AWS Chatbot now supports Amazon Q conversations in Microsoft Teams and Slack](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-chatbot-q-conversations-teams-slack/)
-- [Knowledge Bases for Amazon Bedrock is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-knowledge-bases/)
-- [Safeguard generative AI applications with Guardrails for Amazon Bedrock &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-safeguard-ai-applications-guardrails/)
-- [Meta Llama 2, Cohere Command Light, and Amazon Titan FMs can now be fine-tuned in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/meta-llama-2-cohere-command-light-amazon-titan-fms-bedrock/)
+- [Amazon Connect launches no-code UI builder to configure step-by-step guides](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-no-code-ui-builder/)
+- [Amazon Connect Contact Lens now provides real-time conversational analytics for chat](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-contact-lens-real-time-conversational-analytics-chat/)
+- [AWS announces Amazon DynamoDB zero-ETL integration with Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-dynamodb-zero-etl-integration-amazon-opensearch-service/)
+- [AWS announces Amazon DynamoDB zero-ETL integration with Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-dynamodb-zero-etl-integration-redshift/)
+- [AWS announces Amazon RDS for MySQL zero-ETL integration with Amazon Redshift &lpar;Public Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-zero-etl-integration-amazon-redshift-public-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
