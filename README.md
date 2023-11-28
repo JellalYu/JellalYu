@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing new Amazon EC2 R8g instances powered by AWS Graviton4 processors &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-r8g-instances-aws-graviton4-processors-preview/)
-- [Accelerate data lake queries with Amazon Athena and Amazon S3 Express One Zone](https://aws.amazon.com/about-aws/whats-new/2023/11/data-lake-queries-amazon-athena-s3-express-one-zone/)
-- [Mountpoint for Amazon S3 now supports the Amazon S3 Express One Zone storage class](https://aws.amazon.com/about-aws/whats-new/2023/11/mountpoint-amazon-s3-express-one-zone-storage-class/)
-- [Accelerate data processing and analysis with Amazon EMR and Amazon S3 Express One Zone](https://aws.amazon.com/about-aws/whats-new/2023/11/data-processing-analysis-amazon-emr-s3-express-one-zone/)
-- [Announcing the Amazon S3 Express One Zone storage class](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-express-one-zone-storage-class/)
+- [AWS announces Amazon Q &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amazon-q-preview/)
+- [AWS Chatbot now supports Amazon Q conversations in Microsoft Teams and Slack](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-chatbot-q-conversations-teams-slack/)
+- [Knowledge Bases for Amazon Bedrock is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-knowledge-bases/)
+- [Safeguard generative AI applications with Guardrails for Amazon Bedrock &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-safeguard-ai-applications-guardrails/)
+- [Meta Llama 2, Cohere Command Light, and Amazon Titan FMs can now be fine-tuned in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/meta-llama-2-cohere-command-light-amazon-titan-fms-bedrock/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
