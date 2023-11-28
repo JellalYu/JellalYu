@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Analytics simplify users’ data access across services with IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-analytics-users-data-access-iam-identity-center/)
 - [AWS AppSync improves support for Amazon Aurora clusters configured with the RDS Data API](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-appsync-aurora-clusters-rds-data-api/)
 - [Virtualization for SPARC on AWS with Stromasys is now available](https://aws.amazon.com/about-aws/whats-new/2023/11/virtualization-sparc-aws-stromasys-available/)
 - [Amazon SQS announces increased throughput quota for FIFO High Throughput mode](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-throughput-quota-fifo-high-throughput-mode/)
 - [Announcing new finding enrichment in AWS Security Hub](https://aws.amazon.com/about-aws/whats-new/2023/11/new-finding-enrichment-aws-security-hub/)
-- [AWS Mainframe Modernization Replatform with NTT DATA is now available](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-mainframe-modernization-replatform-ntt-data/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
