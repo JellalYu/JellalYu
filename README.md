@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing Amazon Redshift Serverless with AI-driven scaling and optimizations &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-serverless-ai-driven-scaling-optimizations-preview/)
-- [AWS announces Amazon ElastiCache Serverless](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elasticache-serverless/)
-- [Announcing Amazon Aurora Limitless Database](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-limitless-database/)
-- [AWS Analytics simplify users’ data access across services with IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-analytics-users-data-access-iam-identity-center/)
-- [AWS AppSync improves support for Amazon Aurora clusters configured with the RDS Data API](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-appsync-aurora-clusters-rds-data-api/)
+- [AWS Support launches AWS Countdown with a premium tier](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-support-countdown-premium-tier/)
+- [Announcing custom blueprints for Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codecatalyst-custom-blueprints/)
+- [Amazon Redshift announces new fine-grained access control capabilities to nested objects &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-fine-grained-access-control-capabilities-preview/)
+- [AWS Application Composer announces AWS Step Functions Workflow Studio integration](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-application-composer-step-functions-workflow-studio/)
+- [Amazon Braket launches Braket Direct, a program to dive deeper into quantum computing](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-braket-launches-braket-direct/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
