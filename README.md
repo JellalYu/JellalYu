@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing feature development capability of Amazon Q &lpar;Preview&rpar; in Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/11/feature-development-capability-amazon-q-preview-codecatalyst/)
-- [Amazon Q in Connect offers generative AI powered agent assistance in real-time](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-q-connect-generative-ai-powered-agent-assistance-real-time/)
-- [Announcing Amazon Q expert capabilities for AWS &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-q-expert-capabilities-aws-preview/)
-- [AWS announces Amazon Q &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amazon-q-preview/)
-- [Amazon Connect Contact Lens provides generative AI powered contact summarization &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-contact-lens-ai-powered-summarization-preview/)
+- [AWS Clean Rooms ML is now available in preview](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-clean-rooms-ml-preview/)
+- [Vector engine for Amazon OpenSearch Serverless now generally available](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-serverless-vector-engine/)
+- [Announcing Amazon SageMaker HyperPod, a purpose-built infrastructure for distributed training at scale](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-hyperpod/)
+- [Claude 2.1 foundation model from Anthropic is now generally available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/claude-2-1-foundation-model-anthropic-amazon-bedrock/)
+- [Amazon Titan Text models—Express and Lite—now generally available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-titan-models-express-lite-bedrock/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
