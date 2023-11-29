@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon SageMaker Canvas now supports natural language instructions for data preparation](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-canvas-natural-language-preparation/)
 - [SageMaker now provides improved SDK tooling and UX for model deployment](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-sdk-tooling-ux-model-deployment/)
+- [Announcing API support for creating Amazon SageMaker Notebook jobs](https://aws.amazon.com/about-aws/whats-new/2023/11/api-creating-amazon-sagemaker-notebook-jobs/)
 - [Amazon SageMaker launches new inference capabilities to reduce costs and latency](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-inference-costs-latency/)
 - [Leverage FMs for business analysis at scale with Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2023/11/leverage-fms-analysis-scale-sagemaker-canvas/)
-- [Amazon Bedrock now supports batch inference](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-batch-inference/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
