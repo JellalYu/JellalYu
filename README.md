@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Clean Rooms ML is now available in preview](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-clean-rooms-ml-preview/)
-- [Vector engine for Amazon OpenSearch Serverless now generally available](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-serverless-vector-engine/)
-- [Announcing Amazon SageMaker HyperPod, a purpose-built infrastructure for distributed training at scale](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-hyperpod/)
-- [Claude 2.1 foundation model from Anthropic is now generally available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/claude-2-1-foundation-model-anthropic-amazon-bedrock/)
-- [Amazon Titan Text models—Express and Lite—now generally available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-titan-models-express-lite-bedrock/)
+- [Amazon SageMaker Clarify now supports foundation model &lpar;FM&rpar; evaluations in preview](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-clarify-fm-evaluations-preview/)
+- [Evaluate, compare, and select the best FMs for your use case in Amazon Bedrock &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/evaluate-compare-select-fms-use-case-amazon-bedrock/)
+- [Amazon Q generative SQL is now available in Amazon Redshift Query Editor &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-generative-sql-query-editor-preview/)
+- [Amazon Neptune Analytics is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-neptune-analytics/)
+- [AWS announces vector search for Amazon DocumentDB](https://aws.amazon.com/about-aws/whats-new/2023/11/vector-search-amazon-documentdb/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
