@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon SageMaker Clarify now supports foundation model &lpar;FM&rpar; evaluations in preview](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-clarify-fm-evaluations-preview/)
-- [Evaluate, compare, and select the best FMs for your use case in Amazon Bedrock &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/evaluate-compare-select-fms-use-case-amazon-bedrock/)
-- [Amazon Q generative SQL is now available in Amazon Redshift Query Editor &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-generative-sql-query-editor-preview/)
-- [Amazon Neptune Analytics is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-neptune-analytics/)
-- [AWS announces vector search for Amazon DocumentDB](https://aws.amazon.com/about-aws/whats-new/2023/11/vector-search-amazon-documentdb/)
+- [Amazon SageMaker Canvas now supports natural language instructions for data preparation](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-canvas-natural-language-preparation/)
+- [SageMaker now provides improved SDK tooling and UX for model deployment](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-sdk-tooling-ux-model-deployment/)
+- [Amazon SageMaker launches new inference capabilities to reduce costs and latency](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-inference-costs-latency/)
+- [Leverage FMs for business analysis at scale with Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2023/11/leverage-fms-analysis-scale-sagemaker-canvas/)
+- [Amazon Bedrock now supports batch inference](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-batch-inference/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
