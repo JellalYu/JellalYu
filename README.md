@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Distribution is now available on Code Editor based on Code-OSS and JupyterLab](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-distribution-code-editor/)
+- [AWS Fault Injection Service launches two highly requested scenarios](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fault-injection-service-two-requested-scenarios/)
+- [Bring your own Amazon EFS &lpar;Elastic File System&rpar; volume to JupyterLab and CodeEditor in Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eds-volume-jupyterlab-codeeditor-amazon-sagemaker-studio/)
+- [Amazon Route 53 Application Recovery Controller launches zonal autoshift](https://aws.amazon.com/about-aws/whats-new/2023/11/route-53-application-recovery-zonal-autoshift/)
 - [Amazon Inspector enhances container image security by integrating with developer tools](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-inspector-image-security-developer-tools/)
-- [Amazon SageMaker Studio now provides a faster fully-managed notebooks in JupyterLab](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-studio-fully-managed-notebooks-jupyterlab/)
-- [Amazon SageMaker now provides a new setup and onboarding experience on AWS SageMaker console](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-setup-onboarding-experience-console/)
-- [New and improved Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2023/11/new-improved-amazon-sagemaker-studio/)
-- [Introducing an Integrated Development Environment &lpar;IDE&rpar; extension for AWS Application Composer](https://aws.amazon.com/about-aws/whats-new/2023/11/ide-extension-aws-application-composer/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
