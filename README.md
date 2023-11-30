@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Observe your applications with Amazon CloudWatch Application Signals &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudwatch-applications-signals-observe-preview/)
+- [myApplications: One place to view and manage your applications on AWS](https://aws.amazon.com/about-aws/whats-new/2023/11/myapplications-view-manage-applications-aws/)
 - [Announcing enhanced manageability and usability features for Amazon Redshift Serverless](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-serverless-manageability-usability-features/)
 - [Announcing Solution Building Enablement for Partners](https://aws.amazon.com/about-aws/whats-new/2023/11/solution-building-enablement-partners/)
 - [Amazon Redshift now supports metadata security to simplify multi-tenant applications](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-metadata-security-tenant-applications/)
-- [Amazon Redshift announces general availability of row-level security enhancements](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-row-level-security-enhancements/)
-- [AWS Partner Network launches new Amazon EKS Ready Specialization](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-partner-network-eks-ready-specialization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
