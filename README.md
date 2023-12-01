@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [FreeRTOS announces availability of modular and composable OTA libraries](https://aws.amazon.com/about-aws/whats-new/2023/12/freertos-modular-composable-ota-libraries/)
+- [AWS AppConfig Agent launches write to disk, backups, and permission mapping](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-appconfig-agent-write-backups-permission-mapping/)
 - [Amazon SageMaker Distribution is now available on Code Editor based on Code-OSS and JupyterLab](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-distribution-code-editor/)
 - [AWS Fault Injection Service launches two highly requested scenarios](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fault-injection-service-two-requested-scenarios/)
 - [Bring your own Amazon EFS &lpar;Elastic File System&rpar; volume to JupyterLab and CodeEditor in Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eds-volume-jupyterlab-codeeditor-amazon-sagemaker-studio/)
-- [Amazon Route 53 Application Recovery Controller launches zonal autoshift](https://aws.amazon.com/about-aws/whats-new/2023/11/route-53-application-recovery-zonal-autoshift/)
-- [Amazon Inspector enhances container image security by integrating with developer tools](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-inspector-image-security-developer-tools/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
