@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Redshift extends SUPER data type column size support to 16 MB](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-redshift-super-data-column-size-16mb/)
+- [Amazon Redshift announces general availability of row-level security enhancements](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-row-level-security-enhancements/)
 - [EC2 Hibernate now supports Amazon EC2 C7a, C7i, R7a, R7i and R7iz Instances](https://aws.amazon.com/about-aws/whats-new/2023/12/ec2-hibernate-c7a-c7i-r7a-r7i-r7iz-instances/)
 - [FreeRTOS announces availability of modular and composable OTA libraries](https://aws.amazon.com/about-aws/whats-new/2023/12/freertos-modular-composable-ota-libraries/)
 - [AWS AppConfig Agent launches write to disk, backups, and permission mapping](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-appconfig-agent-write-backups-permission-mapping/)
-- [Amazon SageMaker Distribution is now available on Code Editor based on Code-OSS and JupyterLab](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-distribution-code-editor/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
