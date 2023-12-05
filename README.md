@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaLive now supports color space conversion with custom tone mapping](https://aws.amazon.com/about-aws/whats-new/2023/12/elemental-medialive-color-space-conversion-tone-mapping/)
+- [AWS Elemental MediaLive now supports image overlays for individual outputs](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-elemental-medialive-image-overlays-outposts/)
+- [AWS DMS adds support for Amazon Relational Database Service for Db2 as a target endpoint](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-dms-amazon-relational-database-service-db2-target-endpoint/)
 - [AWS Announces Amazon Q is available in preview on the AWS Console Mobile App for iOS](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-q-preview-console-mobile-app-ios/)
 - [Amazon Rekognition launches Face APIs version 7 for improved accuracy and lower latency](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rekognition-face-apis-7-accuracy-latency/)
-- [AWS Secrets Manager announces 99.99% Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-secrets-manager-service-level-agreement/)
-- [Amazon Connect adds an additional 24 contact and agent metrics to access programmatically](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-24-contact-agent-metrics-programmatically/)
-- [Customer Profiles launches calculated attributes that turn customer data into actionable insights](https://aws.amazon.com/about-aws/whats-new/2023/12/customer-profiles-calculated-attributes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
