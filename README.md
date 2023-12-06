@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Logs regular expression filter support now in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-logs-regular-expression-govcloud-regions/)
+- [Amazon Aurora MySQL’s support for Microsoft Active Directory authentication available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-mysql-microsoft-active-directory-authentication-govcloud-regions/)
+- [AWS Lambda functions now scale up to 12X faster](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-functions-scale-up/)
 - [AWS Elemental MediaLive now supports color space conversion with custom tone mapping](https://aws.amazon.com/about-aws/whats-new/2023/12/elemental-medialive-color-space-conversion-tone-mapping/)
 - [AWS Elemental MediaLive now supports image overlays for individual outputs](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-elemental-medialive-image-overlays-outposts/)
-- [AWS DMS adds support for Amazon Relational Database Service for Db2 as a target endpoint](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-dms-amazon-relational-database-service-db2-target-endpoint/)
-- [AWS Announces Amazon Q is available in preview on the AWS Console Mobile App for iOS](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-q-preview-console-mobile-app-ios/)
-- [Amazon Rekognition launches Face APIs version 7 for improved accuracy and lower latency](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rekognition-face-apis-7-accuracy-latency/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
