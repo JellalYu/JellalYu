@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FinSpace with Managed kdb Insights now works with TorQ framework](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-torq-framework/)
+- [Announcing Migration Assistant for Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-opensearch-service-migration-assistant/)
 - [AWS Mainframe Modernization introduces new controls for managed runtimes](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-mainframe-modernization-new-controls-managed-runtimes/)
 - [AWS Lambda simplifies connectivity to Amazon RDS and RDS Proxy via Lambda console](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-connectivity-rds-proxy-console/)
 - [AWS announces new no-code dashboard application to visualize IoT data](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-no-code-dashboard-visualize-iot-data/)
-- [Amazon Rekognition improves Face Liveness accuracy and user experience](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rekognition-face-liveness-accuracy-user-experience/)
-- [Announcing new AWS AI Service Cards - to advance responsible AI](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-ai-service-cards/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
