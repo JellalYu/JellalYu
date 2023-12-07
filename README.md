@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Mainframe Modernization introduces new controls for managed runtimes](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-mainframe-modernization-new-controls-managed-runtimes/)
 - [AWS Lambda simplifies connectivity to Amazon RDS and RDS Proxy via Lambda console](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-connectivity-rds-proxy-console/)
 - [AWS announces new no-code dashboard application to visualize IoT data](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-no-code-dashboard-visualize-iot-data/)
 - [Amazon Rekognition improves Face Liveness accuracy and user experience](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rekognition-face-liveness-accuracy-user-experience/)
 - [Announcing new AWS AI Service Cards - to advance responsible AI](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-ai-service-cards/)
-- [Amazon QuickSight enhances SPICE ingestion performance by up to 4x with parallel ingestion](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-quicksight-spice-ingestion-performance-4x/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
