@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C7g and M7g  instances are now available in AWS Region Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-c7g-m7g-instances-aws-region-europe-london/)
 - [Amazon Redshift announces enhancements to Advisor sort and distribution key recommendations](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-redshift-advisor-sort-distribution-key-recommendations/)
 - [Amazon EC2 adds Service Quotas for AMIs in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-service-quotas-amis-govcloud/)
 - [Amazon Textract announces updates to AnalyzeDocument - Forms](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-textract-updates-analyzedocument-forms/)
 - [AWS announces new AWS Direct Connect location in Vancouver, Canada](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-direct-connect-location-vancouver-canada/)
-- [Amazon CloudWatch Metric Streams adds support for OpenTelemetry 1.0.0](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-metric-streams-opentelemetry-1-0-0/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
