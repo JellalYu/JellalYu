@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the release of AWS Thinkbox Deadline 10.3.1](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-thinkbox-deadline-10-3-1/)
+- [AWS Malaysia now supports 3D-Secure authentication](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-malaysia-3d-secure-authentication/)
+- [AWS CodeDeploy now supports application stop hooks during Amazon EC2 Auto Scaling Group scale-ins](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-codedeploy-application-stop-hooks-ec2-auto-scaling-group-scale-ins/)
+- [Amazon SES now offers notifications for delivery improvement recommendations](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ses-notifications-delivery-improvement-recommendations/)
 - [AWS Lambda supports additional concurrency metric for improved quota monitoring](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-concurrency-metric-quota-monitoring/)
-- [Amazon FinSpace with Managed kdb Insights introduces Dataviews for sharing database caches across kdb clusters](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-dataviews/)
-- [Amazon FinSpace with Managed kdb Insights now supports running multiple kdb processes on shared compute](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-multiple-processes-shared-compute/)
-- [AWS AppConfig now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-appconfig-supports-privatelink/)
-- [Amazon FinSpace with Managed kdb Insights now supports Tickerplants for real-time analytics](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-tickerplants/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
