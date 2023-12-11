@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Athena now supports user identities for data access and audit](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-athena-identities-data-access-audit/)
 - [Announcing the release of AWS Thinkbox Deadline 10.3.1](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-thinkbox-deadline-10-3-1/)
 - [AWS Malaysia now supports 3D-Secure authentication](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-malaysia-3d-secure-authentication/)
 - [AWS CodeDeploy now supports application stop hooks during Amazon EC2 Auto Scaling Group scale-ins](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-codedeploy-application-stop-hooks-ec2-auto-scaling-group-scale-ins/)
 - [Amazon SES now offers notifications for delivery improvement recommendations](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ses-notifications-delivery-improvement-recommendations/)
-- [AWS Lambda supports additional concurrency metric for improved quota monitoring](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-concurrency-metric-quota-monitoring/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
