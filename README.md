@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK extends AWS IAM support to all programming languages for existing clusters](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-msk-iam-support-programming-languages-clusters/)
 - [Amazon RDS for MariaDB supports minors 10.11.6, 10.6.16, 10.5.23, 10.4.32](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-mariadb-minors-10-11-6-10-6-16-10-5-23-10-4-32/)
 - [Introducing managed package repository support for Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/12/managed-package-repository-support-amazon-codecatalyst/)
 - [Amazon CloudWatch now supports Cross-Account Metrics Insights](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-cross-account-metrics-insights/)
 - [Amazon Athena now supports user identities for data access and audit](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-athena-identities-data-access-audit/)
-- [Announcing the release of AWS Thinkbox Deadline 10.3.1](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-thinkbox-deadline-10-3-1/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
