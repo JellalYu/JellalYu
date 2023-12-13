@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Inc. now supports Card Verification Value &lpar;CVV&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-inc-card-verification-value/)
 - [Amazon EMR Serverless is now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-serverless-middle-east-uae-region/)
 - [Amazon CloudWatch Logs announces streaming API support for Live Tail](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-logs-streaming-api-livetail/)
 - [Amazon Monitron now offers cost visibility at the project and site level](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-monitron-cost-visibility-project-site-level/)
 - [Connect GraphQL APIs to existing MySQL and PostgreSQL databases with AWS Amplify](https://aws.amazon.com/about-aws/whats-new/2023/12/connect-graphql-apis-existing-mysql-postgresql-databases-aws-amplify/)
-- [Amazon MSK extends AWS IAM support to all programming languages for existing clusters](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-msk-iam-support-programming-languages-clusters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
