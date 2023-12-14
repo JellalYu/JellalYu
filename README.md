@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EBS launches AWS CloudFormation support for Block Public Access for EBS Snapshots](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ebs-cloudformation-block-public-access-snapshots/)
 - [Amazon EC2 Inf2 instances, optimized for generative AI, now available globally](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-inf2-instances-generative-ai/)
 - [Announcing AWS CloudFormation template generation for Amazon EventBridge Pipes](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-cloudformation-template-eventbridge-pipes/)
 - [EC2 Image Builder launches image workflows to customize image creation process](https://aws.amazon.com/about-aws/whats-new/2023/12/ec2-image-builder-image-workflows/)
 - [Amazon CloudWatch Logs data protection now supports custom data identifiers](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-logs-data-protection-data-identifiers/)
-- [AWS Inc. now supports Card Verification Value &lpar;CVV&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-inc-card-verification-value/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
