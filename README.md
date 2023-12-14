@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MQ now supports RabbitMQ version 3.10.25](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-mq-rabbitmq-version-3-10-25/)
+- [Amazon DocumentDB now supports 1-click EC2 connectivity with Amazon EC2 instance](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-documentdb-1-click-ec2-connectivity-instance/)
+- [Amazon EC2 M6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-m6id-instances-additional-regions/)
 - [Amazon EBS launches AWS CloudFormation support for Block Public Access for EBS Snapshots](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ebs-cloudformation-block-public-access-snapshots/)
 - [Amazon EC2 Inf2 instances, optimized for generative AI, now available globally](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-inf2-instances-generative-ai/)
-- [Announcing AWS CloudFormation template generation for Amazon EventBridge Pipes](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-cloudformation-template-eventbridge-pipes/)
-- [EC2 Image Builder launches image workflows to customize image creation process](https://aws.amazon.com/about-aws/whats-new/2023/12/ec2-image-builder-image-workflows/)
-- [Amazon CloudWatch Logs data protection now supports custom data identifiers](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-logs-data-protection-data-identifiers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
