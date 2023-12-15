@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Core allows customers to use their own CAs with fleet provisioning](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-iot-core-customers-cas-fleet-provisioning/)
+- [Amazon AppStream 2.0 now supports Microsoft Windows Server 2022 images](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-appstream-2-0-windows-server-2022-images/)
+- [Amazon SNS now supports sending SMS from Asia Pacific &lpar;Jakarta&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sns-sms-asia-pacific-jakarta/)
 - [AWS Billing Conductor now provides margin analysis reports for AWS services](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-billing-conductor-margin-analysis-reports-services/)
 - [AWS Data Exchange now supports data grants for sharing data across organizations](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-data-exchange-data-grants-sharing-organizations/)
-- [Announcing Synthetics NodeJS runtime version 6.1 for Amazon CloudWatch Synthetics](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-synthetics-node-js-version-6-1/)
-- [Amazon SNS now supports sending SMS from Israel &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sns-sms-israel-tel-aviv/)
-- [AWS Lambda adds support for Python 3.12](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-support-python-3-12/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
