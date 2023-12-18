@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup Audit Manager adds new control to audit restore time targets](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-backup-audit-manager-control-time-targets/)
 - [Amazon CloudWatch Container Insights launches cross-account observability for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-container-account-observability-eks/)
 - [Amazon CodeCatalyst Dev Environments now supports Virtual Private Cloud](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-codecatalyst-dev-environments-private-cloud/)
 - [Amazon OpenSearch Service adds multimodal support for Neural Search](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-opensearch-service-multimodal-support-neural-search/)
 - [AWS Cloud9 now supports Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-cloud9-amazon-linux-2023/)
-- [AWS Security Hub launches 15 new security controls](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-security-hub-15-security-controls/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
