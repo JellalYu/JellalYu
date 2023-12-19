@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Firewall egress TLS inspection is now available in all regions](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-network-firewall-egress-tls-inspection-available-all-regions/)
+- [AWS AppSync provides additional configurations to manage GraphQL API usage](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-appsync-additional-configurations-manage-graphql-api-usage/)
 - [AWS ParallelCluster 3.8 with support for Amazon EC2 Capacity Blocks for ML](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-parallelcluster-cluster-3-8-ec2-blocks-ml/)
 - [AWS AppFabric now supports 7 additional applications](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-appfabric-7-additional-applications/)
 - [Amazon EC2 C6in instances are now available in Asia Pacific &lpar;Hong Kong, Melbourne&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-instances-hong-kong-melbourne/)
-- [AWS Elemental MediaConnect now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-elemental-mediaconnect-additional-aws-regions/)
-- [Amazon Elastic Container Registry now supports wildcards in lifecycle policies](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-elastic-container-registry-wildcards-lifecycle-policies/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
