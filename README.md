@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Network Firewall egress TLS inspection is now available in all regions](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-network-firewall-egress-tls-inspection-available-all-regions/)
-- [AWS AppSync provides additional configurations to manage GraphQL API usage](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-appsync-additional-configurations-manage-graphql-api-usage/)
-- [AWS ParallelCluster 3.8 with support for Amazon EC2 Capacity Blocks for ML](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-parallelcluster-cluster-3-8-ec2-blocks-ml/)
-- [AWS AppFabric now supports 7 additional applications](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-appfabric-7-additional-applications/)
-- [Amazon EC2 C6in instances are now available in Asia Pacific &lpar;Hong Kong, Melbourne&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-instances-hong-kong-melbourne/)
+- [AWS Audit Manager now supports PCI 4.0 for automated evidence collection](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-audit-manager-pci-4-0-automated-evidence-collection/)
+- [Amazon FSx for OpenZFS now supports on-demand data replication across AWS Regions and accounts](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-fsx-openzfs-on-demand-data-replication-regions-accounts/)
+- [Amazon RDS Performance Insights now generates recommendations when metrics breach advisable thresholds](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-performance-insights-generates-recommendations/)
+- [Amazon RDS launches an enhanced experience for RDS Recommendations](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-enhanced-experience-rds-recommendations/)
+- [AWS Verified Access is now available in 8 more regions including AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-verified-access-eight-regions-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
