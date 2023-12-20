@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Audit Manager now supports PCI 4.0 for automated evidence collection](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-audit-manager-pci-4-0-automated-evidence-collection/)
-- [Amazon FSx for OpenZFS now supports on-demand data replication across AWS Regions and accounts](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-fsx-openzfs-on-demand-data-replication-regions-accounts/)
-- [Amazon RDS Performance Insights now generates recommendations when metrics breach advisable thresholds](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-performance-insights-generates-recommendations/)
-- [Amazon RDS launches an enhanced experience for RDS Recommendations](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-enhanced-experience-rds-recommendations/)
-- [AWS Verified Access is now available in 8 more regions including AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-verified-access-eight-regions-govcloud/)
+- [Amazon Kinesis Data Firehose is now available in the AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-kinesis-data-firehose-canada-calgary-region/)
+- [Amazon Virtual Private Cloud now supports Bring Your Own IP in three AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-virtual-private-cloud-byoip-three-zones/)
+- [SageMaker model parallelism now provides up to 20% speed up with less code change](https://aws.amazon.com/about-aws/whats-new/2023/12/sagemaker-parallelism-20-speed-code-change/)
+- [AWS Ground Station launches a new antenna location in Alaska](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-ground-station-antenna-alaska/)
+- [Amazon Route 53 Resolver Endpoints now supports DNS-over-HTTPS &lpar;DoH&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-route-53-resolver-endpoints-doh/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
