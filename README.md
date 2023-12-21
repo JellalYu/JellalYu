@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Config now supports 1000 AWS Config rules per AWS Region per account](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-config-1000-config-rules-region-account/)
 - [Amazon Bedrock is now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-bedrock-aws-govcloud-us-west-region/)
 - [Amazon RDS now supports M6gd and R6gd database instances in three additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-m6gd-r6gd-database-instances-additional-aws-regions/)
 - [AWS Backup now supports SAP HANA High Availability databases on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-backup-sap-hana-databases-amazon-ec2/)
 - [EFA support for Open MPI 5.0 now available](https://aws.amazon.com/about-aws/whats-new/2023/12/efa-support-open-mpi-5-0/)
-- [Amazon Chime SDK now supports new high-definition video modes](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-chime-sdk-high-definition-video/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
