@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [VPC Traffic Mirroring is now available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/12/vpc-traffic-mirroring-additional-regions/)
+- [Automate deployment of SAP systems on ASE databases with AWS Launch Wizard](https://aws.amazon.com/about-aws/whats-new/2023/12/automate-deployment-sap-systems-ase-databases-aws-launch-wizard/)
+- [Amazon Connect now supports routing contacts according to the proficiency of agents](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-routing-contacts-proficiency-agents/)
 - [Amazon SageMaker is now available in Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sagemaker-canada-west-calgary/)
 - [Amazon Connect agent workspace supports contextual views for third-party apps &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-agent-workspace-views-third-party-apps/)
-- [AWS Neuron adds support for PyTorch 2.1 and Llama-2-70b model inference](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-neuron-pytorch-2-1-llama-2-70b-model-inference/)
-- [Amazon CloudWatch alarms adds AWS Lambda as an alarm state change action](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-alarms-lambda-change-action/)
-- [Amazon CloudWatch Network Monitor is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-network-monitor-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
