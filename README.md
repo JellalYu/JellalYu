@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker is now available in Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sagemaker-canada-west-calgary/)
 - [Amazon Connect agent workspace supports contextual views for third-party apps &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-agent-workspace-views-third-party-apps/)
 - [AWS Neuron adds support for PyTorch 2.1 and Llama-2-70b model inference](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-neuron-pytorch-2-1-llama-2-70b-model-inference/)
 - [Amazon CloudWatch alarms adds AWS Lambda as an alarm state change action](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-alarms-lambda-change-action/)
 - [Amazon CloudWatch Network Monitor is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-network-monitor-generally-available/)
-- [Amazon RDS for Db2 now supports X2iedn instances](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-db2-supports-x2iedn-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
