@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Amazon Aurora PostgreSQL integration with Amazon Bedrock for Generative AI](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-integration-bedrock-generative-ai/)
+- [Amazon Aurora supports PostgreSQL 15.5, 14.10, 13.13, 12.17](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-15-5-14-10-13-13-12-17/)
 - [Amazon Aurora PostgreSQL now supports RDS Data API](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-rds-data-api/)
 - [Amazon Managed Service for Prometheus now supports customer managed KMS keys](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-managed-service-prometheus-kms-keys/)
 - [Announcing Customer Managed Key &lpar;CMK&rpar; support in AWS CodeCommit](https://aws.amazon.com/about-aws/whats-new/2023/12/customer-managed-key-support-aws-codecommit/)
-- [Amazon EC2 R7g  instances are now available in AWS Region Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-r7g-instances-aws-region-europe-london/)
-- [AWS Config now supports 1000 AWS Config rules per AWS Region per account](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-config-1000-config-rules-region-account/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
