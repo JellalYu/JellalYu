@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Remediating non-compliant resources with AWS Config rules is now available in Israel &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/remediating-non-compliant-resources-aws-config-rules-israel-tel-aviv/)
+- [Amazon EMR Studio now supports user level permissions for Git Repositories](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-studio-user-level-permissions-git-repositories/)
+- [IAM Roles Anywhere is now available in 6 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/iam-roles-anywhere-additional-aws-regions/)
 - [Amazon CloudFront now supports 4096-bit RSA TLS certificates](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudfront-4096-bit-rsa-tls-certificates/)
 - [Amazon EMR Serverless supports fine-grained access control via AWS Lake Formation &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-serverless-grained-lake-formation-preview/)
-- [Amazon Connect Tasks now makes it easier to link and track tasks and associated contacts](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-link-track-tasks-contacts/)
-- [Amazon Connect Contact Lens launches new API to search for contacts](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-contact-lens-api-search-contacts/)
-- [VPC Traffic Mirroring is now available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/12/vpc-traffic-mirroring-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
