@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Mainframe Modernization service is now available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-mainframe-modernization-4-regions/)
+- [Amazon EMR Release 7.0 now supports Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-release-7-0-supports-linux-2023/)
 - [EC2 Hibernation is now available in four new regions](https://aws.amazon.com/about-aws/whats-new/2023/12/ec2-hibernation-four-new-regions/)
 - [AWS Directory Service for Microsoft AD and AD Connector available in Calgary](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-directory-service-microsoft-ad-ad-connector-calgary/)
 - [Announcing Amazon CloudWatch metrics support in AWS CodeArtifact](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-metrics-support-aws-codeartifact/)
-- [Amazon EKS now supports assigning EC2 security groups to IPv6 Kubernetes pods](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-eks-assigning-ec2-security-groups-ipv6-kubernetes-pods/)
-- [AWS Support launches Security Improvement Program for Enterprise On-Ramp customers](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-support-security-program-on-ramp-customers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
