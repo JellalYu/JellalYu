@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS now supports assigning EC2 security groups to IPv6 Kubernetes pods](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-eks-assigning-ec2-security-groups-ipv6-kubernetes-pods/)
 - [AWS Support launches Security Improvement Program for Enterprise On-Ramp customers](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-support-security-program-on-ramp-customers/)
 - [Amazon EKS now surfaces cluster health status details](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-eks-surfaces-cluster-health-status-details/)
 - [CodePipeline supports GitLab self-managed](https://aws.amazon.com/about-aws/whats-new/2023/12/codepipeline-gitlab-self-managed/)
 - [AWS Elemental MediaPackage now available in Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-elemental-mediapackage-asia-pacific-melbourne-region/)
-- [AWS Elemental MediaTailor now supports time shifting in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-elemental-mediatailor-time-shifting-assembly/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
