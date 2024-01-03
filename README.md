@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Serial Console is now available in all Local Zones](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-serial-console-available-local-zones/)
 - [Amazon WorkSpaces supports certificate-based authentication on Web Access](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-workspaces-certificate-authentication-web/)
 - [SageMaker Studio now supports local mode and Docker](https://aws.amazon.com/about-aws/whats-new/2023/12/sagemaker-studio-local-mode-docker/)
 - [AWS Mainframe Modernization service is now available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-mainframe-modernization-4-regions/)
 - [Amazon EMR Release 7.0 now supports Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-release-7-0-supports-linux-2023/)
-- [EC2 Hibernation is now available in four new regions](https://aws.amazon.com/about-aws/whats-new/2023/12/ec2-hibernation-four-new-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
