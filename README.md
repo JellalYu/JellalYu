@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service now supports TLS 1.3 and perfect forward secrecy](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-opensearch-service-tls-1-3-perfect-forward-secrecy/)
+- [AWS Systems Manager now supports Ubuntu 23.04, Debian 12, MacOS 14, and SUSE SP5](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-systems-manager-ubuntu-debian-macos-suse/)
+- [Amazon Connect launches granular access controls for historical metrics](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-granular-access-controls-historical-metrics/)
+- [AWS Systems Manager now supports SSM Agent version update in the context of an Application](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-systems-manager-ssm-agent-version-update-context-application/)
 - [Amazon Cognito identity pools enhances quota management in AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-cognito-identity-pools-quota-management-aws-service-quotas/)
-- [Amazon EC2 Serial Console is now available in all Local Zones](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-serial-console-available-local-zones/)
-- [Amazon WorkSpaces supports certificate-based authentication on Web Access](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-workspaces-certificate-authentication-web/)
-- [SageMaker Studio now supports local mode and Docker](https://aws.amazon.com/about-aws/whats-new/2023/12/sagemaker-studio-local-mode-docker/)
-- [AWS Mainframe Modernization service is now available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-mainframe-modernization-4-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
