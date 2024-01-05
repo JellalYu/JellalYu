@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace announces simplified and reduced listing fees for sellers](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-simplified-reduced-listing-fees/)
 - [Amazon ECS Service Connect is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-service-connect-three-regions/)
 - [Amazon SageMaker Feature Store now offers provisioned capacity mode](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sage-maker-feature-store-provisioned-capacity-mode/)
 - [AWS Accounts discontinues the use of security challenge questions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-accounts-discontinues-security-challenge-questions/)
 - [Introducing simplified WordPress setup on Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2024/01/simplified-wordpress-setup-amazon-lightsail/)
-- [Amazon OpenSearch Service now supports TLS 1.3 and perfect forward secrecy](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-opensearch-service-tls-1-3-perfect-forward-secrecy/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
