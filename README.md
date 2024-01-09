@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaLive now available in Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-elemental-medialive-melbourne-region/)
 - [AWS CodeBuild now supports a X-Large Linux compute type](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-codebuild-x-large-linux-compute-type/)
 - [Amazon EC2 C7i instances are now available in 8 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-c7i-instances-additional-aws-regions/)
 - [AWS Lambda supports Kafka event sources in the Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-lambda-kafka-event-sources-israel/)
 - [Announcing availability of AWS Outposts in Turkey](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-outposts-turkey/)
-- [Amazon EMR Studio now supports customer managed KMS key encryption for workspace storage](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-emr-studio-customer-managed-kms-key-encryption/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
