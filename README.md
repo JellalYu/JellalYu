@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 R7iz instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-r7iz-instances-additional-regions/)
 - [AWS CloudShell now supports Docker in 13 Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-cloudshell-docker-13-regions/)
 - [Amazon EC2 M6gd instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-m6gd-instances-new-regions/)
 - [Amazon EC2 M6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-m6i-instances-new-regions/)
 - [AWS Elemental MediaLive now available in Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-elemental-medialive-melbourne-region/)
-- [AWS CodeBuild now supports a X-Large Linux compute type](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-codebuild-x-large-linux-compute-type/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
