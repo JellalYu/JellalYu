@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Route 53 expands geoproximity routing](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-route-53-expands-geoproximity-routing/)
 - [Amazon Virtual Private Cloud Prefix Lists now available in Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-virtual-private-cloud-canada-calgary-region/)
 - [Amazon Connect now supports audio optimization for Citrix cloud desktops](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-audio-optimization-citrix-cloud-desktops/)
 - [Amazon Location Service now supports additional places content in Maps](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-location-service-places-content-maps/)
 - [Amazon Route 53 Resolver DNS Firewall now supports query type filtering](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-route-53-resolver-dns-firewall-query-type-filtering/)
-- [Amazon ElastiCache now supports additional sizes of network-optimized C7gn nodes](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-elasticache-additional-sizes-network-optimized-c7gn-nodes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
