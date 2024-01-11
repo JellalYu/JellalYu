@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS and AWS Fargate now integrate with Amazon EBS](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-fargate-integrate-ebs/)
+- [Amazon EC2 C6in instances are now available in Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-c6in-instances-europe-spain/)
 - [New AWS Marketplace Insights dashboard for sellers showing product usage](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-insights-dashboard-product-usage/)
 - [Amazon EC2 R7i instances are now available in more AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-r7i-instances-more-regions/)
 - [AWS Backup now supports protecting Amazon FSx for NetApp ONTAP FlexGroup volumes](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-backup-protecting-amazon-fsx-netapp-ontap-flexgroup-volumes/)
-- [Amazon SageMaker now supports M7i, C7i, and R7i instances for ML Inference](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sageaker-m7i-c7i-r7i-instances-ml-inference/)
-- [Introducing Open Job Description, an open specification for portable render jobs](https://aws.amazon.com/about-aws/whats-new/2024/01/open-job-description-open-specification-portable-render-jobs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
