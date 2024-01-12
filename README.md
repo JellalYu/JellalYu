@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MySQL supports Innovation Release version 8.2 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-mysql-innovation-release-version-8-2-rds-database-preview-environment/)
+- [Amazon EventBridge now supports AWS AppSync as a target of EventBridge Buses](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-eventbridge-appsync-target-buses/)
+- [Amazon ElastiCache now supports Memcached 1.6.22](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-elasticache-memcached-1-6-22/)
 - [Amazon ECS and AWS Fargate now integrate with Amazon EBS](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-fargate-integrate-ebs/)
 - [Amazon EC2 C6in instances are now available in Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-c6in-instances-europe-spain/)
-- [New AWS Marketplace Insights dashboard for sellers showing product usage](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-insights-dashboard-product-usage/)
-- [Amazon EC2 R7i instances are now available in more AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-r7i-instances-more-regions/)
-- [AWS Backup now supports protecting Amazon FSx for NetApp ONTAP FlexGroup volumes](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-backup-protecting-amazon-fsx-netapp-ontap-flexgroup-volumes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
