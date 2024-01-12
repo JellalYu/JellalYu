@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server supports minor version 2019 CU24](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-sql-server-2019-cu24/)
 - [AWS Lambda now supports SnapStart for Java functions in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-lambda-snapstart-java-functions-additional-regions/)
 - [Amazon Connect outbound campaigns voice dialing API is generally available](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-outbound-campaigns-voice-dialing-api/)
 - [AWS Config now supports 22 new resource types](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-config-supports-22-new-resource-types/)
 - [ROSA with hosted control planes &lpar;HCP&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2024/01/rosa-hosted-control-planes-hcp/)
-- [Unified Search in now available in the Amazon Web Services Management Console in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/unified-search-aws-management-console-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
