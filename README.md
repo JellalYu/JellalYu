@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 on Outposts enables support for IPv6](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-s3-outposts-ipv6/)
+- [AWS Transfer Family introduces static IPs for sending AS2 messages and MDNs](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-transfer-family-static-ips-as2-messages-mdns/)
 - [Private Access to the AWS Management Console is available in 7 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/private-access-aws-management-console-additional-regions/)
 - [Amazon RDS for SQL Server supports minor version 2019 CU24](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-sql-server-2019-cu24/)
 - [AWS Lambda now supports SnapStart for Java functions in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-lambda-snapstart-java-functions-additional-regions/)
-- [Amazon Connect outbound campaigns voice dialing API is generally available](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-outbound-campaigns-voice-dialing-api/)
-- [AWS Config now supports 22 new resource types](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-config-supports-22-new-resource-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
