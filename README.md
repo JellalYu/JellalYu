@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Private CA now helps issue ISO/IEC mobile driver’s license certificates](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-private-ca-mobile-drivers-license-certificates/)
+- [Amazon EMR Studio announces a simplified create experience with improved start times](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-emr-studio-create-experience-start-times/)
 - [AWS Transfer Family provides static IP addresses for SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-transfer-family-static-ip-sftp-connectors/)
 - [Amazon Location Service launches CloudFormation support for API keys and resource management](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-location-service-cloudformation-keys-management/)
 - [Announcing AWS Supply Chain Sustainability](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-supply-chain-sustainability/)
-- [Announcing AWS Supply Chain Supply Planning](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-supply-chain-supply-planning/)
-- [Amazon S3 on Outposts enables support for IPv6](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-s3-outposts-ipv6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
