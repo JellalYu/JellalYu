@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EC2 High Memory instances now available in Europe &lpar;London&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-high-memory-instances-europe-london-regions/)
-- [Amazon Corretto January, 2024 quarterly updates](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-corretto-january-2024-quarterly-updates/)
-- [Amazon EC2 High Memory instances now available in US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-high-memory-instances-us-east-ohio-region/)
-- [Amazon RDS for MySQL now supports multi-source replication](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-mysql-supports-multi-source-replication/)
-- [AWS Private CA now helps issue ISO/IEC mobile driver’s license certificates](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-private-ca-mobile-drivers-license-certificates/)
+- [Amazon RDS for SQL Server Supports TempDB configuration replication](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-sql-server-tempdb-configuration-replication/)
+- [GLIDE for Redis, an OSS Redis client sponsored by AWS, now available in preview](https://aws.amazon.com/about-aws/whats-new/2024/01/glide-redis-oss-redis-client-sponsored-aws-preview/)
+- [Amazon MSK expands support for M7g instances to four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-msk-m7g-instances-additional-aws-regions/)
+- [Amazon CloudWatch Metric Streams available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-cloudwatch-metric-streams-aws-govcloud-us-regions/)
+- [Announcing AWS Supply Chain N-Tier Visibility](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-supply-chain-n-tier-visibility/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
