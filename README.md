@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 High Memory instances now available in Europe &lpar;London&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-high-memory-instances-europe-london-regions/)
 - [Amazon Corretto January, 2024 quarterly updates](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-corretto-january-2024-quarterly-updates/)
 - [Amazon EC2 High Memory instances now available in US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-high-memory-instances-us-east-ohio-region/)
 - [Amazon RDS for MySQL now supports multi-source replication](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-mysql-supports-multi-source-replication/)
 - [AWS Private CA now helps issue ISO/IEC mobile driver’s license certificates](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-private-ca-mobile-drivers-license-certificates/)
-- [Amazon EMR Studio announces a simplified create experience with improved start times](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-emr-studio-create-experience-start-times/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
