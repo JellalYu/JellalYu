@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Instance Connect and EC2 Serial console available in AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-instance-connect-console-tel-aviv/)
 - [Amazon RDS for SQL Server Supports TempDB configuration replication](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-sql-server-tempdb-configuration-replication/)
 - [GLIDE for Redis, an OSS Redis client sponsored by AWS, now available in preview](https://aws.amazon.com/about-aws/whats-new/2024/01/glide-redis-oss-redis-client-sponsored-aws-preview/)
 - [Amazon MSK expands support for M7g instances to four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-msk-m7g-instances-additional-aws-regions/)
 - [Amazon CloudWatch Metric Streams available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-cloudwatch-metric-streams-aws-govcloud-us-regions/)
-- [Announcing AWS Supply Chain N-Tier Visibility](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-supply-chain-n-tier-visibility/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
