@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IAM Identity Center is now available in the Middle East &lpar;UAE&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-iam-identity-center-middle-east-uae-region/)
 - [Simplify AWS Marketplace renewals with new future dated agreements feature](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-renewals-future-dated-agreements/)
 - [Amazon API Gateway WebSocket APIs now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-api-gateway-websocket-apis-uae-region/)
 - [AWS Migration Hub Journeys – Prescriptive Guided Migration &amp; Modernization](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-migration-hub-journeys-prescriptive-guided-migration-modernization/)
 - [Amazon EC2 Instance Connect and EC2 Serial console available in AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-instance-connect-console-tel-aviv/)
-- [Amazon RDS for SQL Server Supports TempDB configuration replication](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-sql-server-tempdb-configuration-replication/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
