@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-high-memory-instances-seoul-region/)
 - [Amazon Connect now allows contact center managers to join ongoing chats](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-managers-join-chats/)
 - [AWS CodeBuild announces support for reserved capacity](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-codebuild-reserved-capacity/)
 - [Amazon SNS now supports FCM HTTP V1 API for delivering mobile push notifications](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sns-fcm-http-v1-api-mobile-notifications/)
 - [Amazon SageMaker Canvas is now available in 6 new Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sagemaker-canvas-6-regions/)
-- [Amazon FSx for Windows File Server increases maximum IOPS level to 400,000](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-fsx-windows-file-sever-increases-iops/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
