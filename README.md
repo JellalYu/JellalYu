@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Custom for SQL Server supports SQL Server 2022](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-custom-sql-server-supports-sql-server-2022/)
+- [Amazon ECS support for configurable timeout for services running with Service Connect](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-configurable-timeout-service-connect/)
+- [Amazon ECS Service Connect introduces support for automatic traffic encryption with TLS Certificates](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-service-connect-automatic-traffic-encryption-tls-certificates/)
 - [AWS Step Functions adds integration for 33 services including Amazon Q](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-step-functions-integration-33-services/)
 - [Sellers can now resell third-party professional services in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/01/sellers-resell-third-party-professional-services-aws-marketplace/)
-- [Stream data into Snowflake using Kinesis Data Firehose and Snowflake Snowpipe Streaming &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/01/stream-data-snowflake-kinesis-data-firehose-snowpipe-streaming-preview/)
-- [Amazon SQS announces support for logging data events in AWS CloudTrail in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sqs-logging-data-events-aws-cloudtrail-govcloud-us-regions/)
-- [AWS announces higher read IOPS for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2024/01/higher-read-iops-amazon-elastic-file-system/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
