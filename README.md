@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 M7a, R7a instances now available in Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-m7a-r7a-instances-asia-pacific-toyko-region/)
 - [Amazon Inspector now supports CIS Benchmark assessments for operating systems in EC2 instances](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-inspector-cis-benchmark-assessments-operating-systems-ec2-instances/)
 - [Amazon RDS Custom for Oracle is now available in Europe &lpar;Paris&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-custom-oracle-europe-paris-aws-region/)
 - [Amazon RDS Custom for SQL Server supports SQL Server 2022](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-custom-sql-server-supports-sql-server-2022/)
 - [Amazon ECS support for configurable timeout for services running with Service Connect](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-configurable-timeout-service-connect/)
-- [Amazon ECS Service Connect introduces support for automatic traffic encryption with TLS Certificates](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-service-connect-automatic-traffic-encryption-tls-certificates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
