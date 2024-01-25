@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager now supports syncing inventory data to and from AWS opt-in Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-systems-manager-syncing-inventory-data-opt-in-regions/)
+- [Amazon VPC now supports idempotency for route table and network ACL creation](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-vpc-idempotency-route-table-network-acl/)
+- [Introducing the AWS Small and Medium Business &lpar;SMB&rpar; Competency](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-small-medium-business-competency/)
 - [Amazon Connect SMS is now available in two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-sms-two-regions/)
 - [Amazon RDS for PostgreSQL now supports croaring-rs and num-bigint crates for Trusted Language Extensions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-postgresql-croaring-rs-num-bigint-crates-trusted-language-extensions/)
-- [AWS Billing Conductor releases account-scoped custom line items](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-billing-conductor-account-scoped-custom-line-items/)
-- [AWS Payment Cryptography launches additional options for importing and exporting keys](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-payment-cryptography-options-importing-exporting-keys/)
-- [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.29](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-eks-eks-distro-kubernetes-version-1-29/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
