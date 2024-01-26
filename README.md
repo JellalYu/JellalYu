@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C7gd instances are now available in Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-c7gd-instances-europe-spain-region/)
+- [AWS Launch Wizard is now available in Melbourne, Spain, and Zurich Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-launch-wizard-melbourne-spain-zurich/)
 - [Introducing IPv6 instance bundles on Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2024/01/ipv6-instance-bundles-amazon-lightsail/)
 - [Provisioned capacity for API limits now available in Amazon Cognito](https://aws.amazon.com/about-aws/whats-new/2024/01/provisioned-capacity-api-limits-amazon-cognito/)
 - [AWS Private CA now supports revocation for Matter certificates](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-private-ca-revocation-matter-certificates/)
-- [Amazon IVS announces audio-only pricing for Low-Latency Streaming](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ivs-audio-only-pricing-low-latency-streaming/)
-- [Amazon EC2 High Memory instances now available in Europe &lpar;Stockholm&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-high-memory-instances-stockholm-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
