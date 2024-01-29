@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 R7i instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-r7i-instances-additional-regions/)
+- [Amazon RDS for Db2 now supports EBCDIC collation sequence](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-db2-ebcdic-collation-sequence/)
 - [SageMaker Automatic Model Tuning now supports Delete API](https://aws.amazon.com/about-aws/whats-new/2024/01/sagemaker-automatic-model-tuning-delete-api/)
 - [Amazon EC2 C7gd instances are now available in Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-c7gd-instances-europe-spain-region/)
 - [AWS Launch Wizard is now available in Melbourne, Spain, and Zurich Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-launch-wizard-melbourne-spain-zurich/)
-- [Introducing IPv6 instance bundles on Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2024/01/ipv6-instance-bundles-amazon-lightsail/)
-- [Provisioned capacity for API limits now available in Amazon Cognito](https://aws.amazon.com/about-aws/whats-new/2024/01/provisioned-capacity-api-limits-amazon-cognito/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
