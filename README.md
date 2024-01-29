@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 M2 and M2 Pro Mac instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-m2-m2-pro-mac-instances-additional-regions/)
 - [Amazon EC2 R7i instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-r7i-instances-additional-regions/)
 - [Amazon RDS for Db2 now supports EBCDIC collation sequence](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-db2-ebcdic-collation-sequence/)
 - [SageMaker Automatic Model Tuning now supports Delete API](https://aws.amazon.com/about-aws/whats-new/2024/01/sagemaker-automatic-model-tuning-delete-api/)
 - [Amazon EC2 C7gd instances are now available in Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-c7gd-instances-europe-spain-region/)
-- [AWS Launch Wizard is now available in Melbourne, Spain, and Zurich Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-launch-wizard-melbourne-spain-zurich/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
