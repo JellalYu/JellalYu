@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 added new price protection for attribute based instance selection](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-price-protection-attribute-instance-selection/)
 - [Amazon DataZone now supports AWS CloudFormation and HIPAA eligibility](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-datazone-aws-cloudformation-hipaa-eligibility/)
 - [Amazon ECS Service Discovery now available in Canada West &lpar;Calgary&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-discovery-service-canada-west-calgary/)
 - [Amazon EC2 M2 and M2 Pro Mac instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-m2-m2-pro-mac-instances-additional-regions/)
 - [Amazon EC2 R7i instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-r7i-instances-additional-regions/)
-- [Amazon RDS for Db2 now supports EBCDIC collation sequence](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-db2-ebcdic-collation-sequence/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
