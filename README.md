@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace launches self-service flows for sellers to list third-party EKS add-ons](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-self-service-flows-sellers-third-party-eks-add-ons/)
 - [Announcing Amazon Q data integration in AWS Glue &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-q-data-integration-aws-glue-preview/)
 - [Amazon DataZone is now available in 2 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-datazone-additional-regions/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; supports Global Clusters in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-documentdb-mongodb-global-clusters-govcloud/)
 - [AWS announces a new Local Zone in Chicago, Illinois](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-local-zone-chicago-illinois/)
-- [Amazon QuickSight is now available in Beijing region in China](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-quicksight-beijing-region-china/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
