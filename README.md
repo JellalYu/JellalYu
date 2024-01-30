@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon Q data integration in AWS Glue &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-q-data-integration-aws-glue-preview/)
 - [Amazon DataZone is now available in 2 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-datazone-additional-regions/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; supports Global Clusters in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-documentdb-mongodb-global-clusters-govcloud/)
 - [AWS announces a new Local Zone in Chicago, Illinois](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-local-zone-chicago-illinois/)
 - [Amazon QuickSight is now available in Beijing region in China](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-quicksight-beijing-region-china/)
-- [AWS announces support for logging AWS AppConfig data events in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-logging-appconfig-data-events-cloudtrail/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
