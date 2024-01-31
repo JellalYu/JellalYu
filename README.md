@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the new Console Home in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/console-home-aws-govcloud-us-regions/)
+- [AWS AppFabric is now ISO, PCI, and SOC compliant](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-appfabric-iso-pci-soc-compliant/)
 - [Amazon ElastiCache for Redis now supports auto scaling in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-elasticache-redis-auto-scaling-govcloud-regions/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Elastic Clusters are now available in 4 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-documentdb-mongodb-elastic-clusters-additional-regions/)
 - [AWS Control Tower receives DoD Impact Level 4 and 5 authorization](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-control-tower-dod-impact-level-4-5-authorization/)
-- [AWS Marketplace launches self-service flows for sellers to list third-party EKS add-ons](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-self-service-flows-sellers-third-party-eks-add-ons/)
-- [Announcing Amazon Q data integration in AWS Glue &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-q-data-integration-aws-glue-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
