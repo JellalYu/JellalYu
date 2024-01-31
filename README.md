@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS Service Connect is now available in Canada West &lpar;Calgary&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-service-connect-canada-west-calgary-aws-region/)
 - [Research and Engineering Studio on AWS, Version 2024.01 is now available](https://aws.amazon.com/about-aws/whats-new/2024/01/research-engineering-studio-aws-version-2024-01/)
 - [Announcing the new Console Home in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/console-home-aws-govcloud-us-regions/)
 - [AWS AppFabric is now ISO, PCI, and SOC compliant](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-appfabric-iso-pci-soc-compliant/)
 - [Amazon ElastiCache for Redis now supports auto scaling in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-elasticache-redis-auto-scaling-govcloud-regions/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Elastic Clusters are now available in 4 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-documentdb-mongodb-elastic-clusters-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
