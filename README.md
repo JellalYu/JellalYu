@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Free Tier now includes 750 hours of free Public IPv4 addresses, as charges for Public IPv4 begin](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-free-tier-750-hours-free-public-ipv4-addresses/)
+- [Amazon EventBridge Event Bus event matching now runs on Open Source Event Ruler v1.50](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-eventbridge-event-bus-matching-event-ruler/)
 - [Amazon EC2 Capacity Blocks for ML expands to P4d instances](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-capacity-blocks-ml-p4d-instances/)
 - [Amazon Monitron to enable static IP for gateways network configuration](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-monitron-static-ip-gateways-configuration/)
 - [AWS Mainframe Modernization service is now available in two additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-mainframe-modernization-service-additional-regions/)
-- [Amazon Rekognition adds new moderation labels and improves accuracy of content moderation for images](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rekognition-moderation-labels-accuracy-content-moderation-images/)
-- [Amazon FSx for OpenZFS now supports up to 400,000 IOPS](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-fsx-openzfs-additional-iops/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
