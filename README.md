@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon IVS now supports playback restriction policies](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ivs-playback-restriction-policies/)
 - [Amazon Managed Blockchain Query now provides access to non-finalized blockchain data](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-managed-blockchain-query-access-non-finalized-blockchain-data/)
 - [Finch is now available on Windows](https://aws.amazon.com/about-aws/whats-new/2024/02/finch-available-windows/)
 - [Amazon Cognito adds signing, encryption, and Identity Provider-initiated SSO for SAML federation](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-cognito-signing-encryption-identity-provider-initiated-sso/)
 - [AWS Free Tier now includes 750 hours of free Public IPv4 addresses, as charges for Public IPv4 begin](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-free-tier-750-hours-free-public-ipv4-addresses/)
-- [Amazon EventBridge Event Bus event matching now runs on Open Source Event Ruler v1.50](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-eventbridge-event-bus-matching-event-ruler/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
