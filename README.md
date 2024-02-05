@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS HealthOmics now supports Ultima Genomics DeepVariant Ready2Run workflow](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-healthomics-ultima-genomics-deepvariant-ready2run-workflow/)
+- [VPC DNS Query Logging now available in the Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/02/vpc-dns-query-logging-canada-west-calgary-region/)
 - [AWS announces a new Local Zone in Houston](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-local-zone-houston/)
 - [Generate AWS CloudFormation templates and AWS CDK apps for existing AWS resources in minutes](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-cloudformation-templates-cdk-apps-minutes/)
 - [Announcing Single sign-on &lpar;SSO&rpar; support for JetBrains IDE within Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/02/sso-jetbrains-ide-within-amazon-codecatalyst/)
-- [AWS Elemental MediaConnect adds new Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-elemental-mediaconnect-amazon-cloudwatch-metrics/)
-- [Amazon Redshift Query Editor is now available in 2 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-query-editor-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
