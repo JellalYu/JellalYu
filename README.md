@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect adds more flexibility to copying agent schedules](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-flexibility-copying-agent-schedules/)
+- [Announcing disruption controls for Karpenter](https://aws.amazon.com/about-aws/whats-new/2024/02/disruption-controls-karpenter/)
+- [AWS AppSync now supports environment variables in GraphQL resolvers and functions](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-appsync-environment-variables-graph-ql-resolvers-functions/)
 - [Amazon SQS launches the Extended Client Library for Python to support payloads up to 2GB](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-sqs-extended-client-library-python-payloads/)
 - [AWS WAF announces Captcha improvements](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-waf-captcha-improvements/)
-- [Amazon CloudWatch Synthetics releases NodeJS/Puppeteer Runtime versions 6.2, version 5.2 and Python/Selenium Runtime version 2.1](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-cloudwatch-synthetics-nodejs-puppeteer-runtime-6-2-5-2-python-selenium-2-1/)
-- [Amazon OpenSearch Service now offers improved visibility into domain updates](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-service-improved-visibility-domain-updates/)
-- [AWS AppFabric now supports Cisco Duo and Terraform](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-appfabric-cisco-duo-terraform/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
