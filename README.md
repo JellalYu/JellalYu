@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SQS launches the Extended Client Library for Python to support payloads up to 2GB](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-sqs-extended-client-library-python-payloads/)
+- [AWS WAF announces Captcha improvements](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-waf-captcha-improvements/)
+- [Amazon CloudWatch Synthetics releases NodeJS/Puppeteer Runtime versions 6.2, version 5.2 and Python/Selenium Runtime version 2.1](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-cloudwatch-synthetics-nodejs-puppeteer-runtime-6-2-5-2-python-selenium-2-1/)
+- [Amazon OpenSearch Service now offers improved visibility into domain updates](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-service-improved-visibility-domain-updates/)
 - [AWS AppFabric now supports Cisco Duo and Terraform](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-appfabric-cisco-duo-terraform/)
-- [Amazon Redshift announces support for H3 Indexing and related spatial grid indexing functions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-h3-indexing-spatial-grid-functions/)
-- [AWS Application Load Balancer announces one-click WAF integrations](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-application-load-balancer-one-click-waf-integrations/)
-- [AWS Fargate announces a price reduction for Windows containers on Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-fargate-price-reduction-windows-containers-ecs/)
-- [Announcing support for IdP-initiated SSO with Amazon WorkSpaces Web](https://aws.amazon.com/about-aws/whats-new/2024/02/support-idp-initiated-sso-amazon-workspaces-web/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
