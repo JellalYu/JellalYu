@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C6id instances are now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-c6id-instances-additional-regions/)
 - [Amazon Connect adds more flexibility to copying agent schedules](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-flexibility-copying-agent-schedules/)
 - [Announcing disruption controls for Karpenter](https://aws.amazon.com/about-aws/whats-new/2024/02/disruption-controls-karpenter/)
 - [AWS AppSync now supports environment variables in GraphQL resolvers and functions](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-appsync-environment-variables-graph-ql-resolvers-functions/)
 - [Amazon SQS launches the Extended Client Library for Python to support payloads up to 2GB](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-sqs-extended-client-library-python-payloads/)
-- [AWS WAF announces Captcha improvements](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-waf-captcha-improvements/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
