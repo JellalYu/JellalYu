@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Blockchain &lpar;AMB&rpar; Query now supports Amazon CloudWatch usage metrics](https://aws.amazon.com/about-aws/whats-new/2024/02/amb-query-amazon-cloudwatch-usage-metrics/)
+- [AWS Transfer Family now publishes events to Amazon EventBridge for AS2 servers and connectors](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-transfer-family-publishes-eventbridge-as2-servers-connectors/)
 - [Amazon MSK Replicator is now available in 9 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-msk-replicator-9-additional-regions/)
 - [Amazon SNS now supports sending SMS from five new regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-sns-sending-sms-5-regions/)
 - [AWS Transfer Family now publishes events to Amazon EventBridge for SFTP, FTPS, and FTP servers](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-transfer-family-publishes-events-eventbridge-servers/)
-- [Amazon Redshift announces auto and incremental materialized views for data sharing consumer tables](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-auto-views-data-sharing-tables/)
-- [Amazon Redshift announces programmatic access to Advisor recommendations via API](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-access-advisor-recommendations-api/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
