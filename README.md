@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace Sellers can now access Tax documents in AWS Marketplace Management Portal](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-marketplace-sellers-tax-documents-management-portal/)
 - [Amazon EC2 M6in and M6idn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-m6in-m6idn-instances-additional-regions/)
 - [AWS Glue Data Catalog now supports delegating KMS key permissions to an IAM role](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-glue-data-catalog-delegating-kms-key-permissions-iam-role/)
 - [Amazon EC2 C6in instances are now available in Israel &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-c6in-instances-israel-tel-aviv/)
 - [Amazon Managed Blockchain &lpar;AMB&rpar; Query now supports Amazon CloudWatch usage metrics](https://aws.amazon.com/about-aws/whats-new/2024/02/amb-query-amazon-cloudwatch-usage-metrics/)
-- [AWS Transfer Family now publishes events to Amazon EventBridge for AS2 servers and connectors](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-transfer-family-publishes-eventbridge-as2-servers-connectors/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
