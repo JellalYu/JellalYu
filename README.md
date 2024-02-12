@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Control Tower’s Account Factory for Terraform increases customization](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-control-towers-account-factory-terraform-increases-customization/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports text search](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-text-search/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports maintenance notifications](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-maintenance-notifications/)
 - [AWS Wickr now allows you to try premium features for free](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-wickr-try-premium-features-free/)
 - [AWS IoT Core supports Online Certificate Status Protocol Stapling for server certificates](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-iot-core-online-certificate-status-protocol-stapling-server-certificates/)
-- [Amazon Bedrock console gets a modern look-and-feel](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-bedrock-console-modern-look-feel/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
