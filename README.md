@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EC2 now supports retrieval of 10,000 steps completed within last 7 days](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-ec2-retrieval-10-000-steps-7-days/)
+- [Announcing libraries and tools for Open Job Description](https://aws.amazon.com/about-aws/whats-new/2024/02/libraries-tools-open-job-description/)
+- [Amazon GuardDuty Runtime Monitoring protects clusters running in shared VPC](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-guardduty-runtime-monitoring-protects-clusters-shared-vpc/)
 - [AWS AppSync introduces 12 new Amazon CloudWatch metrics for enhanced monitoring](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-appsync-amazon-cloudwatch-metrics-enhanced-monitoring/)
 - [Amazon RDS for MySQL supports new minor version 8.0.36](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-mysql-new-minor-version-8-0-36/)
-- [AWS Control Tower’s Account Factory for Terraform increases customization](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-control-towers-account-factory-terraform-increases-customization/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports text search](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-text-search/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports maintenance notifications](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-maintenance-notifications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
