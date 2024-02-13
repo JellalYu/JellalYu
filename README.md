@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces support for the INTERVAL data type and Continue Handler statements in stored procedure](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-interval-data-type-continue-handler-statements/)
 - [Introducing the Messaging API for the AWS SimSpace Weaver app SDK](https://aws.amazon.com/about-aws/whats-new/2024/02/messaging-api-aws-simspace-weaver-app-sdk/)
 - [Amazon MSK expands support for M7g instances to 2 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-msk-m7g-instances-2-regions/)
 - [Amazon EMR on EC2 now supports retrieval of 10,000 steps completed within last 7 days](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-ec2-retrieval-10-000-steps-7-days/)
 - [Announcing libraries and tools for Open Job Description](https://aws.amazon.com/about-aws/whats-new/2024/02/libraries-tools-open-job-description/)
-- [Amazon GuardDuty Runtime Monitoring protects clusters running in shared VPC](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-guardduty-runtime-monitoring-protects-clusters-shared-vpc/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
