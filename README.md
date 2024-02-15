@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppStream 2.0 now supports administrative controls for limiting clipboard](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-appstream-2-0-controls-limiting-clipboard/)
 - [API Gateway now supports TLS 1.3](https://aws.amazon.com/about-aws/whats-new/2024/02/api-gateway-tsl-1-3/)
 - [Amazon EMR Managed Scaling is now available in Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-managed-scaling-europe-spain/)
 - [Amazon RDS for Db2 now supports audit logging](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-db2-audit-logging/)
 - [AWS IoT Device Management Software Package Catalog available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-iot-device-management-software-catalog-govcloud/)
-- [Amazon OpenSearch Serverless now supports TLS 1.3 and perfect forward secrecy](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-serverless-tls-1-3-perfect-forward-secrecy/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
