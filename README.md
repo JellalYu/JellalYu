@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace now supports managing Private Marketplace catalogs for organizational units](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-marketplace-private-marketplace-catalogs-organizational-units/)
+- [AWS Wickr is now available in the AWS Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-wickr-aws-europe-stockholm-region/)
 - [Amazon AppStream 2.0 adds support for session scripts and Audio Out on multi-session fleets](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-appstream-2-0-scripts-audio-out-multi-session-fleets/)
 - [Amazon OpenSearch Ingestion is now available in 2 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-ingestion-additional-commercial-regions/)
 - [AWS Batch now supports private registry on ECS compute environments](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-batch-private-registry-ecs-compute-environments/)
-- [Amazon EC2 R6in and R6idn instances are now available in an additional region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-r6in-r6idn-instances-additional-region/)
-- [API Gateway now supports TLS 1.3](https://aws.amazon.com/about-aws/whats-new/2024/02/api-gateway-tls-1-3/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
