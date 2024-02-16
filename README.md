@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EFS is now available in the AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-efs-aws-canada-west-calgary-region/)
+- [Introducing pull request approval rules in Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-codecatalyst-pull-request-approval-rules/)
 - [Amazon EC2 M7i-flex and M7i instances are available in South America &lpar;Sao Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-m7i-flex-m7i-instances-sao-paulo-region/)
 - [Amazon MSK now supports in-place version upgrades for Tiered Storage enabled clusters](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-msk-in-place-version-upgrades-tiered-storage-enabled-clusters/)
 - [AWS Marketplace now supports managing Private Marketplace catalogs for organizational units](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-marketplace-private-marketplace-catalogs-organizational-units/)
-- [AWS Wickr is now available in the AWS Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-wickr-aws-europe-stockholm-region/)
-- [Amazon AppStream 2.0 adds support for session scripts and Audio Out on multi-session fleets](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-appstream-2-0-scripts-audio-out-multi-session-fleets/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
