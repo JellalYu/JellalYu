@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon AppStream 2.0 now supports administrative controls for limiting clipboard](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-appstream-2-0-controls-limiting-clipboard/)
-- [API Gateway now supports TLS 1.3](https://aws.amazon.com/about-aws/whats-new/2024/02/api-gateway-tsl-1-3/)
-- [Amazon EMR Managed Scaling is now available in Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-managed-scaling-europe-spain/)
-- [Amazon RDS for Db2 now supports audit logging](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-db2-audit-logging/)
-- [AWS IoT Device Management Software Package Catalog available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-iot-device-management-software-catalog-govcloud/)
+- [Amazon AppStream 2.0 adds support for session scripts and Audio Out on multi-session fleets](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-appstream-2-0-scripts-audio-out-multi-session-fleets/)
+- [Amazon OpenSearch Ingestion is now available in 2 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-ingestion-additional-commercial-regions/)
+- [AWS Batch now supports private registry on ECS compute environments](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-batch-private-registry-ecs-compute-environments/)
+- [Amazon EC2 R6in and R6idn instances are now available in an additional region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-r6in-r6idn-instances-additional-region/)
+- [API Gateway now supports TLS 1.3](https://aws.amazon.com/about-aws/whats-new/2024/02/api-gateway-tls-1-3/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
