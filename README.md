@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon EMR Serverless in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-serverless-govcloud-regions/)
+- [CloudWatch alarm guidelines and console enhancements now in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/cloudwatch-alarm-guidelines-console-enhancements-aw-govcloud-us-regions/)
 - [Multiple solution tagging on ACE opportunities](https://aws.amazon.com/about-aws/whats-new/2024/02/multiple-solution-tagging-ace-opportunities/)
 - [Amazon Data Firehose enables selecting a time zone for bucket prefixes when delivering streams to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-data-firehose-time-zone-bucket-prefixes/)
 - [Amazon EFS is now available in the AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-efs-aws-canada-west-calgary-region/)
-- [Introducing pull request approval rules in Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-codecatalyst-pull-request-approval-rules/)
-- [Amazon EC2 M7i-flex and M7i instances are available in South America &lpar;Sao Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-m7i-flex-m7i-instances-sao-paulo-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
