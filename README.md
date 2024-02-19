@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server reduces prices on R5 and R6i Standard Edition in Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-sql-server-prices-r5-r6i-standard-osaka/)
+- [Amazon DocumentDB now supports vector search with HNSW index](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-vector-search-hnsw-index/)
 - [Announcing Amazon EMR Serverless in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-serverless-govcloud-regions/)
 - [CloudWatch alarm guidelines and console enhancements now in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/cloudwatch-alarm-guidelines-console-enhancements-aw-govcloud-us-regions/)
 - [Multiple solution tagging on ACE opportunities](https://aws.amazon.com/about-aws/whats-new/2024/02/multiple-solution-tagging-ace-opportunities/)
-- [Amazon Data Firehose enables selecting a time zone for bucket prefixes when delivering streams to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-data-firehose-time-zone-bucket-prefixes/)
-- [Amazon EFS is now available in the AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-efs-aws-canada-west-calgary-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
