@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces new edge location in Türkiye](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-new-edge-location-turkiye/)
+- [AWS Resource Explorer supports 65 new resource types](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-resource-explorer-new-resource-types/)
+- [AWS Amplify Hosting announces support for custom SSL certificates/TLS](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-amplify-hosting-custom-ssl-certificates-tls/)
 - [Amazon RDS for SQL Server reduces prices on R5 and R6i Standard Edition in Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-sql-server-prices-r5-r6i-standard-osaka/)
 - [Amazon DocumentDB now supports vector search with HNSW index](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-vector-search-hnsw-index/)
-- [Announcing Amazon EMR Serverless in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-serverless-govcloud-regions/)
-- [CloudWatch alarm guidelines and console enhancements now in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/cloudwatch-alarm-guidelines-console-enhancements-aw-govcloud-us-regions/)
-- [Multiple solution tagging on ACE opportunities](https://aws.amazon.com/about-aws/whats-new/2024/02/multiple-solution-tagging-ace-opportunities/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
