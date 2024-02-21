@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Resilience Hub is now PCI compliant](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-resilience-hub-pci-compliant/)
 - [Amazon EMR Studio is now available in the Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-studio-europe-spain-region/)
 - [Amazon Location Service Maps SDK now supports Metal-based rendering for iOS applications](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-location-service-maps-sdk-metal-rendering-ios/)
 - [AWS Incident Detection and Response now offers five minute response time for critical incidents](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-incident-detection-response-five-minute-response-time-critical-incidents/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports Partial Indexes](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-partial-indexes/)
-- [AWS announces new edge location in Türkiye](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-new-edge-location-turkiye/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
