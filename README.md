@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 I4g Instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-i4g-instances-new-regions/)
+- [AWS AppConfig L2 constructs now available for AWS CDK](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-appconfig-l2-constructs-cdk/)
 - [Amazon CloudFront announces availability of Embedded Points of Presence](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-cloudfront-availability-embedded-pops/)
 - [Elastic Beanstalk now supports Windows 2022](https://aws.amazon.com/about-aws/whats-new/2024/02/elastic-beanstalk-windows-2022/)
 - [Remediating non-compliant resources with AWS Config rules is now available in Canada West &lpar;Calgary&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/02/remediating-non-compliant-resourcesaws-config-rule-canada-west-calgary/)
-- [Amazon MWAA now supports Apache Airflow version 2.8](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-mwaa-apache-airflow-version-2-8/)
-- [AWS HealthOmics now provides additional information for workflow runs](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-healthomics-information-workflow-runs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
