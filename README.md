@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS WAF now supports ruleMatchDetails for Regex rules](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-waf-rulematchdetails-regex-rules/)
+- [Amazon CloudFront announces availability of Embedded Points of Presence](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-cloudfront-availability-embedded-pops/)
 - [EC2 Auto Scaling Warm Pools supports hibernating instances in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/ec2-auto-scaling-warm-pools-hibernating-instances-govcloud/)
 - [Amazon CloudWatch Logs now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-cloudwatch-logs-ipv6/)
 - [Amazon RDS for MariaDB supports minors 10.11.7, 10.6.17, 10.5.24, 10.4.33](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-mariadb-minors-10-11-7-10-6-17-10-5-24-10-4-33/)
-- [NoSQL Workbench for Amazon DynamoDB adds support for cloning tables](https://aws.amazon.com/about-aws/whats-new/2024/02/nosql-workbench-amazon-dynamodb-cloning-tables/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
