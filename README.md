@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Blu Age runtime is now available packaged for easier ECS on Fargate deployment](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-blu-age-runtime-easier-ecs-fargate-deployment/)
+- [AWS Glue now available in Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-glue-canada-west-calgary-region/)
 - [Announcing CloudWatch performance metrics for Amazon WorkSpaces Web](https://aws.amazon.com/about-aws/whats-new/2024/02/cloudwatch-performance-metrics-amazon-workspaces-web/)
 - [Amazon EC2 C7a and R7a instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-c7a-r7a-instances-additional-regions/)
 - [Accelerate machine learning model training with Amazon SageMaker and Amazon S3 Express One Zone](https://aws.amazon.com/about-aws/whats-new/2024/02/machine-learning-model-training-amazon-sagemaker-s3-express-one-zone/)
-- [Amazon Location Service releases authentication library for iOS and Android](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-location-service-authentication-ios-android/)
-- [Amazon RDS Multi-AZ deployments with two readable standbys now supports General Purpose gp3 storage volumes](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-multi-az-deployments-general-purpose-gp3-storage-volumes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
