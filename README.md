@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces support for scoped permissions and object-level privileges in data sharing](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-scoped-permissions-object-level-privileges-data-sharing/)
+- [AWS Step Functions adds support for Open Workflow Metrics](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-step-functions-open-workflow-metrics/)
+- [Amazon Kinesis Data Streams adds capability to easily query data in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-kinesis-data-streams-query-data-aws-management-console/)
 - [AWS announces new AWS Direct Connect location in Honolulu, Hawaii](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-direct-connect-honolulu-hawaii/)
 - [Amazon Security Lake now supports audit logs from Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-security-lake-audit-logs-eks/)
-- [Amazon Security Lake enhances analytics performance with OCSF 1.1.0 and Apache Iceberg](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-security-lake-analytics-ocsf-iceberg/)
-- [Amazon EKS announces support for Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-eks-support-linux-2023/)
-- [AWS Migration Hub Orchestrator now supports custom templates](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-migration-hub-orchestrator-custom-templates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
