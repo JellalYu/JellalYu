@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL, MySQL, and MariaDB support M7g and R7g database instances in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-postgresql-mysql-mariadb-m7g-r7g-database-instances-additional-regions/)
+- [AWS Backup now supports restore testing for Amazon Aurora continuous backups](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-backup-restore-testing-amazon-aurora-continuous-backups/)
+- [Amazon Connect now provides case management metrics](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-case-management-metrics/)
 - [Amazon EventBridge API destinations now supports content-type header customization](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-eventbridge-api-destinations-content-type-header-customization/)
 - [Amazon Connect now supports DID &amp; Toll Free calling in Venezuela](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-did-toll-free-calling-venezuela/)
-- [Amazon Q for Business launches support for metadata boosting for Q&amp;A fine tuning](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-q-business-metadata-boosting-fine-tuning/)
-- [AWS Resource Groups now supports 161 more resource types](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-resource-group-161-resource-types/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; supports in-place major version upgrade in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-in-place-major-version-upgrade-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
