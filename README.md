@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WAF enhances rate-based rules to support configurable time windows](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-waf-rate-based-rules-configurable-time-windows/)
+- [Anthropic&#39;s Claude 3 Sonnet model now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/03/anthropics-claude-3-sonnet-model-amazon-bedrock/)
+- [AWS re:Post introduces re:Post Live](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-re-post-introduces-live/)
 - [QnAIntent for Amazon Lex is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/qnaintent-amazon-lex-available/)
 - [Mistral AI foundation models now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/03/mistral-ai-foundation-models-amazon-bedrock/)
-- [Knowledge Bases for Amazon Bedrock now supports hybrid search](https://aws.amazon.com/about-aws/whats-new/2024/03/knowledge-bases-amazon-bedrock-hybrid-search/)
-- [AWS Nitro Enclaves is now available in Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-nitro-enclaves-asia-pacific-hyderabad/)
-- [Start your Engines! Announcing the 2024 AWS DeepRacer League](https://aws.amazon.com/about-aws/whats-new/2024/03/2024-aws-deepracer-league/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
