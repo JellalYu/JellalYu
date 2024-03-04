@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Batch on Amazon EKS supports the use of private Amazon EKS clusters to run Batch jobs](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-batch-amazon-eks-private-clusters-batch-jobs/)
+- [Amazon MQ now supports RabbitMQ version 3.11.28](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-mq-rabbitmq-version-3-11-28/)
 - [AWS WAF enhances rate-based rules to support configurable time windows](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-waf-rate-based-rules-configurable-time-windows/)
 - [Anthropic&#39;s Claude 3 Sonnet model now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/03/anthropics-claude-3-sonnet-model-amazon-bedrock/)
 - [AWS re:Post introduces re:Post Live](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-re-post-introduces-live/)
-- [QnAIntent for Amazon Lex is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/qnaintent-amazon-lex-available/)
-- [Mistral AI foundation models now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/03/mistral-ai-foundation-models-amazon-bedrock/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
