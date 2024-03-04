@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx for NetApp ONTAP doubles maximum throughput capacity to 72 GBps](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-fsx-netapp-ontap-maximum-throughput-capacity-72-gbps/)
 - [AWS Batch on Amazon EKS supports the use of private Amazon EKS clusters to run Batch jobs](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-batch-amazon-eks-private-clusters-batch-jobs/)
 - [Amazon MQ now supports RabbitMQ version 3.11.28](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-mq-rabbitmq-version-3-11-28/)
 - [AWS WAF enhances rate-based rules to support configurable time windows](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-waf-rate-based-rules-configurable-time-windows/)
 - [Anthropic&#39;s Claude 3 Sonnet model now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/03/anthropics-claude-3-sonnet-model-amazon-bedrock/)
-- [AWS re:Post introduces re:Post Live](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-re-post-introduces-live/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
