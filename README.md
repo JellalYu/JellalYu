@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing dynamic parameter support for AWS AppConfig Extensions](https://aws.amazon.com/about-aws/whats-new/2024/03/dynamic-parameter-aws-appconfig-extensions/)
 - [Accelerate no-code ML with a refreshed homepage in Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2024/03/accelerate-no-code-ml-homepage-amazon-sagemaker-canvas/)
 - [CloudWatch Metric Streams adds support for streaming of daily metrics](https://aws.amazon.com/about-aws/whats-new/2024/03/cloudwatch-metric-streams-streaming-daily-metrics/)
 - [Amazon OpenSearch Serverless expands support for time-series workloads up to 10TB](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-opensearch-serverless-time-series-workloads-10tb/)
 - [AWS AppFabric now supports Box and  IBM Security® Verify](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-appfabric-box-ibm-security-verify/)
-- [AWS Wickr achieves FedRAMP High authorization](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-wickr-fedramp-high-authorization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
