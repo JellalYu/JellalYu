@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 R7i instances are now available in additional AWS region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-r7i-instances-additional-aws-region/)
 - [Amazon RDS Multi-AZ Deployments with two readable standbys now supports security certificate rotation](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-multi-az-deployments-two-readable-standbys-security-certificate-rotation/)
 - [Amazon EC2 C7gd, M7gd, and R7gd metal instances are now available](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-c7gd-m7gd-r7gd-metal-instances/)
 - [AWS Health now supports organizational view in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-health-organizational-view-govcloud-us-regions/)
 - [Amazon RDS now supports io2 Block Express for consistent sub-millisecond latency and 99.999% durability](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-io2-block-express-sub-millisecond-latency-99-999-durability/)
-- [Amazon GuardDuty is now available in AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-guardduty-available-aws-canada-west-calgary-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
