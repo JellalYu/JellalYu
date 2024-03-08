@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WAF now supports larger request body inspections for regional resources](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-waf-larger-body-inspections-regional-resources/)
 - [Amazon SES now offers support for headers when sending email](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ses-headers-sending-email/)
 - [AWS announces Aurora MySQL integration with Amazon Bedrock for Generative AI](https://aws.amazon.com/about-aws/whats-new/2024/03/aurora-mysql-integration-amazon-bedrock-generative-ai/)
 - [Amazon Aurora MySQL 3.06 &lpar;compatible with MySQL 8.0.34&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-aurora-mysql-3-6-available/)
 - [Application Load Balancer now supports Resource Map in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2024/03/application-load-balancer-resource-map-aws-management-console/)
-- [AWS HealthLake expands search parameter support](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-healthlake-search-parameter-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
