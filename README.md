@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS HealthLake expands search parameter support](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-healthlake-search-parameter-support/)
+- [Amazon Managed Grafana launches Enterprise plugins upgrade](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-managed-grafana-enterprise-plugins-upgrade/)
+- [Announcing new Amazon VPC DHCPv6 setting to adjust IPv6 preferred lease time](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-vpc-dhcpv6-setting-ipv6-lease-time/)
 - [AWS X-Ray now supports data events in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-x-ray-data-events-aws-cloudtrail/)
 - [Announcing dynamic parameter support for AWS AppConfig Extensions](https://aws.amazon.com/about-aws/whats-new/2024/03/dynamic-parameter-aws-appconfig-extensions/)
-- [Accelerate no-code ML with a refreshed homepage in Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2024/03/accelerate-no-code-ml-homepage-amazon-sagemaker-canvas/)
-- [CloudWatch Metric Streams adds support for streaming of daily metrics](https://aws.amazon.com/about-aws/whats-new/2024/03/cloudwatch-metric-streams-streaming-daily-metrics/)
-- [Amazon OpenSearch Serverless expands support for time-series workloads up to 10TB](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-opensearch-serverless-time-series-workloads-10tb/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
