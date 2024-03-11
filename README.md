@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx for OpenZFS is now available in Spain and Zurich](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-fsx-openzfs-spain-zurich/)
+- [Amazon FSx for OpenZFS is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-fsx-openzfs-aws-govcloud-us-regions/)
 - [Announcing Synthetics NodeJS runtime version 7.0 and Synthetics Python runtime version 3.0 for Amazon CloudWatch Synthetics](https://aws.amazon.com/about-aws/whats-new/2024/03/synthetics-node-js-runtime-version-7-0-python-runtime-3-0-amazon-cloudwatch-synthetics/)
 - [Amazon RDS for Db2 expands support for M6i and R6i in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-db2-m6i-r6i-additional-aws-regions/)
 - [Amazon Verified Permissions increases default quotas for authorization APIs](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-verified-permissions-default-quota-authorization-apis/)
-- [Amazon RDS for Db2 expands support for X2iedn instances in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-db2-x2iedn-instances-additional-regions/)
-- [AWS Cost Categories launches a revamped user interface](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cost-categories-revamped-user-interface/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
