@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Db2 expands support for X2iedn instances in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-db2-x2iedn-instances-additional-regions/)
 - [AWS Cost Categories launches a revamped user interface](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cost-categories-revamped-user-interface/)
 - [Amazon Cognito is now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-cognito-middle-east-uae-region/)
 - [Amazon EC2 C6in instances are now available in Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-c6in-instances-asia-pacific-hyderabad/)
 - [AWS HealthImaging enables the import of large DICOM objects and high-throughput JPEG 2000 &lpar;HTJ2K&rpar; transfer syntaxes](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-healthimaging-import-dicom-objects-htj2k-transfer-syntaxes/)
-- [AWS WAF now supports larger request body inspections for regional resources](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-waf-larger-body-inspections-regional-resources/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
