@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS ParallelCluster 3.9 with support for RHEL 9, Rocky Linux 9 and dynamic cluster capacity updates](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-parallelcluster-3-9-rhel-rocky-linux-dynamic-updates/)
 - [Operationalize forecasting models and Fine-tuned FMs with SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2024/03/operationalize-forecasting-models-fine-tuned-fms-sagemaker-canvas/)
 - [Amazon RDS for SQL Server supports minor version 2019 CU25 and 2022 CU11](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-sql-server-minor-version-2019-cu25-2022-cu11/)
 - [Announcing AWS Graviton2 support for Amazon EMR Serverless in China Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-graviton-2-emr-serverless-china-regions/)
 - [Experience up to 40% faster stack creation with AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cloudformation-40-percent-faster-stack-creation/)
-- [CloudWatch Container Insights now delivers observability for NVIDIA GPUs on EKS](https://aws.amazon.com/about-aws/whats-new/2024/03/cloudwatch-container-insights-observability-nvidia-gpus-eks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
