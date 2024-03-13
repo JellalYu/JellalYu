@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Automate deployment of SAP S/4HANA Foundation and S/4HANA 2023 on AWS](https://aws.amazon.com/about-aws/whats-new/2024/03/automate-sap-s-4-hana-foundation-2023-aws/)
+- [Amazon EFS now supports up to 20 GiB/s of throughput](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-efs-supports-20-gibs-throughput/)
 - [Amazon S3 Connector for PyTorch now supports writing checkpoints with PyTorch Lightning](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-s3-connector-pytorch-checkpoints-lightning/)
 - [Amazon S3 on Outposts reduces first-byte latencies for object API requests](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-s3-outposts-first-byte-latencies-object-api-requests/)
 - [Amazon EC2 M6gd instances are now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-m6gd-instances-govcloud-us-regions/)
-- [AWS Backup now supports restore testing for Amazon Elastic Block Store &lpar;EBS&rpar; Snapshots Archive](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-backup-restore-testing-amazon-ebs-snapshots-archive/)
-- [AWS ParallelCluster 3.9 with support for RHEL 9, Rocky Linux 9 and dynamic cluster capacity updates](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-parallelcluster-3-9-rhel-rocky-linux-dynamic-updates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
