@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Fault Injection Service announces target preview for experiments](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-fault-injection-service-target-preview-experiments/)
 - [Mountpoint for Amazon S3 CSI driver now supports Bottlerocket](https://aws.amazon.com/about-aws/whats-new/2024/03/mountpoint-amazon-s3-csi-driver-bottlerocket/)
 - [Automate deployment of SAP S/4HANA Foundation and S/4HANA 2023 on AWS](https://aws.amazon.com/about-aws/whats-new/2024/03/automate-sap-s-4-hana-foundation-2023-aws/)
 - [Amazon EFS now supports up to 20 GiB/s of throughput](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-efs-supports-20-gibs-throughput/)
 - [Amazon S3 Connector for PyTorch now supports writing checkpoints with PyTorch Lightning](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-s3-connector-pytorch-checkpoints-lightning/)
-- [Amazon S3 on Outposts reduces first-byte latencies for object API requests](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-s3-outposts-first-byte-latencies-object-api-requests/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
