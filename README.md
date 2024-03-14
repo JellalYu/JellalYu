@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Batch now supports alerts to detect and react to jobs stuck in RUNNABLE state](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-batch-alerts-detect-jobs-runnable-state/)
 - [Amazon DynamoDB local upgrades to Jetty 12 and JDK 17](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-dynamodb-local-upgrades-jetty-12-jdk-17/)
 - [AWS CloudFormation accelerates dev-test cycle with new validation checks for stack operations](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cloudformation-new-validation-checks-stack-operations/)
 - [Amazon Neptune Analytics is now available in the AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-neptune-analytics-aws-europe-london-region/)
 - [Anthropic&#39;s Claude 3 Haiku Model now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/03/anthropics-claude-3-haiku-model-amazon-bedrock/)
-- [Amazon Managed Service for Apache Flink is now available in Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-managed-service-apache-flink-canada-west-calgary-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
