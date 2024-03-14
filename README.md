@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup is now available in AWS Canada West &lpar;Calgary&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-backup-canada-west-calgary/)
+- [Amazon MSK Replicator now supports replicating existing data on Kafka topics](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-msk-replicator-existing-data-kafka-topics/)
+- [Application Load Balancer enables configuring HTTP client keepalive duration](https://aws.amazon.com/about-aws/whats-new/2024/03/application-load-balancer-http-keepalive-duration/)
 - [AWS Signer launches signing container images in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-signer-container-images-govcloud-us-regions/)
 - [Amazon EC2 now supports tagging when registering or copying AMIs](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-tagging-registering-copying-amis/)
-- [Amazon Cognito is now available in Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-cognito-europe-zurich-region/)
-- [AWS Batch now supports alerts to detect and react to jobs stuck in RUNNABLE state](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-batch-alerts-detect-jobs-runnable-state/)
-- [Amazon DynamoDB local upgrades to Jetty 12 and JDK 17](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-dynamodb-local-upgrades-jetty-12-jdk-17/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
