@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Service for Apache Flink adds support for Apache Flink 1.18](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-managed-service-apache-flink-support-1-18/)
+- [Amazon Managed Service for Apache Flink adds in-place version upgrades for Apache Flink](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-managed-service-apache-flink-version-upgrades/)
 - [AWS Secrets Manager announces support for Amazon Redshift Serverless data warehouse](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-secrets-manager-redshift-serverless-data-warehouse/)
 - [Amazon CloudWatch Synthetics now supports 30-day historical data on canary runs](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-cloudwatch-synthetics-30-day-historical-data-canary-runs/)
 - [AWS IAM Identity Center is now available in the Asia Pacific &lpar;Melbourne&rpar;  AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-identity-center-melbourne-region/)
-- [Get visibility to your auto deployment configuration with a new StackSets API](https://aws.amazon.com/about-aws/whats-new/2024/03/visibility-auto-deployment-configuration-stacksets-api/)
-- [Amazon Athena is now available in AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-athena-aws-canada-west-calgary-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
