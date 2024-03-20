@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS License Manager now allows you to track IBM Db2 licenses on Amazon Relational Database Service &lpar;RDS&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-license-manager-track-ibm-db2-licenses-amazon-rds/)
+- [Amazon Neptune Database is now available in AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-neptune-database-aws-asia-pacific-osaka-region/)
 - [Amazon Aurora zero-ETL integration with Amazon Redshift announces support for data filtering and CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-aurora-zero-etl-integration-redshift-data-filtering-cloudformation/)
 - [Amazon WorkMail now supports Audit Logging](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-workmail-audit-logging/)
 - [Amazon FinSpace with Managed kdb Insights now supports kdb database maintenance](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-finspace-managed-kdb-insights-database-maintenance/)
-- [Amazon Corretto 22 is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-corretto-22-generally-available/)
-- [AWS CodeBuild now supports custom images for AWS Lambda compute](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-codebuild-custom-images-lambda-compute/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
