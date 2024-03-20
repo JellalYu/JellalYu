@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora zero-ETL integration with Amazon Redshift announces support for data filtering and CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-aurora-zero-etl-integration-redshift-data-filtering-cloudformation/)
+- [Amazon WorkMail now supports Audit Logging](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-workmail-audit-logging/)
+- [Amazon FinSpace with Managed kdb Insights now supports kdb database maintenance](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-finspace-managed-kdb-insights-database-maintenance/)
 - [Amazon Corretto 22 is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-corretto-22-generally-available/)
 - [AWS CodeBuild now supports custom images for AWS Lambda compute](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-codebuild-custom-images-lambda-compute/)
-- [AWS Elemental MediaTailor now supports program rules in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-elemental-mediatailor-program-rules-channel-assembly/)
-- [Amazon DynamoDB now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-dynamodb-aws-privatelink/)
-- [New Amazon SageMaker integration with NVIDIA NIM inference microservices](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-sagemaker-integration-nvidia-nim-microservices/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
