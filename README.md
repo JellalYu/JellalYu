@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Package Group Configuration in AWS CodeArtifact](https://aws.amazon.com/about-aws/whats-new/2024/03/package-group-configuration-aws-codeartifact/)
+- [Amazon RDS Multi-AZ deployments with readable standby instances now support C6gd database instances](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-multi-az-deployments-standby-c6gd-instances/)
 - [Amazon Kinesis Data Streams launches cross-account access with AWS Lambda in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-kinesis-data-streams-cross-account-access-aws-lambda-govcloud-us/)
 - [EC2 Mac Dedicated Hosts now provide visibility into supported macOS versions](https://aws.amazon.com/about-aws/whats-new/2024/03/ec2-mac-dedicated-hosts-visibility-supported-macos-versions/)
 - [Amazon DataZone launches enhancements to Amazon Redshift integration](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-datazone-enhancements-redshift-integration/)
-- [Amazon Managed Blockchain &lpar;AMB&rpar; Query now supports listing unspent transaction outputs &lpar;UTXOs&rpar; on Bitcoin blockchain networks](https://aws.amazon.com/about-aws/whats-new/2024/03/amb-query-listing-utxos-bitcoin-blockchain-networks/)
-- [AWS announces a 7-day window to return Savings Plans](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-7-day-window-return-savings-plans/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
