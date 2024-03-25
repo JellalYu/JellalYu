@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime SDK provides API endpoints for media pipelines in Seoul, Mumbai, Sydney, Tokyo, Canada, and London](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-chime-sdk-api-endpoints-media-pipelines-seoul-mumbai-sydney-tokyo-canada-london/)
 - [Amazon Linux announces new quarterly update with AL2023.4 and availability of EKS optimized AMI](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-linux-quarterly-update-eks-optimized-ami/)
 - [AWS Batch now offers multi-container jobs via AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-batch-multi-container-jobs-aws-management-console/)
 - [AWS B2B Data Interchange now publishes events to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-b2b-data-interchange-publishes-events-amazon-eventbridge/)
 - [Set IMDSv2 as default for all new instance launches in your account](https://aws.amazon.com/about-aws/whats-new/2024/03/set-imdsv2-default-new-instance-launches/)
-- [Amazon Lightsail expands blueprint selection with support for AlmaLinux 9](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-lightsail-blueprint-selection-support-almalinux-9/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
