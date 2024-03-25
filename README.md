@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lightsail expands blueprint selection with support for AlmaLinux 9](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-lightsail-blueprint-selection-support-almalinux-9/)
 - [Amazon Connect Contact Lens now provides generative AI-powered post-contact summaries &lpar;generally available&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-contact-lens-generative-ai-powered-post-contact-summaries/)
 - [IAM Roles Anywhere now offers credentials that are valid for up to 12 hours](https://aws.amazon.com/about-aws/whats-new/2024/03/iam-roles-anywhere-credentials-valid-12-hours/)
 - [Amazon Connect Contact Lens now automates agent performance evaluations](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-contact-lens-automates-agent-performance-evaluations/)
 - [Amazon Connect agent workspace supports third-party applications in general availability](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-agent-workspace-third-party-apps/)
-- [Amazon MSK Connect now supports deleting worker configurations and tagging resources](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-msk-connect-deleting-worker-configurations-tagging-resources/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
