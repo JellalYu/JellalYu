@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect agent workspace supports third-party applications in general availability](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-agent-workspace-third-party-apps/)
 - [Amazon MSK Connect now supports deleting worker configurations and tagging resources](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-msk-connect-deleting-worker-configurations-tagging-resources/)
 - [Introducing the Bedrock GenAI chatbot blueprint in Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/03/bedrock-genai-chatbot-blueprint-amazon-codecatalyst/)
 - [Amazon EMR Serverless achieves FedRAMP Moderate compliance](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-emr-serverless-fedramp-moderate-compliance/)
 - [Announcing Package Group Configuration in AWS CodeArtifact](https://aws.amazon.com/about-aws/whats-new/2024/03/package-group-configuration-aws-codeartifact/)
-- [Amazon RDS Multi-AZ deployments with readable standby instances now support C6gd database instances](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-multi-az-deployments-standby-c6gd-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
