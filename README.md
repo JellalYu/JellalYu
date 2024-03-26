@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS AppFabric now supports Dynatrace](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-appfabric-supports-dynatrace/)
+- [AWS announces Reserved Instances for Amazon Aurora PostgreSQL Optimized Reads](https://aws.amazon.com/about-aws/whats-new/2024/03/reserved-instances-amazon-aurora-postgresql-optimized-reads/)
 - [Knowledge Bases for Amazon Bedrock now supports Claude 3 Sonnet](https://aws.amazon.com/about-aws/whats-new/2024/03/knowledge-bases-amazon-bedrock-claude-3-sonnet/)
 - [Amazon Time Sync Service now supports microsecond-accurate time in US East &lpar;N. Virginia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-time-sync-service-microsecond-accurate-time-us-east-n-virginia-region/)
 - [Well-Architected adds 4 new lenses to the Lens Catalog](https://aws.amazon.com/about-aws/whats-new/2024/03/well-architected-new-lenses-lens-catalog/)
-- [AWS CodeBuild now supports GitLab and GitLab Self Managed](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-codebuild-gitlab-gitlab-self-managed/)
-- [AWS Global Accelerator extends bring your own IP address &lpar;BYOIP&rpar; to enable sharing IP space across accounts](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-global-accelerator-byoip-sharing-ip-space-across-accounts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
