@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect supports guided chat experiences using step-by-step guides](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-guided-chat-experiences-step-by-step-guides/)
+- [Amazon RDS Custom for Oracle now supports X2iezn instances](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-custom-oracle-x2iezn-instances/)
+- [Amazon EC2 C7gn metal instance is now available](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-c7gn-metal-instance-available/)
+- [AWS Elemental MediaConvert now available in the Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-elemental-mediaconvert-middle-east-uae-region/)
 - [AWS AppFabric now supports Dynatrace](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-appfabric-supports-dynatrace/)
-- [AWS announces Reserved Instances for Amazon Aurora PostgreSQL Optimized Reads](https://aws.amazon.com/about-aws/whats-new/2024/03/reserved-instances-amazon-aurora-postgresql-optimized-reads/)
-- [Knowledge Bases for Amazon Bedrock now supports Claude 3 Sonnet](https://aws.amazon.com/about-aws/whats-new/2024/03/knowledge-bases-amazon-bedrock-claude-3-sonnet/)
-- [Amazon Time Sync Service now supports microsecond-accurate time in US East &lpar;N. Virginia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-time-sync-service-microsecond-accurate-time-us-east-n-virginia-region/)
-- [Well-Architected adds 4 new lenses to the Lens Catalog](https://aws.amazon.com/about-aws/whats-new/2024/03/well-architected-new-lenses-lens-catalog/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
