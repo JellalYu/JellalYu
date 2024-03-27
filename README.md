@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cost Allocation Tags now support retroactive application](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cost-allocation-tags-retroactive-application/)
 - [AWS Global Accelerator adds support for five new Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-global-accelerator-five-cloudwatch-metrics/)
 - [AI recommendations for descriptions in Amazon DataZone now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/ai-recommendations-descriptions-amazon-datazone/)
 - [ElastiCache encryption at rest is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/elasticache-encryption-at-rest-govcloud-us-regions/)
 - [Announcing increased default quotas for CloudWatch Logs APIs](https://aws.amazon.com/about-aws/whats-new/2024/03/increased-default-quotas-cloudwatch-logs-apis/)
-- [Migrate existing domains to new SageMaker Studio via SageMaker Console](https://aws.amazon.com/about-aws/whats-new/2024/03/migrate-existing-domains-sagemaker-studio-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
