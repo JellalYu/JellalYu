@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces a new Local Zone in Miami](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-new-local-zone-miami/)
+- [AWS CloudFormation Console now supports visualization of stacks in Application Composer](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cloudformation-console-visualization-stacks-application-composer/)
+- [Amazon SNS now supports FIFO topics in Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-sns-fifo-topics-canada-west-calgary-region/)
 - [Knowledge Bases for Amazon Bedrock now supports metadata filtering](https://aws.amazon.com/about-aws/whats-new/2024/03/knowledge-bases-amazon-bedrock-metadata-filtering/)
 - [AWS now supports Slack Connect for AWS sales to collaborate with customer and partners](https://aws.amazon.com/about-aws/whats-new/2024/03/slack-connect-aws-sales-collaborate-customers-partners/)
-- [New ECS-Optimized AMIs support AL2 Kernel 5.10 for GPU and Inf Instances](https://aws.amazon.com/about-aws/whats-new/2024/03/ecs-optimized-amis-al2-kernel-5-10-gpu-inf-instances/)
-- [Amazon EventBridge announces Confluent Cloud integration in the AWS console](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-eventbridge-confluent-cloud-integration-console/)
-- [Amazon DynamoDB Import from S3 now supports up to 50,000 Amazon S3 objects in a single bulk import](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-dynamodb-import-s3-50000-objects-single-bulk-import/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
