@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Compute Optimizer introduces memory customizability for EC2 rightsizing recommendations](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-compute-optimizer-ec2-rightsizing-recommendations/)
+- [Amazon RDS adds Oracle Database SE2 License-Included option in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-oracle-database-se2-license-included-additional-regions/)
 - [Amazon EC2 M7a instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-m7a-instances-additional-regions/)
 - [AWS Billing and Cost Management Data Exports now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-billing-cost-management-data-exports-cloudformation/)
 - [AWS announces a new Local Zone in Miami](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-new-local-zone-miami/)
-- [AWS CloudFormation Console now supports visualization of stacks in Application Composer](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cloudformation-console-visualization-stacks-application-composer/)
-- [Amazon SNS now supports FIFO topics in Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-sns-fifo-topics-canada-west-calgary-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
