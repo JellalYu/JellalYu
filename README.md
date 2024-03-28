@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 M7a instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-m7a-instances-additional-regions/)
+- [AWS Billing and Cost Management Data Exports now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-billing-cost-management-data-exports-cloudformation/)
 - [AWS announces a new Local Zone in Miami](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-new-local-zone-miami/)
 - [AWS CloudFormation Console now supports visualization of stacks in Application Composer](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cloudformation-console-visualization-stacks-application-composer/)
 - [Amazon SNS now supports FIFO topics in Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-sns-fifo-topics-canada-west-calgary-region/)
-- [Knowledge Bases for Amazon Bedrock now supports metadata filtering](https://aws.amazon.com/about-aws/whats-new/2024/03/knowledge-bases-amazon-bedrock-metadata-filtering/)
-- [AWS now supports Slack Connect for AWS sales to collaborate with customer and partners](https://aws.amazon.com/about-aws/whats-new/2024/03/slack-connect-aws-sales-collaborate-customers-partners/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
