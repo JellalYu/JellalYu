@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Service for Prometheus collector now supports CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-managed-service-prometheus-collector-cloudformation/)
 - [AWS B2B Data Interchange supports additional finance, transportation, supply chain X12 transactions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-b2b-data-interchange-finance-transportation-supply-x12/)
 - [Tax dashboard now generally available for AWS Marketplace Sellers](https://aws.amazon.com/about-aws/whats-new/2024/03/tax-dashboard-generally-available-aws-marketplace-sellers/)
 - [AWS Wickr is now available in additional AWS Asia Pacific Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-wickr-additional-asia-pacific-regions/)
 - [AWS Compute Optimizer introduces memory customizability for EC2 rightsizing recommendations](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-compute-optimizer-ec2-rightsizing-recommendations/)
-- [Amazon RDS adds Oracle Database SE2 License-Included option in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-oracle-database-se2-license-included-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
