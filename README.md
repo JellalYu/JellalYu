@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS B2B Data Interchange supports additional finance, transportation, supply chain X12 transactions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-b2b-data-interchange-finance-transportation-supply-x12/)
+- [Tax dashboard now generally available for AWS Marketplace Sellers](https://aws.amazon.com/about-aws/whats-new/2024/03/tax-dashboard-generally-available-aws-marketplace-sellers/)
+- [AWS Wickr is now available in additional AWS Asia Pacific Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-wickr-additional-asia-pacific-regions/)
 - [AWS Compute Optimizer introduces memory customizability for EC2 rightsizing recommendations](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-compute-optimizer-ec2-rightsizing-recommendations/)
 - [Amazon RDS adds Oracle Database SE2 License-Included option in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-oracle-database-se2-license-included-additional-regions/)
-- [Amazon EC2 M7a instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-m7a-instances-additional-regions/)
-- [AWS Billing and Cost Management Data Exports now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-billing-cost-management-data-exports-cloudformation/)
-- [AWS announces a new Local Zone in Miami](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-new-local-zone-miami/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
