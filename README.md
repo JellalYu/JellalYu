@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect forecasting, capacity planning, and scheduling are now generally available in four additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-forecasting-capacity-planning-scheduling-additional-aws-regions/)
+- [Introducing AWS CodeConnections, formerly known as AWS CodeStar Connections](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-codeconnections-formerly-codestar-connections/)
 - [AWS adds Managed Policies to VSS to help ensure valid application consistent backups](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-managed-policies-vss-ensure-valid-application-consistent-backups/)
 - [AWS IoT Core for LoRaWAN adds metrics monitoring capability](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-iot-core-lorawan-metrics-monitoring-capability/)
 - [Amazon GuardDuty EC2 Runtime Monitoring is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-guardduty-ec2-runtime-monitoring-available/)
-- [Knowledge Bases for Amazon Bedrock now lets you customize prompts and number of retrieval results](https://aws.amazon.com/about-aws/whats-new/2024/03/knowledge-bases-amazon-bedrock-customize-prompts-number-retrieval-results/)
-- [AWS Amplify Hosting is generally available in the Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-amplify-hosting-asia-pacific-osaka-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
