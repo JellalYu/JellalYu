@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server supports Single-AZ Read Replica](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-sql-server-single-az-read-replica/)
+- [Amazon Transcribe launches Spanish language support for PII identification and redaction](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-transcribe-spanish-language-pii-identification-redaction/)
 - [Announcing per-second billing for EC2 Red Hat Enterprise Linux &lpar;RHEL&rpar;-based instances](https://aws.amazon.com/about-aws/whats-new/2024/04/per-second-billing-ec2-rhel-based-instances/)
 - [Amazon EventBridge announces an improved Learn page and other console enhancements](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-eventbridge-console-enhancements/)
 - [Partner Analytics is now Analytics and Insights](https://aws.amazon.com/about-aws/whats-new/2024/04/partner-analytics-now-analytics-insights/)
-- [AWS Resilience Hub expands support for FSx for Windows and Trust Advisor](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-resilience-hub-fsx-windows-trust-advisor/)
-- [Amazon Connect forecasting, capacity planning, and scheduling are now generally available in four additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-forecasting-capacity-planning-scheduling-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
