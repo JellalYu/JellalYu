@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EC2 now gracefully replaces unhealthy core nodes](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-emr-ec2-gracefully-replaces-unhealthy-core-nodes/)
 - [Knowledge Bases for Amazon Bedrock now supports private network policies for OpenSearch Serverless](https://aws.amazon.com/about-aws/whats-new/2024/04/knowledge-bases-amazon-bedrock-private-network-policies-opensearch-serverless/)
 - [Private Access to the AWS Management Console is now available in all commercial AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/private-access-aws-management-console-commercial-regions/)
 - [Amazon AppStream 2.0 can now launch IdP-initiated sessions using the Windows client](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-appstream-2-0-idp-initiated-sessions-windows-client/)
 - [Amazon RDS for SQL Server supports Single-AZ Read Replica](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-sql-server-single-az-read-replica/)
-- [Amazon Transcribe launches Spanish language support for PII identification and redaction](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-transcribe-spanish-language-pii-identification-redaction/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
