@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Execute Chef 11-18 recipes on Windows using AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2024/04/chef-11-18-recipes-windows-aws-systems-manager/)
+- [Announcing AWS Deadline Cloud](https://aws.amazon.com/about-aws/whats-new/2024/04/announcing-aws-deadline-cloud/)
+- [Run Chef 11-18 recipes on Windows using AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2024/04/chef-11-18-recipes-windows-aws-systems-manager/)
 - [AWS Console Mobile Application adds support for CloudWatch custom dashboards](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-cloudwatch-custom-dashboards-console-mobile-app/)
 - [AWS AppSync increases existing service quota and adds subscription service quotas](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-appsync-increases-service-quota-adds-subscription/)
 - [ElastiCache Serverless is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/elasticache-serverless-aws-govcloud-us-regions/)
-- [Amazon Aurora zero-ETL integration with Amazon Redshift now in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-aurora-zero-etl-integration-redshift-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
