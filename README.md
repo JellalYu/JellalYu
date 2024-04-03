@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB is now available in the Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-documentdb-middle-east-uae-region/)
+- [Amazon DataZone launches integration with AWS Glue Data Quality](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-datazone-integration-glue-data-quality/)
 - [Amazon DataZone announces integration with AWS Lake Formation hybrid mode](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-datazone-integration-aws-lake-formation-hybrid-mode/)
 - [AWS Clean Rooms ML is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-clean-rooms-ml-generally-available/)
 - [Mistral Large foundation model now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/mistral-large-foundation-model-amazon-bedrock/)
-- [Amazon CloudWatch now supports cross-account anomaly detection](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-cross-account-anomaly-detection/)
-- [Amazon Bedrock is now available in the AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-bedrock-europe-paris-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
