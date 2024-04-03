@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch now supports cross-account anomaly detection](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-cross-account-anomaly-detection/)
 - [Amazon Bedrock is now available in the AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-bedrock-europe-paris-region/)
 - [Amazon Timestream for LiveAnalytics achieves FedRAMP High Authorization in AWS GovCloud West Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-timestream-liveanalytics-fedramp-high-authorization-aws-govcloud-west-region/)
 - [VPC Traffic Mirroring is now available in seven additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/vpc-traffic-mirroring-seven-additional-regions/)
 - [Announcing AWS Deadline Cloud](https://aws.amazon.com/about-aws/whats-new/2024/04/announcing-aws-deadline-cloud/)
-- [Run Chef 11-18 recipes on Windows using AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2024/04/chef-11-18-recipes-windows-aws-systems-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
