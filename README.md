@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda adds support for Ruby 3.3](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-lambda-ruby-3-3/)
 - [Amazon OpenSearch Ingestion now supports enrichment of streaming data with geographical location](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-opensearch-ingestion-streaming-data-geographical-location/)
 - [AWS Application Migration Service now supports migration of UEFI servers](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-application-migration-service-migration-uefi-servers/)
 - [AWS B2B Data Interchange is now HIPAA eligible and supports X12 version 5010 HIPAA transactions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-b2b-data-interchange-hipaa-eligible-x12-version-5010-hipaa-transactions/)
 - [Amazon SageMaker Studio Code Editor now supports custom images](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sagemaker-studio-code-editor-custom-images/)
-- [ElastiCache Serverless is now available in the AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/04/elasticache-serverless-aws-canada-west-calgary-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
