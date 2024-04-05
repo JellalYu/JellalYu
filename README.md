@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch now supports tagging alarms with AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-tagging-alarms-cloudformation/)
+- [Amazon Cognito is now available in Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cognito-asia-pacific-melbourne-region/)
+- [Amazon CodeCatalyst now supports adding tasks to issues](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-codecatalyst-tasks-issues/)
 - [Amazon IVS Low-Latency Streaming now supports SRT ingest](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-ivs-low-latency-streaming-srt-ingest/)
 - [Research and Engineering Studio on AWS Version 2024.04 now available](https://aws.amazon.com/about-aws/whats-new/2024/04/research-engineering-studio-aws-version-2024-04-available/)
-- [Amazon VPC CNI now supports automatic subnet discovery](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-vpc-cni-automatic-subnet-discovery/)
-- [Amazon Cognito customers can secure access to APIs using Amazon Verified Permissions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cognito-customers-access-apis-verified-permissions/)
-- [Cross-account observability enabled for CloudWatch Internet Monitor](https://aws.amazon.com/about-aws/whats-new/2024/04/cross-account-observability-cloudwatch-internet-monitor/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
