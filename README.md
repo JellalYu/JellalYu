@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C7i instances now available in Europe &lpar;Paris&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-ec2-c7i-instances-europe-paris/)
 - [AWS Transfer Family introduces a new workshop for SFTP](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-transfer-family-workshop-sftp/)
 - [Announcing availability of AWS Outposts in the Kingdom of Saudi Arabia](https://aws.amazon.com/about-aws/whats-new/2024/04/availability-aws-outposts-kingdom-saudi-arabia/)
 - [Launch Amazon CloudWatch Internet Monitor from Amazon CloudFront console](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-internet-monitor-cloudfront-console/)
 - [AWS Elemental MediaLive now supports CMAF Ingest output group](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-elemental-medialive-cmaf-ingest-output-group/)
-- [AWS India customers can now use UPI &lpar;Unified Payments Interface&rpar; to make payments](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-india-customers-upi-make-payments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
