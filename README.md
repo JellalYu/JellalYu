@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family introduces a new workshop for SFTP](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-transfer-family-workshop-sftp/)
+- [Announcing availability of AWS Outposts in Kingdom of Saudi Arabia](https://aws.amazon.com/about-aws/whats-new/2024/04/availability-aws-outposts-kingdom-saudi-arabia/)
 - [Launch Amazon CloudWatch Internet Monitor from Amazon CloudFront console](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-internet-monitor-cloudfront-console/)
 - [AWS Elemental MediaLive now supports CMAF Ingest output group](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-elemental-medialive-cmaf-ingest-output-group/)
 - [AWS India customers can now use UPI &lpar;Unified Payments Interface&rpar; to make payments](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-india-customers-upi-make-payments/)
-- [Amazon OpenSearch Service now lets you update node count without blue/green](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-opensearch-service-update-node-count-without-blue-green/)
-- [Amazon CloudWatch RUM is generally available in 11 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-rum-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
