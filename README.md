@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Launch Amazon CloudWatch Internet Monitor from Amazon CloudFront console](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-internet-monitor-cloudfront-console/)
+- [AWS Elemental MediaLive now supports CMAF Ingest output group](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-elemental-medialive-cmaf-ingest-output-group/)
 - [AWS India customers can now use UPI &lpar;Unified Payments Interface&rpar; to make payments](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-india-customers-upi-make-payments/)
 - [Amazon OpenSearch Service now lets you update node count without blue/green](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-opensearch-service-update-node-count-without-blue-green/)
 - [Amazon CloudWatch RUM is generally available in 11 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-rum-additional-aws-regions/)
-- [Knowledge Bases for Amazon Bedrock offers support for CloudFormation and Service Quotas](https://aws.amazon.com/about-aws/whats-new/2024/04/knowledge-bases-amazon-bedrock-formation-quotas/)
-- [AWS Lambda supports Kafka event sources in four new regions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-lambda-kafka-event-sources-four-new-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
