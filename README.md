@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Location Service releases Tracking SDK for iOS and Android](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-location-service-tracking-sdk-ios-android/)
 - [Knowledge Bases for Amazon Bedrock now supports Claude 3 Haiku](https://aws.amazon.com/about-aws/whats-new/2024/04/knowledge-bases-amazon-bedrock-claude-3-haiku/)
 - [Amazon RDS for MySQL supports rds_superuser_role for easier implementation of role based privileges](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-mysql-rds-superuser-role/)
 - [AWS Elemental MediaTailor now available in the Hyderabad and UAE regions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-elemental-mediatailor-hyderabad-uae-regions/)
 - [Amazon Route 53 adds support for 18 additional Top-Level Domains](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-route-53-additional-top-level-domains/)
-- [Amazon EC2 C7i instances now available in Europe &lpar;Paris&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-ec2-c7i-instances-europe-paris/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
