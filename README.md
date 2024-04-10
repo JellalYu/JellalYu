@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Verified Permissions is available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-verified-permissions-additional-regions/)
 - [Amazon Bedrock is now available in the Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-bedrock-sydney-region/)
 - [Amazon CloudFront now supports Common Media Client Data &lpar;CMCD&rpar; fields in real-time logs](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudfront-cmcd-fields-real-time-logs/)
 - [AWS AppSync forwards application request headers to AWS Lambda custom authorizer functions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-appsync-application-headers-lambda-authorizer-functions/)
 - [Amazon Location Service releases Tracking SDK for iOS and Android](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-location-service-tracking-sdk-ios-android/)
-- [Knowledge Bases for Amazon Bedrock now supports Claude 3 Haiku](https://aws.amazon.com/about-aws/whats-new/2024/04/knowledge-bases-amazon-bedrock-claude-3-haiku/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
