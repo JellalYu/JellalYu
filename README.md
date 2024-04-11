@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Container Insights announces observability for Windows containers on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-container-insights-windows-containers-eks/)
+- [Amazon EMR on EKS now supports Amazon EKS simplified access management controls](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-emr-eks-simplified-access-management-controls/)
+- [AWS HealthImaging adds search parameters and extended search API responses](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-healthimaging-search-parameters-api-responses/)
 - [AWS Clean Rooms Differential Privacy is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-clean-rooms-differential-privacy-generally-available/)
 - [AWS Neuron introduces speculative decoding](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-neuron-speculative-decoding/)
-- [Amazon Verified Permissions is available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-verified-permissions-additional-regions/)
-- [Amazon Bedrock is now available in the Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-bedrock-sydney-region/)
-- [Amazon CloudFront now supports Common Media Client Data &lpar;CMCD&rpar; fields in real-time logs](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudfront-cmcd-fields-real-time-logs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
