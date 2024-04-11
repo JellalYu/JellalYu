@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IAM Identity Center now offers a streamlined AWS access portal and shortcut links](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-iam-identity-center-shortcut-links-aws-access-portal/)
+- [AWS Lambda functions now scale up to 12X faster in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-lambda-functions-12x-faster-govcloud-us-regions/)
 - [Amazon CloudWatch Container Insights announces observability for Windows containers on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-container-insights-windows-containers-eks/)
 - [Amazon EMR on EKS now supports Amazon EKS simplified access management controls](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-emr-eks-simplified-access-management-controls/)
 - [AWS HealthImaging adds search parameters and extended search API responses](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-healthimaging-search-parameters-api-responses/)
-- [AWS Clean Rooms Differential Privacy is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-clean-rooms-differential-privacy-generally-available/)
-- [AWS Neuron introduces speculative decoding](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-neuron-speculative-decoding/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
