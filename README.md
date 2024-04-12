@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaTailor now supports HLS Interstitials for VOD streams](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-elemental-mediatailor-hls-interstitials-vod-streams/)
+- [AWS Step Functions Announces Optimized Integration for AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-step-functions-integration-elemental-mediaconvert/)
 - [AWS Resource Explorer is now available in 10 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-resource-explorer-additional-regions/)
 - [Amazon CloudFront now supports Origin Access Control &lpar;OAC&rpar; for Lambda function URL origins](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudfront-oac-lambda-function-url-origins/)
 - [Amazon CloudFront now supports Origin Access Control &lpar;OAC&rpar; for AWS Elemental MediaPackage Origin](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudfront-oac-aws-elemental-mediapackage-origin/)
-- [Amazon Braket adds experimental capabilities for QuEra device via Braket Direct](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-braket-experimental-capabilities-quera-device-braket-direct/)
-- [Introducing workflow monitor for AWS Media Services](https://aws.amazon.com/about-aws/whats-new/2024/04/workflow-monitor-aws-media-services/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
