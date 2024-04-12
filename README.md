@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family supports self-signed TLS certificates, 3DES encryption for sending AS2 messages](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-transfer-family-tls-certificates-3des-as2-messages/)
 - [Amazon Detective supports investigations for GuardDuty EC2 Runtime Monitoring](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-detective-investigations-guardduty-monitoring/)
 - [AWS KMS announces more flexible automatic key rotation](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-kms-automatic-key-rotation/)
 - [AWS Elemental MediaTailor now supports HLS Interstitials for VOD streams](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-elemental-mediatailor-hls-interstitials-vod-streams/)
 - [AWS Step Functions Announces Optimized Integration for AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-step-functions-integration-elemental-mediaconvert/)
-- [AWS Resource Explorer is now available in 10 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-resource-explorer-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
