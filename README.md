@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS PrivateLink now supports Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-privatelink-supports-quicksight/)
+- [Amazon QuickSight now supports account instances of IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-quicksight-account-instances-iam-identity-center/)
 - [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; Version 23.2](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-oracle-oracle-apex-version-23-20/)
 - [Amazon RDS for Oracle supports managed Oracle Data Guard Switchover and Automated Backups for replicas in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-oracle-data-guard-switchover-automated-backups-additional-regions/)
 - [Amazon RDS for SQL supports minor version 2022 CU12](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-sql-server-minor-version-2022-cu12/)
-- [Amazon MSK is now available in Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-msk-canada-west-calgary-region/)
-- [AWS Transfer Family supports self-signed TLS certificates, 3DES encryption for sending AS2 messages](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-transfer-family-tls-certificates-3des-as2-messages/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
