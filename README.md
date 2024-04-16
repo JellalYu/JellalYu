@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Cognito is now available in Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cognito-europe-spain-region/)
+- [Amazon Cognito is now available in Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cognito-asia-pacific-hyderabad/)
+- [Amazon Corretto April, 2024 quarterly updates](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-corretto-april-2024-quarterly-updates/)
+- [AWS Network Manager is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-network-manager-israel-tel-aviv-region/)
 - [Amazon MWAA adds larger environment sizes](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-mwaa-larger-environment-sizes/)
-- [Announcing the AWS Well-Architected Tool Connector for Jira](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-well-architected-tool-connector-jira/)
-- [AWS CloudFormation ChangeSets now offer enhanced change visibility for deployments](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-cloudformation-changesets-enhanced-change-visibility-deployments/)
-- [Anthropic&#39;s Claude 3 Opus model now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/anthropics-claude-3-opus-amazon-bedrock/)
-- [AWS HealthOmics announces support for reading sequence stores through Amazon S3 APIs](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-healthomics-reading-sequence-stores-s3-apis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
