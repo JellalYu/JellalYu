@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Monitor internet outage using the weather map in CloudWatch Internet Monitor](https://aws.amazon.com/about-aws/whats-new/2024/04/monitor-internet-outage-weather-map-cloudwatch/)
+- [Amazon Athena announces federated query pass-through](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-athena-federated-query-pass-through/)
 - [Amazon Cognito is now available in Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cognito-europe-spain-region/)
 - [Amazon Cognito is now available in Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cognito-asia-pacific-hyderabad/)
 - [Amazon Corretto April, 2024 quarterly updates](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-corretto-april-2024-quarterly-updates/)
-- [AWS Network Manager is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-network-manager-israel-tel-aviv-region/)
-- [Amazon MWAA adds larger environment sizes](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-mwaa-larger-environment-sizes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
