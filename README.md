@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Anthropic&#39;s Claude 3 Opus model now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/anthropics-claude-3-opus-amazon-bedrock/)
 - [AWS HealthOmics announces support for reading sequence stores through Amazon S3 APIs](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-healthomics-reading-sequence-stores-s3-apis/)
 - [Amazon RDS for Oracle extends support for x2iedn in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-oracle-x2iedn-additional-regions/)
 - [Amazon RDS Custom for Oracle now supports Oracle Database Standard Edition 2](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-custom-oracle-database-standard-edition-2/)
 - [AWS PrivateLink now supports Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-privatelink-supports-quicksight/)
-- [Amazon QuickSight now supports account instances of IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-quicksight-account-instances-iam-identity-center/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
