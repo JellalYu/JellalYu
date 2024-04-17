@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Stream data into Snowflake using Amazon Data Firehose and Snowflake Snowpipe Streaming](https://aws.amazon.com/about-aws/whats-new/2024/04/stream-data-amazon-data-firehose-snowflake-snowpipe-streaming/)
+- [Amazon SageMaker Studio Notebooks supports interactive data exploration and SQL query execution](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sagemaker-studio-notebooks-data-sql-query/)
 - [Introducing the AWS PDK blueprints in Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-pdk-blueprints-amazon-codecatalyst/)
 - [Announcing Accessibility Conformance Reports &lpar;ACRs&rpar; in AWS Artifact](https://aws.amazon.com/about-aws/whats-new/2024/04/accessibility-conformance-reports-aws-artifact/)
 - [AWS Config advanced queries support 35 new resource types](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-config-advanced-queries-resource-types/)
-- [AWS launches Split Cost Allocation Data for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-split-cost-allocation-data-amazon-eks/)
-- [Monitor internet outage using the weather map in CloudWatch Internet Monitor](https://aws.amazon.com/about-aws/whats-new/2024/04/monitor-internet-outage-weather-map-cloudwatch/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
