@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon Neptune connector for Nodestream, Parquet, and SBOM](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-neptune-connector-nodestream-parquet-sbom/)
+- [New self-service tasks for Services Partners in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/04/self-service-tasks-services-partners-aws-partner-central/)
+- [AWS Partner CRM Connector now supports future dated agreements](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-partner-crm-connector-future-dated-agreements/)
+- [Amazon SQS announces support for FIFO dead-letter queue redrive in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sqs-fifo-dead-letter-queue-redrive-aws-govcloud-us-regions/)
 - [AWS Mainframe Modernization introduces advanced configurations for runtime environments](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-mainframe-modernization-advanced-configurations-runtime-environments/)
-- [AWS SimSpace Weaver app SDK v1.17.0 now available](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-simspace-weaver-app-sdk-v1-17-0/)
-- [Stream data into Snowflake using Amazon Data Firehose and Snowflake Snowpipe Streaming](https://aws.amazon.com/about-aws/whats-new/2024/04/stream-data-amazon-data-firehose-snowflake-snowpipe-streaming/)
-- [Amazon SageMaker Studio Notebooks supports interactive data exploration and SQL query execution](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sagemaker-studio-notebooks-data-sql-query/)
-- [Introducing the AWS PDK blueprints in Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-pdk-blueprints-amazon-codecatalyst/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
