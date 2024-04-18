@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Neuron introduces speculative decoding and vLLM support](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-neuron-speculative-decoding-vllm-support/)
+- [Amazon WorkSpaces helps simplify Bring Your Own License &lpar;BYOL&rpar; account management](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-workspaces-simplify-byol-account-management/)
 - [AWS IAM Identity Center adds independent 90-days session duration for Amazon CodeWhisperer](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-iam-identity-center-90-days-session-codewhisperer/)
 - [Meta Llama 3 foundation models now available on AWS](https://aws.amazon.com/about-aws/whats-new/2024/04/meta-llama-3-foundation-models-aws/)
 - [AWS Storage Gateway is now available in AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-storage-gateway-canada-west-calgary-region/)
-- [Amazon RDS for PostgreSQL supports client authentication hook for Trusted Language Extensions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-postgresql-authentication-hook-language-extensions/)
-- [AWS Partner Central launches enhanced user management capabilities](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-partner-central-user-management-capabilities/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
