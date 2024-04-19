@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Personalize now offers automatic solution training](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-personalize-automatic-solution-training/)
+- [Amazon Simple Email Service is now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-simple-email-service-aws-govcloud-us-east-region/)
 - [IAM Roles Anywhere now supports modifying the mapping of certificate attributes](https://aws.amazon.com/about-aws/whats-new/2024/04/iam-roles-anywhere-modifying-mapping-certificate-attributes/)
 - [Amazon EMR on EKS now supports Apache Livy](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-emr-eks-apache-livy/)
 - [Amazon SageMaker enables Projects in SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sagemaker-projects-sagemaker-studio/)
-- [AWS Elastic Disaster Recovery now supports AWS Outposts Racks](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-elastic-disaster-recovery-outposts-racks/)
-- [Amazon EC2 R6gd instances are now available in Europe &lpar;Zurich&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-ec2-r6gd-instances-zurich-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
