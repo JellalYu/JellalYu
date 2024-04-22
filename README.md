@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Workflow approvals for Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/04/workflow-approvals-amazon-codecatalyst/)
 - [Amazon Time Sync Service expands Microsecond-Accurate time to 87 additonal EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-time-sync-service-microsecond-accurate-time-additonal-ec2-instance-types/)
 - [Amazon Personalize now offers automatic solution training](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-personalize-automatic-solution-training/)
 - [Amazon Simple Email Service is now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-simple-email-service-aws-govcloud-us-east-region/)
 - [IAM Roles Anywhere now supports modifying the mapping of certificate attributes](https://aws.amazon.com/about-aws/whats-new/2024/04/iam-roles-anywhere-modifying-mapping-certificate-attributes/)
-- [Amazon EMR on EKS now supports Apache Livy](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-emr-eks-apache-livy/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
