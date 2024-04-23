@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Introducing Amazon Route 53 Profiles](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-route-53-profiles/)
-- [Announcing two new larger instance types for Amazon WorkSpaces Web](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-workspaces-web-two-larger-instance-types/)
-- [Amazon Inspector agentless vulnerability assessments for Amazon EC2 are now Generally Available &lpar;GA&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-inspector-agentless-vulnerability-assessments-ec2-ga/)
-- [Workflow approvals for Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/04/workflow-approvals-amazon-codecatalyst/)
-- [Amazon Time Sync Service expands Microsecond-Accurate time to 87 additonal EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-time-sync-service-microsecond-accurate-time-additonal-ec2-instance-types/)
+- [Amazon Bedrock Agents simplifies agent creation and launches Return of Control capability](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-bedrock-agents-agent-creation-return-control-capability/)
+- [Meta Llama 3 now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/meta-llama-3-amazon-bedrock/)
+- [Model evaluation on Amazon Bedrock is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2024/04/model-evaluation-amazon-bedrock-generally-available/)
+- [Amazon Titan Image Generator model in Amazon Bedrock now generally available](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-titan-image-generator-model-bedrock-available/)
+- [Knowledge Bases for Amazon Bedrock now simplifies asking questions on a single document](https://aws.amazon.com/about-aws/whats-new/2024/04/knowledge-bases-amazon-bedrock-asking-questions-single-document/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
