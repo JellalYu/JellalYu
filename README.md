@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle supports Kerberos authentication in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-oracle-kerberos-authentication-additional-regions/)
+- [Amazon ECS now integrates with CloudWatch alarms for deployment monitoring in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-ecs-cloudwatch-alarms-deployment-monitoring-govcloud-us-regions/)
+- [AWS IoT Core for LoRaWAN public network support now available in Spain](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-iot-core-lorawan-public-network-support-spain/)
 - [Amazon OpenSearch Service adds support for Hebrew and HanLP language analyzers](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-opensearch-hebrew-hanlp-language-analyzers/)
 - [Amazon QuickSight launches cross sheet filters and controls](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-quicksight-sheet-filters-controls/)
-- [AWS AppFabric now supports 1Password](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-appfabric-1password/)
-- [CloudWatch Container Insights now announces Accelerated Compute Observability on EKS](https://aws.amazon.com/about-aws/whats-new/2024/04/cloudwatch-container-insights-compute-observability-eks/)
-- [Amazon CodeCatalyst adds task breakdown assistance for issues assigned to Amazon Q](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-codecatalyst-task-breakdown-issues-amazon-q/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
