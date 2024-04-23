@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Performance Insights provides execution plan for RDS SQL Server](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-performance-insights-execution-plan-rds-sql-server/)
+- [myApplications is now available in 9 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/myapplications-9-additional-regions/)
 - [Amazon CloudWatch RUM is generally available in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-rum-5-additional-regions/)
 - [Amazon RDS for Oracle supports Kerberos authentication in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-oracle-kerberos-authentication-additional-regions/)
 - [Amazon ECS now integrates with CloudWatch alarms for deployment monitoring in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-ecs-cloudwatch-alarms-deployment-monitoring-govcloud-us-regions/)
-- [AWS IoT Core for LoRaWAN public network support now available in Spain](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-iot-core-lorawan-public-network-support-spain/)
-- [Amazon OpenSearch Service adds support for Hebrew and HanLP language analyzers](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-opensearch-hebrew-hanlp-language-analyzers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
