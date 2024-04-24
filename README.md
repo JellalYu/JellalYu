@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GameLift now includes containers support &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-gamelift-containers-support-preview/)
 - [AWS DataSync supports disabling task schedules](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-datacync-disabling-task-schedules/)
 - [AWS CodeBuild now supports managed GitHub Action runners](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-codebuild-managed-github-action-runners/)
 - [NoSQL Workbench for Amazon DynamoDB launches a revamped operation builder user interface](https://aws.amazon.com/about-aws/whats-new/2024/04/nosql-workbench-amazon-dynamo-db-operation-builder-user-interface/)
 - [AWS Direct Connect adds 25 Gbps hosted connection capacities](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-direct-connect-gbps-hosted-connection-capacities/)
-- [Amazon RDS Performance Insights provides execution plan for RDS SQL Server](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-performance-insights-execution-plan-rds-sql-server/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
