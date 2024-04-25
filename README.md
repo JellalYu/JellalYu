@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Local time zone support for Amazon RDS for Db2](https://aws.amazon.com/about-aws/whats-new/2024/04/local-time-zone-amazon-rds-db2/)
 - [AWS AppFabric now supports SentinelOne Singularity Cloud](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-appfabric-sentinelone-singularity-cloud/)
 - [AWS supports dynamically removing and adding auto assigned public IPv4 address](https://aws.amazon.com/about-aws/whats-new/2024/04/removing-adding-auto-assigned-public-ipv4-address/)
 - [Amazon RDS now supports M6gd database instances in four additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-m6gd-database-instances-additional-regions/)
 - [Amazon SageMaker Clarify now supports foundation model evaluations](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sagemaker-clarify-foundation-model-evaluations/)
-- [AWS Global Accelerator now supports endpoints in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-global-accelerator-endpoints-calgary-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
