@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodePipeline supports stage level manual and automated rollback](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-codepipeline-stage-level-manual-automated-rollback/)
+- [Amazon Data Lifecycle Manager default policies now supports AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-data-lifecycle-manager-default-policies-organizations/)
 - [Restore running applications to pre-update state in Amazon Managed Service for Apache Flink](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-managed-service-apache-flink-restore-applications/)
 - [Network Load Balancer now supports Resource Map in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2024/04/network-load-balancer-resource-map-aws-management-console/)
 - [Local time zone support for Amazon RDS for Db2](https://aws.amazon.com/about-aws/whats-new/2024/04/local-time-zone-amazon-rds-db2/)
-- [AWS AppFabric now supports SentinelOne Singularity Cloud](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-appfabric-sentinelone-singularity-cloud/)
-- [AWS supports dynamically removing and adding auto assigned public IPv4 address](https://aws.amazon.com/about-aws/whats-new/2024/04/removing-adding-auto-assigned-public-ipv4-address/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
