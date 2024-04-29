@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Firewall Manager now supports central deployment and management of VPC NACLs with common NACL policies](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-firewall-manager-central-deployment-management-vpc-nacls/)
+- [Cohere Command R and Command R+ now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/cohere-command-r-r-plus-amazon-bedrock/)
 - [Amazon Q generative SQL &lpar;preview&rpar; is now available in AWS Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-q-generative-sql-preview-europe-frankfurt/)
 - [AWS CodePipeline supports stage level manual and automated rollback](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-codepipeline-stage-level-manual-automated-rollback/)
 - [Amazon Data Lifecycle Manager default policies now supports AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-data-lifecycle-manager-default-policies-organizations/)
-- [Restore running applications to pre-update state in Amazon Managed Service for Apache Flink](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-managed-service-apache-flink-restore-applications/)
-- [Network Load Balancer now supports Resource Map in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2024/04/network-load-balancer-resource-map-aws-management-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
