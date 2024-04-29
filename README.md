@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora supports PostgreSQL 16.2, 15.6, 14.11, 13.14, and 12.18](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-aurora-supports-postgresql-additional-versions/)
 - [Announcing the general availability of AWS Local Zones in Honolulu, Hawaii](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-local-zones-honolulu-hawaii/)
 - [AWS Firewall Manager now supports central deployment and management of VPC NACLs with common NACL policies](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-firewall-manager-central-deployment-management-vpc-nacls/)
 - [Cohere Command R and Command R+ now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/cohere-command-r-r-plus-amazon-bedrock/)
 - [Amazon Q generative SQL &lpar;preview&rpar; is now available in AWS Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-q-generative-sql-preview-europe-frankfurt/)
-- [AWS CodePipeline supports stage level manual and automated rollback](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-codepipeline-stage-level-manual-automated-rollback/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
