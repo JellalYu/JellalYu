@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon CloudWatch Lambda Insights available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-lambda-insights-govcloud-regions/)
-- [Amazon Aurora supports PostgreSQL 16.2, 15.6, 14.11, 13.14, and 12.18](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-aurora-supports-postgresql-additional-versions/)
-- [Announcing the general availability of AWS Local Zones in Honolulu, Hawaii](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-local-zones-honolulu-hawaii/)
-- [AWS Firewall Manager now supports central deployment and management of VPC NACLs with common NACL policies](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-firewall-manager-central-deployment-management-vpc-nacls/)
-- [Cohere Command R and Command R+ now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/cohere-command-r-r-plus-amazon-bedrock/)
+- [Automate deployment of SAP Web Dispatcher using AWS Launch Wizard](https://aws.amazon.com/about-aws/whats-new/2024/04/automate-deployment-sap-web-dispatcher-aws-launch-wizard/)
+- [AWS CodeArtifact now supports RubyGems](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-codeartifact-rubygems/)
+- [AWS HealthOmics now supports dynamic run storage for private workflows](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-healthomics-dynamic-run-storage-private-workflows/)
+- [Amazon Location Service releases Places integration plugin for MapLibre GL JS Geocoder](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-location-service-plugin-maplibre-gl-js-geocoder/)
+- [Amazon DynamoDB now supports an AWS FIS action to pause global table replication](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-dynamodb-fis-action-pause-global-table-replication/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
