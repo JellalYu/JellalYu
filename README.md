@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 simplifies visibility into your active AMIs](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-simplifies-visibility-active-amis/)
+- [Amazon EC2 now protects your AMIs from accidental deregistration](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-protects-amis-accidental-deregistration/)
 - [Amazon Pinpoint now supports multimedia messaging service &lpar;MMS&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-pinpoint-multimedia-messaging-service/)
 - [Amazon Route 53 Resolver DNS Firewall now supports Domain Redirection](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-route-53-resolver-dns-firewall-domain-redirection/)
 - [New feature for Amazon Connect Contact Lens agent screen recording](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-contact-lens-agent-screen-recording/)
-- [Amazon CloudWatch launches resource filtering for cross-account observability](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-cloudwatch-filtering-cross-account-observability/)
-- [Amazon EFS increases maximum per-client throughput to 1.5 GiB/s](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-efs-maximum-per-client-throughput-1-5-gibs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
