@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Knowledge Bases for Amazon Bedrock now supports MongoDB Atlas for vector storage](https://aws.amazon.com/about-aws/whats-new/2024/05/knowledge-bases-amazon-bedrock-mongodb-atlas-vector-storage/)
 - [Amazon EC2 simplifies visibility into your active AMIs](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-simplifies-visibility-active-amis/)
 - [Amazon EC2 now protects your AMIs from accidental deregistration](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-protects-amis-accidental-deregistration/)
 - [Amazon Pinpoint now supports multimedia messaging service &lpar;MMS&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-pinpoint-multimedia-messaging-service/)
 - [Amazon Route 53 Resolver DNS Firewall now supports Domain Redirection](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-route-53-resolver-dns-firewall-domain-redirection/)
-- [New feature for Amazon Connect Contact Lens agent screen recording](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-contact-lens-agent-screen-recording/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
