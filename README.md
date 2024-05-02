@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing automated 997 and TA1 acknowledgements for AWS B2B Data Interchange](https://aws.amazon.com/about-aws/whats-new/2024/05/automated-997-ta1-acknowledgements-aws-b2b-data-interchange/)
 - [Amazon Bedrock now available in the Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-asia-pacific-mumbai-region/)
 - [AWS Trusted Advisor now supports API to exclude resources](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-trusted-advisor-api-exclude-resources/)
 - [Introducing file commit history in Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-codecatalyst-file-commit-history/)
 - [Amazon Personalize launches new recipes supporting larger item catalogs with lower latency](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-personalize-recipes-item-catalogs-lower-latency/)
-- [Amazon Connect Contact Lens now provides generative AI-powered agent performance evaluations &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-contact-lens-generative-ai-agent-performance-evaluations-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
