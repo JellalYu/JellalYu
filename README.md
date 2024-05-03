@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing automated 997 and TA1 acknowledgements for AWS B2B Data Interchange](https://aws.amazon.com/about-aws/whats-new/2024/05/automated-997-ta1-acknowledgements-aws-b2b-data-interchange/)
-- [Amazon Bedrock now available in the Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-asia-pacific-mumbai-region/)
-- [AWS Trusted Advisor now supports API to exclude resources](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-trusted-advisor-api-exclude-resources/)
-- [Introducing file commit history in Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-codecatalyst-file-commit-history/)
-- [Amazon Personalize launches new recipes supporting larger item catalogs with lower latency](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-personalize-recipes-item-catalogs-lower-latency/)
+- [Amazon Personalize now makes it easier than ever to delete users from datasets](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-personalize-delete-users-from-datasets/)
+- [Amazon RDS for SQL Server Supports SSAS Multidimensional for SQL Server 2019](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-sql-server-ssas-multidimensional-2019/)
+- [AWS Transfer Family is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-transfer-family-canada-west-calgary-region/)
+- [Amazon Route 53 Resolver DNS Firewall now available in the Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-route-53-resolver-dns-firewall-canada-west-calgary-region/)
+- [Amazon DynamoDB introduces configurable maximum throughput for On-demand tables](https://aws.amazon.com/about-aws/whats-new/2024/05/dynamodb-configurable-maximum-throughput-on-demand-tables/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
