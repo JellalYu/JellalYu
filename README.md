@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces a new Amazon EC2 API to retrieve the public endorsement key from NitroTPM](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-api-public-endorsement-key-nitrotpm/)
 - [Amazon Pinpoint introduces country rules to precisely control SMS message delivery](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-pinpoint-country-control-sms-delivery/)
 - [Amazon Personalize now makes it easier than ever to delete users from datasets](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-personalize-delete-users-from-datasets/)
 - [Amazon RDS for SQL Server Supports SSAS Multidimensional for SQL Server 2019](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-sql-server-ssas-multidimensional-2019/)
 - [AWS Transfer Family is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-transfer-family-canada-west-calgary-region/)
-- [Amazon Route 53 Resolver DNS Firewall now available in the Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-route-53-resolver-dns-firewall-canada-west-calgary-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
