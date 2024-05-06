@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports April 2024 Release Update](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-oracle-april-2024-release-update/)
 - [Amazon FSx for Windows File Server is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-fsx-windows-file-server-canada-calgary-region/)
 - [Amazon FSx for Lustre is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-fsx-lustre-canada-west-calgary-region/)
 - [Amazon FSx for NetApp ONTAP is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-fsx-netapp-ontap-canada-west-calgary-region/)
 - [Amazon FSx for OpenZFS is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-fsx-openzfs-canada-west-calgary-region/)
-- [AWS IoT TwinMaker announces Knowledge Graph optimization for efficient entity-metadata query capabilities](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-iot-twinmaker-knowledge-graph-optimization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
