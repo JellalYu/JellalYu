@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Budgets now supports resource and tag-based access controls](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-budgets-resource-tag-based-access-controls/)
+- [Amazon RDS for SQL Server Supports Minor Versions 2019 CU26 and 2022 CU12 GDR](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-sql-server-minor-versions-2019-cu26-2022-cu12-gdr/)
 - [Amazon MemoryDB now supports condition keys for user authentication and encryption in transit](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-memorydb-condition-keys-authentication-encryption-transit/)
 - [AWS Cost Anomaly Detection reduces anomaly detection latency by up to 30%](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-cost-anomaly-detection-reduces-latency/)
 - [Amazon Titan Text Premier is now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-titan-text-premier-amazon-bedrock/)
-- [AWS Global Accelerator launches new edge location in Türkiye](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-global-accelerator-new-edge-location-turkiye/)
-- [Amazon RDS Performance Insights now supports RDS for Oracle Multitenant](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-performance-insights-oracle-multitenant/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
