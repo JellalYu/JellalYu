@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon Bedrock Studio preview](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-studio-preview/)
 - [Amazon EC2 R7i instances are now available in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-r7i-instances-govcloud-us-east-region/)
 - [AWS Firewall Manager is now available in the AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-firewall-manager-canada-west-calgary-region/)
 - [Amazon RDS for Oracle now supports April 2024 Release Update](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-oracle-april-2024-release-update/)
 - [Amazon FSx for Windows File Server is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-fsx-windows-file-server-canada-calgary-region/)
-- [Amazon FSx for Lustre is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-fsx-lustre-canada-west-calgary-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
