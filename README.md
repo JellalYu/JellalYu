@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New Generative Engine with three synthetic English Polly voices](https://aws.amazon.com/about-aws/whats-new/2024/05/generative-engine-three-english-polly-voices/)
 - [Amazon OpenSearch Serverless now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-serverless-europe-paris-region/)
 - [Amazon Connect launches UI and API support for enhanced search capabilities for Flows and Flow Modules](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-ui-api-enhanced-search-capabilities-flows-modules/)
 - [Amazon Connect launches AWS CloudTrail support for flow management pages](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-aws-cloudtrail-flow-management-pages/)
 - [Amazon ElastiCache updates minimum TLS version to 1.2](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-elasticache-minimum-tls-version-1-2/)
-- [Amazon SageMaker now integrates with Amazon DataZone to help unify governance across data and ML assets](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-sagemaker-datazone-unifying-governance-data-ml-assets/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
