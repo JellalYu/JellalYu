@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Cognito introduces tiered pricing for machine-to-machine &lpar;M2M&rpar; usage](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-cognito-tiered-pricing-m2m-usage/)
+- [Amazon RDS for PostgreSQL supports minor versions 16.3, 15.7, 14.12, 13.15, and 12.19](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-postgresql-supports-new-versions/)
 - [Amazon MQ now supports RabbitMQ version 3.12](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-mq-rabbitmq-version-3-12/)
 - [Amazon QuickSight launches SPICE capacity auto-purchase API](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-quicksight-spice-capacity-auto-purchase-api/)
 - [Amazon ECR adds pull through cache support for GitLab.com](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ecr-pull-cache-support-gitlab-com/)
-- [Amazon EC2 Inf2 instances, optimized for generative AI, now in new regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-inf2-instances-generative-ai-new-regions/)
-- [New Generative Engine with three synthetic English Polly voices](https://aws.amazon.com/about-aws/whats-new/2024/05/generative-engine-three-english-polly-voices/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
