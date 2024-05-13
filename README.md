@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR 7.1 now supports Trino 435, Python 3.11](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-7-1-trino-435-python-3-11/)
+- [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
+- [Amazon EMR 7.1 now supports additional metrics for enhanced monitoring](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-7-1-metrics-enhanced-monitoring/)
 - [Amazon RDS for PostgreSQL supports pgvector 0.7.0](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-postgresql-pgvector-0-7-0/)
 - [Amazon Managed Service for Prometheus collector integrates with Amazon EKS access management controls](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-managed-service-prometheus-collector-eks-access-management-controls/)
-- [Amazon SageMaker notebooks now support G6 instance types](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-sagemaker-notebooks-g6-instance-types/)
-- [Amazon MQ now supports RabbitMQ version 3.12](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-mq-rabbitmq-version-3-12/)
-- [Amazon Cognito introduces tiered pricing for machine-to-machine &lpar;M2M&rpar; usage](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-cognito-tiered-pricing-m2m-usage/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
