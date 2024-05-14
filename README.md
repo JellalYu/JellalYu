@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Virtual Private Cloud &lpar;VPC&rpar; flow logs extends support for Amazon Elastic Container Service &lpar;ECS&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-vpc-flow-logs-extends-support-ecs/)
+- [Amazon EventBridge now supports Customer Managed Keys &lpar;CMK&rpar; for Event Buses](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-eventbridge-cmk-event-buses/)
 - [Introducing Amazon EC2 C7i-flex instances](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-c7i-flex-instances/)
 - [Amazon EBS direct APIs now support VPC endpoint policies](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ebs-direct-apis-vpc-endpoints-policies/)
-- [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
-- [Amazon EMR 7.1 now supports Trino 435, Python 3.11](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-7-1-trino-435-python-3-11/)
+- [Amazon EC2 M7gd instances are now available in South America &lpar;Sao Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-m7gd-instances-sao-paulo-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
