@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Detective adds support for EKS audit logs in Security Lake integration](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-detective-eks-audit-logs-security-lake-integration/)
-- [Amazon EKS announces native support for autoscaling CoreDNS Pods](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-eks-native-support-autoscaling-coredns-pods/)
-- [Amazon Virtual Private Cloud &lpar;VPC&rpar; flow logs extends support for Amazon Elastic Container Service &lpar;ECS&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-vpc-flow-logs-extends-support-ecs/)
-- [Amazon EventBridge now supports Customer Managed Keys &lpar;CMK&rpar; for Event Buses](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-eventbridge-cmk-event-buses/)
-- [Introducing Amazon EC2 C7i-flex instances](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-c7i-flex-instances/)
+- [AWS Shield Advanced is now available in Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-shield-advanced-canada-west-calgary-region/)
+- [Amazon Managed Grafana now supports Grafana version 10.4](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-managed-grafana-supports-version-10-4/)
+- [Amazon VPC Lattice now supports TLS Passthrough](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-vpc-lattice-tls-passthrough/)
+- [AWS HealthImaging supports cross account data imports](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-healthimaging-cross-account-data-imports/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
