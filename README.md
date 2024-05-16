@@ -51,7 +51,7 @@
 - [Announcing General Availability of Amazon Redshift Serverless in the South America &lpar;São Paulo&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2024/05/general-availability-amazon-redshift-serverless-sao-paulo-region/)
 - [Amazon Managed Service for Prometheus now supports inline editing of alert manager and rules configuration](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-managed-service-prometheus-inline-editing/)
 - [Amazon OpenSearch Serverless now available in Europe &lpar;London&rpar; and Asia Pacific &lpar;Mumbai&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-serverless-london-mumbai/)
-- [Amazon Detective adds support for EKS audit logs in Security Lake integration](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-detective-eks-audit-logs-security-lake-integration/)
+- [Amazon MWAA now supports Airflow REST API with web server auto scaling](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-mwaa-airflow-rest-api-web-server-auto-scaling/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
