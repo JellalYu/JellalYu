@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Knowledge Bases for Amazon Bedrock now lets you configure Guardrails](https://aws.amazon.com/about-aws/whats-new/2024/05/knowledge-bases-amazon-bedrock-configure-guardrails/)
 - [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20240408](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-sql-extended-support-minor-5-7-44-rds-20240408/)
-- [Amazon MSK now supports the removal of brokers from MSK provisioned clusters](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-msk-removal-brokers-provisioned-clusters/)
 - [Knowledge Bases for Amazon Bedrock now lets you configure inference parameters](https://aws.amazon.com/about-aws/whats-new/2024/05/knowledge-bases-amazon-bedrock-configure-parameters/)
 - [AWS HealthImaging now supports retrieval of DICOM Part 10 instances](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-healthimaging-retrieval-dicom-part-10-instances/)
-- [Amazon MWAA now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-mwaa-additional-regions/)
+- [Amazon MSK now supports the removal of brokers from MSK provisioned clusters](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-msk-removal-brokers-provisioned-clusters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
