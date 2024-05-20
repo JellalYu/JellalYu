@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon QuickSight now supports GetClusterCredentialswithIAM for Redshift Data Sources](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-quicksight-getclustercredentialswithiam-redshift-data-sources/)
 - [AWS Resource Explorer now provides filtering on resources that support tags](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-resource-explorer-provides-filtering-resources-support-tags)
+- [Amazon WorkSpaces Web is now called Amazon WorkSpaces Secure Browser](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-workspaces-web-amazon-workspaces-secure-browser)
 - [Knowledge Bases for Amazon Bedrock now lets you configure Guardrails](https://aws.amazon.com/about-aws/whats-new/2024/05/knowledge-bases-amazon-bedrock-configure-guardrails/)
 - [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20240408](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-sql-extended-support-minor-5-7-44-rds-20240408/)
-- [Knowledge Bases for Amazon Bedrock now lets you configure inference parameters](https://aws.amazon.com/about-aws/whats-new/2024/05/knowledge-bases-amazon-bedrock-configure-parameters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
