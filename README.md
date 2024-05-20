@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the general availability of AWS Database Migration Service support for S3 Parquet as a source](https://aws.amazon.com/about-aws/whats-new/2024/05/general-availability-aws-database-migration-service-support-s3-parquet-source)
 - [Amazon QuickSight now supports GetClusterCredentialswithIAM for Redshift Data Sources](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-quicksight-getclustercredentialswithiam-redshift-data-sources/)
 - [AWS Resource Explorer now provides filtering on resources that support tags](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-resource-explorer-provides-filtering-resources-support-tags)
 - [Amazon WorkSpaces Web is now called Amazon WorkSpaces Secure Browser](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-workspaces-web-amazon-workspaces-secure-browser)
-- [Knowledge Bases for Amazon Bedrock now lets you configure Guardrails](https://aws.amazon.com/about-aws/whats-new/2024/05/knowledge-bases-amazon-bedrock-configure-guardrails/)
-- [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20240408](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-sql-extended-support-minor-5-7-44-rds-20240408/)
+- [AWS Control Tower improves control operations at scale](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-control-tower-improves-control-operations-scale)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
