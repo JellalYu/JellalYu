@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service releases cross cluster alerting monitors](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-service-cross-cluster-alerting-monitors/)
+- [Amazon RDS for Db2 introduces hourly licensing from IBM through AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-db2-hourly-licensing-ibm-aws-marketplace/)
 - [Announcing the general availability of AWS Database Migration Service support for S3 Parquet as a source](https://aws.amazon.com/about-aws/whats-new/2024/05/general-availability-aws-database-migration-service-support-s3-parquet-source)
 - [Amazon QuickSight now supports GetClusterCredentialswithIAM for Redshift Data Sources](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-quicksight-getclustercredentialswithiam-redshift-data-sources/)
 - [AWS Resource Explorer now provides filtering on resources that support tags](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-resource-explorer-provides-filtering-resources-support-tags)
-- [Amazon WorkSpaces Web is now called Amazon WorkSpaces Secure Browser](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-workspaces-web-amazon-workspaces-secure-browser)
-- [AWS Control Tower improves control operations at scale](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-control-tower-improves-control-operations-scale)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
