@@ -51,7 +51,7 @@
 - [Amazon OpenSearch Service releases cross cluster alerting monitors](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-service-cross-cluster-alerting-monitors/)
 - [Amazon Verified Permissions improves support for Cognito tokens](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-verified-permissions-support-cognito-tokens)
 - [Amazon RDS for Db2 introduces hourly licensing from IBM through AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-db2-hourly-licensing-ibm-aws-marketplace/)
-- [Announcing the general availability of AWS Database Migration Service support for S3 Parquet as a source](https://aws.amazon.com/about-aws/whats-new/2024/05/general-availability-aws-database-migration-service-support-s3-parquet-source)
+- [Announcing an improved private offer experience for AWS Marketplace sellers](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-marketplace-sellers-improved-private-offer-experience/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
