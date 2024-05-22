@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon SES launches Mail Manager to help manage complex inbound and outbound email workloads](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ses-mail-manager-inbound-outbound-email/)
 - [Amazon MWAA supports FIPS 140-2 compliant endpoints in US and Canada Regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-mwaa-fips-140-2-endpoints-us-canada-regions)
+- [AWS Lambda console now supports sharing test events between developers in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-lambda-console-sharing-test-events-additional-regions)
+- [Amazon RDS Extended Support APIs are now available](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-extended-support-apis-available)
 - [Announcing LlamaIndex support for Amazon Neptune to build GraphRAG applications](https://aws.amazon.com/about-aws/whats-new/2024/05/llamaIndex-amazon-neptune-graphrag-applications/)
-- [Amazon Redshift announces Snapshot Isolation as the default for Provisioned clusters](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-redshift-snapshot-isolation-provisioned-clusters)
-- [Amazon OpenSearch Service zero-ETL integration with Amazon S3 now available](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-zero-etl-integration-s3/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
