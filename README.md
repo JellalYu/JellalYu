@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [AWS re:Post Private is now available in five new regions](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-re-post-private-new-regions)
 - [AWS announces new AWS Direct Connect location in Chicago, Illinois](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-new-direct-connect-location-chicago-illinois/)
+- [Amazon EC2 M7i-flex, M7i, C7i, and R7i instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-m7i-flex-m7i-c7i-r7i-instances-additional-regions)
 - [AWS Lambda console now supports sharing test events between developers in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-lambda-console-sharing-test-events-additional-regions)
 - [Amazon RDS Extended Support APIs are now available](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-extended-support-apis-available)
-- [Amazon MWAA supports FIPS 140-2 compliant endpoints in US and Canada Regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-mwaa-fips-140-2-endpoints-us-canada-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
