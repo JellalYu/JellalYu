@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New Oracle to PostgreSQL built-in system functions in DMS Schema Conversion](https://aws.amazon.com/about-aws/whats-new/2024/05/oracle-postgresql-built-in-system-functions-schema-conversion/)
 - [Mistral Small foundation model now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-mistral-small-foundation-model/)
-- [Connect your Jupyter notebooks to Amazon EMR Serverless using Apache Livy endpoints](https://aws.amazon.com/about-aws/whats-new/2024/05/connect-jupyter-notebooks-amazon-emr-serverless-apache-livy-endpoints)
 - [PostgreSQL 17 Beta 1 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2024/05/postgresql-17-beta-1-amazon-rds-database-preview-environment)
-- [AWS Launches Console-based Bulk Policy Migration for Billing and Cost Management Console Access](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-console-based-bulk-policy-migration-billing-cost-management-console-access)
-- [AWS Chatbot now supports tagging of AWS Chatbot resources](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-chatbot-tagging-chatbot-resources/)
+- [Connect your Jupyter notebooks to Amazon EMR Serverless using Apache Livy endpoints](https://aws.amazon.com/about-aws/whats-new/2024/05/connect-jupyter-notebooks-amazon-emr-serverless-apache-livy-endpoints)
+- [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.30](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-eks-distro-kubernetes-version-1-30/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
