@@ -48,8 +48,8 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Redshift Serverless is now generally available in the AWS China &lpar;Ningxia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-redshift-serverless-china-ningxia-region)
-- [New Oracle to PostgreSQL built-in system functions in DMS Schema Conversion](https://aws.amazon.com/about-aws/whats-new/2024/05/oracle-postgresql-built-in-system-functions-schema-conversion/)
 - [Amazon CloudWatch now offers 30 days of alarm history](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-cloudwatch-offers-30-days-alarm-history)
+- [New Oracle to PostgreSQL built-in system functions in DMS Schema Conversion](https://aws.amazon.com/about-aws/whats-new/2024/05/oracle-postgresql-built-in-system-functions-schema-conversion/)
 - [AWS Network Firewall increases quota for stateful rules](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-network-firewall-increases-quota-stateful-rules)
 - [Mistral Small foundation model now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-mistral-small-foundation-model/)
 <!-- AWS-NEWS:END -->
