@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DynamoDB now supports resource-based policies in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-dynamodb-resource-based-policies-govcloud-regions)
 - [Amazon Redshift Serverless is now generally available in the AWS China &lpar;Ningxia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-redshift-serverless-china-ningxia-region)
 - [Amazon CloudWatch now offers 30 days of alarm history](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-cloudwatch-offers-30-days-alarm-history)
 - [New Oracle to PostgreSQL built-in system functions in DMS Schema Conversion](https://aws.amazon.com/about-aws/whats-new/2024/05/oracle-postgresql-built-in-system-functions-schema-conversion/)
 - [Amazon DynamoDB local supports configurable maximum throughput for on-demand tables](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-dynamodb-configurable-throughput-on-demand-tables/)
-- [AWS Network Firewall increases quota for stateful rules](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-network-firewall-increases-quota-stateful-rules)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
