@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Powertools for AWS Lambda &lpar;Python&rpar; adds support for Agents for Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/05/powertools-aws-lambda-python-support-agents-bedrock)
+- [Introducing versioning for AWS WAF Bot &amp; Fraud Control managed rule groups](https://aws.amazon.com/about-aws/whats-new/2024/05/versioning-for-aws-waf-bot-fraud-control-managed-rule-groups)
 - [Amazon Redshift Serverless is now available in Region Europe &lpar;Zurich&rpar; and Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-redshift-serverless-zurich-spain)
 - [Amazon EventBridge Scheduler adds new API request metrics for improved observability](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-eventbridge-scheduler-api-request-metrics-improved-observability)
-- [One-click instance profile creation to launch an RDS Custom for SQL Server instance](https://aws.amazon.com/about-aws/whats-new/2024/05/one-click-instance-profile-creation-rds-custom-sql-server-instance)
-- [Claude 3 Sonnet and Haiku now available in Amazon Bedrock in the Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/05/claude-3-sonnet-haiku-amazon-bedrock-frankfurt-region)
+- [Amazon QuickSight is now available in Milan, Zurich, Cape Town and Jakarta Regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-quicksight-milan-zurich-cape-town-jakarta-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
