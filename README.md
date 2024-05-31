@@ -51,7 +51,7 @@
 - [Amazon Connect now supports Apple Messages for Business](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-apple-messages-business)
 - [AWS Supply Chain Lead Time Insights enhances the support for data variability](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-supply-chain-lead-time-insights-enhanced-support-data-variability)
 - [AWS Marketplace announces amendments for AMI annual agreements](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-marketplace-amendments-ami-annual-agreements)
-- [Amazon Connect provides Zero-ETL analytics data lake to access contact center data](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-zero-etl-analytics-lake-contact-center-data/)
+- [Announcing AWS DMS Serverless improved Oracle to Redshift Full Load throughput](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-dms-serverless-oracle-redshift-full-load-throughput/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
