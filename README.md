@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now supports Apple Messages for Business](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-apple-messages-business)
 - [AWS Supply Chain Lead Time Insights enhances the support for data variability](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-supply-chain-lead-time-insights-enhanced-support-data-variability)
 - [AWS Marketplace announces amendments for AMI annual agreements](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-marketplace-amendments-ami-annual-agreements)
 - [Amazon QuickSight launches multi column sorting for Tables](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-quicksight-multi-column-sorting-tables)
 - [Real-time audio and Microsoft Server 2022 support are now available on Amazon AppStream 2.0 multi-session fleets](https://aws.amazon.com/about-aws/whats-new/2024/05/real-time-audio-microsoft-server-2022-support-amazon-appstream-2-0-multi-session-fleets)
-- [Amazon Cognito user pools now support the ability to customize access tokens](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-cognito-user-pools-customize-access-tokens/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
