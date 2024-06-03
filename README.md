@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Elastic Beanstalk now supports .NET 8 on AL2023](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-elastic-beanstalk-dot-net-8-al2023)
+- [AWS CloudFormation Hooks is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-cloudformation-hooks-aws-govcloud-us-regions/)
 - [AWS Transfer Family increases message size and throughput limits for AS2](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-transfer-family-increases-message-size-as2/)
 - [Announcing preview of the AWS SDK for SAP ABAP - BTP edition](https://aws.amazon.com/about-aws/whats-new/2024/05/preview-aws-sdk-sap-abap-btp-edition)
 - [Amazon Connect now supports Apple Messages for Business](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-apple-messages-business)
-- [AWS Supply Chain Lead Time Insights enhances the support for data variability](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-supply-chain-lead-time-insights-enhanced-support-data-variability)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
