@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora MySQL 3.07 &lpar;compatible with MySQL 8.0.36&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-aurora-mysql-3-07-generally-available)
 - [Amazon EC2 C6id instances are now available in Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-instances-canada-central-region/)
+- [AWS HealthImaging now publishes events to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-healthimaging-publishes-events-eventbridge)
 - [Introducing Amazon EMR Serverless Streaming jobs for continuous processing on streaming data](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-emr-serverless-streaming-jobs-continuous-processing)
 - [Amazon API Gateway integration timeout limit increase beyond 29 seconds](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-api-gateway-integration-timeout-limit-29-seconds)
-- [Amazon Timestream for LiveAnalytics now an Amazon EventBridge Pipes target](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-timestream-liveanalytics-eventbridge-pipes-target)
-- [Amazon Q offers inline completions in the command line](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-q-inline-completions-command-line)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
