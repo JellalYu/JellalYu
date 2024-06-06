@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Model Registry now supports machine learning &lpar;ML&rpar; governance information](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-model-registry-machine-learning-governance/)
+- [AWS IoT Device Management adds a unified connectivity metrics monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-iot-device-management-unified-metrics-monitoring-dashboard/)
+- [Amazon EC2 instance type finder capability is generally available in AWS Console](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-instance-type-finder-capability-aws-console/)
 - [Amazon OpenSearch Serverless slashes entry cost in half for all collection types](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-serverless-entry-cost-half-collection-types)
 - [Amazon Connect now provides time zone support for forecasts](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-connect-time-zone-support-forecasts)
-- [Amazon Aurora MySQL 3.07 &lpar;compatible with MySQL 8.0.36&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-aurora-mysql-3-07-generally-available)
-- [Amazon EC2 C6id instances are now available in Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-instances-canada-central-region/)
-- [AWS HealthImaging now publishes events to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-healthimaging-publishes-events-eventbridge)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
