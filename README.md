@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Ingestion now supports ingesting streaming data from Amazon MSK Serverless](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-ingestion-streaming-data-msk-serverless)
+- [Amazon EC2 instance type finder capability is generally available in AWS Console](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-instance-type-finder-capability-aws-console/)
 - [Amazon SageMaker Model Registry now supports machine learning &lpar;ML&rpar; governance information](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-model-registry-machine-learning-governance/)
 - [AWS IoT Device Management adds a unified connectivity metrics monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-iot-device-management-unified-metrics-monitoring-dashboard/)
-- [Amazon EC2 instance type finder capability is generally available in AWS Console](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-instance-type-finder-capability-aws-console/)
 - [Amazon CodeCatalyst now supports GitHub Cloud source code with blueprints](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-codecatalyst-github-cloud-source-code-blueprints)
-- [Amazon OpenSearch Serverless slashes entry cost in half for all collection types](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-serverless-entry-cost-half-collection-types)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
