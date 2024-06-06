@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Inspector container image scanning is now available for Amazon CodeCatalyst and GitHub actions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-inspector-container-image-scanning-codecatalyst-github-actions)
+- [Announcing the common control library in AWS Audit Manager](https://aws.amazon.com/about-aws/whats-new/2024/06/announcing-common-control-library-aws-audit-manager)
+- [AWS launches Tax Settings API to programmatically manage tax registration information](https://aws.amazon.com/about-aws/whats-new/2024/06/tax-settings-api-manage-tax-registration-information)
 - [Amazon OpenSearch Ingestion now supports ingesting streaming data from Amazon MSK Serverless](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-ingestion-streaming-data-msk-serverless)
 - [Amazon EC2 instance type finder capability is generally available in AWS Console](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-instance-type-finder-capability-aws-console/)
-- [Amazon SageMaker Model Registry now supports machine learning &lpar;ML&rpar; governance information](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-model-registry-machine-learning-governance/)
-- [AWS IoT Device Management adds a unified connectivity metrics monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-iot-device-management-unified-metrics-monitoring-dashboard/)
-- [Amazon CodeCatalyst now supports GitHub Cloud source code with blueprints](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-codecatalyst-github-cloud-source-code-blueprints)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
