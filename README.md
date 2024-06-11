@@ -51,7 +51,7 @@
 - [Amazon CloudWatch Application Signals, for application monitoring &lpar;APM&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-cloudwatch-application-signals-application-monitoring/)
 - [Amazon Security Lake is now available in the the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-security-lake-aws-govcloud-us-regions/)
 - [Amazon RDS for PostgreSQL announces Extended Support minor 11.22-RDS.20240509](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-postgresql-minor-11-22/)
-- [Amazon CloudWatch announces AI-Powered natural language query generation](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-cloudwatch-ai-powered-language-query-generation/)
+- [AWS CloudFormation accelerates dev-test cycle with adjustable timeouts for custom resources](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-cloudformation-dev-test-cycle-timeouts-custom-resources/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
