@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon RDS for SQL Server Supports Minor Version 2022 CU13](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-sql-server-minor-version-2022-cu13/)
 - [Productionize Foundation Models from SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2024/06/productionize-foundation-models-sagemaker-canvas)
-- [Amazon SES now provides custom values in the Feedback-ID header](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ses-custom-values-feedback-header/)
 - [AWS CloudTrail Lake announces AI-powered natural language query generation &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-cloudtrail-lake-ai-powered-query-generation-preview/)
 - [Amazon Connect now provides color coding for shift activities in agent scheduling](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-connect-color-coding-shift-activities-agent-scheduling)
+- [Amazon SES now provides custom values in the Feedback-ID header](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ses-custom-values-feedback-header/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
