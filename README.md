@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon SES now provides custom values in the Feedback-ID header](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ses-custom-values-feedback-header/)
 - [AWS CloudTrail Lake announces AI-powered natural language query generation &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-cloudtrail-lake-ai-powered-query-generation-preview/)
 - [Amazon Connect now provides color coding for shift activities in agent scheduling](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-connect-color-coding-shift-activities-agent-scheduling)
+- [Amazon SES now provides custom values in the Feedback-ID header](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ses-custom-values-feedback-header/)
 - [AWS Audit Manager generative AI best practices framework now includes Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-audit-manager-generative-ai-best-practices-framework-sagemaker)
-- [AWS Cloud WAN introduces Service Insertion to simplify security inspection at global scale](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-cloud-wan-service-insertion)
+- [AWS IAM Access Analyzer now offers policy checks for public and critical resource access](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-iam-access-analyzer-policy-checks)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
