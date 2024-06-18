@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon RDS for SQL Server Supports Minor Version 2022 CU13](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-sql-server-minor-version-2022-cu13/)
-- [Productionize Foundation Models from SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2024/06/productionize-foundation-models-sagemaker-canvas)
-- [AWS CloudTrail Lake announces AI-powered natural language query generation &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-cloudtrail-lake-ai-powered-query-generation-preview/)
-- [Amazon Connect now provides color coding for shift activities in agent scheduling](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-connect-color-coding-shift-activities-agent-scheduling)
-- [Amazon SES now provides custom values in the Feedback-ID header](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ses-custom-values-feedback-header/)
+- [Amazon Connect Cases is now available in additional Asia Pacific regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-connect-cases-additional-asia-pacific-regions)
+- [Introducing Maven, Python, and NuGet support in Amazon CodeCatalyst package repositories](https://aws.amazon.com/about-aws/whats-new/2024/06/maven-python-nuget-support-amazon-codecatalyst-package-repositories)
+- [Amazon RDS for MariaDB supports minors 10.11.8, 10.6.18, 10.5.25, 10.4.34](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-mariadb-supports-new-minors/)
+- [AWS Systems Manager now supports additional Rocky, Oracle, and Alma Linux versions](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-systems-manager-rocky-oracle-alma-linux-versions/)
+- [AWS KMS now supports Elliptic Curve Diffie-Hellman &lpar;ECDH&rpar; key agreement](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-kms-elliptic-curve-diffie-hellman-ecdh-key-agreement/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
