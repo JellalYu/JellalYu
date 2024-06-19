@@ -51,7 +51,7 @@
 - [Amazon SageMaker now offers a fully managed MLflow Capability](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-mlflow-capability)
 - [Announcing support for Autodesk 3ds Max Usage-Based Licensing in AWS Deadline Cloud](https://aws.amazon.com/about-aws/whats-new/2024/06/autodesk-3ds-max-usage-licensing-deadline-cloud/)
 - [AWS Elemental MediaConnect adds source stream monitoring](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-elemental-mediaconnect-adds-source-streaming-monitoring/)
-- [Amazon Connect Cases is now available in additional Asia Pacific regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-connect-cases-additional-asia-pacific-regions)
+- [CodeCatalyst allows customers to use Amazon Q Developer to choose a blueprint](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-codecatalyst-amazon-q-blueprint/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
