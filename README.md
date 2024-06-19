@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [CodeCatalyst allows customers to use Amazon Q Developer to choose a blueprint](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-codecatalyst-amazon-q-blueprint/)
-- [AWS Glue Usage Profiles is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-glue-usage-profiles-now-generally-available)
-- [Amazon MWAA now supports Custom Web Server URLs](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-mwaa-custom-web-server-urls/)
-- [Announcing AWS Transfer Family workshop to build event-driven managed file transfer workflows](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-transfer-family-workshop-event-file-workflows/)
-- [Amazon EC2 D3 instances are now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-d3-instances-europe-paris-region/)
+- [AWS Glue adds additional 13 new transforms including flag duplicates](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-glue-additional-transforms)
+- [Amazon SageMaker now offers a fully managed MLflow Capability](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-mlflow-capability)
+- [Announcing support for Autodesk 3ds Max Usage-Based Licensing in AWS Deadline Cloud](https://aws.amazon.com/about-aws/whats-new/2024/06/autodesk-3ds-max-usage-licensing-deadline-cloud/)
+- [AWS Elemental MediaConnect adds source stream monitoring](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-elemental-mediaconnect-adds-source-streaming-monitoring/)
+- [Amazon Connect Cases is now available in additional Asia Pacific regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-connect-cases-additional-asia-pacific-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
