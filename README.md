@@ -51,7 +51,7 @@
 - [Record individual participants with Amazon IVS Real-Time Streaming](https://aws.amazon.com/about-aws/whats-new/2024/06/record-individual-participants-amazon-ivs-streaming/)
 - [Amazon Chime SDK meetings is now available in the Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-chime-sdk-meetings-cape-town)
 - [Anthropic&#39;s Claude 3.5 Sonnet model now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/06/anthropic-claude-3-5-sonnet-model-bedrock)
-- [Amazon OpenSearch Service now supports JSON Web Token &lpar;JWT&rpar; authentication and authorization](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-service-jwt-authentication-authorization)
+- [Amazon Bedrock now supports compressed embeddings from Cohere Embed](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-bedrock-compressed-embeddings-cohere-embed/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
