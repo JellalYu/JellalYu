@@ -51,7 +51,7 @@
 - [AWS Billing and Cost Management now provides Data Exports for Cost Optimization Hub](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-billing-cost-management-data-exports-cost-optimization-hub/)
 - [Amazon EC2 macOS AMIs are now available on AWS Systems Manager Parameter Store](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-macos-systems-manager-parameter-store/)
 - [Amazon SageMaker JumpStart now provides granular access control for foundation models](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-jumpstart-granular-control-foundation-models/)
-- [AWS Billing and Cost Management now provides Data Exports for FOCUS 1.0 &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-billing-cost-management-data-focus-1-0-preview/)
+- [AWS Lambda now supports IPv6 for outbound connections in VPC in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-lambda-ipv6-connections-vpc-govcloud-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
