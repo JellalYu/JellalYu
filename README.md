@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Billing and Cost Management now provides Data Exports for Cost Optimization Hub](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-billing-cost-management-data-exports-cost-optimization-hub/)
-- [Amazon SageMaker HyperPod now supports configurable cluster storage](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-hyperpod-configurable-cluster-storage)
+- [Amazon EC2 macOS AMIs are now available on AWS Systems Manager Parameter Store](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-macos-systems-manager-parameter-store/)
+- [AWS Billing and Cost Management now provides Data Exports for FOCUS 1.0 &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-billing-cost-management-data-focus-1-0-preview/)
+- [Amazon Redshift Query Editor V2 is now available in AWS Canada &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-redshift-query-editor-v2-calgary-region)
 - [Amazon Chime SDK meetings is now available in the Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-chime-sdk-meetings-cape-town)
-- [Record individual participants with Amazon IVS Real-Time Streaming](https://aws.amazon.com/about-aws/whats-new/2024/06/record-individual-participants-amazon-ivs-streaming/)
-- [Amazon RDS for SQL Server supports up to 64TiB and 256,000 IOPS with io2 Block Express volumes](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-sql-server-64tib-256000-iops-io2-block-express-volumes)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
