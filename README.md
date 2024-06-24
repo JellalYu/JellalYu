@@ -50,8 +50,8 @@
 - [Amazon Redshift Concurrency Scaling is now available in three additional regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-redshift-concurrency-scaling-additional-regions)
 - [Amazon RDS for MySQL supports new minor version 8.0.37](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-mysql-new-minor-version-8-0-37)
 - [Knowledge Bases for Amazon Bedrock now offers observability logs](https://aws.amazon.com/about-aws/whats-new/2024/06/knowledge-bases-amazon-bedrock-observability-logs/)
-- [Amazon S3 Replication Time Control is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-s3-replication-time-control-aws-govcloud-regions)
-- [Amazon EC2 macOS AMIs are now available on AWS Systems Manager Parameter Store](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-macos-systems-manager-parameter-store/)
+- [Amazon OpenSearch Serverless now available in Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-serverless-canada-central-region/)
+- [AWS B2B Data Interchange announces automated 999 acknowledgements for healthcare transactions](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-b2b-data-automated-acknowledgements-healthcare-transactions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
