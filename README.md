@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Ingestion adds supports to ingest streaming data from Confluent Cloud](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-ingestion-support-ingest-streaming-data-confluent-cloud)
 - [Amazon CloudWatch Logs now supports account level subscription filter in 4 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-cloudwatch-logs-subscription-filter-4-regions/)
 - [AWS CloudShell now supports Amazon Virtual Private Cloud &lpar;VPC&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-cloudshell-amazon-virtual-private-cloud/)
+- [Amazon Linux announces availability of AL2023.5 with new versions of PHP and Microsoft .NET](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-linux-al2023-5-versions-php-microsoft-net/)
 - [EventBridge Scheduler adds more universal targets including Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/06/eventbridge-scheduler-universal-targets-amazon-bedrock)
-- [AI21 Labs&#39; Jamba-Instruct model now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/06/ai21-labs-jamba-instruct-model-amazon-bedrock)
-- [Amazon CodeCatalyst now supports GitLab.com source code repositories](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-codecatalyst-gitlab-com-source-code-repositories)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
