@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DataZone introduces API-driven, OpenLineage-compatible data lineage visualization in preview](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-datazone-openlineage-compatible-data-lineage-visualization-preview)
+- [Amazon Managed Service for Apache Flink now supports Apache Flink 1.19](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-managed-service-apache-flink-1-19)
 - [Amazon IVS Real-Time Streaming now supports up to 25,000 viewers](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ivs-real-time-streaming-25000-viewers)
 - [AWS Blu Insights accelerates migrations with new AI capabilities](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-blu-insights-accelerates-migrations-ai-capabilities)
 - [Amazon EKS introduces cluster creation flexibility for networking add-ons](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-eks-cluster-creation-flexibility-networking-add-ons)
-- [PostgreSQL 17 Beta 2 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2024/06/postgresql-17-beta-2-rds-database-preview-environment/)
-- [Amazon RDS Multi-AZ deployment with two readable standbys now supports snapshot export to S3](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-multi-az-two-standbys-snapshot-export-s3/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
