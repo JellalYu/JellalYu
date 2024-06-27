@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS introduces cluster creation flexibility for networking add-ons](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-eks-cluster-creation-flexibility-networking-add-ons)
+- [AWS Blu Insights accelerates migrations with new AI capabilities](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-blu-insights-accelerates-migrations-ai-capabilities)
 - [Amazon Managed Service for Apache Flink introduces two new APIs to query operations on Flink applications](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-managed-service-apache-flink-new-apis-query-operations-applications)
 - [Amazon Managed Service for Apache Flink now supports system-rollback](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-managed-service-apache-flink-system-rollback)
 - [Amazon Route 53 Application Recovery Controller zonal autoshift available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-route-53-application-recovery-controller-zonal-autoshift-govcloud-regions)
-- [Amazon OpenSearch Ingestion adds supports to ingest streaming data from Confluent Cloud](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-ingestion-support-ingest-streaming-data-confluent-cloud)
-- [Amazon CloudWatch Logs now supports account level subscription filter in 4 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-cloudwatch-logs-subscription-filter-4-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
