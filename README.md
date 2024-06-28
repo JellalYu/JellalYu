@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Backup support for Amazon S3 is now available in AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-backup-amazon-s3-calgary-region)
-- [Amazon QuickSight simplifies building pixel-perfect reports with Repeating Sections](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-quicksight-building-pixel-perfect-reports-repeating-sections)
-- [Amazon DataZone introduces API-driven, OpenLineage-compatible data lineage visualization in preview](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-datazone-openlineage-compatible-data-lineage-visualization-preview)
-- [Amazon Managed Service for Apache Flink now supports Apache Flink 1.19](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-managed-service-apache-flink-1-19)
-- [Amazon IVS Real-Time Streaming now supports up to 25,000 viewers](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ivs-real-time-streaming-25000-viewers)
+- [Amazon EventBridge announces new console dashboard](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-eventbridge-console-dashboard)
+- [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Hong Kong&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-high-memory-instances-hong-kong-region)
+- [AWS ParallelCluster 3.10 with support for Amazon Linux 2023 and Terraform](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-parallelcluster-3-10-amazon-linux-2023-terraform)
+- [Amazon Q in Connect now recommends step-by-step guides](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-q-connect-step-by-step-guides)
+- [Amazon SageMaker now supports SageMaker Studio Personalization](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-sagemaker-studio-personalization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
