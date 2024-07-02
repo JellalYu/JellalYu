@@ -50,8 +50,8 @@
 - [AWS Private CA is now available in the Beijing and Ningxia Regions in China](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-private-ca-beijing-ningxia-regions)
 - [AWS Managed Services &lpar;AMS&rpar; Accelerate now includes Trusted Remediator](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-managed-services-accelerate-trusted-remediator/)
 - [RDS for Db2 now supports Private Offers on licensing through AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/07/rds-db2-private-offers-licensing-aws-marketplace/)
+- [Amazon EKS natively supports EC2 capacity blocks for ML](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-eks-natively-ec2-capacity-blocks-for-ml/)
 - [AWS Direct Connect announces native 400 Gbps Dedicated Connections at select locations](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-direct-connect-native-400-gbps-dedicated-connections-select-locations)
-- [Amazon OpenSearch Ingestion adds support for ingesting data from self-managed sources](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-opensearch-ingesting-data-self-managed-sources)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
