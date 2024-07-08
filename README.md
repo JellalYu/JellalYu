@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [FreeRTOS releases new  Long Term Support version](https://aws.amazon.com/about-aws/whats-new/2024/07/freertos-long-term-support-version)
 - [Migration Acceleration Program &lpar;MAP&rpar; visualizations available in AWS Partner Central- Analytics and Insights Dashboard](https://aws.amazon.com/about-aws/whats-new/2024/07/map-visualizations-aws-partner-central-analytics-insights-dashboard)
 - [Amazon EMR support for backup and restore for Apache HBase Tables available in Asia Pacific &lpar;Seoul&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-emr-backup-restore-apache-hbase-tables-seoul/)
 - [Amazon Connect  launches automated rotation of agent shifts](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-automated-rotation-agent-shifts)
 - [Amazon ECR adds EventBridge support with ECR’s replication feature](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecr-eventbridge-ecrs-replication-feature/)
-- [Amazon SNS now supports sending SMS from Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-sns-sending-sms-calgary)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
