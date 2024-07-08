@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect  launches automated rotation of agent shifts](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-automated-rotation-agent-shifts)
+- [Amazon ECR adds EventBridge support with ECR’s replication feature](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecr-eventbridge-ecrs-replication-feature/)
+- [Amazon SNS now supports sending SMS from Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-sns-sending-sms-calgary)
 - [Amazon RDS Snapshot Export to S3 now available in eight additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-snapshot-export-s3-additional-aws-regions)
 - [AWS Lambda introduces new controls to make it easier to search, filter, and aggregate Lambda function logs](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-search-filter-aggregate-function-logs)
-- [Amazon Q Developer is now generally available &lpar;GA&rpar; in the Visual Studio IDE](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-developer-ga-visual-studio-ide)
-- [AWS Lambda adds support for runtime management controls in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-runtime-management-controls-govcloud-regions)
-- [Amazon DataZone introduces fine-grained access control](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-datazone-fine-grained-access-control/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
