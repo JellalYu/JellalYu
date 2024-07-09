@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MWAA now supports Apache Airflow version 2.9](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-mwaa-apache-airflow-version-2-9)
 - [Amazon EC2 R8g instances powered by AWS Graviton4 now generally available](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-r8g-instances-aws-graviton4-generally-available)
 - [Amazon OpenSearch Service announces Natural Language Query Generation for log analysis](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-opensearch-service-natural-language-query-generation)
 - [AWS Partner Central now supports multi-factor authentication](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-partner-central-multi-factor-authentication)
 - [Simplified service terms for AWS Marketplace sellers](https://aws.amazon.com/about-aws/whats-new/2024/07/simplified-service-terms-aws-marketplace-sellers)
-- [Amazon Q Business now provides responses that are personalized to users](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-business-responses-personalized-users)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
