@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Simplified service terms for AWS Marketplace sellers](https://aws.amazon.com/about-aws/whats-new/2024/07/simplified-service-terms-aws-marketplace-sellers)
 - [Amazon Q Business now provides responses that are personalized to users](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-business-responses-personalized-users)
 - [Amazon EventBridge Schema Registry now supports AWS PrivateLink VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-eventbridge-schema-registry-privatelink-vpc-endpoints)
 - [Amazon FSx for OpenZFS introduces a highly available Single-AZ deployment option](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-openzfs-single-az-deployment-option)
 - [Amazon OpenSearch Serverless expands support for time-series workloads up to 30TB](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-opensearch-serverless-time-series-workloads-30tb)
-- [Amazon CloudFront announces managed cache policies for web applications](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-cloudfront-managed-cache-policies-web-applications)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
