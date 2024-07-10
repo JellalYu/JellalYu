@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Guardrails for Amazon Bedrock can now detect hallucinations &amp; safeguard apps using any FM](https://aws.amazon.com/about-aws/whats-new/2024/07/guardrails-bedrock-hallucinations-safeguard-apps-fm)
+- [AWS Backup now supports Amazon Elastic Block Store &lpar;EBS&rpar; Snapshots Archive in backup policies](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-backup-ebs-snapshots-archive-backup-policies)
 - [Amazon Q Developer is now available in SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-developer-sagemaker-studio)
+- [Amazon Cognito is now available in Asia Pacific &lpar;Hong Kong&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-cognito-asia-pacific-hong-kong-region/)
 - [Customize Amazon Q Developer code recommendations, and receive chat responses in the IDE &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/customize-amazon-q-developer-code-recommendations-receive-chat-responses-ide-preview)
-- [Agents for Amazon Bedrock now retain memory &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/agents-amazon-bedrock-retain-memory-preview)
-- [Agents for Amazon Bedrock now support code interpretation &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/agents-amazon-bedrock-code-interpretation-preview)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
