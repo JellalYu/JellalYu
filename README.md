@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MWAA now available in nine additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-mwaa-additional-regions)
 - [AWS License Manager now integrates with Red Hat Subscription Manager](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-license-manager-integrates-red-hat-subscription-manager/)
 - [Amazon QuickSight launches a 20x higher limit for SPICE JOIN](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-quicksight-20x-higher-limit-spice-join)
 - [Guardrails for Amazon Bedrock can now detect hallucinations &amp; safeguard apps using any FM](https://aws.amazon.com/about-aws/whats-new/2024/07/guardrails-bedrock-hallucinations-safeguard-apps-fm)
 - [AWS Backup now supports Amazon Elastic Block Store &lpar;EBS&rpar; Snapshots Archive in backup policies](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-backup-ebs-snapshots-archive-backup-policies)
-- [Amazon Q Developer is now available in SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-developer-sagemaker-studio)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
