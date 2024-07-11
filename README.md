@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon MWAA now available in nine additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-mwaa-additional-regions)
-- [AWS License Manager now integrates with Red Hat Subscription Manager](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-license-manager-integrates-red-hat-subscription-manager/)
-- [Amazon QuickSight launches a 20x higher limit for SPICE JOIN](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-quicksight-20x-higher-limit-spice-join)
-- [Guardrails for Amazon Bedrock can now detect hallucinations &amp; safeguard apps using any FM](https://aws.amazon.com/about-aws/whats-new/2024/07/guardrails-bedrock-hallucinations-safeguard-apps-fm)
-- [AWS Backup now supports Amazon Elastic Block Store &lpar;EBS&rpar; Snapshots Archive in backup policies](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-backup-ebs-snapshots-archive-backup-policies)
+- [AWS Secrets Manager announces open source release of Secrets Manager Agent](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-secrets-manager-open-source-secrets-manager-agent)
+- [Amazon ECS now enforces software version consistency for containerized applications](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecs-software-version-consistency-containerized-applications)
+- [Amazon RDS for SQL Server supports minor version 2019 CU27](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-sql-server-minor-version-2019-cu27)
+- [Chatting about your AWS resources is now generally available for Amazon Q Developer](https://aws.amazon.com/about-aws/whats-new/2024/07/chatting-aws-resources-generally-available-amazon-q-developer)
+- [Announcing availability of AWS Outposts in Senegal](https://aws.amazon.com/about-aws/whats-new/2024/07/availability-aws-outposts-senegal)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
