@@ -50,8 +50,8 @@
 - [AWS Secrets Manager announces open source release of Secrets Manager Agent](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-secrets-manager-open-source-secrets-manager-agent)
 - [Amazon ECS now enforces software version consistency for containerized applications](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecs-software-version-consistency-containerized-applications)
 - [Amazon RDS for SQL Server supports minor version 2019 CU27](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-sql-server-minor-version-2019-cu27)
-- [Chatting about your AWS resources is now generally available for Amazon Q Developer](https://aws.amazon.com/about-aws/whats-new/2024/07/chatting-aws-resources-generally-available-amazon-q-developer)
 - [Announcing availability of AWS Outposts in Senegal](https://aws.amazon.com/about-aws/whats-new/2024/07/availability-aws-outposts-senegal)
+- [Chatting about your AWS resources is now generally available for Amazon Q Developer](https://aws.amazon.com/about-aws/whats-new/2024/07/chatting-aws-resources-generally-available-amazon-q-developer)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
