@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Identity and Access Management simplifies management of OpenID Connect identity providers](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-identity-access-management-open-id-connect-identity-providers)
+- [Amazon Q introduces support for scanned PDFs and embedded images in PDF documents](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-scanned-pdfs-embedded-images-documents/)
 - [Announcing IDE workspace context awareness in Q Developer chat](https://aws.amazon.com/about-aws/whats-new/2024/07/ide-workspace-context-awareness-q-developer-chat)
 - [AWS Secrets Manager announces open source release of Secrets Manager Agent](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-secrets-manager-open-source-secrets-manager-agent)
 - [Amazon ECS now enforces software version consistency for containerized applications](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecs-software-version-consistency-containerized-applications)
-- [Amazon RDS for SQL Server supports minor version 2019 CU27](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-sql-server-minor-version-2019-cu27)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
