@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C7i-flex instances are now available in Asia Pacific &lpar;Sydney&rpar; and Asia Pacific &lpar;Tokyo&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-c7i-flex-instances-sydney-tokyo-regions)
+- [Amazon RDS for SQL Server supports password policies for SQL Server logins](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-sql-server-password-policies-logins)
 - [AWS Lambda now supports SnapStart for Java functions that use the ARM64 architecture](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-snapstart-java-functions-arm64-architecture)
 - [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-high-memory-instances-jakarta-region)
 - [New open-source Advanced MYSQL ODBC Driver  now available for Amazon Aurora and RDS](https://aws.amazon.com/about-aws/whats-new/2024/07/open-source-advanced-mysql-odbc-driver-aurora-rds/)
-- [AWS Private CA now supports ARM architecture in Kubernetes](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-private-ca-arm-architecture-kubernetes/)
-- [AWS Control Tower customization frameworks are available in opt-in regions](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-control-tower-customization-frameworks-opt-in-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
