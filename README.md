@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New open-source Advanced MYSQL ODBC Driver  now available for Amazon Aurora and RDS](https://aws.amazon.com/about-aws/whats-new/2024/07/open-source-advanced-mysql-odbc-driver-aurora-rds/)
+- [AWS Network Firewall is now available in the AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-network-firewall-calgary-region)
 - [Announcing expanded DICOMweb retrievals with AWS HealthImaging](https://aws.amazon.com/about-aws/whats-new/2024/07/expanded-dicomweb-retrievals-aws-healthimaging)
 - [Announcing the July 2024 updates to Amazon Corretto](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-corretto-july-2024-quarterly-updates/)
 - [AWS Artifact now supports enhanced search capability for reports](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-artifact-enhanced-search-reports/)
-- [Amazon QuickSight improves controls performance](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-quicksight-controls-performance)
-- [AWS Cloud Control API now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-cloud-control-api-ipv6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
