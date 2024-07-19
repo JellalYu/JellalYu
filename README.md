@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Productionize Fine-tuned Foundation Models from SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2024/07/productionize-fine-tuned-foundation-models-sagemaker-canvas)
+- [Amazon Connect launches search API for hierarchy groups](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-search-api-hierarchy-groups)
+- [Amazon Connect launches search API for agent status](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-search-apis-agent-status)
 - [Simplify Your AWS Marketplace Catalog API &lpar;CAPI&rpar; Integration with Strongly-Typed API Schemas](https://aws.amazon.com/about-aws/whats-new/2024/07/marketplace-catalog-integration-typed-api-schemas/)
 - [Amazon CloudWatch Logs Infrequent Access log class available in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-cloudwatch-logs-infrequent-class-govcloud/)
-- [Amazon EC2 C7i-flex instances are now available in Asia Pacific &lpar;Sydney&rpar; and Asia Pacific &lpar;Tokyo&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-c7i-flex-instances-sydney-tokyo-regions)
-- [Amazon RDS for SQL Server supports password policies for SQL Server logins](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-sql-server-password-policies-logins)
-- [AWS Lambda now supports SnapStart for Java functions that use the ARM64 architecture](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-snapstart-java-functions-arm64-architecture)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
