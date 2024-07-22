@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS KMS increases default service quotas for cryptographic operations](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-kms-increases-default-service-quotas-cryptographic-operations)
+- [Amazon Connect Contact Lens now provides generative AI-powered summaries within seconds after a contact ends](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-contact-lens-ai-powered-summaries/)
 - [Productionize Fine-tuned Foundation Models from SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2024/07/productionize-fine-tuned-foundation-models-sagemaker-canvas)
 - [Amazon Connect launches search API for hierarchy groups](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-search-api-hierarchy-groups)
 - [Amazon Connect launches search API for agent status](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-search-apis-agent-status)
-- [Simplify Your AWS Marketplace Catalog API &lpar;CAPI&rpar; Integration with Strongly-Typed API Schemas](https://aws.amazon.com/about-aws/whats-new/2024/07/marketplace-catalog-integration-typed-api-schemas/)
-- [Amazon CloudWatch Logs Infrequent Access log class available in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-cloudwatch-logs-infrequent-class-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
