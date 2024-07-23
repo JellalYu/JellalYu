@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Meta Llama 3.1 generative AI models now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2024/07/meta-llama-3-1-generative-ai-models-amazon-sagemaker-jumpstart)
+- [AWS AppConfig announces feature flag targets, variants, and splits](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-appconfig-feature-flag-targets-variants-splits)
+- [Amazon ECS now supports Amazon Linux 2023 and more for on-premises container workloads](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecs-linux-2023-on-premises-container-workloads/)
 - [AWS Mainframe Modernization Code Conversion with mLogica is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-mainframe-modernization-code-conversion-mlogica-generally-available)
 - [Meta Llama 3.1 generative AI models now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/07/meta-llama-3-1-generative-ai-models-amazon-bedrock)
-- [Amazon Connect Contact Lens launches a new dashboard for outbound campaign analytics](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-contact-lens-dashboard-outbound-campaign-analytics)
-- [Amazon DocumentDB now supports change streams on reader instances](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-documentdb-change-streams-reader-instances/)
-- [Amazon DocumentDB announces improvements to document compression](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-documentdb-improvements-document-compression/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
