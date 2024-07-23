@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Mainframe Modernization Code Conversion with mLogica is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-mainframe-modernization-code-conversion-mlogica-generally-available)
+- [Meta Llama 3.1 generative AI models now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/07/meta-llama-3-1-generative-ai-models-amazon-bedrock)
 - [Amazon Connect Contact Lens launches a new dashboard for outbound campaign analytics](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-contact-lens-dashboard-outbound-campaign-analytics)
 - [Amazon DocumentDB now supports change streams on reader instances](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-documentdb-change-streams-reader-instances/)
 - [Amazon DocumentDB announces improvements to document compression](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-documentdb-improvements-document-compression/)
-- [Amazon Connect Contact Lens now provides generative AI-powered summaries within seconds after a contact ends](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-contact-lens-ai-powered-summaries/)
-- [Amazon RDS now supports M6i, R6i, M6g, R6g, and T4g database instances in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-m6i-r6i-m6g-r6g-t4g-instances-israel/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
