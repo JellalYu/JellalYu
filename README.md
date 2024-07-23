@@ -50,8 +50,8 @@
 - [Meta Llama 3.1 generative AI models now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2024/07/meta-llama-3-1-generative-ai-models-amazon-sagemaker-jumpstart)
 - [AWS AppConfig announces feature flag targets, variants, and splits](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-appconfig-feature-flag-targets-variants-splits)
 - [Amazon ECS now supports Amazon Linux 2023 and more for on-premises container workloads](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecs-linux-2023-on-premises-container-workloads/)
-- [AWS Mainframe Modernization Code Conversion with mLogica is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-mainframe-modernization-code-conversion-mlogica-generally-available)
 - [Meta Llama 3.1 generative AI models now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/07/meta-llama-3-1-generative-ai-models-amazon-bedrock)
+- [AWS Mainframe Modernization Code Conversion with mLogica is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-mainframe-modernization-code-conversion-mlogica-generally-available)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
