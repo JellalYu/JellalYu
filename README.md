@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Signer open sources Notation plugin for container image signing](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-signer-open-sources-notation-plugin-container-image-signing)
 - [AWS Cost Categories now supports “Billing Entity” dimension](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-cost-categories-billing-entity-dimension)
 - [Meta Llama 3.1 generative AI models now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2024/07/meta-llama-3-1-generative-ai-models-amazon-sagemaker-jumpstart)
 - [AWS AppConfig announces feature flag targets, variants, and splits](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-appconfig-feature-flag-targets-variants-splits)
 - [Amazon ECS now supports Amazon Linux 2023 and more for on-premises container workloads](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecs-linux-2023-on-premises-container-workloads/)
-- [Meta Llama 3.1 generative AI models now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/07/meta-llama-3-1-generative-ai-models-amazon-bedrock)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
