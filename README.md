@@ -47,8 +47,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Signer open sources Notation plugin for container image signing](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-signer-open-sources-notation-plugin-container-image-signing)
 - [Mistral Large 2 foundation model now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/07/mistral-large-2-foundation-model-amazon-bedrock/)
+- [AWS Signer open sources Notation plugin for container image signing](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-signer-open-sources-notation-plugin-container-image-signing)
 - [AWS DataSync expands support for agentless cross-region data transfers to include opt-in regions](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-datasync-agentless-data-transfers-opt-in-regions/)
 - [AWS Cost Categories now supports “Billing Entity” dimension](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-cost-categories-billing-entity-dimension)
 - [Meta Llama 3.1 generative AI models now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2024/07/meta-llama-3-1-generative-ai-models-amazon-sagemaker-jumpstart)
