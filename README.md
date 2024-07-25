@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [CloudWatch RUM PutRumEvents API now supports data event logging in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2024/07/cloudwatch-rum-putrumevents-api-data-event-logging-aws-cloudtrail)
-- [AWS Clean Rooms launches new capabilities for entity resolution, ML modeling, privacy, and analysis controls](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-clean-rooms-capabilities-entity-resolution-ml-modeling-privacy-analysis-controls)
-- [Announcing 24 months support for Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2024/07/24-month-support-amazon-emr)
-- [Amazon EC2 D3en instances are now available in Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-d3en-instances-asia-jakarta-region/)
-- [Mistral Large 2 foundation model now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/07/mistral-large-2-foundation-model-amazon-bedrock/)
+- [AWS IAM Identity Center is now available in the Canada West &lpar;Calgary&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-iam-identity-center-calgary-region)
+- [Amazon SageMaker launches faster auto-scaling for Generative AI models](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-sagemaker-faster-auto-scaling-generative-ai-models)
+- [Amazon GameLift now supports AWS Nigeria Local Zone](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-gamelift-aws-nigeria-local-zone)
+- [AWS HealthImaging announces enhanced copy and update capabilities](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-healthimaging-enhanced-copy-update-capabilities)
+- [Amazon ECR repository creation templates are now generally available](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecr-repository-creation-templates-generally-available)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
