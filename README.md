@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS launches a self-guided journey for AWS Partners enrolled on the Services Path](https://aws.amazon.com/about-aws/whats-new/2024/07/self-guided-journey-aws-partners-services-path)
 - [AWS IAM Identity Center is now available in the Canada West &lpar;Calgary&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-iam-identity-center-calgary-region)
 - [Amazon SageMaker launches faster auto-scaling for Generative AI models](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-sagemaker-faster-auto-scaling-generative-ai-models)
 - [Amazon GameLift now supports AWS Nigeria Local Zone](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-gamelift-aws-nigeria-local-zone)
 - [AWS HealthImaging announces enhanced copy and update capabilities](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-healthimaging-enhanced-copy-update-capabilities)
-- [Amazon ECR repository creation templates are now generally available](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecr-repository-creation-templates-generally-available)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
