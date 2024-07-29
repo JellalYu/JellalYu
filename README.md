@@ -51,7 +51,7 @@
 - [AWS Elemental MediaLive now supports SRT caller input](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-elemental-medialive-srt-caller-input/)
 - [Amazon Q Business launches support for cross-region AWS IAM Identity Center access](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-business-cross-region-aws-iam-identity-center-access)
 - [Introducing AWS End User Messaging](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-end-user-messaging)
-- [Meta Llama 3.1 405B now generally available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/07/meta-llama-3-1-405b-generally-available-amazon-bedrock)
+- [Build your event-driven application using AWS CloudFormation Git sync status changes](https://aws.amazon.com/about-aws/whats-new/2024/07/build-event-driven-application-aws-cloudformation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
