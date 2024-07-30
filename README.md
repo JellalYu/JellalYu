@@ -50,8 +50,8 @@
 - [AWS Graviton-based EC2 instances now support hibernation](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-graviton-based-ec2-instances-hibernation)
 - [AWS Elastic Disaster Recovery now supports Flexible Instance Types launch setting](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-elastic-disaster-recovery-flexible-instance-types-launch-setting)
 - [AWS IoT SiteWise Edge on Siemens Industrial Edge is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-iot-sitewise-edge-siemens-industrial-edge/)
+- [Amazon AppStream 2.0 introduces Red Hat Enterprise Linux Application and Desktop streaming](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-appstream-red-hat-linux-desktop-streaming/)
 - [Create an AWS Account using your bank account available in Germany](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-account-using-bank-account-germany)
-- [Amazon Connect now supports Inbound DID calling in Vietnam](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-inbound-did-calling-vietnam)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
