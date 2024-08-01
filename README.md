@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Migration Service supports New Relic post-launch action](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-application-migration-service-relic-post-launch/)
+- [Amazon Bedrock achieves FedRAMP High authorization](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-bedrock-achieves-fedramp-high-authorization)
+- [Amazon DynamoDB Accelerator &lpar;DAX&rpar; is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-dax-additional-aws-regions)
 - [Announcing fine-grained access control via AWS Lake Formation with EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2024/07/fine-grained-access-control-aws-lake-formation-emr-serverless)
 - [Amazon Connect now enables agents to view pre-approved windows when scheduling time off](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-agents-pre-approved-time-off/)
-- [AWS Graviton-based EC2 instances now support hibernation](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-graviton-based-ec2-instances-hibernation)
-- [AWS Elastic Disaster Recovery now supports Flexible Instance Types launch setting](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-elastic-disaster-recovery-flexible-instance-types-launch-setting)
-- [AWS IoT SiteWise Edge on Siemens Industrial Edge is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-iot-sitewise-edge-siemens-industrial-edge/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
