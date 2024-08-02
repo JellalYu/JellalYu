@@ -51,7 +51,7 @@
 - [New Amazon CloudWatch dimensions for Amazon EC2 On Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-cloudwatch-dimensions-ec2-on-demand-capacity-reservations)
 - [AWS CodePipeline introduces stage level conditions to implement pipeline gates](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codepipeline-stage-level-conditions-implement-pipeline-gates)
 - [Amazon RDS for SQL Server supports integration of transaction log backup with DMS](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-sql-server-integration-transaction-log-backup-with-dms)
-- [Amazon Redshift releases drivers for supporting single sign-on with AWS IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-drivers-sign-on-iam-identity-center/)
+- [Llama 3 is now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/llama-3-aws-govcloud-us-west-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
