@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing purchase order support for AWS Data Exchange private offers](https://aws.amazon.com/about-aws/whats-new/2024/08/purchase-order-aws-data-exchange-private-offers)
+- [AWS Database Migration Service &lpar;DMS&rpar; expands DMS homogeneous data migrations feature to 29 AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-dms-homogeneous-data-migrations-feature-29-regions)
+- [Amazon Connect launches the ability to configure when whisper flows are used](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-configure-whisper-flows)
 - [AWS Systems Manager launches API support for Quick Setup](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-systems-manager-api-support-quick-setup)
 - [New Amazon CloudWatch dimensions for Amazon EC2 On Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-cloudwatch-dimensions-ec2-on-demand-capacity-reservations)
-- [AWS CodePipeline introduces stage level conditions to implement pipeline gates](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codepipeline-stage-level-conditions-implement-pipeline-gates)
-- [Amazon RDS for SQL Server supports integration of transaction log backup with DMS](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-sql-server-integration-transaction-log-backup-with-dms)
-- [Amazon Redshift releases drivers for supporting single sign-on with AWS IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-drivers-sign-on-iam-identity-center/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
