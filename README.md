@@ -51,7 +51,7 @@
 - [Elastic Load Balancing Trust Store now supports cross-account sharing using AWS Resource Access Manager](https://aws.amazon.com/about-aws/whats-new/2024/08/elastic-load-balancing-trust-store-cross-account-sharing-aws-resource-access-manager)
 - [Amazon Connect now supports audio optimization for Amazon WorkSpaces cloud desktops](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-audio-optimization-workspaces-desktops/)
 - [Amazon Verified Permissions improves support for OIDC identity providers](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-verified-permissions-oidc-identity-providers/)
-- [AWS Resilience Hub introduces improved resource grouping capabilities](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-resilience-hub-improved-resource-grouping-capabilities)
+- [AWS CodeBuild now supports three new Arm-based compute types](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-three-arm-based-compute-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
