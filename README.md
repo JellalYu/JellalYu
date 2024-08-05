@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports July 2024 Release Update](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-oracle-july-2024-release-update/)
 - [Amazon DataZone achieves PCI DSS Certification](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-datazone-achieves-pci-dss-certification)
 - [AWS Payment Cryptography is now available in four new regions across Europe and Asia](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-payment-cryptography-new-regions-europe-asia)
 - [AWS Database Migration Service &lpar;DMS&rpar; expands DMS homogeneous data migrations feature to 29 AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-dms-homogeneous-data-migrations-feature-29-regions)
 - [Amazon EBS Fast Snapshot Restore &lpar;FSR&rpar; is now available in six additional regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ebs-fast-snapshot-restore-six-additional-regions/)
-- [Announcing purchase order support for AWS Data Exchange private offers](https://aws.amazon.com/about-aws/whats-new/2024/08/purchase-order-aws-data-exchange-private-offers)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
