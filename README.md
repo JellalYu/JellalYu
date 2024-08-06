@@ -51,7 +51,7 @@
 - [Amazon EC2 High Memory instances now available in Europe &lpar;Frankfurt&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-high-memory-instances-europe-frankfurt-region/)
 - [Large language models powered by Amazon Sagemaker Jumpstart available in Redshift ML](https://aws.amazon.com/about-aws/whats-new/2024/08/large-language-models-sagemaker-jumpstart-redshift-ml/)
 - [Simplified Migration Acceleration Program for VMware funding experience in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/08/migration-acceleration-vmware-funding-partner-central/)
-- [New version of Amazon ECR basic scanning is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/08/new-version-amazon-ecr-basic-scanning/)
+- [Introducing Titan Image Generator v2 now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/08/titan-image-generator-v2-amazon-bedrock/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
