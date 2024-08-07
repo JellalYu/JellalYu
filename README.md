@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing delegated administrator for Cost Optimization Hub](https://aws.amazon.com/about-aws/whats-new/2024/08/delegated-administrator-cost-optimization-hub)
-- [Amazon EFS now supports up to 30 GiB/s &lpar;a 50% increase&rpar; of read throughput](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-efs-30-gibs-read-throughput)
-- [Amazon EC2 High Memory instances now available in Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-high-memory-instances-paris-region)
+- [Announcing the general availability of AWS Backup logically air-gapped vault](https://aws.amazon.com/about-aws/whats-new/2024/08/general-availability-aws-backup-logically-air-gapped-vault)
 - [Claude 3.5 Sonnet and Claude 3 Haiku now available in more regions](https://aws.amazon.com/about-aws/whats-new/2024/08/claude-3-5-sonnet-haiku-more-regions)
-- [Announcing G4dn WorkSpaces Personal bundles with WSP for Windows](https://aws.amazon.com/about-aws/whats-new/2024/08/g4dn-workspaces-personal-bundles-wsp-windows)
+- [Announcing delegated administrator for Cost Optimization Hub](https://aws.amazon.com/about-aws/whats-new/2024/08/delegated-administrator-cost-optimization-hub)
+- [Amazon EC2 High Memory instances now available in Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-high-memory-instances-paris-region)
+- [Amazon EFS now supports up to 30 GiB/s &lpar;a 50% increase&rpar; of read throughput](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-efs-30-gibs-read-throughput)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
