@@ -50,8 +50,8 @@
 - [AWS Glue announces GA of new ML-powered Glue Data Quality capability](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-glue-ml-powered-glue-data-quality-capability/)
 - [Amazon EMR 7.2 now supports Apache Spark 3.5.1](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-emr-7-2-apache-spark-3-5-1/)
 - [Amazon RDS for PostgreSQL supports minor versions 16.4, 15.8, 14.13, 13.16, and 12.20](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-for-postgresql-supports-minor-versions/)
+- [AWS Snowball Edge Storage Optimized 210TB device offers lower capacity pricing option](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-snowball-edge-storage-optimized-210tb-device--lower-capacity-pricing-option)
 - [Amazon CloudWatch Application Signals now supports Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-cloudwatch-application-signals-bedrock)
-- [Announcing the general availability of AWS Backup logically air-gapped vault](https://aws.amazon.com/about-aws/whats-new/2024/08/general-availability-aws-backup-logically-air-gapped-vault)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
