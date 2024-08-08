@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue announces GA of new ML-powered Glue Data Quality capability](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-glue-ml-powered-glue-data-quality-capability/)
+- [Amazon EMR 7.2 now supports Apache Spark 3.5.1](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-emr-7-2-apache-spark-3-5-1/)
+- [Amazon RDS for PostgreSQL supports minor versions 16.4, 15.8, 14.13, 13.16, and 12.20](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-for-postgresql-supports-minor-versions/)
 - [Amazon CloudWatch Application Signals now supports Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-cloudwatch-application-signals-bedrock)
 - [Announcing the general availability of AWS Backup logically air-gapped vault](https://aws.amazon.com/about-aws/whats-new/2024/08/general-availability-aws-backup-logically-air-gapped-vault)
-- [Amazon RDS for Oracle supports memory optimized R6i instance types in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-oracle-optimized-r6i-instance-types-govcloud/)
-- [Claude 3.5 Sonnet and Claude 3 Haiku now available in more regions](https://aws.amazon.com/about-aws/whats-new/2024/08/claude-3-5-sonnet-haiku-more-regions)
-- [Announcing delegated administrator for Cost Optimization Hub](https://aws.amazon.com/about-aws/whats-new/2024/08/delegated-administrator-cost-optimization-hub)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
