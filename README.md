@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Db2 supports loading data from Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-db2-loading-data-s3)
+- [PostgreSQL 17 Beta 3 is now available in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2024/08/postgresql-17-beta-3-rds-database-preview-environment/)
 - [AWS Glue announces GA of new ML-powered Glue Data Quality capability](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-glue-ml-powered-glue-data-quality-capability/)
-- [Amazon EMR 7.2 now supports Apache Spark 3.5.1](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-emr-7-2-apache-spark-3-5-1/)
-- [Amazon RDS for PostgreSQL supports minor versions 16.4, 15.8, 14.13, 13.16, and 12.20](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-for-postgresql-supports-minor-versions/)
 - [AWS Snowball Edge Storage Optimized 210TB device offers lower capacity pricing option](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-snowball-edge-storage-optimized-210tb-device--lower-capacity-pricing-option)
-- [Amazon CloudWatch Application Signals now supports Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-cloudwatch-application-signals-bedrock)
+- [Amazon EMR 7.2 now supports Apache Spark 3.5.1](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-emr-7-2-apache-spark-3-5-1/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
