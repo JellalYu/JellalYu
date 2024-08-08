@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces private IPv6 addressing for VPCs and subnets](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-private-ipv6-addressing-vpcs-subnets)
+- [Amazon WorkSpaces Thin Client now supports Amazon WorkSpaces Pools](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-workspaces-thin-client-pools)
 - [Amazon RDS for Db2 supports loading data from Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-db2-loading-data-s3)
 - [PostgreSQL 17 Beta 3 is now available in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2024/08/postgresql-17-beta-3-rds-database-preview-environment/)
 - [AWS Glue announces GA of new ML-powered Glue Data Quality capability](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-glue-ml-powered-glue-data-quality-capability/)
-- [AWS Snowball Edge Storage Optimized 210TB device offers lower capacity pricing option](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-snowball-edge-storage-optimized-210tb-device--lower-capacity-pricing-option)
-- [Amazon EMR 7.2 now supports Apache Spark 3.5.1](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-emr-7-2-apache-spark-3-5-1/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
