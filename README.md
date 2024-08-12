@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Contact Lens generative AI-powered agent performance evaluations &lpar;preview&rpar; now available in 6 new regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-contact-lens-generative-ai-powered-agent-performance-evaluations-preview-new-regions)
 - [AWS announces expanded service support in the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2024/08/expanded-service-support-aws-console-mobile-app)
+- [Amazon RDS for MySQL supports new minor version 8.0.39](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-mysql-new-minor-version-8-0-39/)
+- [Amazon RDS for SQL Server supports minor versions 2016 GDR, 2017 CU31 GDR, 2019 GDR, 2022 GDR](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-sql-server-minor-versions-gdr/)
 - [AWS Config expands support for 124 resource types across 29 AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-config-124-resource-types-29aws-regions)
-- [Amazon DocumentDB achieves FedRAMP High approval in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-documentdb-fedramp-high-approval-govcloud/)
-- [Amazon Connect now provides an API to update routing criteria on a queued contact](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-api-routing-criteria-queued-contact/)
-- [Amazon Cognito enhances Advanced Security Features &lpar;ASF&rpar; to detect additional risks and to cover custom authentication flows](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-cognito-asf-additional-risks-cover-custom-authentication-flows)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
