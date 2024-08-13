@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DataZone launches domain units and authorization policies](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-datazone-launches-domain-units-authorization-policies)
+- [Announcing Amazon S3 Express One Zone storage class support on Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-s3-express-one-zone-storage-class-emr)
 - [AWS Batch adds support for cancelling queued jobs](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-batch-cancelling-queued-jobs)
 - [AWS announces support for Cost Allocation Tags on AWS Transit Gateway](https://aws.amazon.com/about-aws/whats-new/2024/08/cost-allocation-tags-aws-transit-gateway)
 - [Amazon Connect Contact Lens generative AI-powered agent performance evaluations &lpar;preview&rpar; now available in 6 new regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-contact-lens-generative-ai-powered-agent-performance-evaluations-preview-new-regions)
-- [Amazon CloudWatch Internet Monitor enhances dashboard and traffic suggestions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-cloudwatch-internet-monitor-dashboard-traffic/)
-- [AWS Wickr is now available in the Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-wickr-europe-zurich-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
