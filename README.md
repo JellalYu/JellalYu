@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS introduces EKS Pod Identity in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-eks-pod-identity-aws-govcloud-us-regions)
+- [Announcing Karpenter 1.0](https://aws.amazon.com/about-aws/whats-new/2024/08/karpenter-1-0)
 - [Amazon Redshift Query Editor V2 now supports query import](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-query-editor-v2-query-import)
 - [New capabilities for Amazon EC2 On-Demand Capacity Reservations: Split, Move, and Modify additional attributes](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-on-demand-capacity-reservations-attributes/)
 - [AWS HealthOmics now supports DSL and Nextflow version detection](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-healthomics-dsl-nextflow-version-detection)
-- [Amazon DataZone launches domain units and authorization policies](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-datazone-launches-domain-units-authorization-policies)
-- [Announcing a larger Windows instance bundle for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2024/08/larger-windows-instance-bundle-amazon-lightsail/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
