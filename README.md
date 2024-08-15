@@ -50,8 +50,8 @@
 - [Amazon EKS introduces EKS Pod Identity in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-eks-pod-identity-aws-govcloud-us-regions)
 - [Announcing Karpenter 1.0](https://aws.amazon.com/about-aws/whats-new/2024/08/karpenter-1-0)
 - [Amazon Redshift Query Editor V2 now supports query import](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-query-editor-v2-query-import)
+- [Amazon Q in QuickSight is now available in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-q-quicksight-additional-regions)
 - [New capabilities for Amazon EC2 On-Demand Capacity Reservations: Split, Move, and Modify additional attributes](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-on-demand-capacity-reservations-attributes/)
-- [AWS HealthOmics now supports DSL and Nextflow version detection](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-healthomics-dsl-nextflow-version-detection)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
