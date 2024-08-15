@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS CloudFormation Git sync now supports pull request workflows to review your stack changes](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-cloudformation-git-sync-pull-request-workflows)
+- [Amazon VPC Lattice is now available in 7 additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-vpc-lattice-additional-regions)
+- [Announcing AWS Support Official channel on AWS re:Post](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-support-official-channel-re-post)
+- [Digital twin is now generally available for AWS Ground Station](https://aws.amazon.com/about-aws/whats-new/2024/08/digital-twin-available-aws-ground-station/)
 - [AWS CodeBuild now supports using GitHub Apps to access source repositories](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-github-apps-access-source-repositories)
 - [AWS Control Tower launches landing zone version selection](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-control-tower-landing-zone-version-selection)
-- [AWS CodeBuild now supports multiple access tokens via AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-multiple-access-tokens-secrets-manager/)
-- [Amazon ECS provides the ability to restart containers without requiring a task relaunch](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ecs-restart-containers-task-relaunch/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
