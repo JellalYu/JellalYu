@@ -51,7 +51,7 @@
 - [AWS CodeBuild now supports using GitHub Apps to access source repositories](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-github-apps-access-source-repositories)
 - [AWS Control Tower launches landing zone version selection](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-control-tower-landing-zone-version-selection)
 - [AWS CodeBuild now supports multiple access tokens via AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-multiple-access-tokens-secrets-manager/)
-- [Amazon EKS introduces EKS Pod Identity in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-eks-pod-identity-aws-govcloud-us-regions)
+- [Amazon ECS provides the ability to restart containers without requiring a task relaunch](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ecs-restart-containers-task-relaunch/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
