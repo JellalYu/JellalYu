@@ -51,7 +51,7 @@
 - [Announcing AWS Support Official channel on AWS re:Post](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-support-official-channel-re-post)
 - [Digital twin is now generally available for AWS Ground Station](https://aws.amazon.com/about-aws/whats-new/2024/08/digital-twin-available-aws-ground-station/)
 - [Announcing general availability of Amazon EC2 G6e instances](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-g6e-instances/)
-- [AWS CodeBuild now supports using GitHub Apps to access source repositories](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-github-apps-access-source-repositories)
+- [AWS Control Tower launches landing zone version selection](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-control-tower-landing-zone-version-selection)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
