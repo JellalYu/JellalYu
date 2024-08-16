@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Second-generation Amazon FSx for NetApp ONTAP now available in 2 additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/second-generation-amazon-fsx-netapp-ontap-additional-regions)
+- [Amazon Neptune now introduces support for PropertyGraphStore in Neptune to build more reliable GraphRAG applications](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-neptune-propertygraphstore-graphrag-applications)
 - [Blueprints simplify agent-based automation on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/08/blueprints-agent-based-automation-amazon-bedrock/)
 - [SageMaker Canvas unlocks no-code ML and data preparation at petabyte-scale](https://aws.amazon.com/about-aws/whats-new/2024/08/sagemaker-canvas-no-code-ml-data-petabyte-scale/)
 - [Amazon VPC Lattice is now available in 7 additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-vpc-lattice-additional-regions)
-- [Announcing AWS Support Official channel on AWS re:Post](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-support-official-channel-re-post)
-- [Announcing general availability of Amazon EC2 G6e instances](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-g6e-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
