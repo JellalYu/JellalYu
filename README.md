@@ -50,8 +50,8 @@
 - [AWS CodeBuild now supports Mac builds](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-mac-builds)
 - [Amazon S3 no longer charges for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-s3-no-charges-several-http-error-codes)
 - [Introducing browser-based SSH/RDP support for IPv6-only instances bundles on Lightsail](https://aws.amazon.com/about-aws/whats-new/2024/08/browser-based-ssh-rdp-ipv6-only-instances-bundles-lightsail)
-- [Amazon EMR support prioritized and capacity-optimized-prioritized allocation strategies for EC2 instances](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-emr-capacity-prioritized-allocation-strategies-ec2/)
 - [Amazon SageMaker Pipelines now provides a drag-and-drop UI to easily create ML workflows](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-sagemaker-pipelines-drag-drop-ui-ml-workflows/)
+- [Amazon EMR support prioritized and capacity-optimized-prioritized allocation strategies for EC2 instances](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-emr-capacity-prioritized-allocation-strategies-ec2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
