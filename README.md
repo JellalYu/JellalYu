@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup adds cross-Region, cross-account copy for SAP HANA on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-backup-cross-region-cross-account-copy-sap-hana-ec2)
 - [Amazon EventBridge Scheduler now provides higher default service quotas](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-eventbridge-scheduler-higher-quotas/)
 - [Amazon S3 adds additional context to HTTP 403 Access Denied error messages](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-s3-http-403-access-denied-error-messages/)
 - [AWS CloudHSM launches new hsm2m.medium instance type](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-cloudhsm-hsm2m-medium-instance-type)
 - [Amazon SageMaker Canvas now supports data flows import, and faster data prep for ML](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-sagemaker-canvas-data-flows-import-data-prep-ml)
-- [AWS Lambda now supports function-level configuration for recursive loop detection](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-lambda-supports-function-level-configuration-recursive-loop-detection)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
