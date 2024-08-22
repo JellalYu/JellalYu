@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Lambda announces support for encryption of filter criteria for event source mappings](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-lambda-encryption-filter-criteria-event-source-mappings)
-- [AWS Backup adds cross-Region, cross-account copy for SAP HANA on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-backup-cross-region-cross-account-copy-sap-hana-ec2)
-- [Amazon EventBridge Scheduler now provides higher default service quotas](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-eventbridge-scheduler-higher-quotas/)
-- [Amazon Bedrock offers select FMs for batch inference at 50% of on-demand inference price](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-bedrock-fms-batch-inference-50-price/)
-- [AWS announces new AWS Direct Connect location and expansion in Kuala Lumpur, Malaysia](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-direct-connect-location-expansion-malaysia/)
+- [CloudFormation simplifies resource discovery and template review in the IaC Generator](https://aws.amazon.com/about-aws/whats-new/2024/08/cloudformation-resource-discovery-template-review-iac-generator)
+- [Amazon Q now provides more details about user subscriptions and associated resources](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-q-details-user-subscription-associated-resources)
+- [Amazon DocumentDB &lpar;with MongoDB Compatibility&rpar; Global Clusters introduces Failover](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-documentdb-mongodb-compatibility-global-clusters-failover)
+- [AWS Amplify introduces multiple bucket support for Storage](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-amplify-multiple-bucket-storage)
+- [Amazon DocumentDB &lpar;with MongoDB Compatibility&rpar; Global Clusters introduces Switchover](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-document-mongodb-compatibility-global-clusters-switchover)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
