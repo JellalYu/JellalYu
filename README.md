@@ -50,8 +50,8 @@
 - [AWS Lambda announces support for encryption of filter criteria for event source mappings](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-lambda-encryption-filter-criteria-event-source-mappings)
 - [AWS Backup adds cross-Region, cross-account copy for SAP HANA on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-backup-cross-region-cross-account-copy-sap-hana-ec2)
 - [Amazon EventBridge Scheduler now provides higher default service quotas](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-eventbridge-scheduler-higher-quotas/)
-- [Amazon S3 adds additional context to HTTP 403 Access Denied error messages](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-s3-http-403-access-denied-error-messages/)
 - [Amazon Bedrock offers select FMs for batch inference at 50% of on-demand inference price](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-bedrock-fms-batch-inference-50-price/)
+- [AWS announces new AWS Direct Connect location and expansion in Kuala Lumpur, Malaysia](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-direct-connect-location-expansion-malaysia/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
