@@ -51,7 +51,7 @@
 - [Amazon Q now provides more details about user subscriptions and associated resources](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-q-details-user-subscription-associated-resources)
 - [Amazon DocumentDB &lpar;with MongoDB Compatibility&rpar; Global Clusters introduces Failover](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-documentdb-mongodb-compatibility-global-clusters-failover)
 - [AWS Amplify introduces multiple bucket support for Storage](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-amplify-multiple-bucket-storage)
-- [Amazon DocumentDB &lpar;with MongoDB Compatibility&rpar; Global Clusters introduces Switchover](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-document-mongodb-compatibility-global-clusters-switchover)
+- [Amazon Connect Contact Lens now provides an audit trail for changes to an agent performance evaluation](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-contact-lens-audit-trail-agent-evaluation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
