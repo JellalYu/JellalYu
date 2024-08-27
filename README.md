@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 status checks now support reachability health of attached EBS volumes](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-status-checks-reachability-health-ebs-volume)
+- [Polly Voices for two new locales: Czechia and Switzerland](https://aws.amazon.com/about-aws/whats-new/2024/08/polly-voices-new-locales)
 - [Amazon EC2 C6gd and R6gd instances are now available in AWS Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-c6gd-r6gd-instances-available-spain)
 - [Amazon RDS for PostgreSQL announces Extended Support minor 11.22-RDS.20240808](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-postgresql-minor-11-22-rds-20240808/)
-- [AWS announces support for Microsoft Entra ID and Microsoft Intune on Amazon WorkSpaces Personal](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-microsoft-entra-id-intune-amazon-workspaces-personal)
-- [Amazon Q Business launches IAM federation for user identity authentication](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-q-business-iam-user-authentication/)
-- [Amazon Braket adds support for Rigetti&#39;s 84-Qubit Ankaa™-2 system, our largest gate-based superconducting device](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-braket-rigettis-84-qubit-ankaa-2-system)
+- [Amazon Bedrock now supports cross-region inference](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-bedrock-cross-region-inference/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
