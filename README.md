@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS Parallel Computing Service](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-parallel-computing-service)
+- [Amazon Location Service announces Migration SDK](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-location-service-migration-sdk/)
 - [Amazon OpenSearch Serverless now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-opensearch-serverless-aws-govcloud-us-west-region)
 - [Amazon EC2 status checks now support reachability health of attached EBS volumes](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-status-checks-reachability-health-ebs-volume)
 - [Polly Voices for two new locales: Czechia and Switzerland](https://aws.amazon.com/about-aws/whats-new/2024/08/polly-voices-new-locales)
-- [Amazon EC2 C6gd and R6gd instances are now available in AWS Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-c6gd-r6gd-instances-available-spain)
-- [Amazon RDS for PostgreSQL announces Extended Support minor 11.22-RDS.20240808](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-postgresql-minor-11-22-rds-20240808/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
