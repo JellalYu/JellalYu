@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Firewall introduces GeoIP Filtering to inspect traffic based on geographic location](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-network-firewall-geoip-filtering)
 - [Announcing AWS Parallel Computing Service](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-parallel-computing-service)
 - [Amazon Location Service announces Migration SDK](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-location-service-migration-sdk/)
 - [Amazon OpenSearch Serverless now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-opensearch-serverless-aws-govcloud-us-west-region)
 - [Amazon EC2 status checks now support reachability health of attached EBS volumes](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-status-checks-reachability-health-ebs-volume)
-- [Polly Voices for two new locales: Czechia and Switzerland](https://aws.amazon.com/about-aws/whats-new/2024/08/polly-voices-new-locales)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
