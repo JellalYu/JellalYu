@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift Serverless is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-serverless-jakarta-region/)
+- [AWS Global Accelerator launches new edge location in Cairo, Egypt](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-global-accelerator-edge-cairo-egypt/)
 - [AWS Network Firewall introduces GeoIP Filtering to inspect traffic based on geographic location](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-network-firewall-geoip-filtering)
 - [Announcing AWS Parallel Computing Service](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-parallel-computing-service)
 - [Amazon Location Service announces Migration SDK](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-location-service-migration-sdk/)
-- [Amazon OpenSearch Serverless now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-opensearch-serverless-aws-govcloud-us-west-region)
-- [AWS announces Amazon-provided contiguous IPv4 blocks](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-provided-contiguous-ipv4-blocks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
