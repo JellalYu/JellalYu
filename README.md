@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Deadline Cloud now supports Windows Server 2022 in service-managed fleets](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-deadline-cloud-windows-server-2022-service-managed-fleets)
 - [Announcing Validation API for AWS Step Functions](https://aws.amazon.com/about-aws/whats-new/2024/08/validation-api-step-functions)
 - [AWS AppConfig now provides deletion protection for additional guardrails](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-appconfig-deletion-protection-additional-guardrails)
 - [Amazon OpenSearch Service now supports Graviton3 &lpar;C7g, M7g, R7g, R7gd&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-opensearch-service-graviton3-c7g-m7g-r7g-r7gd-instances)
 - [Amazon Redshift Serverless is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-serverless-jakarta-region/)
-- [Amazon SageMaker Projects now allows you to reuse names of previously deleted Projects](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-sagemaker-projects-names-deleted-projects/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
