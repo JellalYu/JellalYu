@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service now supports Graviton3 &lpar;C7g, M7g, R7g, R7gd&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-opensearch-service-graviton3-c7g-m7g-r7g-r7gd-instances)
 - [Amazon Redshift Serverless is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-serverless-jakarta-region/)
+- [Amazon SageMaker Projects now allows you to reuse names of previously deleted Projects](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-sagemaker-projects-names-deleted-projects/)
 - [AWS Global Accelerator launches new edge location in Cairo, Egypt](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-global-accelerator-edge-cairo-egypt/)
-- [AWS Network Firewall introduces GeoIP Filtering to inspect traffic based on geographic location](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-network-firewall-geoip-filtering)
-- [Announcing AWS Parallel Computing Service](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-parallel-computing-service)
-- [Amazon Location Service announces Migration SDK](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-location-service-migration-sdk/)
+- [Amazon Bedrock Knowledge Bases now supports Llama 3.1 405B, 70B, and 8B](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-bedrock-knowledge-bases-llama-models/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
