@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Organizational Units in AWS Control Tower can now contain up to 1,000 accounts](https://aws.amazon.com/about-aws/whats-new/2024/08/organizational-units-aws-control-tower-1000-accounts)
 - [Amazon Redshift Serverless now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-serverless-aws-privatelink)
 - [AWS IoT SiteWise models now support versioning](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-iot-sitewise-models-support-versioning)
 - [AWS Security Hub launches 8 new security controls](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-security-hub-8-new-security-controls/)
 - [AWS Config conformance packs now available in 12 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-config-conformance-packs-additional-regions)
-- [Amazon EMR Managed Scaling is now Application Master placement aware](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-emr-managed-scaling-application-master-placement-aware)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
