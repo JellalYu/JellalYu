@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DynamoDB announces support for Attribute-Based Access Control](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-dynamodb-attribute-based-access-control)
 - [AWS announces session reuse with Amazon Redshift Data API](https://aws.amazon.com/about-aws/whats-new/2024/09/session-reuse-amazon-redshift-data-api)
 - [Amazon Connect now provides a weekly view of agent schedules](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-weekly-view-agent-schedules/)
-- [AI recommendations for descriptions in Amazon DataZone expanded to more regions](https://aws.amazon.com/about-aws/whats-new/2024/09/ai-descriptions-amazon-datazone-more-regions/)
 - [Amazon Connect Contact Lens can now generate transcriptions in 10 new languages](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-contact-lens-transcriptions-10-languages/)
-- [Organizational Units in AWS Control Tower can now contain up to 1,000 accounts](https://aws.amazon.com/about-aws/whats-new/2024/08/organizational-units-aws-control-tower-1000-accounts)
+- [AI recommendations for descriptions in Amazon DataZone expanded to more regions](https://aws.amazon.com/about-aws/whats-new/2024/09/ai-descriptions-amazon-datazone-more-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
