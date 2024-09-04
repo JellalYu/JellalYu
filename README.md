@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Timestream for InfluxDB now supports enhanced managed features](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-timestream-influxdb-enhanced-managed-features/)
+- [AWS AppSync enhances API monitoring with new DEBUG and INFO logging levels](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-appsync-api-monitoring-debug-info-logging-levels)
+- [Use Apache Spark on Amazon EMR Serverless directly from Amazon Sagemaker Studio](https://aws.amazon.com/about-aws/whats-new/2024/09/apache-spark-amazon-emr-serverless-sagemaker-studio)
 - [Stability AI’s Top 3 Text-to-Image Models Now Available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/09/stability-ais-text-to-image-models-amazon-bedrock)
+- [Amazon Timestream for InfluxDB now supports enhanced management features](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-timestream-influxdb-enhanced-managed-features/)
 - [AWS Fault Injection Service introduces additional safety control](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-fault-injection-service-additional-safety-control)
-- [AWS Glue now provides job queuing](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-glue-job-queuing)
-- [Amazon EBS direct APIs now supports IPv6 in AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ebs-direct-apis-ipv6-aws-privatelink)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
