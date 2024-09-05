@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Access Grants introduce the ListCallerAccessGrants API](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-s3-access-grants-listcalleraccessgrants-api)
+- [Amazon WorkSpaces Pools now allows you to bring your Windows 10 or 11 licenses](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-workspaces-pools-windows-10-11-licenses)
 - [Amazon Connect Contact Lens now supports new ways to automate agent performance evaluations](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-contact-lens-automate-agent-performance-evaluations)
 - [Amazon EC2 R7i instances are now available in additional AWS region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-r7i-instances-additional-aws-region)
 - [Amazon Managed Service for Apache Flink now supports Apache Flink 1.20](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-managed-service-apache-flink-1-20/)
-- [AWS Gateway Load Balancer now supports configurable TCP idle timeout](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-gateway-load-balancer-tcp-idle-timeout/)
-- [Amazon RDS for Oracle now supports OEM and OLS options with Multitenant configuration](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-oracle-oem-ols-options-multitenant-configuration)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
