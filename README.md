@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Gateway Load Balancer now supports configurable TCP idle timeout](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-gateway-load-balancer-tcp-idle-timeout/)
+- [Amazon RDS for Oracle now supports OEM and OLS options with Multitenant configuration](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-oracle-oem-ols-options-multitenant-configuration)
 - [Bedrock Agents on Sonnet 3.5](https://aws.amazon.com/about-aws/whats-new/2024/09/bedrock-agents-sonnet-3-5)
 - [AWS AppSync enhances API monitoring with new DEBUG and INFO logging levels](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-appsync-api-monitoring-debug-info-logging-levels)
 - [Use Apache Spark on Amazon EMR Serverless directly from Amazon Sagemaker Studio](https://aws.amazon.com/about-aws/whats-new/2024/09/apache-spark-amazon-emr-serverless-sagemaker-studio)
-- [Amazon SES announces enhanced onboarding with adaptive setup wizard and Virtual Deliverability Manager](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ses-onboarding-setup-wizard-virtual-manager/)
-- [Stability AI’s Top 3 Text-to-Image Models Now Available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/09/stability-ais-text-to-image-models-amazon-bedrock)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
