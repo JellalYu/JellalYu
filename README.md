@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon RDS for Oracle now supports OEM and OLS options with Multitenant configuration](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-oracle-oem-ols-options-multitenant-configuration)
+- [Amazon EC2 R7i instances are now available in additional AWS region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-r7i-instances-additional-aws-region)
+- [Amazon Managed Service for Apache Flink now supports Apache Flink 1.20](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-managed-service-apache-flink-1-20/)
 - [AWS Gateway Load Balancer now supports configurable TCP idle timeout](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-gateway-load-balancer-tcp-idle-timeout/)
+- [Amazon RDS for Oracle now supports OEM and OLS options with Multitenant configuration](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-oracle-oem-ols-options-multitenant-configuration)
 - [Bedrock Agents on Sonnet 3.5](https://aws.amazon.com/about-aws/whats-new/2024/09/bedrock-agents-sonnet-3-5)
-- [AWS AppSync enhances API monitoring with new DEBUG and INFO logging levels](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-appsync-api-monitoring-debug-info-logging-levels)
-- [Use Apache Spark on Amazon EMR Serverless directly from Amazon Sagemaker Studio](https://aws.amazon.com/about-aws/whats-new/2024/09/apache-spark-amazon-emr-serverless-sagemaker-studio)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
