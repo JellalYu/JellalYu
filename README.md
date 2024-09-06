@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon RDS Custom for SQL Server is now available in 3 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-custom-sql-server-additional-aws-regions)
 - [PostgreSQL 17 RC1 is now available in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2024/09/postgresql-17-rc1-amazon-rds-database-preview-environment)
-- [Amazon RDS for MariaDB supports minors 10.11.9, 10.6.19, 10.5.26](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-mariadb-minors-10/)
-- [Amazon Timestream for InfluxDB is now available in the Canada, London and Paris AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-timestream-influxdb-canada-london-paris-regions/)
 - [Amazon ECS now supports AWS Graviton-based Spot compute with AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ecs-graviton-based-spot-compute-fargate/)
+- [Amazon Timestream for InfluxDB is now available in the Canada, London and Paris AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-timestream-influxdb-canada-london-paris-regions/)
+- [Amazon RDS for MariaDB supports minors 10.11.9, 10.6.19, 10.5.26](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-mariadb-minors-10/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
