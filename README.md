@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Elastic Beanstalk adds support for IPv6 inbound traffic to service endpoints](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elastic-beanstalk-ipv6-inbound-traffic-service-endpoints)
+- [Secondary sensor support for AWS IoT SiteWise Edge through CloudRail](https://aws.amazon.com/about-aws/whats-new/2024/09/secondary-sensor-aws-iot-sitewise-edge-cloudrail)
 - [AWS Elemental MediaConnect adds support for input thumbnail images](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elemental-mediaconnect-input-thumbnail-images/)
 - [AWS Resource Access Manager now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-resource-access-manager-privatelink)
 - [Amazon Kinesis Data Streams now supports FIPS 140-3 enabled interface VPC endpoint](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-kinesis-data-streams-fips-140-3-interface-vpc-endpoint)
-- [Amazon RDS Custom for SQL Server is now available in 3 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-custom-sql-server-additional-aws-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
