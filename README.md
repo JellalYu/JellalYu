@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elastic Beanstalk adds support for IPv6 inbound traffic to service endpoints](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elastic-beanstalk-ipv6-inbound-traffic-service-endpoints)
+- [AWS Elemental MediaConnect adds support for input thumbnail images](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elemental-mediaconnect-input-thumbnail-images/)
+- [AWS Resource Access Manager now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-resource-access-manager-privatelink)
 - [Amazon Kinesis Data Streams now supports FIPS 140-3 enabled interface VPC endpoint](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-kinesis-data-streams-fips-140-3-interface-vpc-endpoint)
 - [Amazon RDS Custom for SQL Server is now available in 3 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-custom-sql-server-additional-aws-regions)
-- [PostgreSQL 17 RC1 is now available in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2024/09/postgresql-17-rc1-amazon-rds-database-preview-environment)
-- [CloudWatch Application Signals now supports request based Service Level Objectives &lpar;SLOs&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/09/cloudwatch-application-signals-service-level-objectives/)
-- [Amazon ECS now supports AWS Graviton-based Spot compute with AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ecs-graviton-based-spot-compute-fargate/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
