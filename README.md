@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Elastic Beanstalk adds support for IPv6 inbound traffic to service endpoints](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elastic-beanstalk-ipv6-inbound-traffic-service-endpoints)
+- [Amazon Aurora now supports R7g Graviton3-based instance family in 15 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-aurora-r7g-graviton3-based-instance-family-additional-regions)
 - [Secondary sensor support for AWS IoT SiteWise Edge through CloudRail](https://aws.amazon.com/about-aws/whats-new/2024/09/secondary-sensor-aws-iot-sitewise-edge-cloudrail)
 - [Amazon IVS Real-Time Streaming now supports RTMP ingest](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ivs-real-time-streaming-rtmp-ingest/)
-- [AWS Elemental MediaConnect adds support for input thumbnail images](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elemental-mediaconnect-input-thumbnail-images/)
-- [AWS Resource Access Manager now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-resource-access-manager-privatelink)
+- [AWS IoT SiteWise Edge adds support for 100+ protocols through Litmus Edge](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-iot-sitewise-edge-100-protocols-litmus-edge/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
