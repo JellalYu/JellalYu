@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS support in Amazon SageMaker HyperPod to scale foundation model development](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-eks-sagemaker-hyperpod-scale-foundation-model-development)
+- [Container Insights now announces SageMaker HyperPod node health observability on EKS](https://aws.amazon.com/about-aws/whats-new/2024/09/container-insights-sagemaker-hyperpod-node-health/)
 - [Amazon MSK enhances cross-cluster replication with support for identical topic names](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-msk-cross-cluster-replication-identical-topic-names/)
 - [AWS Elastic Beanstalk adds support for IPv6 inbound traffic to service endpoints](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elastic-beanstalk-ipv6-inbound-traffic-service-endpoints)
 - [Amazon Aurora now supports R7g Graviton3-based instance family in 15 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-aurora-r7g-graviton3-based-instance-family-additional-regions)
-- [Secondary sensor support for AWS IoT SiteWise Edge through CloudRail](https://aws.amazon.com/about-aws/whats-new/2024/09/secondary-sensor-aws-iot-sitewise-edge-cloudrail)
-- [Amazon IVS Real-Time Streaming now supports RTMP ingest](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ivs-real-time-streaming-rtmp-ingest/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
