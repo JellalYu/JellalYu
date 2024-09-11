@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [AWS IAM Identity Center now supports language and visual mode preferences in the AWS access portal](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-iam-identity-center-language-visual-mode-preferences-access-portal)
 - [Amazon Redshift now supports altering sort keys on tables in zero-ETL integration](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-altering-sort-keys-tables-zero-etl-integration)
+- [Amazon EventBridge Pipes now supports customer managed KMS keys](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-eventbridge-pipes-customer-managed-keys/)
 - [Amazon EKS support in Amazon SageMaker HyperPod to scale foundation model development](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-eks-sagemaker-hyperpod-scale-foundation-model-development)
 - [Amazon EMR on EC2 improves cluster launch experience with intelligent subnet selection](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-emr-ec2-cluster-launch-intelligent-selection/)
-- [Container Insights now announces SageMaker HyperPod node health observability on EKS](https://aws.amazon.com/about-aws/whats-new/2024/09/container-insights-sagemaker-hyperpod-node-health/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
