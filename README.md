@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IAM Identity Center now supports language and visual mode preferences in the AWS access portal](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-iam-identity-center-language-visual-mode-preferences-access-portal)
+- [Amazon Redshift now supports altering sort keys on tables in zero-ETL integration](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-altering-sort-keys-tables-zero-etl-integration)
 - [Amazon EKS support in Amazon SageMaker HyperPod to scale foundation model development](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-eks-sagemaker-hyperpod-scale-foundation-model-development)
 - [Amazon EMR on EC2 improves cluster launch experience with intelligent subnet selection](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-emr-ec2-cluster-launch-intelligent-selection/)
 - [Container Insights now announces SageMaker HyperPod node health observability on EKS](https://aws.amazon.com/about-aws/whats-new/2024/09/container-insights-sagemaker-hyperpod-node-health/)
-- [Amazon MSK enhances cross-cluster replication with support for identical topic names](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-msk-cross-cluster-replication-identical-topic-names/)
-- [Amazon OpenSearch Service now supports OpenSearch version 2.15](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-opensearch-service-version-2-15/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
