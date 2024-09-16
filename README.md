@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS announces Amazon Aurora PostgreSQL Optimized Reads in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-aurora-postgresql-optimized-reads-govcloud/)
+- [AWS Private CA now supports SCEP for mobile devices](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-private-ca-scep-mobile-devices)
 - [Announcing general availability &lpar;GA&rpar; of Amazon Q generative SQL for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-q-generative-sql-amazon-redshift/)
+- [AWS announces Amazon Aurora PostgreSQL Optimized Reads in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-aurora-postgresql-optimized-reads-govcloud/)
 - [Amazon Redshift now supports enhanced VPC routing warehouses in zero-ETL integration](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-enhanced-vpc-routing-warehouses-zero-etl-integration)
 - [Amazon Connect expands AWS CloudFormation support for agent hierarchies](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-aws-cloudformation-agent-hierarchies)
-- [AWS WAF Bot Control Managed Rule Group expands bot detection capabilities](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-waf-bot-control-managed-group-rule-bot-detection-capabilities)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
