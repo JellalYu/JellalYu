@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Express One Zone now supports AWS-KMS with customer managed keys](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-s3-express-one-zone-aws-kms-customer-managed-keys)
 - [Announcing general availability of AWS SDK for Swift](https://aws.amazon.com/about-aws/whats-new/2024/09/general-availability-aws-sdk-swift)
 - [AWS Chatbot now allows you to interact with Amazon Bedrock agents from Microsoft Teams and Slack](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-chatbot-amazon-bedrock-agent-microsoft-teams-slack)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports add-column for multi-Region tables](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-keyspaces-apache-cassandra-column-multi-region-tables/)
 - [AWS Amplify now supports long-running tasks with asynchronous server-side function calls](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-amplify-long-running-tasks-asynchronous-function-calls/)
-- [AWS Transfer Family increases throughput and file sizes supported by SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-transfer-family-throughput-file-sizes-sftp-connectors)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
