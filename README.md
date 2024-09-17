@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Chatbot now allows you to interact with Amazon Bedrock agents from Microsoft Teams and Slack](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-chatbot-amazon-bedrock-agent-microsoft-teams-slack)
+- [AWS Amplify now supports long-running tasks with asynchronous server-side function calls](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-amplify-long-running-tasks-asynchronous-function-calls/)
+- [AWS Transfer Family increases throughput and file sizes supported by SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-transfer-family-throughput-file-sizes-sftp-connectors)
 - [AWS Private CA now supports SCEP for mobile devices](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-private-ca-scep-mobile-devices)
 - [Announcing general availability &lpar;GA&rpar; of Amazon Q generative SQL for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-q-generative-sql-amazon-redshift/)
-- [AWS announces Amazon Aurora PostgreSQL Optimized Reads in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-aurora-postgresql-optimized-reads-govcloud/)
-- [Amazon Redshift now supports enhanced VPC routing warehouses in zero-ETL integration](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-enhanced-vpc-routing-warehouses-zero-etl-integration)
-- [Amazon Connect expands AWS CloudFormation support for agent hierarchies](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-aws-cloudformation-agent-hierarchies)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
