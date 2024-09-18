@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB&lpar;with MongoDB compatibility&rpar; is now available in the Cape Town region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-documentdb-mongodb-compatibility-cape-town-region)
 - [Amazon MSK now extends support for Graviton3 based M7G instances in Europe &lpar;London&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-msk-graviton3-based-m7g-instances-london/)
 - [Amazon Corretto 23 is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-corretto-23-generally-available/)
 - [Amazon RDS for SQL Server Supports Minor Versions in September 2024](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-sql-server-minor-versions-september-2024/)
-- [AWS CodeBuild now supports managed GitLab runners](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-codebuild-managed-gitlab-runners)
-- [Amazon S3 Express One Zone now supports AWS-KMS with customer managed keys](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-s3-express-one-zone-aws-kms-customer-managed-keys)
+- [Amazon OpenSearch Service now supports i4g &amp; i4i instances](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-opensearch-service-i4g-i4i-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
