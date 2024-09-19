@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Synthetics now supports canary tag replication to associated AWS Lambda resource](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-cloudwatch-synthetics-canary-tag-replication-associated-aws-lambda-resource)
+- [Amazon EC2 High Memory instances now available in Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-high-memory-instances-africa-cape-town-region)
 - [Amazon RDS Performance Insights supports Aurora cluster-level configuration](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-performance-insights-supports-aurora-cluster-level-configuration)
 - [OR1 instances now available for existing Amazon OpenSearch Service domains](https://aws.amazon.com/about-aws/whats-new/2024/09/or1-instances-amazon-opensearch-service-domains)
 - [AWS IoT Device Management adds enhancements to Software Package Catalog and Jobs](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-iot-device-management-software-package-catalog-jobs)
-- [Amazon SES now offers automated complaint rate recommendations](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ses-automated-complaint-rate-recommendations)
-- [Amazon EC2 G6 instances now available in Spain region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-g6-instances-spain-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
