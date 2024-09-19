@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [OR1 instances now available for existing Amazon OpenSearch Service domains](https://aws.amazon.com/about-aws/whats-new/2024/09/or1-instances-amazon-opensearch-service-domains)
+- [AWS IoT Device Management adds enhancements to Software Package Catalog and Jobs](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-iot-device-management-software-package-catalog-jobs)
+- [Amazon SES now offers automated complaint rate recommendations](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ses-automated-complaint-rate-recommendations)
+- [Amazon EC2 G6 instances now available in Spain region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-g6-instances-spain-region)
 - [AWS Cost Management now provides purchase recommendations for Amazon DynamoDB reserved capacity](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-cost-management-purchase-recommendations-amazon-dynamodb-reserved-capacity)
-- [Introducing Amazon EC2 X8g Instances](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-x8g-instances)
-- [Amazon DocumentDB&lpar;with MongoDB compatibility&rpar; is now available in the Cape Town region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-documentdb-mongodb-compatibility-cape-town-region)
-- [Amazon MSK now extends support for Graviton3 based M7G instances in Europe &lpar;London&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-msk-graviton3-based-m7g-instances-london/)
-- [Amazon Corretto 23 is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-corretto-23-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
