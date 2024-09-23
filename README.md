@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing G4dn WorkSpaces Pools bundles with WSP for Windows](https://aws.amazon.com/about-aws/whats-new/2024/09/g4dn-workspaces-pools-bundles-wsp-windows)
 - [Jamba 1.5 family of models by AI21 Labs is now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/09/jamba-1-5-family-models-amazon-bedrock)
-- [Amazon Time Sync Service supports Microsecond-Accurate Time in Malaysia and Ohio Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-time-sync-service-microsecond-accurate-time-malaysia-ohio/)
 - [AWS Lambda adds support for Amazon Linux 2023 runtimes in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-lambda-linux-2023-runtimes-govcloud-regions/)
+- [Amazon Time Sync Service supports Microsecond-Accurate Time in Malaysia and Ohio Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-time-sync-service-microsecond-accurate-time-malaysia-ohio/)
 - [AWS Elemental MediaLive introduces bandwidth reduction filter](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elemental-medialive-bandwidth-reduction-filter/)
-- [Announcing Content Credentials for Amazon Titan Image Generator](https://aws.amazon.com/about-aws/whats-new/2024/09/content-credentials-amazon-titan-image-generator)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
