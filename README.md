@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Mainframe Modernization File Transfer adds binary transfer and better performance](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-mainframe-modernization-file-transfer-binary-transfer-performance)
-- [Amazon FSx for Lustre is now available in the AWS US East &lpar;Dallas&rpar; Local Zone](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-fsx-for-lustre-dallas-local-zone/)
-- [Announcing availability of AWS Outposts in Jordan](https://aws.amazon.com/about-aws/whats-new/2024/09/availability-aws-outposts-jordan)
-- [AWS Deadline Cloud launches additional sort fields for steps, tasks, and workers](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-deadline-cloud-sort-fields-steps-tasks-workers/)
-- [AWS CloudFormation Git sync now supports pull request workflows to review your stack changes](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-cloudformation-git-sync-supports-pull-request-workflows)
+- [Jamba 1.5 family of models by AI21 Labs is now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/09/jamba-1-5-family-models-amazon-bedrock)
+- [Amazon Time Sync Service supports Microsecond-Accurate Time in Malaysia and Ohio Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-time-sync-service-microsecond-accurate-time-malaysia-ohio/)
+- [AWS Lambda adds support for Amazon Linux 2023 runtimes in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-lambda-linux-2023-runtimes-govcloud-regions/)
+- [AWS Elemental MediaLive introduces bandwidth reduction filter](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elemental-medialive-bandwidth-reduction-filter/)
+- [Announcing Content Credentials for Amazon Titan Image Generator](https://aws.amazon.com/about-aws/whats-new/2024/09/content-credentials-amazon-titan-image-generator)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
