@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Redshift data sharing governed through AWS Lake Formation is now available in 11 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-data-sharing-aws-lake-formation-additional-regions)
 - [Valkey GLIDE v1.1, a client for Valkey and Redis OSS, now supports Node.js](https://aws.amazon.com/about-aws/whats-new/2024/09/valkey-glide-v11-redis-oss-nodejs/)
-- [WorkSpaces Secure Browser now supports FIPS 140-3 validated cryptography](https://aws.amazon.com/about-aws/whats-new/2024/09/workspaces-secure-browser-fips-140-3-validated-cryptography/)
-- [Amazon S3 to apply a default minimum object size for S3 Lifecycle transition rules](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-s3-default-minimum-object-size-lifecycle-transition-rules)
 - [AWS Resource Explore now supports discovery of all tagged AWS resources](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-resource-explore-discovery-tagged-aws-resources)
+- [Amazon S3 to apply a default minimum object size for S3 Lifecycle transition rules](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-s3-default-minimum-object-size-lifecycle-transition-rules)
+- [WorkSpaces Secure Browser now supports FIPS 140-3 validated cryptography](https://aws.amazon.com/about-aws/whats-new/2024/09/workspaces-secure-browser-fips-140-3-validated-cryptography/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
