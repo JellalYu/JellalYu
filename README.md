@@ -50,8 +50,8 @@
 - [Amazon Redshift data sharing governed through AWS Lake Formation is now available in 11 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-data-sharing-aws-lake-formation-additional-regions)
 - [Valkey GLIDE v1.1, a client for Valkey and Redis OSS, now supports Node.js](https://aws.amazon.com/about-aws/whats-new/2024/09/valkey-glide-v11-redis-oss-nodejs/)
 - [WorkSpaces Secure Browser now supports FIPS 140-3 validated cryptography](https://aws.amazon.com/about-aws/whats-new/2024/09/workspaces-secure-browser-fips-140-3-validated-cryptography/)
+- [Amazon S3 to apply a default minimum object size for S3 Lifecycle transition rules](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-s3-default-minimum-object-size-lifecycle-transition-rules)
 - [Amazon SageMaker Studio now supports automatic shutdown of idle applications](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-sagemaker-studio-automatic-shutdown-idle-applications)
-- [AWS Lambda now supports tagging of Event Source Mappings and Code Signing Config resources](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-lambda-tagging-event-source-mappings-code-signing-config-resources)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
