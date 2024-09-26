@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [PostgreSQL 17.0 is now available in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2024/09/postgresql-170-amazon-rds-database-preview-environment/)
 - [Amazon FSx for Lustre provides additional performance metrics and an enhanced monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-fsx-lustre-performance-metrics-enhanced-monitoring-dashboard)
 - [Amazon Kinesis Data Streams announces support for Attribute-Based Access Control &lpar;ABAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-kinesis-data-streams-abac)
 - [Llama 3.2 generative AI models now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/09/llama-3-2-generative-ai-models-amazon-bedrock)
 - [AWS announces general availability for Security Group Referencing on AWS Transit Gateway](https://aws.amazon.com/about-aws/whats-new/2024/09/general-availability-security-group-referencing-aws-transit-gateway)
-- [AWS CloudTrail launches network activity events for VPC endpoints &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-cloudtrail-network-activity-events-vpc-endpoints-preview)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
