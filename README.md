@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Announcing availability of AWS Outposts in Kuwait](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-outposts-kuwait/)
+- [Amazon Timestream for InfluxDB is now available in the Jakarta, Milan, UAE and Zaragoza AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-timestream-for-influxdb-jakarta-milan-uae-zaragoza/)
 - [Amazon MemoryDB is now available in the AWS Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-memorydb-aws-europe-spain-region)
 - [Application Discovery Service Agentless Collector now supports Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2024/09/application-discovery-service-agentless-collector-amazon-linux-2023)
 - [Amazon RDS Performance Insights now supports queries run through Data API](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-performance-insights-queries-run-data-api)
-- [Amazon RDS for Oracle now supports Oracle Management Agent version 13.5.0.0.v2 for Oracle Enterprise Manager Cloud Control 13cR5](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-oracle-management-agent-version-13-5-0-0-v2-enterprise-manager-cloud-control-13cr5)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
