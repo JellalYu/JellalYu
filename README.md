@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Announcing availability of AWS Outposts in Kuwait](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-outposts-kuwait/)
 - [Amazon Timestream for InfluxDB is now available in the Jakarta, Milan, UAE and Zaragoza AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-timestream-for-influxdb-jakarta-milan-uae-zaragoza/)
+- [AWS CodePipeline introduces pipeline variable check rule for stage level condition](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-codepipeline-pipeline-variable-check-rule-stage-level-condition)
 - [Amazon MemoryDB is now available in the AWS Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-memorydb-aws-europe-spain-region)
 - [Application Discovery Service Agentless Collector now supports Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2024/09/application-discovery-service-agentless-collector-amazon-linux-2023)
-- [Amazon RDS Performance Insights now supports queries run through Data API](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-performance-insights-queries-run-data-api)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
