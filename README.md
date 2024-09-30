@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Announces AWS re:Post Agent, a generative AI-powered virtual assistant](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-re-post-agent-generative-ai-powered-virtual-assistant)
 - [Amazon AppStream 2.0 increases application settings storage limit](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-appstream-2-0-increases-application-settings-storage-limit)
 - [Amazon EventBridge announces new event delivery latency metric for Event Buses](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-eventbridge-event-delivery-latency-metric-event-buses)
 - [Launch Amazon CloudWatch Internet Monitor from Amazon Network Load Balancer console](https://aws.amazon.com/about-aws/whats-new/2024/09/launch-amazon-cloudwatch-internet-monitor-network-load-balancer-console)
 - [Amazon Inspector enhances engine for Lambda standard scanning](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-inspector-enhances-engine-powering-lambda-standard-scanning)
-- [AWS CloudShell extends most recent capabilities to all commercial Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-cloudshell-recent-capabilities-commercial-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
