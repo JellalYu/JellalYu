@@ -51,7 +51,7 @@
 - [Amazon Redshift launches RA3.large instances](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-ra3-large)
 - [AWS announces Reserved Nodes flexibility for Amazon ElastiCache](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-reserved-nodes-flexibility-amazon-elasticache)
 - [Amazon Data Firehose delivers data streams into Apache Iceberg format tables in Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-data-firehose-data-streams-iceberg-format-tables-s3/)
-- [Amazon Connect launches the ability to initiate outbound SMS contacts](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-initiate-outbound-sms-contacts/)
+- [Amazon MSK APIs now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-msk-apis-aws-privatelink/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
