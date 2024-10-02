@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Snowball Edge Storage Optimized 210TB device is available in three new regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-snowball-edge-storage-optimized-210tb-device-new-regions)
+- [Amazon Bedrock now available in the Asia Pacific &lpar;Seoul&rpar; and US East &lpar;Ohio&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-seoul-ohio-regions)
+- [Amazon Timestream for InfluxDB now includes advanced configuration options](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-timestream-influxdb-advanced-configuration/)
 - [New VMware Strategic Partner Incentive &lpar;SPI&rpar; for Managed Services in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/10/vmware-spi-managed-services-aws-partner-central)
 - [Amazon Redshift launches RA3.large instances](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-ra3-large)
-- [AWS announces Reserved Nodes flexibility for Amazon ElastiCache](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-reserved-nodes-flexibility-amazon-elasticache)
-- [Amazon Data Firehose delivers data streams into Apache Iceberg format tables in Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-data-firehose-data-streams-iceberg-format-tables-s3/)
-- [Amazon MSK APIs now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-msk-apis-aws-privatelink/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
