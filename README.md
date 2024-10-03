@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Core removes TLS ALPN requirement and adds custom authorizer capabilities](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-iot-core-tls-alpn-requirement-custom-authorizer-capabilities)
 - [AWS B2B Data Interchange announces support for generating outbound X12 EDI](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-b2b-data-interchange-generating-outbound-x12-edi)
 - [AWS Compute Optimizer now supports 80 new Amazon EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-compute-optimizer-new-amazon-ec2-instance-types)
-- [Amazon Location Service is now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-location-service-aws-europe-spain-region)
+- [AWS Cloud WAN and AWS Network Manager are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-cloud-wan-network-manager-additional-regions)
 - [Amazon Q Business is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-q-business-hipaa-eligible)
-- [Amazon Aurora Serverless v2 now supports up to 256 ACUs](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-serverless-v2-256-acus/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
