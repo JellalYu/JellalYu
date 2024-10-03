@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Business is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-q-business-hipaa-eligible)
+- [Amazon Location Service is now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-location-service-aws-europe-spain-region)
 - [Amazon AppStream 2.0 enables automatic time zone redirection for enhanced user experience](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-appstream-2-0-automatic-time-zone-redirection)
 - [Printer redirection and user selected regional settings now available on Amazon AppStream 2.0 multi-session fleets](https://aws.amazon.com/about-aws/whats-new/2024/10/printer-redirection-user-selected-regional-settings-amazon-appstream-2-0-multi-session-fleets)
 - [AWS Snowball Edge Storage Optimized 210TB device is available in three new regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-snowball-edge-storage-optimized-210tb-device-new-regions)
-- [Amazon Bedrock now available in the Asia Pacific &lpar;Seoul&rpar; and US East &lpar;Ohio&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-seoul-ohio-regions)
-- [Amazon Managed Service for Prometheus now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-managed-service-prometheus-ipv6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
