@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS IoT Core removes TLS ALPN requirement and adds custom authorizer capabilities](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-iot-core-tls-alpn-requirement-custom-authorizer-capabilities)
-- [AWS B2B Data Interchange announces support for generating outbound X12 EDI](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-b2b-data-interchange-generating-outbound-x12-edi)
-- [AWS Compute Optimizer now supports 80 new Amazon EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-compute-optimizer-new-amazon-ec2-instance-types)
-- [AWS Cloud WAN and AWS Network Manager are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-cloud-wan-network-manager-additional-regions)
-- [Amazon Location Service is now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-location-service-aws-europe-spain-region)
+- [AWS Security Hub launches 7 new security controls](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-security-hub-new-security-controls)
+- [Amazon Connect Contact Lens supports new read-only permissions for reports and dashboards](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-contact-lens-read-only-permissions-reports-dashboards)
+- [AWS CodePipeline introduces new general purpose compute action](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-codepipeline-general-purpose-compute-action/)
+- [Amazon Route 53 Resolver endpoints now support DNS-over-HTTPS &lpar;DoH&rpar; with Server Name Indication &lpar;SNI&rpar; validation](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-route-53-resolver-endpoints-doh-sni-validation)
+- [Amazon SageMaker JumpStart is now available in the AWS GovCloud &lpar;US-West and US-East&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-sagemaker-jumpstart-aws-govcloud-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
