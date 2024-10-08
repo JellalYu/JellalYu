@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon ElastiCache for Valkey](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-elasticache-valkey)
+- [Announcing Amazon MemoryDB for Valkey](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-memorydb-valkey)
 - [Access organization-wide views of agreements and spend in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/10/organization-wide-views-agreements-spend-aws-marketplace)
 - [Extension of EOL Dates for Amazon Corretto 8 and 11](https://aws.amazon.com/about-aws/whats-new/2024/10/extension-eol-dates-amazon-corretto-8-11)
 - [Amazon OpenSearch Serverless introduces a suite of new features and enhancements](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-opensearch-serverless-suite-features-enhancements/)
-- [Amazon VPC Lattice is now available in 3 additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-vpc-lattice-3-additional-regions)
-- [Amazon Q in Connect adds personalized guidance for agents](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-q-connect-personalized-guidance-agents/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
