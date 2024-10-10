@@ -47,10 +47,10 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Four new synthetic generative voices for Amazon Polly](https://aws.amazon.com/about-aws/whats-new/2024/10/four-new-synthetic-generative-voices-amazon-polly/)
 - [Announcing general availability of Console to Code to generate code](https://aws.amazon.com/about-aws/whats-new/2024/10/general-availability-console-to-code-generate-code)
 - [Amazon EventBridge Schema Registry now in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eventbridge-schema-registry-aws-govcloud-us-regions)
 - [Amazon Bedrock Model Evaluation now supports evaluating custom models](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-model-evaluation-evaluating-custom-models)
-- [AWS CodePipeline introduces new getting started experience](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-codepipeline-getting-started-experience/)
 - [Amazon Connect now supports using your customer’s initial chat message to personalize the customer experience](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-customers-chat-message-personalize-customer-experience)
 <!-- AWS-NEWS:END -->
 
