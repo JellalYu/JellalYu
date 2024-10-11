@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Redshift introduces query identifiers for improved query performance monitoring](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-query-identifiers-performance-monitoring)
-- [Four new synthetic generative voices for Amazon Polly](https://aws.amazon.com/about-aws/whats-new/2024/10/four-new-synthetic-generative-voices-amazon-polly/)
-- [Amazon WorkSpaces Thin Client inventory now available to purchase in UK](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-workspaces-thin-client-inventory-purchase-uk/)
-- [Streamline automation of policy management workflows with service reference information](https://aws.amazon.com/about-aws/whats-new/2024/10/streamline-automation-policy-management-workflows-service-reference-information)
-- [Announcing general availability of Console to Code to generate code](https://aws.amazon.com/about-aws/whats-new/2024/10/general-availability-console-to-code-generate-code)
+- [Bring your conversations to WhatsApp with AWS End User Messaging Social](https://aws.amazon.com/about-aws/whats-new/2024/10/conversations-whatsapp-aws-end-user-messaging-social)
+- [Amazon Redshift announces generally availability for data sharing with data lake tables](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-generally-availability-data-sharing-data-lake-tables)
+- [AWS Backup is now available in AWS Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-backup-available-aws-asia-pacific-malaysia)
+- [AWS Elemental MediaPackage now available in Middle East &lpar;UAE&rpar; and Asia Pacific &lpar;Hyderabad&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-elemental-mediapackage-uae-hyderabad-regions)
+- [Amazon Connect Contact Lens dashboards now support additional customization capabilities](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-contact-lens-dashboards-customization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
