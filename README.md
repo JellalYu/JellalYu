@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing Amazon Q in AWS Supply Chain](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-q-aws-supply-chain/)
-- [Amazon EKS now supports using NVIDIA and AWS Neuron accelerated instance types with AL2023](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eks-nvidia-aws-neuron-instance-types-al2023/)
-- [Amazon Redshift Multi-AZ is generally available for RA3 clusters in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-multi-az-ra3-clusters-govcloud-us-regions)
-- [Bring your conversations to WhatsApp with AWS End User Messaging Social](https://aws.amazon.com/about-aws/whats-new/2024/10/conversations-whatsapp-aws-end-user-messaging-social)
-- [Amazon Redshift announces generally availability for data sharing with data lake tables](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-generally-availability-data-sharing-data-lake-tables)
+- [AWS CodePipeline supports automatic retry on stage failure](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-codepipeline-automatic-retry-stage-failure/)
+- [Amazon RDS now supports M7g and R7g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-rds-m7g-r7g-database-instances-additional-aws-regions)
+- [Amazon SageMaker Studio notebooks now support G6e instance types](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-sagemaker-studio-notebooks-g6e-instance-types)
+- [Amazon AppStream 2.0 now supports custom shared network storage](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-appstream-2-0-custom-shared-network-storage)
+- [Amazon EFS now supports up to 60 GiB/s &lpar;a 2x increase&rpar; of read throughput](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-efs-60-gib-s-2x-increase-read-throughput/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
