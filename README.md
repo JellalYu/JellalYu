@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Transcribe now supports streaming transcription in 30 additional languages](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-transcribe-streaming-transcription-additional-languages)
 - [AWS Beanstalk adds support for Python 3.12](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-beanstalk-python-3-12)
 - [AWS CloudShell now supports Amazon Q CLI](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-cloudshell-amazon-q-cli)
 - [Amazon Bedrock Agents now provides Conversational Builder](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-agents-conversational-builder/)
 - [Announcing AWS DMS Serverless support for MongoDB and DocDB as a source](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-dms-serverless-mongodb-docdb-source)
-- [Amazon Corretto October, 2024 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-corretto-october-2024-quarterly-updates)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
