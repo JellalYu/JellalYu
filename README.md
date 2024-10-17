@@ -51,7 +51,7 @@
 - [Amazon Aurora PostgreSQL now supports local write forwarding](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-postgresql-local-write-forwarding)
 - [Amazon RDS Multi-AZ deployment with two readable standbys now supports AWS IAM database authentication](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-rds-multi-az-deployment-standbys-aws-iam-authentication)
 - [Ubuntu Pro for EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2024/10/ubuntu-pro-ec2-spot-instances)
-- [Amazon S3 adds new Region and bucket name filtering for the ListBuckets API](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-s3-new-region-bucket-name-filtering-listbuckets-api)
+- [AWS Lambda console now supports real-time log analytics via Amazon CloudWatch Logs Live Tail](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-lambda-console-real-time-analytics-amazon-cloudwatch)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
