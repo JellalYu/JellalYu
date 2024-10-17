@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Ubuntu Pro for EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2024/10/ubuntu-pro-ec2-spot-instances)
 - [Amazon S3 adds new Region and bucket name filtering for the ListBuckets API](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-s3-new-region-bucket-name-filtering-listbuckets-api)
 - [AWS Marketplace enables self-service creation of single AMI product listings for AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-marketplace-self-service-creation-single-ami-product-listings-aws-govcloud-us-regions)
 - [Amazon Transcribe now supports streaming transcription in 30 additional languages](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-transcribe-streaming-transcription-additional-languages)
 - [AWS Beanstalk adds support for Python 3.12](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-beanstalk-python-3-12)
-- [AWS CloudShell now supports Amazon Q CLI](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-cloudshell-amazon-q-cli)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
