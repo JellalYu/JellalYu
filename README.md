@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon QuickSight expands integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-quicksight-integration-eventbridge)
-- [Amazon DataZone introduces new designations in projects for members to perform specific tasks](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-datazone-designations-projects-perform-tasks)
-- [MemoryDB is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/memorydb-aws-govcloud-us-regions)
 - [AWS Marketplace now supports notifications for private marketplace](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-marketplace-notifications-private-marketplace)
 - [Amazon Bedrock Model Evaluation now supports evaluating custom model import models](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-model-evaluation-custom-import-models/)
+- [Amazon DataZone introduces new designations in projects for members to perform specific tasks](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-datazone-designations-projects-perform-tasks)
+- [MemoryDB is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/memorydb-aws-govcloud-us-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
