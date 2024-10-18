@@ -47,10 +47,10 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon QuickSight expands integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-quicksight-integration-eventbridge)
+- [AWS Marketplace now supports notifications for private marketplace](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-marketplace-notifications-private-marketplace)
 - [Amazon DataZone introduces new designations in projects for members to perform specific tasks](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-datazone-designations-projects-perform-tasks)
 - [MemoryDB is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/memorydb-aws-govcloud-us-regions)
-- [AWS Marketplace now supports notifications for private marketplace](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-marketplace-notifications-private-marketplace)
+- [Amazon QuickSight expands integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-quicksight-integration-eventbridge)
 - [Amazon EC2 High Memory instances now available in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-high-memory-instances-africa-cape-town/)
 <!-- AWS-NEWS:END -->
 
