@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon DataZone launches support for AWS IAM Identity Center account instance](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-datazone-aws-iam-identity-center-account-instance)
-- [Amazon DynamoDB announces user experience enhancements to organize your tables](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-dynamodb-user-experience-enhancements-organize-tables)
-- [Amazon Aurora PostgreSQL now supports local write forwarding](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-postgresql-local-write-forwarding)
-- [Amazon RDS Multi-AZ deployment with two readable standbys now supports AWS IAM database authentication](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-rds-multi-az-deployment-standbys-aws-iam-authentication)
-- [AWS Lambda console now supports real-time log analytics via Amazon CloudWatch Logs Live Tail](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-lambda-console-real-time-analytics-amazon-cloudwatch)
+- [Amazon QuickSight expands integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-quicksight-integration-eventbridge)
+- [Amazon DataZone introduces new designations in projects for members to perform specific tasks](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-datazone-designations-projects-perform-tasks)
+- [MemoryDB is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/memorydb-aws-govcloud-us-regions)
+- [AWS Marketplace now supports notifications for private marketplace](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-marketplace-notifications-private-marketplace)
+- [Amazon EC2 High Memory instances now available in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-high-memory-instances-africa-cape-town/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
