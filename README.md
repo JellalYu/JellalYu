@@ -49,8 +49,8 @@
 <!-- AWS-NEWS:START -->
 - [Streamlined SAP application management with AWS Launch Wizard and AWS Systems Manager integration](https://aws.amazon.com/about-aws/whats-new/2024/10/sap-application-management-aws-launch-wizard-systems-manager-integration)
 - [AWS announces a seamless link experience for the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-seamless-link-experience-console-mobile-app)
-- [Amazon Bedrock Custom Model Import now generally available](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-custom-model-import/)
 - [RDS Custom for SQL Server now supports Windows Authentication](https://aws.amazon.com/about-aws/whats-new/2024/10/rds-custom-sql-server-windows-authentication/)
+- [Amazon Bedrock Custom Model Import now generally available](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-custom-model-import/)
 - [AWS Control Tower is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-control-tower-asia-pacific-malaysia-region)
 <!-- AWS-NEWS:END -->
 
