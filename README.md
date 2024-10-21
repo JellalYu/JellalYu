@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Streamlined SAP application management with AWS Launch Wizard and AWS Systems Manager integration](https://aws.amazon.com/about-aws/whats-new/2024/10/sap-application-management-aws-launch-wizard-systems-manager-integration)
+- [AWS announces a seamless link experience for the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-seamless-link-experience-console-mobile-app)
 - [AWS Control Tower is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-control-tower-asia-pacific-malaysia-region)
-- [AWS Marketplace now supports notifications for private marketplace](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-marketplace-notifications-private-marketplace)
-- [Amazon DataZone introduces new designations in projects for members to perform specific tasks](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-datazone-designations-projects-perform-tasks)
-- [MemoryDB is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/memorydb-aws-govcloud-us-regions)
 - [Amazon QuickSight expands integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-quicksight-integration-eventbridge)
+- [AWS Marketplace now supports notifications for private marketplace](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-marketplace-notifications-private-marketplace)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
