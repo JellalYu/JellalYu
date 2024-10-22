@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Mainframe Modernization introduces new integrations for managed runtimes](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-mainframe-modernization-integrations-managed-runtimes)
 - [Announcing the new Resiliency widget on myApplications](https://aws.amazon.com/about-aws/whats-new/2024/10/resiliency-widget-myapplications)
 - [Amazon EKS now supports Amazon Application Recovery Controller &lpar;ARC&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eks-application-recovery-controller-arc)
 - [Amazon Redshift launches query profiler for enhanced query monitoring and diagnostics](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-query-profiler-monitoring-diagnostics/)
 - [Amazon Application Recovery Controller zonal shift and zonal autoshift extends support for two new multi-AZ resources](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-arc-shift-zonal-autoshift-two-multi-az-resources/)
-- [Anthropic’s upgraded Claude 3.5 Sonnet model and computer use now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/10/anthropics-claude-35-sonnet-model-computer-amazon-bedrock/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
