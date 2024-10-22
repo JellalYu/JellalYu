@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EKS endpoints now support connectivity over Internet Protocol version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eks-endpoints-connectivity-ipv6)
+- [Amazon Redshift launches query profiler for enhanced query monitoring and diagnostics](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-query-profiler-monitoring-diagnostics/)
 - [Enhanced Monitoring for applications hosted on Amazon ECS via Application Signals](https://aws.amazon.com/about-aws/whats-new/2024/10/enhanced-monitoring-applications-amazon-ecs-application-signals)
+- [Amazon EKS endpoints now support connectivity over Internet Protocol version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eks-endpoints-connectivity-ipv6)
+- [AWS DMS now supports homogenous migrations via CLI, SDK and API](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-dms-homogenous-migrations-cli-sdk-api/)
 - [Streamlined SAP application management with AWS Launch Wizard and AWS Systems Manager integration](https://aws.amazon.com/about-aws/whats-new/2024/10/sap-application-management-aws-launch-wizard-systems-manager-integration)
-- [AWS announces a seamless link experience for the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-seamless-link-experience-console-mobile-app)
-- [Amazon Bedrock Custom Model Import now generally available](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-custom-model-import/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
