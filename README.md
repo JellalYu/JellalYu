@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Service for Apache Flink now supports per second billing](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-managed-service-apache-flink-per-second-billing/)
+- [Amazon Timestream for LiveAnalytics introduces Query Insights](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-timestream-liveanalytics-introduces-query-insights)
 - [AWS Billing Conductor now supports RI and Savings Plans coverage and utilization reports](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-billing-conductor-ri-savings-plans-coverage-utilization-reports)
+- [EC2 Image Builder now supports Apple macOS](https://aws.amazon.com/about-aws/whats-new/2024/10/ec2-image-builder-apple-macos/)
 - [AWS Mainframe Modernization introduces new integrations for managed runtimes](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-mainframe-modernization-integrations-managed-runtimes)
-- [Announcing the new Resiliency widget on myApplications](https://aws.amazon.com/about-aws/whats-new/2024/10/resiliency-widget-myapplications)
-- [Amazon EKS now supports Amazon Application Recovery Controller &lpar;ARC&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eks-application-recovery-controller-arc)
-- [Amazon Redshift launches query profiler for enhanced query monitoring and diagnostics](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-query-profiler-monitoring-diagnostics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
