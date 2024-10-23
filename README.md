@@ -51,7 +51,7 @@
 - [Amazon Timestream for LiveAnalytics introduces Query Insights](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-timestream-liveanalytics-introduces-query-insights)
 - [AWS Billing Conductor now supports RI and Savings Plans coverage and utilization reports](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-billing-conductor-ri-savings-plans-coverage-utilization-reports)
 - [EC2 Image Builder now supports Apple macOS](https://aws.amazon.com/about-aws/whats-new/2024/10/ec2-image-builder-apple-macos/)
-- [AWS Mainframe Modernization introduces new integrations for managed runtimes](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-mainframe-modernization-integrations-managed-runtimes)
+- [NVIDIA GPU Time-slicing Now Available for Bottlerocket to Enhance AI/ML Workload Efficiency](https://aws.amazon.com/about-aws/whats-new/2024/10/nvidia-gpu-time-slicing-bottlerocket-ai-ml-workload-efficiency)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
