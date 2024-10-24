@@ -51,7 +51,7 @@
 - [Amazon Redshift Serverless is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-serverless-aws-govcloud-regions)
 - [Amazon SES now provides TLS Version for Outgoing Messages within AutoTags](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ses-tls-version-outgoing-messages-autotags)
 - [AWS Lambda now supports using a custom serializer with Java runtimes](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-lambda-custom-serializer-java-runtimes/)
-- [Announcing pro forma budgets integration for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2024/10/pro-forma-budgets-integration-aws-billing-conductor/)
+- [AWS announces EFA update for scalability with AI/ML applications](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-efa-updates-scalability-ai-ml-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
