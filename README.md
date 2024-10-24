@@ -50,8 +50,8 @@
 - [AWS Deadline Cloud now sends Job, Step, and Task related events](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-deadline-cloud-sends-job-step-task-events)
 - [Amazon Redshift Serverless is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-serverless-aws-govcloud-regions)
 - [Amazon SES now provides TLS Version for Outgoing Messages within AutoTags](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ses-tls-version-outgoing-messages-autotags)
+- [AWS Lambda now supports using a custom serializer with Java runtimes](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-lambda-custom-serializer-java-runtimes/)
 - [AWS WAF Bot and Fraud Control RuleGroup is now available in 6 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-waf-bot-fraud-control-rulegroup-additional-aws-regions)
-- [Amazon Connect now offers screen sharing](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-screen-sharing)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
