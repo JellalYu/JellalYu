@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift Serverless is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-serverless-aws-govcloud-regions)
 - [AWS WAF Bot and Fraud Control RuleGroup is now available in 6 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-waf-bot-fraud-control-rulegroup-additional-aws-regions)
 - [Amazon Connect now offers screen sharing](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-screen-sharing)
 - [Research and Engineering Studio on AWS Version 2024.10 now available](https://aws.amazon.com/about-aws/whats-new/2024/10/research-engineering-studio-aws-version-2024-10)
 - [AWS IAM Identity Center simplifies calls to AWS services with single identity context](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-iam-identity-center-simplifies-calls-services-single-identity-context)
-- [Amazon MWAA now simplifies interaction with the Airflow REST API](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-mwaa-simplifies-interaction-airflow-rest-api)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
