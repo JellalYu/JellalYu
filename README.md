@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS now accepts partial card payments](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-accepts-partial-card-payments)
+- [Announcing increased quotas and improvements to CloudWatch Logs Anomaly Detection and Pattern Analysis](https://aws.amazon.com/about-aws/whats-new/2024/10/increased-quotas-improvements-cloudwatch-logs-anomaly-detection-pattern-analysis)
+- [Amazon Aurora Global Database support for tagging global clusters](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-global-database-tagging-global-clusters/)
 - [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; Version 24.1](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-rds-oracle-application-express)
 - [AWS Deadline Cloud now sends Job, Step, and Task related events](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-deadline-cloud-sends-job-step-task-events)
-- [Amazon SES now provides TLS Version for Outgoing Messages within AutoTags](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ses-tls-version-outgoing-messages-autotags)
-- [AWS announces EFA update for scalability with AI/ML applications](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-efa-updates-scalability-ai-ml-applications/)
-- [AWS Lambda now supports using a custom serializer with Java runtimes](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-lambda-custom-serializer-java-runtimes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
