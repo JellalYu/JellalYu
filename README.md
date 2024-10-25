@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Firewall Manager now supports retrofitting of existing AWS WAF WebACLs](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-firewall-manager-retrofitting-existing-waf-webacls)
 - [AWS now accepts partial card payments](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-accepts-partial-card-payments)
 - [Announcing increased quotas and improvements to CloudWatch Logs Anomaly Detection and Pattern Analysis](https://aws.amazon.com/about-aws/whats-new/2024/10/increased-quotas-improvements-cloudwatch-logs-anomaly-detection-pattern-analysis)
 - [Amazon Aurora Global Database support for tagging global clusters](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-global-database-tagging-global-clusters/)
-- [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; Version 24.1](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-rds-oracle-application-express)
-- [AWS Deadline Cloud now sends Job, Step, and Task related events](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-deadline-cloud-sends-job-step-task-events)
+- [AWS Storage Gateway is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-storage-gateway-asia-pacific-malaysia-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
