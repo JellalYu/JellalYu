@@ -50,8 +50,8 @@
 - [Amazon EC2 R7gd instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-r7gd-instances-additional-regions)
 - [AWS India customers can now setup automated recurring payments on their cards](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-india-customers-automated-recurring-payments)
 - [Amazon Connect now provides published forecast data in analytics data lake](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-published-forecast-analytics-data-lake)
-- [Amazon Location Service achieves FedRAMP High authorization](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-location-service-fedramp-high-authorization)
 - [AWS Blu Age Runtime non managed now available in 11 more regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-blu-age-runtime-non-managed-more-regions)
+- [Amazon Location Service achieves FedRAMP High authorization](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-location-service-fedramp-high-authorization)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
