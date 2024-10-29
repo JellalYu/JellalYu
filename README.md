@@ -50,8 +50,8 @@
 - [Amazon EC2 Mac instances now support Apple macOS Sequoia](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-mac-instances-apple-macos-sequoia)
 - [AWS CodeBuild now supports retrying builds automatically](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-codebuild-retrying-builds-automatically)
 - [Amazon OpenSearch Service now supports dedicated coordinator nodes](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-opensearch-service-dedicated-coordinator-nodes/)
+- [Amazon RDS now supports M7i and R7i database instances](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-rds-m7i-r7i-database-instances/)
 - [Amazon Q Developer announces support for inline chat to streamline the developer experience](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-q-developer-inline-chat-streamline-developer-experience)
-- [AWS Trust &amp; Safety Center is now available on AWS re:Post](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-trust-safety-center-re-post)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
