@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Developer announces support for inline chat to streamline the developer experience](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-q-developer-inline-chat-streamline-developer-experience)
 - [AWS Trust &amp; Safety Center is now available on AWS re:Post](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-trust-safety-center-re-post)
 - [VPC DNS Query Logging now available in the Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/vpc-dns-query-logging-asia-pacific-malaysia-region)
 - [AWS India customers can now setup automated recurring payments on their cards](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-india-customers-automated-recurring-payments)
 - [Amazon EC2 R7gd instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-r7gd-instances-additional-regions)
-- [Meta’s Llama 3.1 8B and 70B models are now available for fine-tuning in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/10/metas-llama-31-8b-70b-models-fine-tuning-amazon-bedrock/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
