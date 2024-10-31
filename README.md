@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EC2 Mac instances now support Apple macOS Sequoia](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-mac-instances-apple-macos-sequoia)
-- [AWS CodeBuild now supports retrying builds automatically](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-codebuild-retrying-builds-automatically)
-- [Amazon ElastiCache for Valkey adds new CloudWatch metrics to monitor server-side response time](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-elasticache-metrics-monitor-server-response-time/)
-- [Amazon MemoryDB for Valkey adds new CloudWatch metrics to monitor server-side response time](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-memorydb-valkey-cloudwatch-metrics-monitor-server-response-time/)
-- [Amazon OpenSearch Service now supports dedicated coordinator nodes](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-opensearch-service-dedicated-coordinator-nodes/)
+- [Amazon WorkMail now supports multi-factor authentication](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-workmail-multi-factor-authentication)
+- [AWS Glue Studio data preparation experience is available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-glue-studio-data-preparation-experience-additional-regions)
+- [Announcing general availability of auto-copy for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2024/10/general-availability-auto-copy-amazon-redshift)
+- [AWS announces Amazon Redshift integration with Amazon Bedrock for generative AI](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-integration-bedrock-generative-ai)
+- [Amazon Redshift now supports incremental refresh on Materialized Views &lpar;MVs&rpar; for data lake tables](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-incremental-refresh-mvs-data-lake-tables)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
