@@ -51,7 +51,7 @@
 - [AWS announces UDP support for AWS PrivateLink and dual-stack Network Load Balancers](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-udp-privatelink-dual-stack-network-load-balancers)
 - [Amazon Aurora PostgreSQL Limitless Database is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-postgresql-limitless-database-generally-available)
 - [Anthropic’s Claude 3.5 Sonnet and Claude 3 Haiku models are now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/anthropics-claude-3-5-sonnet-claude-3-haiku-models-aws-govcloud-us-west-region)
-- [Amazon Aurora supports rolling upgrades for Operating System upgrades](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-rolling-upgrades-operating-system/)
+- [Three enhancements for SES Mail Manager to improve interoperability, security, and compliance](https://aws.amazon.com/about-aws/whats-new/2024/10/enhancements-ses-mail-manager-interoperability-security-compliance)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
