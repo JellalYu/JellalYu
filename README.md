@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Business adds simplified setup and new web app experience](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-business-simplified-setup-web-app-experience)
+- [Amazon SES adds inline template support to send email APIs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ses-inline-template-support-send-email-apis)
 - [Amazon Connect launches support for callbacks when using Chats and Tasks](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-callbacks-chats-tasks)
 - [Amazon SageMaker Notebook Instances now support JupyterLab 4 notebooks](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sagemaker-notebook-instances-jupyterlab-4-notebooks)
 - [Amazon Bedrock announces support for cost allocation tags on inference profiles](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-cost-allocation-tags-inference-profiles)
-- [Amazon WorkSpaces WSP enables desktop traffic over TCP/UDP port 443](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-workspaces-wsp-desktop-traffic-tcp-udp-port-443)
-- [Amazon RDS announces cross-region automated backups in Asia Pacific &lpar;Hyderabad&rpar; and Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cross-region-automated-backups-hyderbad-cape-town)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
