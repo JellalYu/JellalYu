@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing an improved self-guided experience for AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/11/improved-self-guided-experience-aws-partner-central)
 - [Amazon S3 Access Grants is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-access-grants-canada-west-calgary-region)
 - [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Mumbai&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-high-memory-instances-mumbai)
 - [Amazon Redshift Multi-AZ is generally available for RA3 clusters in 3 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-redshift-multi-az-ra3-clusters-additional-regions)
 - [Amazon DataZone Achieves HITRUST Certification](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-datazone-hitrust-certification/)
-- [Amazon S3 Access Grants now integrate with Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-access-grants-integrate-amazon-redshift/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
