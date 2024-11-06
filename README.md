@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Anthropic’s Claude 3.5 Haiku model now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/11/anthropics-claude-3-5-haiku-model-amazon-bedrock)
-- [Announcing enhanced support for medical imaging data with lossy compression](https://aws.amazon.com/about-aws/whats-new/2024/11/enhanced-support-medical-imaging-data-lossy-compression)
-- [Amazon Q Business adds simplified setup and new web app experience](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-business-simplified-setup-web-app-experience)
-- [Amazon SES adds inline template support to send email APIs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ses-inline-template-support-send-email-apis)
-- [Amazon Connect launches support for callbacks when using Chats and Tasks](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-callbacks-chats-tasks)
+- [Amazon S3 Access Grants is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-access-grants-canada-west-calgary-region)
+- [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Mumbai&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-high-memory-instances-mumbai)
+- [Amazon Redshift Multi-AZ is generally available for RA3 clusters in 3 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-redshift-multi-az-ra3-clusters-additional-regions)
+- [Amazon DataZone Achieves HITRUST Certification](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-datazone-hitrust-certification/)
+- [Amazon S3 Access Grants now integrate with Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-access-grants-integrate-amazon-redshift/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
