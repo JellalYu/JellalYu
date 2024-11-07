@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch now monitors EBS volumes exceeding provisioned performance](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-ebs-volumes-exceeding-performance/)
 - [Amazon Data Firehose support for delivering data into Apache Iceberg tables is available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-data-firehose-support-data-apache-iceberg-tables-additional-regions)
 - [AWS Well-Architected adds enhanced implementation guidance](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-well-architected-enhanced-implementation-guidance)
 - [Announcing an improved self-guided experience for AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/11/improved-self-guided-experience-aws-partner-central)
 - [Amazon Redshift Multi-AZ is generally available for RA3 clusters in 3 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-redshift-multi-az-ra3-clusters-additional-regions)
-- [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Mumbai&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-high-memory-instances-mumbai)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
