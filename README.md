@@ -50,8 +50,8 @@
 - [Configure Route53 CIDR blocks rules based on Internet Monitor suggestions](https://aws.amazon.com/about-aws/whats-new/2024/11/configure-route53-cidr-blocks-rules-based-internet-monitor-suggestions)
 - [Amazon Bedrock now available in the Europe &lpar;Zurich&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-europe-zurich-regions)
 - [Amazon OpenSearch Service launches next-gen UI for enhanced data exploration and collaboration](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-next-gen-ui)
-- [AWS Clean Rooms ML supports privacy-enhanced model training and inferencing](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-clean-rooms-ml-privacy-enhanced-model-training-inferencing)
-- [Amazon EC2 High Memory instances now available in South America &lpar;Sao Paulo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-high-memory-instances-sao-paulo-region/)
+- [Amazon SNS supports message archiving and replay for FIFO topics in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sns-message-archiving-replay-fifo-topics-govcloud/)
+- [Amazon OpenSearch Service announces Extended Support for engine versions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-support-engine-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
