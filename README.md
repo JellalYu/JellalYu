@@ -50,7 +50,7 @@
 - [Amazon DataZone now supports meaning-based Semantic search](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-datazone-meaning-based-semantic-search)
 - [Amazon SNS delivers to Amazon Data Firehose endpoints in six new regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sns-delivers-data-firehose-endpoints-new-regions/)
 - [AWS IAM now supports PrivateLink in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-iam-privatelink-govcloud-us-regions)
-- [AWS CodePipeline open source starter templates for simplified getting started experience](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-codepipeline-open-source-templates-simplified-experience)
+- [Amazon SNS delivers to Amazon Data Firehose endpoints in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sns-data-firehose-endpoints-govcloud/)
 - [Amazon QuickSight now supports Client Credentials OAuth for Snowflake through API/CLI](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-client-credentials-oauth-snowflake-api-cli)
 <!-- AWS-NEWS:END -->
 
