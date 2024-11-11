@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Kinesis Data Streams launches CloudFormation support for resource policies](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-kinesis-data-streams-cloudformation-resource-policies)
+- [AWS Lambda supports Customer Managed Key &lpar;CMK&rpar; encryption for Zip function code artifacts](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-cmk-encryption-zip-function-code-artifacts/)
 - [Network connections is now discoverable with AWS Application Discovery Service Agentless Collector](https://aws.amazon.com/about-aws/whats-new/2024/11/network-connections-aws-application-discovery-service-agentless-collector)
 - [Amazon DataZone now supports meaning-based Semantic search](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-datazone-meaning-based-semantic-search)
 - [Amazon SNS delivers to Amazon Data Firehose endpoints in six new regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sns-delivers-data-firehose-endpoints-new-regions/)
-- [AWS Firewall Manager is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-firewall-manager-asia-pacific-malaysia-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
