@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Kinesis Data Streams launches CloudFormation support for resource policies](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-kinesis-data-streams-cloudformation-resource-policies)
+- [AWS IAM Identity Center now supports search by permission set name](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-iam-identity-center-search-permission-name)
 - [AWS CloudTrail Lake announces enhanced event filtering](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-cloudtrail-lake-enhanced-event-filtering)
 - [AWS Lambda supports Customer Managed Key &lpar;CMK&rpar; encryption for Zip function code artifacts](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-cmk-encryption-zip-function-code-artifacts/)
 - [Network connections is now discoverable with AWS Application Discovery Service Agentless Collector](https://aws.amazon.com/about-aws/whats-new/2024/11/network-connections-aws-application-discovery-service-agentless-collector)
-- [Amazon DataZone now supports meaning-based Semantic search](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-datazone-meaning-based-semantic-search)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
