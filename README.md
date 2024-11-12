@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Service for Apache Flink now supports Amazon DynamoDB Streams as a source](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-dynamodb-streams-source)
 - [Amazon SageMaker Model Registry now supports defining machine learning model lifecycle stages](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sagemaker-model-registry-defining-machine-learning-lifecycle-stages)
-- [Amazon Managed Service for Apache Flink is now available in Asia Pacific &lpar;Auckland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-auckland-region/)
-- [Amazon EventBridge announces up to 94% improvement in end-to-end latency for Event Buses](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-eventbridge-improvement-latency-event-buses/)
-- [Amazon OpenSearch Ingestion adds support for ingesting data from Amazon Kinesis Data Streams](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-ingestion-amazon-kinesis-data-streams)
-- [Amazon Kinesis Data Streams launches CloudFormation support for resource policies](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-kinesis-data-streams-cloudformation-resource-policies)
+- [Amazon EC2 Capacity Blocks expands to new regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-capacity-blocks-new-regions)
+- [AWS CodeBuild now supports Windows Docker builds in reserved capacity fleets](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-codebuild-windows-docker-reserved-capacity-fleets)
+- [Amazon Managed Service for Apache Flink is now available in Asia Pacific &lpar;Kuala Lumpur&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-kuala-lumpur-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
