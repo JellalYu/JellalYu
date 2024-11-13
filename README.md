@@ -50,8 +50,8 @@
 - [Amazon DynamoDB announces user experience enhancements to organize your tables in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamodb-user-experience-enhancements-aws-govcloud-regions)
 - [Amazon Managed Service for Apache Flink now supports Amazon DynamoDB Streams as a source](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-dynamodb-streams-source)
 - [Amazon Neptune Serverless is now available in 6 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-neptune-serverless-six-aws-regions)
-- [Amazon EC2 Capacity Blocks expands to new regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-capacity-blocks-new-regions)
 - [Amazon SageMaker Model Registry now supports defining machine learning model lifecycle stages](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sagemaker-model-registry-defining-machine-learning-lifecycle-stages)
+- [Amazon EC2 Capacity Blocks expands to new regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-capacity-blocks-new-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
