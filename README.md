@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudTrail Lake enhances log analysis with AI-powered features](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-cloudtrail-lake-log-analysis-ai-powered-features)
+- [AWS SDK now supports ListBillingViewsAPI for AWS Billing Conductor users](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-sdk-listbillingviewsapi-billing-conductor-users)
+- [Amazon OpenSearch Service now supports 4th generation Intel &lpar;C7i, M7i, R7i&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-supports-4th-generation-intel-c7i-m7i-r7i-instances)
+- [AWS B2B Data Interchange introduces generative AI-assisted EDI mappings](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-b2b-data-interchange-generative-ai-assisted-edi-mappings)
 - [AWS Client VPN now supports the latest Ubuntu OS versions - 22.04 LTS and 24.04 LTS](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-client-vpn-supports-latest-ubuntu-os-versions/)
-- [AWS Control Tower launches the ability to resolve drift for optional controls](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-control-tower-resolve-drift-optional-controls/)
-- [Amazon EC2 Mac instances now available in AWS Canada &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-mac-instances-aws-canada-central-region)
-- [AWS Directory Service is available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-directory-service-asia-pacific-malaysia-region/)
-- [Amazon Timestream for InfluxDB is now available in China regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-timestream-influxdb-china-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
