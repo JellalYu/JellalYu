@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS CloudTrail Lake enhances log analysis with AI-powered features](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-cloudtrail-lake-log-analysis-ai-powered-features)
-- [AWS SDK now supports ListBillingViewsAPI for AWS Billing Conductor users](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-sdk-listbillingviewsapi-billing-conductor-users)
-- [Amazon OpenSearch Service now supports 4th generation Intel &lpar;C7i, M7i, R7i&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-supports-4th-generation-intel-c7i-m7i-r7i-instances)
-- [AWS B2B Data Interchange introduces generative AI-assisted EDI mappings](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-b2b-data-interchange-generative-ai-assisted-edi-mappings)
-- [AWS Client VPN now supports the latest Ubuntu OS versions - 22.04 LTS and 24.04 LTS](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-client-vpn-supports-latest-ubuntu-os-versions/)
+- [AWS Backup now supports Amazon Neptune in three new Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-backup-amazon-neptune-new-regions)
+- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; reduces prices by up to 75%](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-keyspaces-apache-cassandra-reduces-prices-75-percent)
+- [Amazon DynamoDB reduces prices for on-demand throughput and global tables](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamo-db-reduces-prices-on-demand-throughput-global-tables)
+- [Customers can now make payments using SEPA accounts in Five EU countries](https://aws.amazon.com/about-aws/whats-new/2024/11/payments-using-sepa-accounts-five-countries)
+- [Amazon OpenSearch Service now supports OpenSearch version 2.17](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-opensearch-version-2-17)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
