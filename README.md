@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon IVS introduces Multitrack Video to save input costs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ivs-multitrack-video-save-input-costs)
+- [AWS Partner Central  now provides API for Selling with AWS](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-partner-central-api-selling)
 - [AWS Backup now supports Amazon Neptune in three new Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-backup-amazon-neptune-new-regions)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; reduces prices by up to 75%](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-keyspaces-apache-cassandra-reduces-prices-75-percent)
 - [Amazon DynamoDB reduces prices for on-demand throughput and global tables](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamo-db-reduces-prices-on-demand-throughput-global-tables)
-- [Customers can now make payments using SEPA accounts in Five EU countries](https://aws.amazon.com/about-aws/whats-new/2024/11/payments-using-sepa-accounts-five-countries)
-- [Amazon OpenSearch Service now supports OpenSearch version 2.17](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-opensearch-version-2-17)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
