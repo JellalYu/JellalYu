@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight launches self serve Brand Customization](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-self-serve-brand-customization)
 - [Amazon IVS introduces Multitrack Video to save input costs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ivs-multitrack-video-save-input-costs)
 - [AWS Partner Central  now provides API for Selling with AWS](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-partner-central-api-selling)
 - [AWS Backup now supports Amazon Neptune in three new Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-backup-amazon-neptune-new-regions)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; reduces prices by up to 75%](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-keyspaces-apache-cassandra-reduces-prices-75-percent)
-- [Amazon DynamoDB reduces prices for on-demand throughput and global tables](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamo-db-reduces-prices-on-demand-throughput-global-tables)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
