@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Organizations member accounts can now regain access to accidentally locked Amazon S3 buckets](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-organizations-member-accounts-access-locked-amazon-3-buckets)
 - [Amazon SageMaker now provides new set up experience for Amazon DataZone projects](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sagemaker-set-up-experience-amazon-datazone-projects)
 - [Centrally manage root access in AWS Identity and Access Management &lpar;IAM&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/manage-root-access-aws-identity-access-management/)
 - [Split cost allocation data for Amazon EKS now supports metrics from Amazon CloudWatch Container Insights](https://aws.amazon.com/about-aws/whats-new/2024/11/split-cost-allocation-data-amazon-eks-metrics-amazon-cloudwatch-container-insights)
-- [AWS Backup now supports resource type and multiple tag selections in backup policies](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-backup-resource-type-multiple-tag-backup-policies)
-- [Amazon EC2 G6 instances now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-g6-instances-aws-govcloud-us-west-region)
+- [AWS Partner CRM Connector Adds Partner Central API Support](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-partner-crm-connector-partner-central-api-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
