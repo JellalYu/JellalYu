@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora MySQL 3.08 &lpar;compatible with MySQL 8.0.39&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-aurora-mysql-3-08-compatible-8-0-39-generally-available)
+- [AWS Chatbot adds support for chatting about AWS resources with Amazon Q Developer in Microsoft Teams and Slack](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-chatbot-chatting-amazon-q-developer-microsoft-teams-slack)
 - [AWS Controllers for Kubernetes for AWS Private CA now generally available](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-controllers-kubernetes-aws-private-ca)
 - [Announcing business planning feature in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/11/business-planning-feature-aws-partner-central)
 - [Easily troubleshoot NodeJS applications with Amazon CloudWatch Application Signals](https://aws.amazon.com/about-aws/whats-new/2024/11/troubleshoot-nodejs-applications-amazon-cloudwatch-application-signals)
-- [AWS End User Messaging announces cost allocation tags for SMS](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-end-user-messaging-cost-allocation-tags-for-sms/)
-- [Amazon Q generative SQL in Amazon Redshift Query Editor now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-generative-sql-redshift-query-editor-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
