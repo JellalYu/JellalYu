@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Developer in the AWS Management Console now uses the service you’re viewing as context for your chat](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-aws-management-console-service-viewing-context-chat)
+- [Announcing Amazon CloudWatch Metrics support in AWS End User Messaging](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-metrics-end-user-messaging/)
+- [AWS Batch now supports multiple EC2 Launch Templates per Compute Environment](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-batch-multiple-ec2-launch-templates-compute-environment)
 - [Amazon SageMaker Notebook Instances now support Trainium1 and Inferentia 2 based instances](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sagemaker-notebook-instances-trainium1-inferentia-2-based-instances)
 - [AWS Application Load Balancer announces CloudFront integration with built-in WAF](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-cloudfront-integration-builtin-waf)
-- [AWS IoT Core adds capabilities to enrich MQTT messages and simplify permission management](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-iot-core-capabilities-mqtt-messages-simplify-permission-management)
-- [Amazon CloudWatch launches Observability Solutions for AWS Services and Workloads on AWS](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-observability-solutions-aws-services-workloads)
-- [Amazon Data Firehose supports continuous replication of database changes to Apache Iceberg Tables in Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-data-firehose-continuous-replication-database-changes-apache-iceberg-tables-s3)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
