@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Q Developer in the AWS Management Console now uses the service you’re viewing as context for your chat](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-aws-management-console-service-viewing-context-chat)
+- [Easily troubleshoot NodeJS applications with Amazon CloudWatch Application Signals](https://aws.amazon.com/about-aws/whats-new/2024/11/troubleshoot-nodejs-applications-amazon-cloudwatch-application-signals)
+- [Amazon Q generative SQL in Amazon Redshift Query Editor now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-generative-sql-redshift-query-editor-aws-regions/)
+- [Self-service capacity management for AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2024/11/self-service-capacity-management-aws-outposts/)
+- [AWS End User Messaging announces cost allocation tags for SMS](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-end-user-messaging-cost-allocation-tags-for-sms/)
 - [Announcing Amazon CloudWatch Metrics support in AWS End User Messaging](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-metrics-end-user-messaging/)
-- [AWS Batch now supports multiple EC2 Launch Templates per Compute Environment](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-batch-multiple-ec2-launch-templates-compute-environment)
-- [Amazon SageMaker Notebook Instances now support Trainium1 and Inferentia 2 based instances](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sagemaker-notebook-instances-trainium1-inferentia-2-based-instances)
-- [AWS Application Load Balancer announces CloudFront integration with built-in WAF](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-cloudfront-integration-builtin-waf)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
