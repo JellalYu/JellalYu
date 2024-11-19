@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 X2iezn instances are now available in additional AWS region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-x2iezn-instances-additional-aws-region)
 - [AWS IoT SiteWise announces new generative AI-powered industrial assistant](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-iot-sitewise-generative-ai-powered-industrial-assistant)
 - [Amazon EKS simplifies providing IAM permissions to EKS add-ons](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-eks-iam-permissions-eks-add-ons)
 - [Amazon Aurora MySQL 3.08 &lpar;compatible with MySQL 8.0.39&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-aurora-mysql-3-08-compatible-8-0-39-generally-available)
 - [AWS Chatbot adds support for chatting about AWS resources with Amazon Q Developer in Microsoft Teams and Slack](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-chatbot-chatting-amazon-q-developer-microsoft-teams-slack)
-- [Amazon DynamoDB announces general availability of attribute-based access control](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamodb-general-availability-attribute-based-access-control)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
