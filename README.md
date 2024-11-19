@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS AppSync GraphQL APIs now support data plane logging to AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-appsync-graphql-apis-data-plane-logging-cloudtrail)
 - [Amazon OpenSearch Serverless now supports point in time &lpar;PIT&rpar; search](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-serverless-pit-search)
 - [Introducing Binary Embeddings for Titan Text Embeddings model in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/11/binary-embeddings-titan-text-embeddings-model-amazon-bedrock)
 - [AWS support case management is now available in AWS Chatbot for Microsoft Teams and Slack](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-support-case-management-aws-chatbot-microsoft-teams-slack)
 - [Amazon EFS now supports cross-account Replication](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-efs-cross-account-replication/)
-- [Amazon OpenSearch Service now scales to 1000 data nodes on a single cluster](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-scales-1000-nodes-cluster)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
