@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [CloudWatch RUM now supports percentile aggregations and simplified troubleshooting with web vitals metrics](https://aws.amazon.com/about-aws/whats-new/2024/11/cloudwatch-rum-percentile-aggregations-simplified-troubleshooting)
+- [Disk-optimized vector engine now available on the Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2024/11/disk-optimized-vector-engine-amazon-opensearch-service)
+- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports adding Regions to existing Keyspaces](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-keyspaces-apache-cassandra-regions-existing-keyspaces)
+- [AWS Glue expands connectivity to 19 native connectors for Enterprise applications](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-glue-connectivity-19-native-connectors-enterprise-applications)
 - [AWS AppSync GraphQL APIs now support data plane logging to AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-appsync-graphql-apis-data-plane-logging-cloudtrail)
-- [Amazon OpenSearch Serverless now supports point in time &lpar;PIT&rpar; search](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-serverless-pit-search)
-- [Introducing Binary Embeddings for Titan Text Embeddings model in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/11/binary-embeddings-titan-text-embeddings-model-amazon-bedrock)
-- [AWS support case management is now available in AWS Chatbot for Microsoft Teams and Slack](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-support-case-management-aws-chatbot-microsoft-teams-slack)
-- [Amazon EFS now supports cross-account Replication](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-efs-cross-account-replication/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
