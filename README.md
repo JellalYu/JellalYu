@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace announces improved offer and agreement management capabilities for sellers](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-marketplace-offer-agreement-management-capabilities-sellers)
 - [Amazon CloudWatch Logs launches the ability to transform and enrich logs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-logs-transform-enrich/)
 - [Amazon RDS for PostgreSQL supports pgvector 0.8.0](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-for-postgresql-pgvector-080/)
-- [Introducing an AWS Management Console Visual Update &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-management-console-visual-update-preview)
+- [Amazon RDS Blue/Green Deployments Green storage fully performant prior to switchover](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-blue-green-deployments-green-storage-performant-switchover/)
 - [Amazon OpenSearch Service now supports Custom Plugins](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-custom-plugins/)
-- [AWS Elastic Beanstalk adds support for Ruby 3.3](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-elastic-beanstalk-ruby-3-3)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
