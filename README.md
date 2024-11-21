@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon CloudFront now supports additional log formats and destinations for access logs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudfront-log-formats-destinations-access)
 - [Amazon Connect now supports nine additional languages for forecasting, capacity planning, and scheduling](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-additional-languages-forecasting-capacity-planning-scheduling)
 - [OpenSearch’s vector engine adds support for UltraWarm on Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2024/11/opensearch-vector-engine-ultrawarm-amazon-opensearch-service)
 - [AWS B2B Data Interchange now supports all X12 transaction sets](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-b-2-b-data-interchange-x12-transaction-sets)
 - [AWS Compute Optimizer now supports rightsizing recommendations for Amazon Aurora](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-compute-optimizer-rightsizing-recommendations-amazon-aurora)
+- [Amazon CloudFront now supports Anycast Static IPs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudfront-anycast-static-ips)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
