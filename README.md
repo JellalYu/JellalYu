@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 now provides lineage information for your AMIs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-lineage-information-amis)
+- [AWS DMS now delivers improved performance for data validation](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-dms-improved-performance-data-validation)
 - [AWS Marketplace announces improved offer and agreement management capabilities for sellers](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-marketplace-offer-agreement-management-capabilities-sellers)
 - [Amazon CloudWatch Logs launches the ability to transform and enrich logs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-logs-transform-enrich/)
 - [Amazon RDS for PostgreSQL supports pgvector 0.8.0](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-for-postgresql-pgvector-080/)
-- [Amazon RDS Blue/Green Deployments Green storage fully performant prior to switchover](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-blue-green-deployments-green-storage-performant-switchover/)
-- [Amazon OpenSearch Service now supports Custom Plugins](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-custom-plugins/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
