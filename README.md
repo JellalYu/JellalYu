@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [CloudWatch RUM now supports percentile aggregations and simplified troubleshooting with web vitals metrics](https://aws.amazon.com/about-aws/whats-new/2024/11/cloudwatch-rum-percentile-aggregations-simplified-troubleshooting)
-- [Disk-optimized vector engine now available on the Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2024/11/disk-optimized-vector-engine-amazon-opensearch-service)
-- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports adding Regions to existing Keyspaces](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-keyspaces-apache-cassandra-regions-existing-keyspaces)
-- [AWS Glue expands connectivity to 19 native connectors for Enterprise applications](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-glue-connectivity-19-native-connectors-enterprise-applications)
-- [AWS AppSync GraphQL APIs now support data plane logging to AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-appsync-graphql-apis-data-plane-logging-cloudtrail)
+- [Amazon CloudFront now supports additional log formats and destinations for access logs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudfront-log-formats-destinations-access)
+- [Amazon Connect now supports nine additional languages for forecasting, capacity planning, and scheduling](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-additional-languages-forecasting-capacity-planning-scheduling)
+- [OpenSearch’s vector engine adds support for UltraWarm on Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2024/11/opensearch-vector-engine-ultrawarm-amazon-opensearch-service)
+- [AWS B2B Data Interchange now supports all X12 transaction sets](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-b-2-b-data-interchange-x12-transaction-sets)
+- [Amazon CloudFront now supports Anycast Static IPs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudfront-anycast-static-ips)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
