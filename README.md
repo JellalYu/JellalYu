@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing enhanced purchase order support for AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/11/enhanced-purchase-order-support-aws-marketplace)
-- [Amazon EC2 R8g instances now available in AWS Europe &lpar;Stockholm&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-r8g-instances-aws-europe-stockholm)
-- [Mountpoint for Amazon S3 now supports a high performance shared cache](https://aws.amazon.com/about-aws/whats-new/2024/11/mountpoint-amazon-s3-high-performance-shared-cache)
-- [Amazon VPC IPAM now supports enabling IPAM for organizational units within AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-vpc-ipam-organizational-units-aws-organizations)
-- [AWS announces Media Quality-Aware Resiliency for live streaming](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-announces-media-quality-aware-resiliency-live-streaming)
+- [Amazon S3 Express One Zone now supports the ability to append data to an object](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-append-data-object)
+- [Amazon EC2 G6e instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-g6e-instances-additional-regions)
+- [AWS Application Load Balancer introduces header modification for enhanced traffic control and security](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-header-modification-enhanced-traffic-control-security)
+- [Amazon CloudWatch Synthetics now supports Playwright runtime to create canaries with NodeJS](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-synthetics-playwright-runtime-canaries-nodejs)
+- [Amazon S3 Express One Zone now supports S3 Lifecycle expirations](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-s3-lifecycle-expirations)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
