@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Connect now supports nine additional languages for forecasting, capacity planning, and scheduling](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-additional-languages-forecasting-capacity-planning-scheduling)
-- [OpenSearch’s vector engine adds support for UltraWarm on Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2024/11/opensearch-vector-engine-ultrawarm-amazon-opensearch-service)
-- [AWS B2B Data Interchange now supports all X12 transaction sets](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-b-2-b-data-interchange-x12-transaction-sets)
-- [AWS Compute Optimizer now supports rightsizing recommendations for Amazon Aurora](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-compute-optimizer-rightsizing-recommendations-amazon-aurora)
-- [Amazon CloudFront now supports Anycast Static IPs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudfront-anycast-static-ips)
+- [Amazon CloudWatch Logs launches the ability to transform and enrich logs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-logs-transform-enrich/)
+- [Amazon RDS for PostgreSQL supports pgvector 0.8.0](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-for-postgresql-pgvector-080/)
+- [Introducing an AWS Management Console Visual Update &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-management-console-visual-update-preview)
+- [Amazon OpenSearch Service now supports Custom Plugins](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-custom-plugins/)
+- [AWS Elastic Beanstalk adds support for Ruby 3.3](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-elastic-beanstalk-ruby-3-3)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
