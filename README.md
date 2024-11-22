@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EC2 added New CPU-Performance Attribute for Instance Type Selection](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-cpu-performance-attribute-instance-type-selection)
-- [Amazon S3 Express One Zone is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-three-aws-regions)
-- [Amazon S3 Express One Zone now supports the ability to append data to an object](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-append-data-object)
-- [Amazon EC2 G6e instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-g6e-instances-additional-regions)
-- [AWS Application Load Balancer introduces header modification for enhanced traffic control and security](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-header-modification-enhanced-traffic-control-security)
+- [Amazon Connect Contact Lens generative AI-powered post contact summarization is now available in 5 new regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-contact-lens-generative-ai-powered-post-contact-summarization-new-regions)
+- [Announcing features to favorite applications and quickly access your recently used applications](https://aws.amazon.com/about-aws/whats-new/2024/11/features-favorite-applications-access-used-applications)
+- [Announcing the Quantum Embark advisory program for customers new to quantum computing](https://aws.amazon.com/about-aws/whats-new/2024/11/quantum-embark-advisory-program-customers-new-quantum-computing)
+- [Amazon Bedrock Flows is now generally available with two new capabilities](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-flows-new-capabilities)
+- [Announcing new feature tiers: Essentials and Plus for Amazon Cognito](https://aws.amazon.com/about-aws/whats-new/2024/11/new-feature-tiers-essentials-plus-amazon-cognito)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
