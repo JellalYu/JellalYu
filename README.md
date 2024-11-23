@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon QuickSight launches Layer Map](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-layer-map)
-- [Amazon QuickSight launches Image component](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-image-component)
-- [AWS Lambda announces Provisioned Mode for Kafka event source mappings &lpar;ESMs&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-provisioned-mode-kafka-esms)
-- [AWS Application Discovery Service adds integration with AWS Application Migration Service](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-discovery-service-integration-application-migration-service)
-- [Amazon Q Business now available as browser extension](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-business-browser-extension)
+- [AWS Application Load Balancer introduces Certificate Authority advertisement to simplify client behavior while using Mutual TLS](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-certificate-authority-advertisement)
+- [AWS Application Discovery Service now supports data from commercially available discovery tools](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-discovery-service-data-commercially-available-discovery-tools)
+- [Amazon S3 Connector for PyTorch now supports Distributed Checkpoint](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-connector-pytorch-distributed-checkpoint)
+- [Amazon EC2 Auto Scaling introduces highly responsive scaling policies](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-auto-scaling-highly-responsive-scaling-policies)
+- [Amazon OpenSearch Ingestion now supports writing security data to Amazon Security Lake](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-ingestion-writing-security-data-security-lake)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
