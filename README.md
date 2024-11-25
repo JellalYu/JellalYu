@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Artifact enhances agreements with improved access control and tracking](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-artifact-agreements-improved-access-control-tracking/)
-- [AWS CodePipeline now supports publishing ECR image and AWS InspectorScan as new actions](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-codepipeline-publishing-ecr-image-aws-inspectorscan-actions)
-- [AWS Application Load Balancer introduces Certificate Authority advertisement to simplify client behavior while using Mutual TLS](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-certificate-authority-advertisement)
-- [AWS Application Discovery Service now supports data from commercially available discovery tools](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-discovery-service-data-commercially-available-discovery-tools)
-- [Amazon S3 Connector for PyTorch now supports Distributed Checkpoint](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-connector-pytorch-distributed-checkpoint)
+- [Amazon DataZone now enhances data access governance with enforced metadata rules](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-datazone-data-access-governance-enforced-metadata-rules)
+- [Amazon Managed Service for Apache Flink now supports Amazon Managed Service for Prometheus as a destination](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-managed-service-prometheus-destination)
+- [Amazon SageMaker introduces Scale Down to Zero for AI inference to help customers save costs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sagemaker-scale-down-zero-ai-inference-save-costs/)
+- [Amazon Q Developer Pro tier introduces a new, improved dashboard for user activity](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-pro-tier-dashboard-user-activity/)
+- [Amazon EC2 Capacity Blocks now supports instant start times and extensions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-capacity-blocks-instant-start-times-extensions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
