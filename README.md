@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Artifact enhances agreements with improved access control and tracking](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-artifact-agreements-improved-access-control-tracking/)
+- [AWS CodePipeline now supports publishing ECR image and AWS InspectorScan as new actions](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-codepipeline-publishing-ecr-image-aws-inspectorscan-actions)
 - [AWS Application Load Balancer introduces Certificate Authority advertisement to simplify client behavior while using Mutual TLS](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-certificate-authority-advertisement)
 - [AWS Application Discovery Service now supports data from commercially available discovery tools](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-discovery-service-data-commercially-available-discovery-tools)
 - [Amazon S3 Connector for PyTorch now supports Distributed Checkpoint](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-connector-pytorch-distributed-checkpoint)
-- [Amazon EC2 Auto Scaling introduces highly responsive scaling policies](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-auto-scaling-highly-responsive-scaling-policies)
-- [Amazon OpenSearch Ingestion now supports writing security data to Amazon Security Lake](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-ingestion-writing-security-data-security-lake)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
