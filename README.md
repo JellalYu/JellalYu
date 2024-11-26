@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cloud WAN simplifies on-premises connectivity via AWS Direct Connect](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-cloud-wan-on-premises-connectivity-direct-connect)
 - [Amazon S3 now supports enforcement of conditional write operations for S3 general purpose buckets](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-enforcement-conditional-write-operations-general-purpose-buckets)
 - [Amazon S3 adds new functionality for conditional writes](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes)
 - [Announcing Idle Disconnect Timeout for Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2024/11/idle-disconnect-timeout-amazon-workspaces)
 - [AWS delivers enhanced root cause insights to help explain cost anomalies](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-enhanced-root-cause-insights-cost-anomalies)
-- [Self-Service Know Your Customer &lpar;KYC&rpar; for AWS Marketplace Sellers](https://aws.amazon.com/about-aws/whats-new/2024/11/self-service-kyc-aws-marketplace-sellers)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
