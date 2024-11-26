@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 R7g instances are now available in AWS Middle East &lpar;Bahrain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-r7g-instances-aws-middle-east-bahrain-region)
+- [Amazon Redshift multi-data warehouse writes through data sharing is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-redshift-multi-data-warehouse-through-data-sharing/)
+- [Amazon Q Developer now provides natural language cost analysis](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-natural-language-cost-analysis/)
 - [Amazon QuickSight now supports prompted reports and reader scheduling for pixel-perfect reports](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-prompted-reports-reader-scheduling-pixel-perfect-reports)
 - [Amazon ECR announces 10x increase in repository limit to 100,000](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ecr-repository-limit-100000)
-- [Amazon Redshift multi-data warehouse writes through data sharing is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-redshift-multi-data-warehouse-through-data-sharing/)
-- [AWS Network Firewall expands the list of supported protocols and keywords in firewall rules](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-network-firewall-list-protocols-keywords-firewall/)
-- [AWS Cloud WAN simplifies on-premises connectivity via AWS Direct Connect](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-cloud-wan-on-premises-connectivity-direct-connect)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
