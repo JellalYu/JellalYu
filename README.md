@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS PrivateLink now supports cross-region connectivity](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-privatelink-across-region-connectivity)
-- [Amazon Aurora now supports Graviton4-based R8g database instances](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-aurora-graviton4-based-r8g-database-instances)
-- [Introducing Advanced Scaling in Amazon EMR Managed Scaling](https://aws.amazon.com/about-aws/whats-new/2024/11/introducing-advanced-scaling-amazon-emr-managed-scaling)
-- [Amazon EBS announces Time-based Copy for EBS Snapshots](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ebs-time-based-copy-snapshots)
-- [Amazon EFS now supports up to 2.5 million IOPS per file system](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-efs-up-to-2-5-million-iops-per-file-system)
+- [Amazon Q Developer can now provide more personalized chat answers based on console context](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-personalized-chat-answers-console-context/)
+- [Valkey GLIDE 1.2 adds new features from Valkey 8.0, including AZ awareness](https://aws.amazon.com/about-aws/whats-new/2024/11/valkey-glide-1-2-features-valkey-8-0-az-awareness/)
+- [AWS Amplify introduces passwordless authentication with Amazon Cognito](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-amplify-passwordless-authentication-amazon-cognito)
+- [Introducing Amazon Q Apps with private sharing](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-apps-private-sharing)
+- [Amazon Bedrock Agents now supports custom orchestration](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-agents-custom-orchestration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
