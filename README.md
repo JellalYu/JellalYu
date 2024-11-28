@@ -50,8 +50,8 @@
 - [Amazon FSx for Lustre now supports Elastic Fabric Adapter and NVIDIA GPUDirect Storage](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-fsx-lustre-elastic-fabric-adapter-nvidia-gpudirect-storage)
 - [Amazon Q Developer launches Java upgrade transformation CLI &lpar;Public Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-java-upgrade-transformation-cli-public-preview)
 - [Amazon Q Developer for the Eclipse IDE is now in public preview](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-eclipse-ide-public-preview)
-- [Valkey GLIDE 1.2 adds new features from Valkey 8.0, including AZ awareness](https://aws.amazon.com/about-aws/whats-new/2024/11/valkey-glide-1-2-features-valkey-8-0-az-awareness/)
 - [Amazon Q Developer can now provide more personalized chat answers based on console context](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-personalized-chat-answers-console-context/)
+- [Valkey GLIDE 1.2 adds new features from Valkey 8.0, including AZ awareness](https://aws.amazon.com/about-aws/whats-new/2024/11/valkey-glide-1-2-features-valkey-8-0-az-awareness/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
