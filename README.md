@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon FSx for Lustre now supports Elastic Fabric Adapter and NVIDIA GPUDirect Storage](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-fsx-lustre-elastic-fabric-adapter-nvidia-gpudirect-storage)
-- [Amazon Q Developer launches Java upgrade transformation CLI &lpar;Public Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-java-upgrade-transformation-cli-public-preview)
-- [Amazon Q Developer for the Eclipse IDE is now in public preview](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-eclipse-ide-public-preview)
-- [AWS Amplify introduces passwordless authentication with Amazon Cognito](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-amplify-passwordless-authentication-amazon-cognito)
-- [Amazon Q Developer can now provide more personalized chat answers based on console context](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-personalized-chat-answers-console-context/)
+- [Announcing Amazon EC2 I8g instances](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-i8g-instances)
+- [Amazon Web Services announces declarative policies](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-declarative-policies)
+- [Amazon OpenSearch Service zero-ETL integration with Amazon Security Lake](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-opensearch-service-zero-etl-integration-security-lake)
+- [Amazon CloudWatch and Amazon OpenSearch Service launch an integrated analytics experience](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-cloudwatch-opensearch-service-integrated-analytics/)
+- [Introducing Amazon EC2 next generation high density Storage Optimized I7ie instances](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-next-generation-high-density-storage-optimized-i7ie-instances)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
