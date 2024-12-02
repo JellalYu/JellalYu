@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Announcing Amazon EC2 I8g instances](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-i8g-instances)
 - [Amazon Web Services announces declarative policies](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-declarative-policies)
-- [Amazon OpenSearch Service zero-ETL integration with Amazon Security Lake](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-opensearch-service-zero-etl-integration-security-lake)
-- [Announcing the general availability of Amazon MemoryDB Multi-Region](https://aws.amazon.com/about-aws/whats-new/2024/12/general-availability-amazon-memory-db-multi-region)
-- [Amazon CloudWatch and Amazon OpenSearch Service launch an integrated analytics experience](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-cloudwatch-opensearch-service-integrated-analytics/)
+- [Amazon Connect Contact Lens now automatically categorizes your contacts using generative AI](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-contact-lens-categorizes-contacts-generative-ai)
+- [Amazon Connect launches AI guardrails for Amazon Q in Connect](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-ai-guardrails-q-connect)
+- [Amazon Connect launches new intraday forecast dashboards](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-launches-intraday-forecast-dashboards)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
