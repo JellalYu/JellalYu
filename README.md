@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EC2 P5en instances, optimized for generative AI and HPC, are generally available](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-p5en-instances-generative-ai-hpc-generally-available)
-- [Introducing latency-optimized inference for foundation models in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/12/latency-optimized-inference-foundation-models-amazon-bedrock/)
-- [VPC Lattice now includes TCP support with VPC Resources](https://aws.amazon.com/about-aws/whats-new/2024/12/vpc-lattice-tcp-vpc-resources)
-- [Deploy GROW with SAP on AWS from AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/12/deploy-grow-sap-aws-marketplace/)
-- [Announcing Amazon EC2 I8g instances](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-i8g-instances)
+- [Announcing Amazon S3 Metadata &lpar;Preview&rpar; – Easiest and fastest way to manage your metadata](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-s3-metadata-preview)
+- [Amazon DynamoDB global tables previews multi-Region strong consistency](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-dynamodb-global-tables-previews-multi-region-strong-consistency)
+- [Amazon Bedrock Model Distillation is now available in preview](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-model-distillation-preview/)
+- [Amazon Bedrock now supports multi-agent collaboration](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-multi-agent-collaboration/)
+- [Amazon Bedrock Guardrails now supports Automated Reasoning checks &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-guardrails-automated-reasoning-checks-preview)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
