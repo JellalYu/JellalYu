@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Announcing Amazon S3 Metadata &lpar;Preview&rpar; – Easiest and fastest way to manage your metadata](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-s3-metadata-preview)
-- [Amazon DynamoDB global tables previews multi-Region strong consistency](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-dynamodb-global-tables-previews-multi-region-strong-consistency)
 - [Amazon Bedrock now supports multi-agent collaboration](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-multi-agent-collaboration/)
 - [Introducing the next generation of Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2024/12/next-generation-amazon-sagemaker)
-- [Amazon Bedrock Guardrails now supports Automated Reasoning checks &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-guardrails-automated-reasoning-checks-preview)
+- [AWS announces Amazon SageMaker Lakehouse](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-announces-amazon-sagemaker-lakehouse)
+- [Amazon Q Developer can now automate code reviews](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-developer-automate-code-reviews/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
