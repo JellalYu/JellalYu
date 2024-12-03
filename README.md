@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 P5en instances, optimized for generative AI and HPC, are generally available](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-p5en-instances-generative-ai-hpc-generally-available)
+- [VPC Lattice now includes TCP support with VPC Resources](https://aws.amazon.com/about-aws/whats-new/2024/12/vpc-lattice-tcp-vpc-resources)
 - [Announcing Amazon EC2 I8g instances](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-i8g-instances)
 - [Amazon Web Services announces declarative policies](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-declarative-policies)
 - [Introducing Amazon EC2 next generation high density Storage Optimized I7ie instances](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-next-generation-high-density-storage-optimized-i7ie-instances)
-- [New streamlined deployment experience for Databricks on AWS](https://aws.amazon.com/about-aws/whats-new/2024/12/streamlined-deployment-experience-databricks-aws)
-- [Amazon S3 adds new default data integrity protections](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-s3-default-data-integrity-protections/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
