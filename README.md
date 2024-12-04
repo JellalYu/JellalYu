@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Developer can now automate code reviews](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-developer-automate-code-reviews/)
+- [Amazon Bedrock now supports multi-agent collaboration](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-multi-agent-collaboration/)
+- [Amazon Q Business introduces over 50 actions for popular business applications and platforms](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-business-50-actions-business-applications-platforms)
 - [Amazon Q Developer now provides transformation capabilities for .NET porting &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-developer-transformation-net-porting-preview/)
-- [Amazon Q Developer adds operational investigation capability &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-developer-operational-investigation-preview/)
 - [Amazon DynamoDB zero-ETL integration with Amazon SageMaker Lakehouse](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-dynamo-db-zero-etl-integration-sagemaker-lakehouse)
-- [Amazon S3 Access Grants now integrate with AWS Glue](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-s3-access-grants-integrate-glue/)
-- [AWS expands data connectivity for Amazon SageMaker Lakehouse and AWS Glue](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-expands-data-connectivity-amazon-sagemaker-lakehouse-glue)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
