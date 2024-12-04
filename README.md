@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Task governance is now generally available for Amazon SageMaker HyperPod](https://aws.amazon.com/about-aws/whats-new/2024/12/task-governance-amazon-sagemaker-hyperpod/)
+- [Amazon Bedrock Knowledge Bases now supports structured data retrieval](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-knowledge-bases-structured-data-retrieval)
 - [AWS announces Amazon SageMaker Partner AI Apps](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-partner-ai-apps/)
 - [Amazon SageMaker HyperPod now provides flexible training plans](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-hyperpod-flexible-training-plans/)
-- [Amazon Bedrock Knowledge Bases now supports structured data retrieval](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-knowledge-bases-structured-data-retrieval)
 - [Amazon Bedrock Marketplace brings over 100 models to Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-marketplace-100-models-bedrock/)
+- [AWS Education Equity Initiative to boost education for underserved learners](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-education-equity-boost-education-underserved-learners/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
