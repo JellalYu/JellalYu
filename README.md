@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Q Developer now provides transformation capabilities for .NET porting &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-developer-transformation-net-porting-preview/)
-- [Amazon DynamoDB zero-ETL integration with Amazon SageMaker Lakehouse](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-dynamo-db-zero-etl-integration-sagemaker-lakehouse)
-- [Amazon S3 Access Grants now integrate with AWS Glue](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-s3-access-grants-integrate-glue/)
-- [AWS expands data connectivity for Amazon SageMaker Lakehouse and AWS Glue](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-expands-data-connectivity-amazon-sagemaker-lakehouse-glue)
-- [Introducing AWS Glue 5.0](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-glue-5-0/)
+- [Task governance is now generally available for Amazon SageMaker HyperPod](https://aws.amazon.com/about-aws/whats-new/2024/12/task-governance-amazon-sagemaker-hyperpod/)
+- [AWS announces Amazon SageMaker Partner AI Apps](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-partner-ai-apps/)
+- [Amazon SageMaker HyperPod now provides flexible training plans](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-hyperpod-flexible-training-plans/)
+- [Amazon Bedrock Knowledge Bases now supports structured data retrieval](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-knowledge-bases-structured-data-retrieval)
+- [Amazon Bedrock Marketplace brings over 100 models to Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-marketplace-100-models-bedrock/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
