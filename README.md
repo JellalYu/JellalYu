@@ -49,8 +49,8 @@
 <!-- AWS-NEWS:START -->
 - [Amazon CloudWatch now provides centralized visibility into telemetry configurations](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-cloudwatch-provides-centralized-visibility-telemetry-configurations)
 - [AWS Config now supports a service-linked recorder](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-config-service-linked-recorder)
+- [Amazon RDS Performance Insights extends On-demand Analysis to new regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-performance-insights-on-demand-analysis-regions/)
 - [Amazon SageMaker introduces new capabilities to accelerate scaling of Generative AI Inference](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-accelerate-scaling-generative-ai-inference)
-- [Amazon Bedrock Knowledge Bases now supports structured data retrieval](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-knowledge-bases-structured-data-retrieval)
 - [AWS announces Amazon SageMaker Partner AI Apps](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-partner-ai-apps/)
 <!-- AWS-NEWS:END -->
 
