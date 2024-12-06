@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Hpc6id instances are now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-hpc6id-instances-europe-paris-region)
+- [Amazon EC2 Hpc7a instances are now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-hpc7a-instances-europe-paris-region)
+- [Amazon Aurora now available as a quick create vector store in Amazon Bedrock Knowledge Bases](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-aurora-quick-create-vector-store-bedrock-knowledge-bases)
 - [Amazon CloudWatch now provides centralized visibility into telemetry configurations](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-cloudwatch-provides-centralized-visibility-telemetry-configurations)
 - [AWS Config now supports a service-linked recorder](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-config-service-linked-recorder)
-- [Amazon RDS Performance Insights extends On-demand Analysis to new regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-performance-insights-on-demand-analysis-regions/)
-- [Amazon SageMaker introduces new capabilities to accelerate scaling of Generative AI Inference](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-accelerate-scaling-generative-ai-inference)
-- [AWS announces Amazon SageMaker Partner AI Apps](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-partner-ai-apps/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
