@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock Model Evaluation now available in Europe &lpar;Zurich&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-model-evaluation-zurich)
+- [Amazon EC2 High Memory U7i instances are now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-high-memory-u7i-instances-govcloud-west/)
 - [Amazon EC2 Hpc6id instances are now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-hpc6id-instances-europe-paris-region)
 - [Amazon EC2 Hpc7a instances are now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-hpc7a-instances-europe-paris-region)
 - [Amazon Aurora now available as a quick create vector store in Amazon Bedrock Knowledge Bases](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-aurora-quick-create-vector-store-bedrock-knowledge-bases)
-- [Amazon CloudWatch now provides centralized visibility into telemetry configurations](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-cloudwatch-provides-centralized-visibility-telemetry-configurations)
-- [AWS Config now supports a service-linked recorder](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-config-service-linked-recorder)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
