@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MQ now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-mq-aws-privatelink)
+- [Amazon Simple Email Services &lpar;SES&rpar; announces Deterministic Easy DKIM](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-simple-email-services-deterministic-easy-dkim)
 - [AWS IoT Core for LoRaWAN announces new feature enhancements](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-iot-core-lorawan-feature-enhancements)
 - [Amazon Bedrock Guardrails reduces pricing by up to 85%](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-guardrails-reduces-pricing-85-percent)
 - [Amazon RDS for SQL Server Supports new custom parameters for native backup and restore](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-sql-server-custom-parameters-backup-restore/)
-- [AWS Resource Groups now supports 405 more resource types](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-resource-groups-405-more-resource-types/)
-- [Amazon Bedrock Model Evaluation now available in Europe &lpar;Zurich&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-model-evaluation-zurich)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
