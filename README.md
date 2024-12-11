@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 M7i-flex &amp; M7i instances now available in Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-m7i-flex-m7i-instances-jakarta-region)
+- [Amazon SageMaker AI announces availability of P5e and G6e instances for Inference](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-ai-p5e-g6e-instances-inference)
+- [AWS Security Hub now supports PCI DSS v4.0.1 standard](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-security-hub-pci-dss-v4.0-1-standard)
+- [Amazon Connect now supports push notifications for mobile chat](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-push-notifications-mobile-chat)
 - [Amazon EC2 M8g instances now available in AWS Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-m8g-instances-europe-spain/)
-- [Amazon Lex launches new multilingual speech recognition models](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-lex-multilingual-speech-recognition-models/)
-- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; announces frozen collections in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-keyspaces-apache-cassandra-frozen-collections-govcloud/)
-- [Amazon EC2 R8g instances now available in AWS Asia Pacific &lpar;Tokyo&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-r8g-asia-pacific-tokyo/)
-- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports User-Defined Types in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-keyspaces-apache-cassandra-user-defined-types-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
