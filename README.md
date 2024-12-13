@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Redshift supports auto and incremental refresh of Materialized Views for zero-ETL integrations](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-redshift-refresh-materialized-views-zero-etl-integrations/)
-- [Amazon Route 53 Resolver DNS Firewall and DNS Firewall Advanced now available in the Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-route-53-resolver-dns-firewall-advanced-malaysia-region)
-- [Amazon EC2 C7g  instances are now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-c7g-instances-aws-govcloud-regions)
-- [Amazon RDS for PostgreSQL announces Extended Support minor 11.22-RDS.20241121](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-postgresql-minor-11-22-rds-20241121/)
-- [Announcing general availability of auto-copy for Amazon Redshift in the GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/general-availability-auto-copy-amazon-redshift-govcloud-regions)
+- [Amazon EC2 instances support bandwidth configurations for VPC and EBS](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-instances-bandwidth-configurations-vpc-ebs)
+- [AWS Elemental MediaConnect Gateway now supports source-specific multicast](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-elemental-mediaconnect-gateway-source-specific-multicast)
+- [AWS Resource Explorer supports 59 new resource types](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-resource-explorer-new-resource-types)
+- [AWS Cloud Map now supports Service Level Attributes](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-cloud-map-service-level-attributes)
+- [AWS announces new AWS Direct Connect location in Osaka, Japan](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-direct-connect-location-osaka-japan/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
