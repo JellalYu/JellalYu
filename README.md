@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift supports auto and incremental refresh of Materialized Views for zero-ETL integrations](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-redshift-refresh-materialized-views-zero-etl-integrations/)
 - [Amazon Route 53 Resolver DNS Firewall and DNS Firewall Advanced now available in the Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-route-53-resolver-dns-firewall-advanced-malaysia-region)
 - [Amazon EC2 C7g  instances are now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-c7g-instances-aws-govcloud-regions)
 - [Amazon RDS for PostgreSQL announces Extended Support minor 11.22-RDS.20241121](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-postgresql-minor-11-22-rds-20241121/)
 - [Announcing general availability of auto-copy for Amazon Redshift in the GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/general-availability-auto-copy-amazon-redshift-govcloud-regions)
-- [Amazon OpenSearch Service adds support for r7gd instances in six additional regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-opensearch-service-r7gd-instances-six-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
