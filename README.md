@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Bottlerocket now supports Elastic Fabric Adapter for AI/ML and HPC workloads](https://aws.amazon.com/about-aws/whats-new/2024/12/bottlerocket-elastic-fabric-adapter-ai-ml-workloads)
 - [Amazon AppStream 2.0 users can now save their user preferences between streaming sessions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-appstream-2-0-users-save-user-preferences-streaming-sessions)
 - [Amazon EC2 instances support bandwidth configurations for VPC and EBS](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-instances-bandwidth-configurations-vpc-ebs)
 - [AWS Elemental MediaConnect Gateway now supports source-specific multicast](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-elemental-mediaconnect-gateway-source-specific-multicast)
 - [AWS Resource Explorer supports 59 new resource types](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-resource-explorer-new-resource-types)
-- [AWS Cloud Map now supports Service Level Attributes](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-cloud-map-service-level-attributes)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
