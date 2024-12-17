@@ -51,7 +51,7 @@
 - [Kinesis Producer Library now supports the AWS SDK for Java 2.x](https://aws.amazon.com/about-aws/whats-new/2024/12/kinesis-producer-library-aws-sdk-java-2-x)
 - [Amazon EBS launches Local Snapshots for AWS Dedicated Local Zones](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ebs-local-snapshots-aws-dedicated-local-zones)
 - [Bottlerocket now supports Elastic Fabric Adapter for AI/ML and HPC workloads](https://aws.amazon.com/about-aws/whats-new/2024/12/bottlerocket-elastic-fabric-adapter-ai-ml-workloads)
-- [Introducing Amazon EC2 High Memory U7inh Instance](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-high-memory-u7inh-instance/)
+- [Announcing Node Health Monitoring and Auto-Repair for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2024/12/node-health-monitoring-auto-repair-amazon-eks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
