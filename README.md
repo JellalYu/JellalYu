@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elastic Beanstalk now updates environment status when invalid](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-elastic-beanstalk-updates-environment-status-invalid)
+- [Introducing AWS Glue 5.0 in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-glue-5-0-govcloud-us-regions)
 - [New look for AWS Marketplace Professional Services product detail pages](https://aws.amazon.com/about-aws/whats-new/2024/12/new-look-aws-marketplace-professional-services-product-detail-pages)
 - [IAM Roles Anywhere credential helper now supports TPM 2.0](https://aws.amazon.com/about-aws/whats-new/2024/12/iam-roles-anywhere-credential-helper-tpm-2-0)
 - [AWS IoT Greengrass v2.14 now supports a new lightweight edge runtime software, uses less than 5MB of memory](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-iot-greengrass-v2-14-lightweight-edge-runtime-software)
-- [AWS AppSync GraphQL enhances Amazon Aurora PostgreSQL and MySQL support with new resolver utilities](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-appsync-graphql-aurora-postgresql-mysql-utilities/)
-- [Amazon Connect now provides agent schedule data in analytics data lake](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-agent-schedule-analytics-data-lake)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
