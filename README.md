@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Greengrass v2.14 now supports a new lightweight edge runtime software, uses less than 5MB of memory](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-iot-greengrass-v2-14-lightweight-edge-runtime-software)
+- [Amazon Connect now provides agent schedule data in analytics data lake](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-agent-schedule-analytics-data-lake)
 - [Amazon Timestream for InfluxDB now supports Internet Protocol Version 6 &lpar;IPv6&rpar; connectivity](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-timestream-influxdb-ipv6-connectivity)
 - [Kinesis Producer Library now supports the AWS SDK for Java 2.x](https://aws.amazon.com/about-aws/whats-new/2024/12/kinesis-producer-library-aws-sdk-java-2-x)
 - [Amazon EBS launches Local Snapshots for AWS Dedicated Local Zones](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ebs-local-snapshots-aws-dedicated-local-zones)
-- [Bottlerocket now supports Elastic Fabric Adapter for AI/ML and HPC workloads](https://aws.amazon.com/about-aws/whats-new/2024/12/bottlerocket-elastic-fabric-adapter-ai-ml-workloads)
-- [Announcing Node Health Monitoring and Auto-Repair for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2024/12/node-health-monitoring-auto-repair-amazon-eks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
