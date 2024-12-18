@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS re:Post now supports Spanish and Portuguese](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-re-post-spanish-portuguese)
-- [AWS Elastic Beanstalk now updates environment status when invalid](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-elastic-beanstalk-updates-environment-status-invalid)
-- [Introducing AWS Glue 5.0 in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-glue-5-0-govcloud-us-regions)
-- [New look for AWS Marketplace Professional Services product detail pages](https://aws.amazon.com/about-aws/whats-new/2024/12/new-look-aws-marketplace-professional-services-product-detail-pages)
-- [IAM Roles Anywhere credential helper now supports TPM 2.0](https://aws.amazon.com/about-aws/whats-new/2024/12/iam-roles-anywhere-credential-helper-tpm-2-0)
+- [AWS Glue expands connectivity to 16 native connectors for applications](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-glue-16-native-connectors-applications/)
+- [AWS DMS now supports Kerberos authentication for Oracle and SQL Server Source Endpoints](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-dms-kerberos-authentication-oracle-sql-server-source-endpoints)
+- [Amazon Q Business analytics dashboard enhanced with conversation insights](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-business-analytics-dashboard-conversation-insights)
+- [AWS Parallel Computing Service &lpar;PCS&rpar; now supports Slurm version 24.05](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-pcs-slurm-version-24-05)
+- [AWS Resilience Hub now provides tailored AWS Fault Injection Service recommendations](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-resilience-hub-fault-injection-service-recommendations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
