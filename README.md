@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Glue expands connectivity to 16 native connectors for applications](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-glue-16-native-connectors-applications/)
-- [AWS DMS now supports Kerberos authentication for Oracle and SQL Server Source Endpoints](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-dms-kerberos-authentication-oracle-sql-server-source-endpoints)
-- [Amazon Q Business analytics dashboard enhanced with conversation insights](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-business-analytics-dashboard-conversation-insights)
-- [AWS Parallel Computing Service &lpar;PCS&rpar; now supports Slurm version 24.05](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-pcs-slurm-version-24-05)
+- [AWS Backup now supports Amazon Timestream in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-backup-amazon-timestream-govcloud-us-west)
+- [Announcing CloudFormation support for AWS Parallel Computing Service](https://aws.amazon.com/about-aws/whats-new/2024/12/cloudformation-aws-parallel-computing-service)
 - [AWS Resilience Hub now provides tailored AWS Fault Injection Service recommendations](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-resilience-hub-fault-injection-service-recommendations/)
+- [AWS Marketplace now supports self-service promotional media on seller product detail pages](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-marketplace-self-service-promotional-media-seller-product-detail-pages)
+- [AWS Glue expands connectivity to 16 native connectors for applications](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-glue-16-native-connectors-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
