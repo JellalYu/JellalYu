@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Stable Diffusion 3.5 Large in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/12/stable-diffusion-3-5-large-amazon-bedrock)
 - [New insights and reporting for resell revenue available in AWS Partner Central Analytics](https://aws.amazon.com/about-aws/whats-new/2024/12/insights-reporting-resell-revenue-aws-partner-central-analytics)
 - [AWS ParallelCluster 3.12 now available with custom image build enhancements](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-parallelcluster-3-12-custom-image-build-enhancements)
 - [Amazon Connect now supports multi-party chat](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-multiparty-chat/)
 - [Meta’s Llama 3.3 70B model now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/12/metas-llama-3-3-70b-model-amazon-bedrock/)
-- [AWS IoT Device Management introduces high-throughput device connectivity status queries](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-iot-device-management-high-throughput-device-connectivity-status-queries)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
