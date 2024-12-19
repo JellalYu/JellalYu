@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS ParallelCluster 3.12 now available with custom image build enhancements](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-parallelcluster-3-12-custom-image-build-enhancements)
+- [AWS IoT Device Management introduces high-throughput device connectivity status queries](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-iot-device-management-high-throughput-device-connectivity-status-queries)
+- [Amazon RDS Proxy announces caching_sha2_password authentication support for MySQL on Aurora and RDS](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-proxy-sha2-password-authentication-mysql-aurora-rds/)
 - [AWS Mainframe Modernization now supports connectivity over Internet Protocol version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-mainframe-modernization-connectivity-ipv6)
 - [Announcing NVMe-backed R6gd Instances for Amazon DocumentDB &lpar;with MongoDB Compatibility&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/nvme-backed-r6gd-instances-amazon-documentdb-mongodb-compatibility)
-- [AWS Backup now supports Amazon Timestream in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-backup-amazon-timestream-govcloud-us-west)
-- [Announcing CloudFormation support for AWS Parallel Computing Service](https://aws.amazon.com/about-aws/whats-new/2024/12/cloudformation-aws-parallel-computing-service)
-- [AWS Glue expands connectivity to 16 native connectors for applications](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-glue-16-native-connectors-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
