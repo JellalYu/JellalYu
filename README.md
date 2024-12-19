@@ -51,7 +51,7 @@
 - [Announcing NVMe-backed R6gd Instances for Amazon DocumentDB &lpar;with MongoDB Compatibility&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/nvme-backed-r6gd-instances-amazon-documentdb-mongodb-compatibility)
 - [AWS Backup now supports Amazon Timestream in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-backup-amazon-timestream-govcloud-us-west)
 - [Announcing CloudFormation support for AWS Parallel Computing Service](https://aws.amazon.com/about-aws/whats-new/2024/12/cloudformation-aws-parallel-computing-service)
-- [AWS Glue expands connectivity to 16 native connectors for applications](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-glue-16-native-connectors-applications/)
+- [AWS Resilience Hub now provides tailored AWS Fault Injection Service recommendations](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-resilience-hub-fault-injection-service-recommendations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
