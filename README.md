@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup now supports resource type and multiple tag selections in backup policies in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-backup-resource-type-multiple-tag-selections-backup-policies-govcloud-regions)
+- [Amazon Connect launches support for 64 languages for Amazon Q in Connect agent assistance](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-64-languages-q-connect-agent-assistance)
 - [Introducing Stable Diffusion 3.5 Large in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/12/stable-diffusion-3-5-large-amazon-bedrock)
 - [New insights and reporting for resell revenue available in AWS Partner Central Analytics](https://aws.amazon.com/about-aws/whats-new/2024/12/insights-reporting-resell-revenue-aws-partner-central-analytics)
 - [AWS ParallelCluster 3.12 now available with custom image build enhancements](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-parallelcluster-3-12-custom-image-build-enhancements)
-- [Meta’s Llama 3.3 70B model now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/12/metas-llama-3-3-70b-model-amazon-bedrock/)
-- [Amazon ECS now supports network fault injection experiments on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ecs-network-fault-injection-experiments-fargate/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
