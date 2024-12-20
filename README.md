@@ -51,7 +51,7 @@
 - [Amazon Connect launches support for 64 languages for Amazon Q in Connect agent assistance](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-64-languages-q-connect-agent-assistance)
 - [Introducing Stable Diffusion 3.5 Large in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/12/stable-diffusion-3-5-large-amazon-bedrock)
 - [New insights and reporting for resell revenue available in AWS Partner Central Analytics](https://aws.amazon.com/about-aws/whats-new/2024/12/insights-reporting-resell-revenue-aws-partner-central-analytics)
-- [Amazon AppStream 2.0 introduces Rocky Linux Application and Desktop streaming](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-appstream-2-0-rocky-linux-desktop-streaming/)
+- [AWS ParallelCluster 3.12 now available with custom image build enhancements](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-parallelcluster-3-12-custom-image-build-enhancements)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
