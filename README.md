@@ -47,10 +47,10 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK Connect adds support for Apache Kafka Connect version 3.7](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-msk-connect-apache-kafka-connect-version-3-7)
 - [Amazon RDS for Db2 supports multiple databases within an instance](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-db2-multiple-databases-instance/)
+- [Amazon Location Service now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-location-service-ipv6/)
 - [Amazon WorkSpaces Personal now supports AWS Global Accelerator](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-workspaces-personal-aws-global-accelerator)
-- [Amazon Q Business is now SOC compliant](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-business-soc-compliant)
-- [Amazon QuickSight Launches Unique Key for Dataset](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-quicksight-unique-key-dataset/)
 - [Amazon RDS for MariaDB supports minors 11.4.4, 10.11.10, 10.6.20, 10.5.27](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-mariadb-supports-new-minors/)
 <!-- AWS-NEWS:END -->
 
