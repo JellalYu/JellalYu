@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Managed Service for Prometheus collector now support collecting metrics from IPv6 EKS clusters](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-prometheus-collector-metrics-ipv6-eks-clusters/)
 - [AWS Systems Manager for SAP now supports SAP NetWeaver based ABAP applications deployed in distributed and HA topologies](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-systems-manager-sap-netweaver-based-abap-applications-deployed-distributed-ha-topologies)
+- [AWS announces notification actions in the AWS Console Mobile App for iOS](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-notification-actions-aws-console-mobile-app-ios)
+- [AWS Neuron introduces support for Trainium2 and NxD Inference](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-neuron-trainium2-nxd-inference)
 - [Amazon Connect launches support for routing to a specific range of agent proficiencies](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-routing-range-agent-proficiencies/)
-- [Amazon Connect offers the ability to exclude certain proficiencies during routing](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-exclude-proficiencies-routing)
-- [Amazon EKS expands catalog of upgrade insight checks](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-eks-catalog-upgrade-insights-checks)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
