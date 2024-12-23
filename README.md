@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Service for Prometheus collector now support collecting metrics from IPv6 EKS clusters](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-prometheus-collector-metrics-ipv6-eks-clusters/)
+- [AWS Systems Manager for SAP now supports SAP NetWeaver based ABAP applications deployed in distributed and HA topologies](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-systems-manager-sap-netweaver-based-abap-applications-deployed-distributed-ha-topologies)
+- [Amazon Connect launches support for routing to a specific range of agent proficiencies](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-routing-range-agent-proficiencies/)
+- [Amazon Connect offers the ability to exclude certain proficiencies during routing](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-exclude-proficiencies-routing)
 - [Amazon EKS expands catalog of upgrade insight checks](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-eks-catalog-upgrade-insights-checks)
-- [AWS Billing and Cost Management now supports custom billing views for decentralized cloud cost management](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-billing-cost-management-custom-billing-views)
-- [Amazon MSK Connect adds support for Apache Kafka Connect version 3.7](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-msk-connect-apache-kafka-connect-version-3-7)
-- [Amazon RDS for Db2 supports multiple databases within an instance](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-db2-multiple-databases-instance/)
-- [Amazon Location Service now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-location-service-ipv6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
