@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS introduces programmatic access to Kubernetes version availability](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-eks-access-kubernetes-version-availability/)
+- [Amazon EC2 Im4gn Instances are now available in Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-im4gn-instances-spain-region/)
 - [Amazon ECR expands registry policy to all ECR actions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ecr-expands-registry-policy-ecr-actions/)
 - [Llama 3.3 70B now available on AWS via Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2024/12/llama-3-3-70b-aws-amazon-sagemaker-jumpstart)
 - [AWS Neuron introduces support for Trainium2 and NxD Inference](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-neuron-trainium2-nxd-inference)
-- [AWS Systems Manager for SAP now supports SAP NetWeaver based ABAP applications deployed in distributed and HA topologies](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-systems-manager-sap-netweaver-based-abap-applications-deployed-distributed-ha-topologies)
-- [AWS announces notification actions in the AWS Console Mobile App for iOS](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-notification-actions-aws-console-mobile-app-ios)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
