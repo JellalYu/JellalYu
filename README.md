@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Discovery Services now supports IPv6 endpoints](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-application-discovery-services-ipv6-endpoints/)
 - [Amazon Location Service is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-location-service-aws-asia-pacific-malaysia-region)
 - [Amazon Aurora now supports PostgreSQL 16.6, 15.10, 14.15, 13.18, and 12.22](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-aurora-postgresql-supports-new-versions/)
 - [IPv6 compatibility for AWS Secrets Manager VPC Endpoints](https://aws.amazon.com/about-aws/whats-new/2024/12/ipv6-compatibility-aws-secrets-manager-vpc-endpoints)
 - [Amazon EC2 I7ie instances now available in AWS US East &lpar;Ohio&rpar;, US West &lpar;Oregon&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-i7ie-instances-ohio-oregon-regions)
-- [Amazon EKS introduces programmatic access to Kubernetes version availability](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-eks-access-kubernetes-version-availability/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
