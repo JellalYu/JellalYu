@@ -48,9 +48,9 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-netapp-ontap-aws-asia-pacific-malaysia-region)
-- [Amazon FSx for Lustre is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-lustre-aws-asia-pacific-malaysia-region)
-- [Amazon FSx for Windows File Server is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-windows-file-server-aws-asia-pacific-malaysia-region)
 - [Amazon FSx for OpenZFS is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-openzfs-aws-asia-pacific-malaysia-region)
+- [Amazon FSx for Windows File Server is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-windows-file-server-aws-asia-pacific-malaysia-region)
+- [Amazon FSx for Lustre is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-lustre-aws-asia-pacific-malaysia-region)
 - [AWS Application Discovery Services now supports IPv6 endpoints](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-application-discovery-services-ipv6-endpoints/)
 <!-- AWS-NEWS:END -->
 
