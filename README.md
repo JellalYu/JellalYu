@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing 20 additional AWS Systems Manager Automation runbook recommendations in AWS Chatbot](https://aws.amazon.com/about-aws/whats-new/2025/01/20-additional-aws-systems-manager-automation-runbook-recommendations-chatbot)
 - [Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-netapp-ontap-aws-asia-pacific-malaysia-region)
 - [AWS WAF Console adds new Top Insights Visualizations](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-waf-console-top-insights-visualizations/)
 - [Amazon FSx for OpenZFS is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-openzfs-aws-asia-pacific-malaysia-region)
 - [Amazon FSx for Windows File Server is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-windows-file-server-aws-asia-pacific-malaysia-region)
-- [Amazon FSx for Lustre is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-lustre-aws-asia-pacific-malaysia-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
