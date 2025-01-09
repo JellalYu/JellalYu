@@ -51,7 +51,7 @@
 - [Amazon EC2 C7i instances now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-c7i-instances-aws-govcloud-us-west-region)
 - [Amazon Connect Contact Lens now provides free trials for conversational analytics and performance evaluations](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-contact-lens-free-trials-conversational-analytics-performance-evaluations)
 - [Amazon Q Developer is now available in Amazon SageMaker Code Editor IDE](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-q-developer-sagemaker-code-editor-ide/)
-- [AWS announces new AWS Direct Connect location and expansion in Bangkok, Thailand](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-direct-connect-location-expansion-bangkok-thailand/)
+- [Amazon MSK Connect APIs now support AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-msk-connect-apis-aws-privatelink)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
