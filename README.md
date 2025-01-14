@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [EC2 Image Builder simplifies converting Windows ISO files to AMIs](https://aws.amazon.com/about-aws/whats-new/2025/01/ec2-image-builder-converting-windows-iso-files-amis)
+- [AWS announces new AWS Direct Connect location and expansion in Querétaro, Mexico](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-direct-connect-expansion-queretaro-mexico/)
 - [AWS now accepts payments in 8 new local currencies](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-payments-new-local-currencies)
 - [AWS Security Hub now integrates with Amazon Route 53 Resolver DNS Firewall](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-security-hub-route-53-resolver-dns-firewall/)
 - [Amazon MSK Connect now supports updating connector configuration](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-msk-connect-updating-connector-configuration/)
-- [Amazon Connect Contact Lens launches agent performance evaluations for email contacts](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-contact-lens-agent-performance-evaluations-email-contacts)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
