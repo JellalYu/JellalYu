@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [AWS now accepts payments in 8 new local currencies](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-payments-new-local-currencies)
 - [AWS Security Hub now integrates with Amazon Route 53 Resolver DNS Firewall](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-security-hub-route-53-resolver-dns-firewall/)
+- [Amazon MSK Connect now supports updating connector configuration](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-msk-connect-updating-connector-configuration/)
 - [Amazon Connect Contact Lens launches agent performance evaluations for email contacts](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-contact-lens-agent-performance-evaluations-email-contacts)
 - [Amazon RDS for MariaDB supports Innovation Release 11.7 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-rds-mariadb-innovation-release-11-7-rds-database-preview-environment)
-- [AWS End User Messaging expands self-service sender ID registration support in 19 new countries](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-end-user-messaging-self-service-id-registration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
