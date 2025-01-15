@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elastic Beanstalk adds additional Spot allocation strategies](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-spot-allocation-strategies)
+- [Amazon ElastiCache now supports Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-elasticache-service-quotas)
+- [Amazon MSK announces support for additional Graviton-3 &lpar;m7g&rpar; instance sizes for Express Brokers](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-msk-graviton-3-m7g-instance-sizes-express-brokers)
+- [Amazon MemoryDB now supports Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-memorydb-service-quotas)
 - [Amazon OpenSearch Serverless now available in Asia Pacific &lpar;Hong Kong&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-opensearch-serverless-asia-pacific-hong-kong-region)
-- [AWS Backup supports organization-wide reports in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-backup-organization-wide-reports-govcloud/)
-- [AWS Marketplace now supports Tax Collection and Multiple Tax Profiles for Switzerland](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-tax-collection-profiles-switzerland/)
-- [AWS Elemental MediaTailor now supports log filtering](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elemental-mediatailor-supports-log-filtering/)
-- [Customer Carbon Footprint Tool moved to a new dedicated page](https://aws.amazon.com/about-aws/whats-new/2025/01/customer-carbon-footprint-tool-dedicated-page/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
