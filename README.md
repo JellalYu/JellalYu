@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon OpenSearch Serverless now available in Asia Pacific &lpar;Hong Kong&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-opensearch-serverless-asia-pacific-hong-kong-region)
 - [AWS Backup supports organization-wide reports in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-backup-organization-wide-reports-govcloud/)
+- [AWS Marketplace now supports Tax Collection and Multiple Tax Profiles for Switzerland](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-tax-collection-profiles-switzerland/)
+- [AWS Elemental MediaTailor now supports log filtering](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elemental-mediatailor-supports-log-filtering/)
 - [EC2 Image Builder simplifies converting Windows ISO files to AMIs](https://aws.amazon.com/about-aws/whats-new/2025/01/ec2-image-builder-converting-windows-iso-files-amis)
-- [Amazon EC2 M8g instances now available in AWS Europe &lpar;Stockholm&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-m8g-instances-europe-stockholm/)
-- [AWS announces new AWS Direct Connect location and expansion in Querétaro, Mexico](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-direct-connect-expansion-queretaro-mexico/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
