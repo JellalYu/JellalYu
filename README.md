@@ -51,7 +51,7 @@
 - [AWS Backup supports organization-wide reports in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-backup-organization-wide-reports-govcloud/)
 - [AWS Marketplace now supports Tax Collection and Multiple Tax Profiles for Switzerland](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-tax-collection-profiles-switzerland/)
 - [AWS Elemental MediaTailor now supports log filtering](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elemental-mediatailor-supports-log-filtering/)
-- [EC2 Image Builder simplifies converting Windows ISO files to AMIs](https://aws.amazon.com/about-aws/whats-new/2025/01/ec2-image-builder-converting-windows-iso-files-amis)
+- [Customer Carbon Footprint Tool moved to a new dedicated page](https://aws.amazon.com/about-aws/whats-new/2025/01/customer-carbon-footprint-tool-dedicated-page/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
