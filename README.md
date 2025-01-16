@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodePipeline introduces new debugging experience in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-codepipeline-debugging-experience-aws-management-console)
 - [The AWS Management Console now supports simultaneous sign-in for multiple AWS accounts](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-management-console-simultaneous-sign-in-multiple-accounts)
 - [Amazon EC2 I8g instances are now available in Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-i8g-instances-europe-frankfurt-region)
 - [AWS Resource Explorer supports 29 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-resource-explorer-29-new-resource-types/)
 - [Start collaborating on multi-partner opportunities with Partner Connections](https://aws.amazon.com/about-aws/whats-new/2025/01/multi-partner-opportunities-partner-connections)
-- [AWS Elastic Beanstalk adds additional Spot allocation strategies](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-spot-allocation-strategies)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
