@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [AWS CodePipeline introduces new debugging experience in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-codepipeline-debugging-experience-aws-management-console)
 - [The AWS Management Console now supports simultaneous sign-in for multiple AWS accounts](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-management-console-simultaneous-sign-in-multiple-accounts)
-- [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-r8g-instances-additional-regions/)
 - [Amazon GuardDuty is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-guardduty-asia-pacific-malaysia-region/)
 - [Amazon Connect Contact Lens launches new real-time dashboard](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-contact-lens-real-time-dashboard/)
+- [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-r8g-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
