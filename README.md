@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Announcing high-throughput mode for Amazon SNS FIFO Topics](https://aws.amazon.com/about-aws/whats-new/2025/01/high-throughput-mode-amazon-sns-fifo-topics)
+- [Amazon Neptune now supports open-source GraphRAG toolkit](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-neptune-open-source-graphrag-toolkit/)
 - [AWS CodeBuild now supports test splitting and parallelism](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-codebuild-test-splitting-parallelism)
 - [Amazon S3 Tables are now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-s3-tables-additional-aws-regions)
 - [Amazon Connect outbound campaigns can connect a call with an agent in under 2 seconds](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-outbound-campaigns-connect-call-agent-2-seconds)
-- [Amazon Redshift announces support for two new geospatial H3 Indexing functions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-redshift-new-geospatial-h3-indexing-functions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
