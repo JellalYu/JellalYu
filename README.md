@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EventBridge announces direct delivery to cross-account targets](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-eventbridge-direct-delivery-cross-account-targets)
+- [Amazon Aurora now supports R7g and R7i database instances in Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-aurora-r7g-r7i-database-instances-asia-pacific-malaysia-region)
 - [Announcing high-throughput mode for Amazon SNS FIFO Topics](https://aws.amazon.com/about-aws/whats-new/2025/01/high-throughput-mode-amazon-sns-fifo-topics)
 - [Amazon Neptune now supports open-source GraphRAG toolkit](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-neptune-open-source-graphrag-toolkit/)
-- [AWS CodeBuild now supports test splitting and parallelism](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-codebuild-test-splitting-parallelism)
-- [Amazon S3 Tables are now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-s3-tables-additional-aws-regions)
-- [Amazon Connect outbound campaigns can connect a call with an agent in under 2 seconds](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-outbound-campaigns-connect-call-agent-2-seconds)
+- [Amazon RDS adds Oracle Database R6i SE2 License-Included option in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-rds-oracle-database-r6i-se2-license/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
