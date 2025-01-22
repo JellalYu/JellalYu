@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace introduces 8 decimal place precision for usage pricing](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-8-decimal-place-precision-usage-pricing)
 - [AWS IoT SiteWise now supports null and NaN data types](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-iot-sitewise-null-nan-data-types)
 - [CloudWatch provides execution plan capture for Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/01/cloudwatch-execution-plan-capture-aurora-postgresql)
+- [Amazon EC2 introduces provisioning control for On-Demand Capacity Reservations in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-provisioning-on-demand-capacity-reservations/)
 - [Amazon Connect agent workspace now supports audio optimization for Citrix and Amazon WorkSpaces virtual desktops](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-agent-workspace-audio-optimization-citrix-workspaces-virtual-desktops)
-- [Amazon EventBridge announces direct delivery to cross-account targets](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-eventbridge-direct-delivery-cross-account-targets)
-- [Amazon Aurora now supports R7g and R7i database instances in Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-aurora-r7g-r7i-database-instances-asia-pacific-malaysia-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
