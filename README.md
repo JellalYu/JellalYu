@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Observability add-on launches one step onboarding for EKS workloads](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-cloudwatch-observability-add-on-one-step-onboarding-eks-workloads)
 - [AWS Marketplace introduces 8 decimal place precision for usage pricing](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-8-decimal-place-precision-usage-pricing)
 - [AWS IoT SiteWise now supports null and NaN data types](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-iot-sitewise-null-nan-data-types)
 - [CloudWatch provides execution plan capture for Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/01/cloudwatch-execution-plan-capture-aurora-postgresql)
 - [Amazon EC2 introduces provisioning control for On-Demand Capacity Reservations in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-provisioning-on-demand-capacity-reservations/)
-- [Amazon Redshift announces support for History Mode for zero-ETL integrations](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-redshift-history-mode-zero-etl-integrations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
