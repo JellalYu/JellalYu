@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Resource Groups now supports 172 more resource types](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-resource-groups-more-resource-types)
+- [AWS Elastic Beanstalk adds default support of EC2 Launch Template when creating new environments](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-ec2-launch-template-environments/)
+- [AWS Marketplace launches automated version archiving for AMI and container products](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-automated-archiving-ami-container-products/)
 - [Amazon ElastiCache now supports 1-click connectivity setup between EC2 and your cache](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-elasticache-1-click-connectivity-setup-ec2-cache)
-- [Amazon CloudWatch Observability add-on launches one step onboarding for EKS workloads](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-cloudwatch-observability-add-on-one-step-onboarding-eks-workloads)
-- [AWS Marketplace introduces 8 decimal place precision for usage pricing](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-8-decimal-place-precision-usage-pricing)
-- [CloudWatch provides execution plan capture for Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/01/cloudwatch-execution-plan-capture-aurora-postgresql)
+- [Amazon CloudWatch allows alarming on data up to 7 days old](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-cloudwatch-allows-alarming-data-7-days-old/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
