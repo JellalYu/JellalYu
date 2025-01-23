@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Resource Groups now supports 172 more resource types](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-resource-groups-more-resource-types)
+- [Amazon ElastiCache now supports 1-click connectivity setup between EC2 and your cache](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-elasticache-1-click-connectivity-setup-ec2-cache)
 - [Amazon CloudWatch Observability add-on launches one step onboarding for EKS workloads](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-cloudwatch-observability-add-on-one-step-onboarding-eks-workloads)
 - [AWS Marketplace introduces 8 decimal place precision for usage pricing](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-8-decimal-place-precision-usage-pricing)
 - [CloudWatch provides execution plan capture for Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/01/cloudwatch-execution-plan-capture-aurora-postgresql)
-- [AWS Client VPN announces support for concurrent VPN connections](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-client-vpn-concurrent-vpn-connections/)
-- [AWS IoT SiteWise now supports null and NaN data types](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-iot-sitewise-null-nan-data-types)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
