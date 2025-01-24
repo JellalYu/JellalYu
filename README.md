@@ -47,8 +47,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EFS is now available in the AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-efs-aws-mexico-central-region)
 - [AWS Elastic Beanstalk improves scaling and deployment speeds for Windows instance with EC2 Fast-launch](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-scaling-deployment-speeds-windows-instance-ec2-fast-launch)
-- [AWS Resource Groups now supports 172 more resource types](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-resource-groups-more-resource-types)
 - [Luma AI&#39;s Ray2 visual AI model Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/01/luma-ais-ray2-visual-ai-model-amazon-bedrock/)
 - [AWS Marketplace launches automated version archiving for AMI and container products](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-automated-archiving-ami-container-products/)
 - [AWS Elastic Beanstalk adds default support of EC2 Launch Template when creating new environments](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-ec2-launch-template-environments/)
