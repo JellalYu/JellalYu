@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EFS is now available in the AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-efs-aws-mexico-central-region)
-- [AWS Elastic Beanstalk improves scaling and deployment speeds for Windows instance with EC2 Fast-launch](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-scaling-deployment-speeds-windows-instance-ec2-fast-launch)
-- [Luma AI&#39;s Ray2 visual AI model Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/01/luma-ais-ray2-visual-ai-model-amazon-bedrock/)
-- [AWS Marketplace launches automated version archiving for AMI and container products](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-automated-archiving-ami-container-products/)
-- [AWS Elastic Beanstalk adds default support of EC2 Launch Template when creating new environments](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-ec2-launch-template-environments/)
+- [Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.32](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-eks-eks-distro-kubernetes-version-1-32)
+- [Amazon Q Business now supports insights from images uploaded in chat](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-q-business-insights-images-uploaded-chat)
+- [Amazon Redshift Multi-AZ is generally available for RA3 clusters in 2 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-redshift-multi-az-ra3-clusters-2-regions/)
+- [Amazon Aurora PostgreSQL Limitless Database now supports PostgreSQL 16.6](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-aurora-postgresql-limitless-database-16-6/)
+- [Amazon EC2 I7ie instances now available in AWS Europe &lpar;Frankfurt, London&rpar;, and Asia Pacific &lpar;Tokyo&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-i7ie-instances-frankfurt-london-tokyo-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
