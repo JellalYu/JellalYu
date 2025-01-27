@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaConnect introduces content quality metrics](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elemental-mediaconnect-content-quality-metrics)
 - [Announcing general availability of AWS Managed Notifications](https://aws.amazon.com/about-aws/whats-new/2025/01/general-availability-aws-managed-notifications)
 - [Amazon EKS managed node groups introduces new update strategies](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-eks-managed-node-groups-update-strategies/)
 - [Announcing AWS Managed Notifications in the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-managed-notifications-console-mobile-app/)
 - [AWS announces new edge location in the Kingdom of Saudi Arabia](https://aws.amazon.com/about-aws/whats-new/2025/01/new-edge-location-kingdom-saudi-arabia)
-- [Amazon Bedrock now offers multimodal support for Cohere Embed 3 Multilingual and Embed 3 English](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-bedrock-multimodal-cohere-embed-3-multilingual-english)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
