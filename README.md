@@ -51,7 +51,7 @@
 - [Amazon S3 Metadata is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-s3-metadata-generally-available)
 - [AWS Elemental MediaConnect introduces content quality metrics](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elemental-mediaconnect-content-quality-metrics)
 - [Announcing general availability of AWS Managed Notifications](https://aws.amazon.com/about-aws/whats-new/2025/01/general-availability-aws-managed-notifications)
-- [Amazon EKS managed node groups introduces new update strategies](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-eks-managed-node-groups-update-strategies/)
+- [Announcing AWS Managed Notifications in the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-managed-notifications-console-mobile-app/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
