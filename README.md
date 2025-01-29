@@ -47,8 +47,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Redshift launches enhanced query monitoring to improve query monitoring and diagnostics](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-redshift-enhanced-query-monitoring-diagnostics/)
 - [AWS Marketplace adds self-service seller onboarding support for demo and private offer requests](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-self-service-seller-onboarding-demo-private/)
+- [Amazon Redshift launches enhanced query monitoring to improve query monitoring and diagnostics](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-redshift-enhanced-query-monitoring-diagnostics/)
 - [AWS Marketplace expands self-service listing experience for AMI products with CloudFormation templates](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-self-service-listing-ami-cloudformation-templates/)
 - [Amazon EC2 M7g instances are now available in the AWS Middle East &lpar;UAE&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-m7g-instances-aws-middle-east-uae)
 - [AWS CodeBuild announces support for project ARN and build ARN IAM condition keys](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-codebuild-project-arn-build-arn-iam-condition-keys)
