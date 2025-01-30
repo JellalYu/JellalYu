@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [SES Mail Manager is now available in 11 new AWS Regions, 17 total](https://aws.amazon.com/about-aws/whats-new/2025/01/ses-mail-manager-available-new-regions)
+- [Amazon SageMaker Unified Studio now in preview in seven additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-sagemaker-unified-studio-preview-additional-regions)
 - [CloudWatch Database Insights now supports historical OS process snapshots](https://aws.amazon.com/about-aws/whats-new/2025/01/cloudwatch-database-insights-historical-os-process-snapshots)
-- [Announcing new AWS Wavelength Zone in Casablanca](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-wavelength-zone-casablanca)
+- [SES Mail Manager is now available in 11 new AWS Regions, 17 total](https://aws.amazon.com/about-aws/whats-new/2025/01/ses-mail-manager-available-new-regions)
+- [Amazon Timestream for InfluxDb now supports Storage Scaling](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-timestream-influxdb-storage-scaling/)
 - [Amazon EMR Serverless adds support for Public Subnets](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-emr-serverless-public-subnets)
-- [SES Mail Manager adds support for address and domain lists](https://aws.amazon.com/about-aws/whats-new/2025/01/ses-mail-manager-address-domain-lists)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
