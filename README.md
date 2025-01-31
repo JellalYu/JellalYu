@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon S3 Tables add schema definition support to the CreateTable API](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-s3-tables-schema-definition-createtable-api)
-- [Amazon S3 Tables now support 10,000 tables per table bucket](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-s3-tables-10000-tables-bucket)
-- [Amazon Q Developer Pro tier adds automated user onboarding emails](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-q-developer-pro-tier-automated-user-onboarding-emails)
-- [Amazon SageMaker Unified Studio now in preview in seven additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-sagemaker-unified-studio-preview-additional-regions)
-- [CloudWatch Database Insights now supports historical OS process snapshots](https://aws.amazon.com/about-aws/whats-new/2025/01/cloudwatch-database-insights-historical-os-process-snapshots)
+- [AWS Deadline Cloud now supports configurable limits to effectively manage fixed resources](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-deadline-cloud-configurable-limits-fixed-resources/)
+- [Amazon Connect now supports agent time off scheduling up to 24 months in the future](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-agent-time-off-scheduling-24-months-future)
+- [Amazon AppStream 2.0 now supports administrative control over admin consent for linking OneDrive for Business](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-appstream-2-0-administrative-control-admin-consent-linking-onedrive-business)
+- [AWS Glue expands connectivity to 14 native connectors for applications](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-glue-connectivity-native-connectors-applications)
+- [Amazon RDS Custom for SQL Server supports up to 64TiB and 256,000 IOPS with io2 Block Express volumes](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-rds-custom-sql-server-iops-io2-block-volumes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
