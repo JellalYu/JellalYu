@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WAF Console adds new top insights visualizations in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-console-top-insights-visualizations-additional-regions)
+- [AWS IAM Identity Center now offers improved error messages and AWS CloudTrail logging for provisioning issues](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-iam-identity-center-error-messages-cloudtrail-logging-provisioning-issues)
 - [AWS Elemental MediaTailor](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-elemental-mediatailor-s3-firehose-logging-destinations-lower-cost)
 - [Amazon RDS for Oracle now supports January 2025 Release Update](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-oracle-january-2025-release-update)
-- [AWS Toolkit for Visual Studio Code now supports Amazon DocumentDB &lpar;with MongoDB compatibility&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-toolkit-visual-studio-code-documentdb-mongodb/)
 - [AWS Verified Access launches Zero Trust access to resources over non-HTTP&lpar;S&rpar; protocols](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-verified-access-zero-trust-resources-non-https-protocols/)
-- [AWS AppSync releases CDK L2 constructs to simplify creating WebSocket APIs](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-appsync-cdk-l2-simplify-websocket-apis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
