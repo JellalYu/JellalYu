@@ -51,7 +51,7 @@
 - [AWS IAM Identity Center now offers improved error messages and AWS CloudTrail logging for provisioning issues](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-iam-identity-center-error-messages-cloudtrail-logging-provisioning-issues)
 - [AWS Elemental MediaTailor](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-elemental-mediatailor-s3-firehose-logging-destinations-lower-cost)
 - [Amazon RDS for Oracle now supports January 2025 Release Update](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-oracle-january-2025-release-update)
-- [AWS Verified Access launches Zero Trust access to resources over non-HTTP&lpar;S&rpar; protocols](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-verified-access-zero-trust-resources-non-https-protocols/)
+- [Amazon MSK expands Express Brokers to 10 more AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-msk-express-brokers-10-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
