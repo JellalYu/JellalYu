@@ -50,8 +50,8 @@
 - [Amazon FSx now supports Internet Protocol Version 6 &lpar;IPv6&rpar; on FSx Service APIs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-supports-ipv6-fsx-service-apis/)
 - [Announcing custom payment schedules for AWS Marketplace Channel Partner private offers](https://aws.amazon.com/about-aws/whats-new/2025/02/custom-payment-schedules-marketplace-partner-offers/)
 - [AWS Config now supports 4 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-config-4-new-resource-types/)
+- [Amazon Data Lifecycle Manager now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-data-lifecycle-manager-supports-ipv6/)
 - [AWS WAF Console adds new top insights visualizations in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-console-top-insights-visualizations-additional-regions)
-- [AWS IAM Identity Center now offers improved error messages and AWS CloudTrail logging for provisioning issues](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-iam-identity-center-error-messages-cloudtrail-logging-provisioning-issues)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
