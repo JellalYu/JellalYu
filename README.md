@@ -51,7 +51,7 @@
 - [Announcing custom payment schedules for AWS Marketplace Channel Partner private offers](https://aws.amazon.com/about-aws/whats-new/2025/02/custom-payment-schedules-marketplace-partner-offers/)
 - [AWS Config now supports 4 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-config-4-new-resource-types/)
 - [Amazon Data Lifecycle Manager now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-data-lifecycle-manager-supports-ipv6/)
-- [AWS WAF Console adds new top insights visualizations in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-console-top-insights-visualizations-additional-regions)
+- [Amazon EC2 High Memory U7i instances are now available in Seoul &lpar;Asia Pacific&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-high-memory-u7i-instances-seoul/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
