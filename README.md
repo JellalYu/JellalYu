@@ -50,8 +50,8 @@
 - [AWS Step Functions expands data source and output options for Distributed Map](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-step-functions-data-source-output-option-distributed-map)
 - [Amazon FSx now supports Internet Protocol Version 6 &lpar;IPv6&rpar; on FSx Service APIs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-supports-ipv6-fsx-service-apis/)
 - [Announcing custom payment schedules for AWS Marketplace Channel Partner private offers](https://aws.amazon.com/about-aws/whats-new/2025/02/custom-payment-schedules-marketplace-partner-offers/)
-- [AWS Config now supports 4 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-config-4-new-resource-types/)
 - [Amazon Data Lifecycle Manager now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-data-lifecycle-manager-supports-ipv6/)
+- [AWS Config now supports 4 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-config-4-new-resource-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
