@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon RDS for SQL Server supports new minor version in January 2025](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-sql-server-minor-version-january-2025)
-- [Amazon EFS now supports up to 10,000 access points per EFS file system](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-efs-access-points-file-system/)
-- [Amazon CloudWatch now provides lock contention diagnostics for Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-cloudwatch-lock-contention-diagnostics-aurora-postgresql)
-- [AWS Step Functions expands data source and output options for Distributed Map](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-step-functions-data-source-output-option-distributed-map)
-- [Amazon FSx now supports Internet Protocol Version 6 &lpar;IPv6&rpar; on FSx Service APIs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-supports-ipv6-fsx-service-apis/)
+- [Amazon FSx for Lustre now supports Lustre version upgrades](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-lustre-lustre-version-upgrades)
+- [AWS AppSync enhances resolver testing with comprehensive context object mocking](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-appsync-resolver-testing-comprehensive-context-object-mocking)
+- [Amazon Elastic Block Store &lpar;EBS&rpar; now adds full snapshot size information in Console and API](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ebs-full-snapshot-size-information-console-api)
+- [AWS HealthScribe now supports GIRPP note template for behavioral health](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-healthscribe-girpp-note-template-behavioral-health)
+- [Amazon Polly launches a new voice in Singaporean English](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-polly-new-voice-singaporean-english)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
