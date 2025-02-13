@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon FSx for Lustre now supports Lustre version upgrades](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-lustre-lustre-version-upgrades)
-- [AWS AppSync enhances resolver testing with comprehensive context object mocking](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-appsync-resolver-testing-comprehensive-context-object-mocking)
-- [Amazon Elastic Block Store &lpar;EBS&rpar; now adds full snapshot size information in Console and API](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ebs-full-snapshot-size-information-console-api)
-- [AWS HealthScribe now supports GIRPP note template for behavioral health](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-healthscribe-girpp-note-template-behavioral-health)
-- [Amazon Polly launches a new voice in Singaporean English](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-polly-new-voice-singaporean-english)
+- [AWS Deadline Cloud now supports Adobe After Effects in Service-Managed Fleets](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-deadline-cloud-adobe-after-effects-service-managed-fleets)
+- [AWS Network Load Balancer now supports removing availability zones](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-network-load-balancer-removing-availability-zones)
+- [Amazon RDS for PostgreSQL supports minor versions 17.3, 16.7, 15.11, 14.16, 13.19](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-for-postgresql-new-minor-versions/)
+- [Amazon Q generative SQL is now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-generative-sql-additional-regions/)
+- [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20250103](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-mysql-extended-support-minor-5-7-44-rds-20250103)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
