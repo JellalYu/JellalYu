@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon SES now offers tiered pricing for Virtual Deliverability Manager](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ses-tiered-pricing-virtual-deliverability-manager)
 - [Amazon EC2 C7g instances are now available in the AWS Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-c7g-instances-zurich-region/)
+- [Amazon Q Developer now supports upgrade to Java 21](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-developer-upgrade-java-21/)
 - [AWS CloudTrail network activity events for VPC endpoints are now generally available](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-cloudtrail-network-activity-events-vpc-endpoints-generally-available)
 - [Amazon Inspector enhances the security engine for container images scanning](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-inspector-security-engine-container-images-scanning)
-- [Amazon EC2 Capacity Blocks for ML is now available in several new regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-capacity-blocks-ml-new-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
