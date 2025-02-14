@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Capacity Blocks for ML is now available in several new regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-capacity-blocks-ml-new-regions)
 - [AWS Deadline Cloud now supports Adobe After Effects in Service-Managed Fleets](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-deadline-cloud-adobe-after-effects-service-managed-fleets)
-- [AWS Network Load Balancer now supports removing availability zones](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-network-load-balancer-removing-availability-zones)
 - [Amazon RDS for PostgreSQL supports minor versions 17.3, 16.7, 15.11, 14.16, 13.19](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-for-postgresql-new-minor-versions/)
+- [AWS Network Load Balancer now supports removing availability zones](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-network-load-balancer-removing-availability-zones)
 - [Amazon Q generative SQL is now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-generative-sql-additional-regions/)
-- [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20250103](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-mysql-extended-support-minor-5-7-44-rds-20250103)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
