@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon SES now offers tiered pricing for Virtual Deliverability Manager](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ses-tiered-pricing-virtual-deliverability-manager)
-- [AWS Lambda adds application performance monitoring &lpar;APM&rpar; for Java and .NET runtimes via Application Signals](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-lambda-adds-apm-java-net-runtimes-signals/)
-- [AWS CloudTrail network activity events for VPC endpoints are now generally available](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-cloudtrail-network-activity-events-vpc-endpoints-generally-available)
-- [Amazon Inspector enhances the security engine for container images scanning](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-inspector-security-engine-container-images-scanning)
-- [Amazon EC2 C7g instances are now available in the AWS Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-c7g-instances-zurich-region/)
+- [AWS WAF enhances Data Protection and logging experience](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-data-protection-logging-experience)
+- [Amplify Hosting announces support for IAM roles for server-side rendered &lpar;SSR&rpar; applications](https://aws.amazon.com/about-aws/whats-new/2025/02/amplify-hosting-iam-roles-ssr-applications/)
+- [AWS Storage Gateway is now available in AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-storage-gateway-mexico-central-region/)
+- [Dynamically update your running EMR cluster with reconfiguration for instance fleets](https://aws.amazon.com/about-aws/whats-new/2025/02/update-running-emr-cluster-reconfiguration-instance-fleets)
+- [AWS CDK releases L2 construct support for Amazon Data Firehose delivery streams](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-cdk-l2-construct-data-firehose-delivery-streams/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
