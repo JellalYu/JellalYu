@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Announcing AWS DMS Serverless comprehensive premigration assessments](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-dms-serverless-comprehensive-premigration-assessments)
+- [Amazon ECS increases the CPU limit for ECS tasks to 192 vCPUs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ecs-increases-cpu-ecs-tasks/)
 - [Amazon RDS for MySQL supports new minor versions 8.0.41 and 8.4.4](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-mysql-new-minor-versions-8-0-41-8-4-4)
 - [Amazon EC2 R6a instances now available in Canada &lpar;Central&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-r6a-instances-canada-central)
 - [AWS WAF enhances Data Protection and logging experience](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-data-protection-logging-experience)
-- [AWS Storage Gateway is now available in AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-storage-gateway-mexico-central-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
