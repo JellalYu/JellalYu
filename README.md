@@ -49,8 +49,8 @@
 <!-- AWS-NEWS:START -->
 - [SES Outbound now delivers to Mail Manager Archives](https://aws.amazon.com/about-aws/whats-new/2025/02/ses-outbound-delivers-mail-manager-archives)
 - [AWS Network Firewall introduces automated domain lists and insights](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-network-firewall-automated-domain-lists)
-- [Announcing AWS DMS Serverless comprehensive premigration assessments](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-dms-serverless-comprehensive-premigration-assessments)
 - [Amazon ECS increases the CPU limit for ECS tasks to 192 vCPUs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ecs-increases-cpu-ecs-tasks/)
+- [Announcing AWS DMS Serverless comprehensive premigration assessments](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-dms-serverless-comprehensive-premigration-assessments)
 - [Amazon RDS for MySQL supports new minor versions 8.0.41 and 8.4.4](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-mysql-new-minor-versions-8-0-41-8-4-4)
 <!-- AWS-NEWS:END -->
 
