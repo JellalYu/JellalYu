@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Certificate-Based Authentication is now available on Amazon AppStream 2.0 multi-session fleets](https://aws.amazon.com/about-aws/whats-new/2025/02/certificate-based-authentication-amazon-appstream-2-0-multi-session-fleets)
 - [AWS Database Migration Service now supports Multi-ENI networking for homogeneous migrations.](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-database-migration-service-multi-eni-networking/)
 - [AWS CodePipeline adds native Amazon EC2 deployment support](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-native-ec2-deployment-support/)
 - [Amazon RDS for PostgreSQL supports minor versions 17.4, 16.8, 15.12, 14.17, 13.20](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-postgresql-supports-minor-versions/)
 - [Amazon MSK adds support for Apache Kafka version 3.8](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-msk-apache-kafka-version-3-8/)
-- [AWS CodePipeline adds native Amazon EKS deployment support](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-native-amazon-eks-deployment-support)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
