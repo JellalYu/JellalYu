@@ -50,8 +50,8 @@
 - [Amazon Bedrock Guardrails announces an increase in service quota limits](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-bedrock-guardrails-increase-service-quota-limits)
 - [Amazon EC2 High Memory instances now available in Europe &lpar;Zurich&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-high-memory-instances-europe-zurich-region/)
 - [Amazon Location Service now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-location-service-supports-privatelink/)
+- [Amazon RDS for Oracle now supports Spatial Patch Bundle for January 2025 Release Update](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-oracle-spatial-patch-bundle-update/)
 - [CloudWatch Database Insights adds support for RDS databases](https://aws.amazon.com/about-aws/whats-new/2025/02/cloudwatch-database-insights-rds-databases)
-- [AWS WAF enhances integration with Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-enhances-integration-service-quotas/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
