@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now supports interactive welcome messages when starting chats](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-interactive-welcome-messages-starting-chats)
 - [AWS CodeBuild adds support for managed runners for GitLab Self-Managed](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-managed-runners-gitlab-self-managed)
 - [Amazon ECS adds support for additional IAM condition keys](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ecs-additional-iam-condition-keys)
-- [Amazon Data Firehose is now available in AWS Asia Pacific &lpar;Thailand&rpar; and Mexico &lpar;Central&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-data-firehose-thailand-mexico-central-regions/)
-- [AWS CodePipeline introduces new console experience for viewing pipeline releases](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-console-experience-viewing-pipeline-releases)
-- [Amazon Bedrock Guardrails announces an increase in service quota limits](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-bedrock-guardrails-increase-service-quota-limits)
+- [AWS CodeBuild adds support for managed webhooks in GitHub Enterprise](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-managed-webhooks-github-enterprise/)
+- [Amazon RDS Data API for Aurora is now available in 10 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-data-api-aurora-10-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
