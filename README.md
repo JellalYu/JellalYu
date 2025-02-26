@@ -47,8 +47,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS now provides visibility into IAM DB Authentication metrics and logs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-visibility-iam-db-authentication-metrics-logs)
 - [Amazon Connect now supports interactive welcome messages when starting chats](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-interactive-welcome-messages-starting-chats)
-- [Amazon RDS Data API for Aurora is now available in 10 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-data-api-aurora-10-additional-regions/)
 - [Amazon RDS for MariaDB supports minors 11.4.5, 10.11.11, 10.6.21, 10.5.28](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-for-mariadb-supports-minors/)
 - [AWS CodeBuild adds support for managed webhooks in GitHub Enterprise](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-managed-webhooks-github-enterprise/)
 - [Amazon ECS adds support for additional IAM condition keys](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ecs-additional-iam-condition-keys)
