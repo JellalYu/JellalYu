@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon EC2 announces Time-based Copy for AMIs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-time-based-copy-amis)
 - [Amazon EC2 F2 instances are now available in Asia Pacific &lpar;Sydney&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-f2-instances-asia-pacific-sydney/)
+- [AWS Batch now supports resource aware scheduling](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-batch-resource-aware-scheduling/)
 - [Monitor and observe apps across multiple accounts with Application Signals](https://aws.amazon.com/about-aws/whats-new/2025/02/monitor-observe-apps-across-multiple-accounts-application-signals)
 - [Amazon Connect reduces telephony pricing in Vietnam](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-reduces-telephony-pricing-vietnam/)
-- [Amazon RDS now provides visibility into IAM DB Authentication metrics and logs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-visibility-iam-db-authentication-metrics-logs)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
