@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Database Insights provides on-demand analysis for RDS MySQL and RDS MariaDB](https://aws.amazon.com/about-aws/whats-new/2025/02/database-insights-on-demand-analysis-rds-mysql-rds-mariadb)
 - [Amazon RDS for Db2 now supports M7i and R7i instances types](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-db2-m7i-r7i-instances-types)
 - [Amazon EC2 announces Time-based Copy for AMIs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-time-based-copy-amis)
 - [Amazon EC2 F2 instances are now available in Asia Pacific &lpar;Sydney&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-f2-instances-asia-pacific-sydney/)
 - [AWS Batch now supports resource aware scheduling](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-batch-resource-aware-scheduling/)
-- [Monitor and observe apps across multiple accounts with Application Signals](https://aws.amazon.com/about-aws/whats-new/2025/02/monitor-observe-apps-across-multiple-accounts-application-signals)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
