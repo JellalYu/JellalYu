@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon API Gateway now supports HTTP APIs, mTLS, multi-level base path mappings, and WAF in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-api-gateway-http-apis-mtls-multi-level-base-path-mappings-waf-additional-regions)
 - [Amazon Bedrock Data Automation is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-data-automation-generally-available)
 - [Announcing managed integrations for AWS IoT Device Management &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/managed-integrations-aws-iot-device-management/)
 - [Announcing AWS Outposts racks for high throughput, network-intensive workloads &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-outposts-racks-throughput-network-intensive-workloads/)
 - [Amazon QuickSight now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-quicksight-aws-govcloud-us-east-region)
-- [AWS Amplify supports HttpOnly cookies for server-rendered Next.js applications](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-amplify-httponly-cookies-server-rendered-next-js-applications)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
