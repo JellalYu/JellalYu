@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-quicksight-aws-govcloud-us-east-region)
+- [AWS Amplify supports HttpOnly cookies for server-rendered Next.js applications](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-amplify-httponly-cookies-server-rendered-next-js-applications)
+- [Amazon Connect outbound campaigns now supports Brazil](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-outbound-campaigns-brazil)
 - [Amazon Connect launches the ability for agents to exchange shifts with each other](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-agents-exchange-shifts)
 - [Amazon Data Lifecycle Manager now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-data-lifecycle-manager-aws-privatelink)
-- [Amazon Connect Contact Lens now offers AI-powered contact categorization in five new regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-contact-lens-ai-powered-contact-categorization-new-regions)
-- [Amazon Bedrock launches Session Management APIs for GenAI applications &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-bedrock-session-management-apis-genai-applications-preview)
-- [AWS CodeBuild adds support for macOS 15.2](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-macos-15-2)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
