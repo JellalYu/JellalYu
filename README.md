@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family announces reduced login latency for SFTP servers](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-transfer-family-reduced-login-latency-sftp-servers/)
+- [Amazon Neptune Database is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-neptune-database-aws-asia-pacific-malaysia-region)
 - [Amazon API Gateway now supports HTTP APIs, mTLS, multi-level base path mappings, and WAF in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-api-gateway-http-apis-mtls-multi-level-base-path-mappings-waf-additional-regions)
 - [Amazon Bedrock Data Automation is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-data-automation-generally-available)
-- [Amazon QuickSight now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-quicksight-aws-govcloud-us-east-region)
-- [AWS Amplify supports HttpOnly cookies for server-rendered Next.js applications](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-amplify-httponly-cookies-server-rendered-next-js-applications)
-- [Amazon Connect outbound campaigns now supports Brazil](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-outbound-campaigns-brazil)
+- [Announcing managed integrations for AWS IoT Device Management &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/managed-integrations-aws-iot-device-management/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
