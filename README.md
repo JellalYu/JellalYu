@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [SageMaker Hyperpod Flexible Training Plans now supports instant start times and multiple offers](https://aws.amazon.com/about-aws/whats-new/2025/03/sagemaker-hyperpod-flexible-training-plans-instant-start-times-multiple-offers)
 - [Amazon Lex launches support for Confirmation and Alphanumeric slot types for Korean](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-lex-confirmation-alphanumeric-slot-types-korean)
 - [AWS Secrets Manager increases the API Requests per Second limits](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-secrets-manager-increases-api-requests-seconds)
 - [AWS Transfer Family announces reduced login latency for SFTP servers](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-transfer-family-reduced-login-latency-sftp-servers/)
 - [AWS Lambda adds support for Amazon CloudWatch Logs Live Tail in VS Code IDE](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-lambda-cloudwatch-logs-live-tail-vs-code-ide/)
-- [Amazon Neptune Database is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-neptune-database-aws-asia-pacific-malaysia-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
