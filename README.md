@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing latency-optimized inference for Amazon Nova Pro foundation model in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/03/latency-optimized-inference-amazon-nova-pro-foundation-model-bedrock)
+- [Amazon FSx for NetApp ONTAP no longer charges for SnapLock licensing](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-fsx-netapp-ontap-no-charges-snaplock-licensing)
+- [IAM Access Analyzer now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/iam-access-analyzer-supports-ipv6/)
 - [AWS WAF is now available  in two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-waf-additional-regions)
+- [Announcing latency-optimized inference for Amazon Nova Pro foundation model in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/03/latency-optimized-inference-amazon-nova-pro-foundation-model-bedrock)
 - [Amazon EC2 C8g instances now available in AWS Asia Pacific &lpar;Mumbai&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-c8g-instances-aws-asia-pacific-mumbai)
-- [Amazon EC2 M7g instances are now available in the AWS Europe &lpar;Zurich&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-m7g-instances-aws-europe-zurich)
-- [Amazon Q Business now supports insights from audio and video data](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-business-insights-audio-video-data)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
