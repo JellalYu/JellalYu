@@ -51,7 +51,7 @@
 - [Amazon EC2 M7a instances are now available in AWS Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-m7a-instances-sydney-region)
 - [Amazon OpenSearch Serverless now available in AWS US West &lpar;N. California&rpar; and Europe &lpar;Stockholm&rpar;  Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-serverless-us-west-n-california-europe-stockholm-regions)
 - [Amazon OpenSearch Serverless now available in AWS Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-serverless-europe-milan-region)
-- [Announcing Amazon GameLift Streams](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-gamelift-streams/)
+- [Amazon Q Developer announces a new CLI agent within the command line](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-developer-cli-agent-command-line/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
