@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon WorkSpaces Pools now supports FIPS 140-2 validated endpoints](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-workspaces-pools-fips-140-2-validated-endpoints)
 - [Amazon OpenSearch Serverless now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-serverless-aws-europe-spain-region)
+- [Application Load Balancer announces integration with Amazon VPC IPAM](https://aws.amazon.com/about-aws/whats-new/2025/03/application-load-balancer-integration-vpc-ipam/)
 - [Amazon Bedrock Knowledge Bases supports GraphRAG now generally available](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-knowledge-bases-graphrag-generally-available)
 - [Amazon Connect Contact Lens can now dynamically update the questions on an evaluation form](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-update-questions-evaluation-form/)
-- [AWS WAF adds JA4 fingerprinting and aggregation on JA3 and JA4 fingerprints for rate-based rules](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-waf-ja4-fingerprinting-aggregation-ja3-ja4-fingerprints-rate-based-rules)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
