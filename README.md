@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Bedrock now supports multi-agent collaboration](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-multi-agent-collaboration)
-- [Amazon Athena Provisioned Capacity now available in the Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-athena-provisioned-capacity-asia-pacific-mumbai-region)
-- [Amazon WorkSpaces Pools now supports FIPS 140-2 validated endpoints](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-workspaces-pools-fips-140-2-validated-endpoints)
-- [Amazon OpenSearch Serverless now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-serverless-aws-europe-spain-region)
-- [AWS HealthOmics workflows now support NVIDIA L4 and L40S GPUs and expanded CPU options](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-healthomics-workflows-nvidia-l4-l40s-gpus/)
+- [Announcing new feature tiers: Essentials and Plus for Amazon Cognito in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/new-feature-tiers-essentials-plus-amazon-cognito-aws-govcloud-us-regions)
+- [Amazon Cognito now supports passwordless authentication for low-friction and secure logins in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cognito-passwordless-authentication-low-friction-secure-logins-aws-govcloud-us-regions)
+- [Amazon Cognito introduces Managed Login to support rich branding for end user journeys in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cognito-managed-login-rich-branding-end-user-journeys-aws-govcloud-us-regions)
+- [Amazon Cognito is now available in the AWS GovCloud &lpar;US East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cognito-aws-govcloud-us-east-region)
+- [Amazon EventBridge expands enhanced event source discovery to AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-event-source-discovery-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
