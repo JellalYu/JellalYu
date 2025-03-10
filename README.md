@@ -51,7 +51,7 @@
 - [Amazon Cognito now supports passwordless authentication for low-friction and secure logins in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cognito-passwordless-authentication-low-friction-secure-logins-aws-govcloud-us-regions)
 - [Amazon Cognito introduces Managed Login to support rich branding for end user journeys in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cognito-managed-login-rich-branding-end-user-journeys-aws-govcloud-us-regions)
 - [Amazon Cognito is now available in the AWS GovCloud &lpar;US East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cognito-aws-govcloud-us-east-region)
-- [Amazon EventBridge expands enhanced event source discovery to AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-event-source-discovery-govcloud/)
+- [Amazon EMR on EKS now supports Amazon EKS Pod Identity](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-emr-eks-eks-pod-identity)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
