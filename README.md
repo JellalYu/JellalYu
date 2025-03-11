@@ -51,7 +51,7 @@
 - [Amazon EC2 G6e instances now available in Seoul Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-g6e-instances-seoul-region)
 - [DeepSeek-R1 is available fully-managed in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/03/deepseek-r1-fully-managed-amazon-bedrock)
 - [Amazon Cognito is now available in Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cognito-asia-pacific-malaysia-region)
-- [Amazon Cognito now supports passwordless authentication for low-friction and secure logins in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cognito-passwordless-authentication-low-friction-secure-logins-aws-govcloud-us-regions)
+- [Announcing new feature tiers: Essentials and Plus for Amazon Cognito in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/new-feature-tiers-essentials-plus-amazon-cognito-aws-govcloud-us-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
