@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Allowed AMIs now integrates with AWS Config](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-allowed-amis-integrates-aws-config)
 - [Amazon EventBridge expands IAM execution role support to all targets](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-iam-execution-role-all-targets)
 - [Accelerate serverless development with ready-to-use Serverless Land Patterns in Visual Studio Code](https://aws.amazon.com/about-aws/whats-new/2025/03/ready-to-use-serverless-land-patterns-vs-code-ide/)
 - [Amazon EC2 R7i instances are now available in an additional AWS region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-r7i-instances-additional-aws-region/)
 - [Amazon EventBridge SaaS partner integrations now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-saas-partner-integrations-aws-govcloud-us-regions)
-- [Amazon EC2 G6e instances now available in Seoul Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-g6e-instances-seoul-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
