@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Nova Creative Models now available in Europe](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-nova-creative-models-europe)
 - [Amazon EC2 Allowed AMIs now integrates with AWS Config](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-allowed-amis-integrates-aws-config)
+- [Amazon EventBridge expands IAM execution role support to all targets](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-iam-execution-role-all-targets)
 - [Accelerate serverless development with ready-to-use Serverless Land Patterns in Visual Studio Code](https://aws.amazon.com/about-aws/whats-new/2025/03/ready-to-use-serverless-land-patterns-vs-code-ide/)
 - [Amazon EC2 R7i instances are now available in an additional AWS region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-r7i-instances-additional-aws-region/)
-- [Amazon EventBridge expands IAM execution role support to all targets](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-iam-execution-role-all-targets)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
