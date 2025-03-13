@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Route 53 Traffic Flow introduces a new visual editor to improve DNS policy editing](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-route-53-traffic-flow-visual-editor-improve-dns-policy-editing)
+- [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20250213](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-mysql-extended-support-minor-5-7-44-rds-20250213)
+- [AWS Service Reference Information now supports resources and condition keys](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-service-reference-information-resources-condition-keys)
+- [AWS Backup adds support for Amazon FSx for OpenZFS in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-backup-fsx-openzfs-additional-regions/)
 - [Amazon QuickSight now available in the Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-quicksight-europe-spain-region)
-- [AWS CloudFormation Hooks&#39; new invocation targets and managed Hooks are available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-cloudformation-hooks-invocation-targets-managed-hooks/)
-- [Amazon Nova is now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-nova-models-govcloud/)
-- [AWS Glue now available in two new regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-glue-available-two-new-regions/)
-- [AWS CodeBuild now supports organization and enterprise level GitHub self-hosted runners](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codebuild-organization-enterprise-level-github-self-hosted-runners)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
