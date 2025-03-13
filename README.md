@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Route 53 Traffic Flow introduces a new visual editor to improve DNS policy editing](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-route-53-traffic-flow-visual-editor-improve-dns-policy-editing)
+- [Amazon S3 reduces pricing for S3 object tagging by 35%](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-reduces-pricing-object-tagging)
+- [Amazon Bedrock now available in the Europe &lpar;Milan&rpar; and Europe &lpar;Spain&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-europe-milan-spain-regions/)
 - [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20250213](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-mysql-extended-support-minor-5-7-44-rds-20250213)
 - [AWS Service Reference Information now supports resources and condition keys](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-service-reference-information-resources-condition-keys)
-- [AWS Backup adds support for Amazon FSx for OpenZFS in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-backup-fsx-openzfs-additional-regions/)
-- [Amazon QuickSight now available in the Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-quicksight-europe-spain-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
