@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AppSync Events adds publishing over WebSocket for real-time pub/sub](https://aws.amazon.com/about-aws/whats-new/2025/03/appsync-events-publishing-websocket-real-time-pub-sub)
-- [Amazon S3 reduces pricing for S3 object tagging by 35%](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-reduces-pricing-object-tagging)
-- [Amazon Bedrock now available in the Europe &lpar;Milan&rpar; and Europe &lpar;Spain&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-europe-milan-spain-regions/)
-- [Amazon Route 53 Traffic Flow introduces a new visual editor to improve DNS policy editing](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-route-53-traffic-flow-visual-editor-improve-dns-policy-editing)
-- [Amazon S3 Tables add Apache Iceberg REST Catalog APIs](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-tables-apache-iceberg-rest-catalog-apis)
+- [Amazon GuardDuty Extended Threat Detection now available in AWS GovCloud &lpar;US&rpar; and China Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-guardduty-extended-threat-detection-govcloud-china/)
+- [Meta’s Llama 3.2 models are now available for fine-tuning in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/03/metas-llama-3-2-models-fine-tuning-amazon-bedrock/)
+- [Amazon EMR Serverless Streaming jobs is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-emr-serverless-streaming-jobs-aws-govcloud-regions)
+- [Amazon Kinesis Data Streams now supports Internet Protocol version 6](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-kinesis-data-streams-internet-protocol-version-6)
+- [Amazon EMR Serverless achieves FedRAMP High authorization](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-emr-serverless-fedramp-high-authorization)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
