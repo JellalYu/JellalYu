@@ -51,7 +51,7 @@
 - [Amazon S3 reduces pricing for S3 object tagging by 35%](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-reduces-pricing-object-tagging)
 - [Amazon Bedrock now available in the Europe &lpar;Milan&rpar; and Europe &lpar;Spain&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-europe-milan-spain-regions/)
 - [Amazon Route 53 Traffic Flow introduces a new visual editor to improve DNS policy editing](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-route-53-traffic-flow-visual-editor-improve-dns-policy-editing)
-- [Amazon SageMaker Unified Studio is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-unified-studio-generally-available/)
+- [Amazon S3 Tables add Apache Iceberg REST Catalog APIs](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-tables-apache-iceberg-rest-catalog-apis)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
