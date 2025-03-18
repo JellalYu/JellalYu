@@ -47,10 +47,10 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock Guardrails announces policy based enforcement for responsible AI](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-guardrails-policy-based-enforcement-responsible-ai)
 - [AWS WAF now supports URI fragment field matching](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-waf-uri-fragment-field-matching/)
 - [AWS Firewall Manager is now available in the AWS Asia Pacific &lpar;Thailand&rpar; and AWS Mexico &lpar;Central&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-firewall-manager-thailand-mexico-regions)
 - [Amazon CloudWatch RUM now supports monitoring multiple domains with a single App Monitor](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cloudwatch-rum-monitoring-multiple-domains-single-app-monitor)
-- [CloudWatch RUM now supports JavaScript source maps for easier error debugging](https://aws.amazon.com/about-aws/whats-new/2025/03/cloudwatch-rum-javascript-source-maps-error-debugging/)
 - [AWS Client VPN increases authorization rules and route quotas](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-client-vpn-authorization-rules-route-quotas)
 <!-- AWS-NEWS:END -->
 
