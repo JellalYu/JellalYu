@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Nova expands Tool Choice options for Converse API](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-nova-expands-tool-converse-api/)
 - [Amazon CloudWatch Database Insights available in AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cloudwatch-database-insights-aws-govcloud-us-regions)
 - [Amazon Bedrock Guardrails announces policy based enforcement for responsible AI](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-guardrails-policy-based-enforcement-responsible-ai)
 - [AWS WAF now supports URI fragment field matching](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-waf-uri-fragment-field-matching/)
 - [AWS Firewall Manager is now available in the AWS Asia Pacific &lpar;Thailand&rpar; and AWS Mexico &lpar;Central&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-firewall-manager-thailand-mexico-regions)
-- [Amazon CloudWatch RUM now supports monitoring multiple domains with a single App Monitor](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cloudwatch-rum-monitoring-multiple-domains-single-app-monitor)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
