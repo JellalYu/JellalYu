@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS adds currency selection to Payment Profiles](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-currency-selection-payment-profiles)
+- [AWS announces expanded service support in the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-expanded-support-console-mobile-app/)
 - [Research and Engineering Studio on AWS Version 2025.03 now available](https://aws.amazon.com/about-aws/whats-new/2025/03/research-engineering-studio-aws-version-2025-03-available)
 - [Amazon Redshift Serverless is now available in the AWS Mexico &lpar;Central&rpar; and Asia Pacific &lpar;Thailand&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-redshift-serverless-available-mexico-thailand)
 - [IonQ Forte Enterprise now available on Amazon Braket](https://aws.amazon.com/about-aws/whats-new/2025/03/ionq-forte-enterprise-amazon-braket)
-- [Amazon SES announces Vade advanced email security Add On for Mail Manager](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ses-advanced-email-security-add-on/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
