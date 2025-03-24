@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amplify Swift launches Shared Keychain support](https://aws.amazon.com/about-aws/whats-new/2025/03/amplify-swift-shared-keychain-support/)
+- [Amazon Corretto 24 is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-corretto-24-available/)
 - [Amazon S3 Tables are now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-tables-additional-regions)
 - [Amazon Connect Contact Lens now enables you to capture agent acknowledgements of performance evaluations](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-agents-acknowledgements-performance-evaluations)
 - [Amazon SES announces Vade advanced email security Add On for Mail Manager](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ses-advanced-email-security-add-on/)
-- [AWS Directory Service for Microsoft AD and AD Connector available in Mexico and Thailand](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-directory-service-microsoft-ad-connector-mexico-thailand/)
-- [AWS Deadline Cloud now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-deadline-cloud-supports-ipv6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
