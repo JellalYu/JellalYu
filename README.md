@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server supports linked servers to Teradata databases](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-sql-server-linked-servers-teradata-databases)
+- [Amazon Keyspaces expands Multi-Region Replication to support all AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-keyspaces-multi-region-replication-aws-regions)
 - [Amazon RDS for MySQL announces Innovation Release version 9.2 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-mysql-innovation-release-version-9-2-rds-database-preview-environment)
 - [AWS announces OR2 and OM2 instances for Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-or2-om2-instances-opensearch-service/)
 - [Amazon EventBridge Scheduler now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-scheduler-privatelink/)
-- [Amazon Redshift Query Editor V2 is now available in AWS Mexico &lpar;Central&rpar; and Asia Pacific &lpar;Thailand&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-redshift-query-editor-v2-aws-mexico-central-asia-pacific-thailand-regions)
-- [The next generation of Amazon SageMaker is now available in two additional regions](https://aws.amazon.com/about-aws/whats-new/2025/03/next-generation-amazon-sagemaker-two-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
