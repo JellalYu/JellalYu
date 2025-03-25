@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Scenarios capability now generally available for Amazon Q in QuickSight](https://aws.amazon.com/about-aws/whats-new/2025/03/scenarios-capability-generally-available-amazon-q-quicksight)
 - [AWS Elemental MediaConnect adds support for NDI® outputs](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-elemental-mediaconnect-support-ndi-outputs)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; adds Multi-Region support for User Defined Types &lpar;UDTs&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-keyspaces-apache-cassandra-multi-region-support-udts)
 - [Amplify Swift launches Shared Keychain support](https://aws.amazon.com/about-aws/whats-new/2025/03/amplify-swift-shared-keychain-support/)
 - [AWS DMS Schema Conversion now supports conversions from IBM Db2 for z/OS to Amazon RDS for Db2](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-dms-schema-conversion-ibm-db2-z-os/)
-- [AWS announces new upgrades to the Amazon Q Business Slack and Teams Integrations](https://aws.amazon.com/about-aws/whats-new/2025/03/upgrades-amazon-q-business-slack-teams-integrations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
