@@ -51,7 +51,7 @@
 - [Amazon DynamoDB Streams APIs now support AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-streams-apis-aws-privatelink)
 - [Amazon Application Recovery Controller announces AWS FIS recovery action for zonal autoshift](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-application-recovery-controller-fis-recovery-action/)
 - [New Korean voice for Amazon Polly](https://aws.amazon.com/about-aws/whats-new/2025/03/new-korean-voice-amazon-polly)
-- [Amazon CloudWatch RUM is now generally available in 2 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cloudwatch-rum-2-additional-aws-regions/)
+- [Database Insights adds support for customization of its metrics dashboard](https://aws.amazon.com/about-aws/whats-new/2025/03/database-insights-customization-metrics-dashboard/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
