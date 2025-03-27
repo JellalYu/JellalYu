@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS now enforces upgrade insights checks as part of cluster upgrades](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eks-enforces-upgrade-insights-check-cluster-upgrades)
 - [Amazon Bedrock Custom Model Import introduces real-time cost transparency](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-custom-model-import-real-time-cost-transparency)
 - [Amazon DynamoDB Streams APIs now support AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-streams-apis-aws-privatelink)
 - [Amazon Application Recovery Controller announces AWS FIS recovery action for zonal autoshift](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-application-recovery-controller-fis-recovery-action/)
 - [New Korean voice for Amazon Polly](https://aws.amazon.com/about-aws/whats-new/2025/03/new-korean-voice-amazon-polly)
-- [Database Insights adds support for customization of its metrics dashboard](https://aws.amazon.com/about-aws/whats-new/2025/03/database-insights-customization-metrics-dashboard/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
