@@ -50,8 +50,8 @@
 - [Amazon Bedrock Knowledge Bases now supports Amazon Opensearch Managed Cluster for vector storage](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-knowledge-bases-opensearch-cluster-vector-storage/)
 - [Amazon EKS now enforces upgrade insights checks as part of cluster upgrades](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eks-enforces-upgrade-insights-check-cluster-upgrades)
 - [Amazon EC2 P5en instances are now available in US East &lpar;N. Virginia&rpar; and Asia Pacific &lpar;Jakarta&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-p5en-instances-n-virginia-jakarta/)
+- [Announcing 3 new features on Connected Mobility Solution on AWS](https://aws.amazon.com/about-aws/whats-new/2025/03/3-new-features-connected-mobility-solution/)
 - [Amazon Q Business now available in AWS Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-business-asia-pacific-sydney-region/)
-- [Amazon Bedrock Custom Model Import introduces real-time cost transparency](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-custom-model-import-real-time-cost-transparency)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
