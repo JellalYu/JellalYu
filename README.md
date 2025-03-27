@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GameLift Servers expands instance support with next-generation EC2 instance families](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-gamelift-servers-expands-instance-support)
 - [AWS Network Manager and AWS Cloud WAN now support AWS PrivateLink and IPv6](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-network-manager-cloud-wan-privatelink-ipv6)
 - [AWS Network Firewall adds pass action rule alerts and JA4 filtering](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-network-firewall-pass-action-rule-alerts-ja4-filtering)
 - [Amazon Bedrock Knowledge Bases now supports Amazon Opensearch Managed Cluster for vector storage](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-knowledge-bases-opensearch-cluster-vector-storage/)
 - [AWS Marketplace introduces new seller experiences for Machine Learning products](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-marketplace-seller-experiences-machine-learning-products/)
-- [Amazon EKS now enforces upgrade insights checks as part of cluster upgrades](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eks-enforces-upgrade-insights-check-cluster-upgrades)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
