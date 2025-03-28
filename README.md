@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 now supports more bandwidth and jumbo frames to select destinations](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-bandwidth-jumbo-frames)
 - [Amazon DataZone now supports metadata rules for publishing](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-datazone-metadata-rules-publishing)
 - [Amazon SageMaker introduces metadata rules to enforce standards and improve data governance](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-metadata-rules-standards-improve-data-governance)
 - [Amazon ElastiCache now supports AWS PrivateLink in AWS Asia Pacific &lpar;Jakarta&rpar; and Asia Pacific &lpar;Hyderabad&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-elasticache-aws-privatelink-asia-pacific-jakarta-asia-pacific-hyderabad-regions)
 - [AWS CodeBuild now supports custom cache keys for S3 caching](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codebuild-custom-cache-keys-s3-caching)
-- [Amazon EBS launches gp3 and io1 volumes for AWS Dedicated Local Zones](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ebs-gp3-io1-volumes-aws-dedicated-local-zones)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
