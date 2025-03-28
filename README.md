@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DataZone now supports metadata rules for publishing](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-datazone-metadata-rules-publishing)
+- [Amazon SageMaker introduces metadata rules to enforce standards and improve data governance](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-metadata-rules-standards-improve-data-governance)
 - [Amazon ElastiCache now supports AWS PrivateLink in AWS Asia Pacific &lpar;Jakarta&rpar; and Asia Pacific &lpar;Hyderabad&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-elasticache-aws-privatelink-asia-pacific-jakarta-asia-pacific-hyderabad-regions)
-- [Amazon EBS launches gp3 and io1 volumes for AWS Dedicated Local Zones](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ebs-gp3-io1-volumes-aws-dedicated-local-zones)
 - [AWS CodeBuild now supports custom cache keys for S3 caching](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codebuild-custom-cache-keys-s3-caching)
-- [Amazon SageMaker AI is now available in Asia Pacific &lpar;Thailand&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-ai-asia-pacific-thailand/)
-- [Amazon SageMaker AI is now available in Mexico &lpar;Central&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-ai-mexico-central/)
+- [Amazon EBS launches gp3 and io1 volumes for AWS Dedicated Local Zones](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ebs-gp3-io1-volumes-aws-dedicated-local-zones)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
