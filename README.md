@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family web apps are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-transfer-family-web-apps-govcloud-us-regions)
+- [Amazon Bedrock Custom Model Import is now available in the Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-custom-model-import-europe-frankfurt-region)
+- [Amazon QuickSight launches scheduling and alerts in embedded dashboards](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-quicksight-scheduling-alerts-embedded-dashboards)
 - [Amazon Q Developer is now generally available in Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-developer-generally-available-opensearch-service)
 - [AWS Elastic Beanstalk now supports retrieving secrets and configuration from AWS Secrets Manager and AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-elastic-beanstalk-retrieving-secrets-configuration-secrets-manager-systems-manager)
-- [Amazon RDS for PostgreSQL now supports configurable cipher suites](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-postgresql-configurable-cipher-suites)
-- [AWS Resource Access Manager &lpar;RAM&rpar; now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-ram-supports-ipv6)
-- [Amazon Connect Contact Lens now supports conversational analytics in 34 new languages](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-conversational-analytics-new-languages)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
