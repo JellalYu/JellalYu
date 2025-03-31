@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Connect Contact Lens now supports conversational analytics in 34 new languages](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-conversational-analytics-new-languages)
 - [Amazon EKS introduces a new catalog of community add-ons](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eks-new-catalog-community-add-ons)
+- [AWS adds Multi-Factor Authentication &lpar;MFA&rpar; for card registration in Japan](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-multi-factor-authentication-card-registration-japan/)
+- [Amazon Connect Contact Lens now provides AI-powered contact summarization in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-ai-powered-contact-summarization/)
 - [AWS announces new AWS Direct Connect location in Athens, Greece](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-direct-connect-location-athens-greece)
-- [Amazon EC2 R8g instances now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-r8g-instances-govcloud-us-west/)
-- [Asset level capacity management for AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2025/03/asset-level-capacity-management-aws-outposts)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
