@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Resource Explorer supports 32 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-explorer-new-resource-types)
+- [AWS App Studio introduces a prebuilt solutions catalog and cross-instance Import and Export](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-app-studio-prebuilt-solutions-catalog-import-export/)
 - [AWS Transfer Family web apps are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-transfer-family-web-apps-govcloud-us-regions)
 - [Amazon Bedrock Custom Model Import is now available in the Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-custom-model-import-europe-frankfurt-region)
 - [Amazon QuickSight launches scheduling and alerts in embedded dashboards](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-quicksight-scheduling-alerts-embedded-dashboards)
-- [Amazon Q Developer is now generally available in Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-developer-generally-available-opensearch-service)
-- [AWS Elastic Beanstalk now supports retrieving secrets and configuration from AWS Secrets Manager and AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-elastic-beanstalk-retrieving-secrets-configuration-secrets-manager-systems-manager)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
