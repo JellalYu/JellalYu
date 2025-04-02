@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Connect now allows supervisors to take additional actions on in-progress chats](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-supervisors-additional-actions-in-progress-chats)
 - [Amazon RDS Proxy announces TLS 1.3 support for PostgreSQL on Aurora and RDS](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-proxy-tls-1-3-postgresql-aurora-rds/)
-- [Amazon SageMaker now offers 9 additional visual ETL transforms](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sagemaker-additional-visual-etl-transforms)
 - [IAM Identity Center extends sessions and TIP management capabilities for customers with Microsoft AD](https://aws.amazon.com/about-aws/whats-new/2025/04/iam-identity-center-sessions-tip-capabilities-microsoft-ad/)
-- [Amazon QuickSight launches dashboard versioning and publish any analysis to any dashboard](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-quicksight-dashboard-versioning-publish-analysis-dashboard)
+- [Amazon SageMaker now offers 9 additional visual ETL transforms](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sagemaker-additional-visual-etl-transforms)
+- [Announcing enhanced autoscaling for Amazon OpenSearch Ingestion pipelines](https://aws.amazon.com/about-aws/whats-new/2025/04/autoscaling-amazon-opensearch-ingestion-pipelines/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
