@@ -50,8 +50,8 @@
 - [Monitor service dependencies with Amazon CloudWatch Application Signals SLOs](https://aws.amazon.com/about-aws/whats-new/2025/04/service-dependencies-amazon-cloudwatch-application-signals-slos)
 - [Amazon Security Lake achieves FedRamp High and Moderate authorization](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-security-lake-fedramp-high-moderate-authorization)
 - [Amazon CloudWatch Logs increases maximum log event size to 1 MB](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-logs-increases-log-event-size-1-mb/)
-- [AWS CDK Construct Library for Amazon EventBridge Scheduler now generally available](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-cdk-construct-library-eventbridge-scheduler/)
 - [AWS CDK L2 Construct for Amazon Cognito Identity Pools now generally available](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-cdk-l2-construct-cognito-identity-pools/)
+- [Amazon Connect now allows supervisors to take additional actions on in-progress chats](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-supervisors-additional-actions-in-progress-chats)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
