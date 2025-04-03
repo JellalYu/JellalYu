@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [SES Mail Manager now supports incoming connections from customer VPCs via PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/04/ses-mail-manager-incoming-connections-customer-vpcs-privatelink)
+- [Amazon RDS for PostgreSQL announces Extended Support minor versions 11.22-rds.20250220 and 12.22-rds.20250220](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-postgresql-extended-support-11-22-rds-20250220-12-22-rds-20250220)
 - [AWS Glue G4 and G8 worker types now available in six new regions](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-glue-g4-g8-worker-types-new-regions)
 - [Amazon Kendra GenAI Index now available in Europe &lpar;Ireland&rpar; and Asia Pacific &lpar;Sydney&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kendra-genai-index-ireland-sydney-regions/)
 - [Amazon Q Business Browser Extension now available to all subscribers](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-business-browser-extension-subscribers/)
-- [AWS IAM Identity Center is now available in the Asia Pacific &lpar;Malaysia&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-iam-identity-center-asia-pacific-malaysia-aws-region)
-- [Amazon RDS for MariaDB supports Innovation Release 11.8 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-maria-db-innovation-release-11-8-rds-database-preview-environment)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
