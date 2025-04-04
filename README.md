@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Route 53 adds public authoritative DNS service to AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-route-53-public-authoritative-dns-aws-govcloud-us-regions)
+- [Announcing new AWS Elemental MediaTailor pricing model with lower VOD ad insertion costs](https://aws.amazon.com/about-aws/whats-new/2025/04/new-aws-elemental-mediatailor-pricing-model)
 - [Amazon RDS Custom for SQL Server supports new minor version for SQL Server 2019](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-custom-sql-server-version-2019/)
 - [Amazon SES now offers attachments in sending APIs](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ses-attachments-sending-apis/)
 - [Amazon EKS Adds Support for Bottlerocket FIPS AMIs in Managed Node Groups](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eks-bottlerocket-fips-amis-node-groups/)
-- [AWS ParallelCluster 3.13 with support for Ubuntu 24.04 and support for EFA-enabled with Amazon FSx for Lustre](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-parallelcluster-3-13-ubuntu-24-04-efa-enabled-amazon-fsx-lustre-filesystems)
-- [Amazon Neptune announces 99.99% availability Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-neptune-99-99-availability-service-level-agreement)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
