@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon RDS Custom for SQL Server supports new minor version for SQL Server 2019](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-custom-sql-server-version-2019/)
+- [Amazon SES now offers attachments in sending APIs](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ses-attachments-sending-apis/)
 - [AWS ParallelCluster 3.13 with support for Ubuntu 24.04 and support for EFA-enabled with Amazon FSx for Lustre](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-parallelcluster-3-13-ubuntu-24-04-efa-enabled-amazon-fsx-lustre-filesystems)
 - [Amazon Neptune announces 99.99% availability Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-neptune-99-99-availability-service-level-agreement)
 - [SES Mail Manager now supports incoming connections from customer VPCs via PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/04/ses-mail-manager-incoming-connections-customer-vpcs-privatelink)
-- [Amazon RDS for PostgreSQL announces Extended Support minor versions 11.22-rds.20250220 and 12.22-rds.20250220](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-postgresql-extended-support-11-22-rds-20250220-12-22-rds-20250220)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
