@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Nova Canvas now supports fine-tuning](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-nova-canvas-supports-fine-tuning/)
+- [Amazon EventBridge Archive and Replay now supports Customer Managed KMS Keys](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eventbridge-archive-replay-customer-managed-kms-keys)
+- [Amazon FSx for NetApp ONTAP now supports ONTAP Autonomous Ransomware Protection](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-fsx-netapp-ontap-autonomous-ransomware-protection/)
 - [Amazon Route 53 adds public authoritative DNS service to AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-route-53-public-authoritative-dns-aws-govcloud-us-regions)
 - [Announcing new AWS Elemental MediaTailor pricing model with lower VOD ad insertion costs](https://aws.amazon.com/about-aws/whats-new/2025/04/new-aws-elemental-mediatailor-pricing-model)
-- [Amazon RDS Custom for SQL Server supports new minor version for SQL Server 2019](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-custom-sql-server-version-2019/)
-- [Amazon SES now offers attachments in sending APIs](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ses-attachments-sending-apis/)
-- [Amazon EKS Adds Support for Bottlerocket FIPS AMIs in Managed Node Groups](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eks-bottlerocket-fips-amis-node-groups/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
