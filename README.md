@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Bedrock Guardrails announces new capabilities to safely build generative AI applications](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-guardrails-safely-build-generative-ai-applications)
+- [AWS SAM now supports Amazon API Gateway Custom Domain Names for private REST APIs](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-sam-api-gateway-custom-domain-names/)
 - [Amazon Bedrock announces general availability of prompt caching](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-general-availability-prompt-caching)
 - [Amazon EC2 M7i and R7i instances now available in AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m7i-r7i-instances-aws-asia-pacific-melbourne-region)
 - [AWS Transfer Family SFTP connectors can now delete, rename or move files on remote SFTP servers](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-transfer-family-sftp-connectors-delete-rename-move-files-remote-sftp-servers)
-- [AWS CodeBuild now supports enhanced debugging experience](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-codebuild-enhanced-debugging-experience)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
