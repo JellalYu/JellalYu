@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C6in instances are now available in AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c6in-instances-aws-asia-pacific-osaka-region)
+- [Meta’s Llama 4 now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2025/04/metas-llama-4-amazon-sagemaker-jumpstart)
 - [Amazon Bedrock Guardrails announces new capabilities to safely build generative AI applications](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-guardrails-safely-build-generative-ai-applications)
 - [AWS SAM now supports Amazon API Gateway Custom Domain Names for private REST APIs](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-sam-api-gateway-custom-domain-names/)
 - [Amazon Bedrock announces general availability of prompt caching](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-general-availability-prompt-caching)
-- [Amazon EC2 M7i and R7i instances now available in AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m7i-r7i-instances-aws-asia-pacific-melbourne-region)
-- [AWS Transfer Family SFTP connectors can now delete, rename or move files on remote SFTP servers](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-transfer-family-sftp-connectors-delete-rename-move-files-remote-sftp-servers)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
