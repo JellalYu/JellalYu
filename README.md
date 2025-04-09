@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon OpenSearch Ingestion now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-opensearch-ingestion-aws-europe-spain-region)
-- [Amazon EC2 C6in instances are now available in AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c6in-instances-aws-asia-pacific-osaka-region)
-- [Meta’s Llama 4 now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2025/04/metas-llama-4-amazon-sagemaker-jumpstart)
-- [Amazon Bedrock Guardrails announces new capabilities to safely build generative AI applications](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-guardrails-safely-build-generative-ai-applications)
-- [Amazon Bedrock now offers Pixtral Large 25.02, a multimodal model from Mistral AI](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-pixtral-large-25-02-mistral-ai/)
+- [Announcing pgvector 0.8.0 support in Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/04/pgvector-0-8-0-aurora-postgresql)
+- [Amazon MSK expands support for Graviton3 based M7g instances for Standard and Express brokers in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-msk-graviton3-based-m7g-instances-standard-express-brokers-aws-middle-east-uae-region)
+- [New Guidance in the Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2025/04/new-guidance-well-architected-tool)
+- [AWS Marketplace introduces new fulfillment experience for container products](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-marketplace-new-fulfillment-experience-container-products)
+- [Amazon OpenSearch UI is now available in AWS Europe &lpar;Stockholm&rpar; and Asia Pacific &lpar;Hong Kong&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-opensearch-ui-stockholm-hong-kong-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
