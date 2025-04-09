@@ -50,8 +50,8 @@
 - [Amazon Aurora now supports PostgreSQL 16.8, 15.12, 14.17 and 13.20](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-aurora-postgresql-versions/)
 - [Announcing pgvector 0.8.0 support in Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/04/pgvector-0-8-0-aurora-postgresql)
 - [Amazon MSK expands support for Graviton3 based M7g instances for Standard and Express brokers in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-msk-graviton3-based-m7g-instances-standard-express-brokers-aws-middle-east-uae-region)
-- [New Guidance in the Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2025/04/new-guidance-well-architected-tool)
 - [AWS Marketplace introduces new fulfillment experience for container products](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-marketplace-new-fulfillment-experience-container-products)
+- [New Guidance in the Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2025/04/new-guidance-well-architected-tool)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
