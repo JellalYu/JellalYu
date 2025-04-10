@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family introduces additional configuration options for SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-transfer-family-configuration-options-sftp-connectors/)
+- [Amazon Managed Service for Apache Flink is now available in the Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-managed-service-apache-flink-mexico/)
+- [Amazon Lex adds ability to control intent switching during conversations](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-lex-control-intent-switching-during-conversations)
 - [Anthropic&#39;s Claude 3.7 Sonnet is now available on Amazon Bedrock in Europe](https://aws.amazon.com/about-aws/whats-new/2025/04/anthropics-claude-3-7-sonnet-amazon-bedrock-europe)
 - [Amazon SageMaker Studio now supports recovery mode for applications](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sagemaker-studio-recovery-mode-applications)
-- [Amazon RDS for Oracle now supports M6id and R6id database instances](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-oracle-m6id-r6id-database-instances)
-- [Amazon Aurora now supports PostgreSQL 16.8, 15.12, 14.17 and 13.20](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-aurora-postgresql-versions/)
-- [Announcing pgvector 0.8.0 support in Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/04/pgvector-0-8-0-aurora-postgresql)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
