@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Corretto April 2025 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-corretto-april-2025-quarterly-updates)
 - [Amazon EC2 I4g instances are now available in South America &lpar;Sao Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i4g-instances-sao-paulo-region/)
+- [Announcing 223 new AWS Config rules in AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2025/04/new-aws-config-rules-control-tower)
 - [Amazon Redshift Concurrency Scaling is now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-redshift-concurrency-scaling-additional-regions)
 - [AWS simplifies Amazon VPC Peering billing](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-vpc-peering-billing/)
-- [Load Balancer Capacity Unit Reservation for Gateway Load Balancers](https://aws.amazon.com/about-aws/whats-new/2025/04/load-balancer-capacity-unit-reservation-gateway-load-balancers)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
