@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Corretto April 2025 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-corretto-april-2025-quarterly-updates)
+- [Amazon EC2 I7ie instances now available in AWS Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7ie-instances-aws-europe-ireland-region)
+- [Amazon EC2 M7i-flex instances now available in AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m7i-flex-instances-aws-asia-pacific-melbourne-region)
 - [Amazon Q Developer is now generally available in the AWS Europe &lpar;Frankfurt&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-aws-europe-frankfurt-region)
 - [Amazon Q Business launches support for hallucination mitigation in chat responses](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-business-hallucination-mitigation-chat-responses/)
-- [Amazon SES now supports logging email sending events through AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ses-logging-email-sending-events-aws-cloudtrail)
-- [AWS Mainframe Modernization introduces advanced operations for runtime environments](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-mainframe-modernization-advanced-operations-runtime-environments)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
