@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Corretto April 2025 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-corretto-april-2025-quarterly-updates)
+- [Amazon SES now supports logging email sending events through AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ses-logging-email-sending-events-aws-cloudtrail)
 - [AWS Mainframe Modernization introduces advanced operations for runtime environments](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-mainframe-modernization-advanced-operations-runtime-environments)
 - [AWS simplifies Amazon VPC Peering billing](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-vpc-peering-billing/)
 - [Amazon Redshift Concurrency Scaling is now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-redshift-concurrency-scaling-additional-regions)
-- [AWS Elemental Link UHD adds HD ingest rates as Link HD enters end of sale](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-elemental-link-uhd-hd-ingest-rates-end-sale/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
