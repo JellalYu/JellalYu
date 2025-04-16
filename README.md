@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch agent adds support for SELinux](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-agent-selinux/)
 - [Amazon Corretto April 2025 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-corretto-april-2025-quarterly-updates)
-- [Amazon EC2 C8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8g-instances-additional-regions/)
-- [AWS Batch now supports Amazon Elastic Container Service Exec and AWS FireLens log router](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-batch-amazon-elastic-container-service-exec-firelens-log-router)
-- [Amazon EventBridge Connector for Apache Kafka Connect now generally available](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eventbridge-connector-apache-kafka-connect/)
-- [Amazon EC2 M8g instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m8g-instances-available-additional-regions/)
+- [AWS Transfer Family is now available in AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-transfer-family-aws-mexico-central-region)
+- [Amazon Athena is now available in Mexico &lpar;Central&rpar; and Asia Pacific &lpar;Thailand&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-athena-mexico-central-asia-pacific-thailand/)
+- [Amazon CloudFront announces Anycast Static IPs support for apex domains](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudfront-anycast-static-ips-apex-domains)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
