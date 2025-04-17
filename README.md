@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon CloudWatch agent adds support for SELinux](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-agent-selinux/)
-- [Amazon Corretto April 2025 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-corretto-april-2025-quarterly-updates)
+- [Amazon S3 Tables now support server-side encryption using AWS KMS with customer-managed keys](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-s3-tables-server-side-encryption-aws-kms-customer-managed-keys)
+- [AWS HealthOmics now supports Elastic Throughput for dynamic run storage](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-healthomics-elastic-throughput-dynamic-run-storage)
 - [AWS Transfer Family is now available in AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-transfer-family-aws-mexico-central-region)
-- [Amazon Athena is now available in Mexico &lpar;Central&rpar; and Asia Pacific &lpar;Thailand&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-athena-mexico-central-asia-pacific-thailand/)
-- [Amazon CloudFront announces Anycast Static IPs support for apex domains](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudfront-anycast-static-ips-apex-domains)
+- [Amazon Corretto April 2025 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-corretto-april-2025-quarterly-updates)
+- [Amazon CloudWatch agent adds support for SELinux](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-agent-selinux/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
