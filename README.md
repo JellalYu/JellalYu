@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [AWS Security Incident Response now supports integration with AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-security-incident-response-integration-privatelink)
 - [Amazon Connect Cases adds support for managing service level agreements on cases](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-cases-managing-service-level-agreements-cases)
-- [Amazon MemoryDB now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-memorydb-supports-ipv6/)
-- [AWS Application Migration Service authorized for DoD Impact Level 4 and 5](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-application-migration-service-dod-impact-level-4-5/)
+- [Amazon Verified Permissions now supports policy store deletion protection](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-verified-permissions-policy-store-deletion-protection)
 - [AWS Lambda now supports inbound IPv6 connectivity over AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-lambda-inbound-ipv6-connectivity-aws-privatelink)
+- [AWS Application Migration Service authorized for DoD Impact Level 4 and 5](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-application-migration-service-dod-impact-level-4-5/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
