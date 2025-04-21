@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [AWS HealthOmics announces workflow versioning support](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-healthomics-workflow-versioning-support)
 - [Amazon CloudWatch launches cross-account observability in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-cross-account-observability-govcloud/)
+- [Amazon Managed Service for Prometheus now supports label-based active series limits](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-managed-service-prometheus-label-based-series-limits/)
 - [Amazon CloudWatch agent now supports Red Hat OpenShift Service on AWS &lpar;ROSA&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-agent-rosa/)
 - [AWS STS global endpoint now serves your requests locally in regions enabled by default](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-sts-global-endpoint-requests-locally-regions-default/)
-- [AWS Console Mobile Application adds support for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-console-mobile-application-support-amazon-lightsail)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
