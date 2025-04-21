@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Proxy is now available in 3 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-proxy-additional-aws-regions)
 - [Amazon Kinesis Data Streams increases default shard limits to up to 20,000 per AWS account](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kinesis-data-streams-increases-default-shard-limits)
 - [Amazon SQS now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sqs-internet-protocol-version-6/)
 - [Amazon MSK adds support for Apache Kafka version 3.9](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-msk-apache-kafka-version-3-9)
-- [Amazon Q Developer releases state of the art agent for feature development](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-releases-state-art-agent-feature-development)
-- [AWS HealthOmics announces workflow versioning support](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-healthomics-workflow-versioning-support)
+- [Introducing Amazon EC2 C8gd, M8gd, and R8gd instances](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
