@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Deadline Cloud now provides a macOS installer for submitters](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-deadline-cloud-macos-installer-submitters)
 - [Amazon EBS now supports additional resource-level permissions for copying EBS snapshots](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ebs-additional-resource-level-permissions-copying-eb-snapshots)
 - [Amazon Bedrock Intelligent Prompt Routing is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-intelligent-prompt-routing-generally-available)
 - [Amazon EC2 C7gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c7gd-instances-additional-regions)
 - [Amazon EC2 R7gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-r7gd-instances-additional-regions)
-- [AWS Transfer Family introduces Terraform module for deploying SFTP server endpoints](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-transfer-family-terraform-module-sftp-endpoints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
