@@ -51,7 +51,7 @@
 - [Amazon EC2 M8g instances now available in AWS US West &lpar;N. California&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m8g-instances-aws-us-west-n-california-region)
 - [Amazon EC2 I4g instances are now available in AWS Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i4g-instances-asia-pacific-sydney-region)
 - [Thinkbox Deadline 10.4.1 release](https://aws.amazon.com/about-aws/whats-new/2025/04/thinkbox-deadline-release/)
-- [AWS Backup adds support for search and item-level recovery in 4 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-backup-search-item-level-recovery-additional-regions)
+- [AWS Account Management now supports IAM-based account name updates](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-account-management-iam-based-name-updates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
