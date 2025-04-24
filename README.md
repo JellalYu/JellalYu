@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS AppConfig now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-appconfig-internet-protocol-version-6/)
+- [Amazon SageMaker Lakehouse now supports attribute based access control](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sagemaker-lakehouse-attribute-based-access-control/)
 - [Amazon Redshift adds history mode support to 8 third-party SaaS applications](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-redshift-history-mode-third-party-saas-applications)
 - [Prompt Optimization in Amazon Bedrock now generally available](https://aws.amazon.com/about-aws/whats-new/2025/04/prompt-optimization-amazon-bedrock-generally-available)
 - [Announcing AWS DMS Serverless automatic storage scaling](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-dms-serverless-automatic-storage-scaling)
-- [Customer Carbon Footprint Tool has new features and an updated methodology](https://aws.amazon.com/about-aws/whats-new/2025/04/customer-carbon-footprint-tool-updated-methodology/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
