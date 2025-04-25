@@ -51,7 +51,7 @@
 - [Amazon EventBridge cross-account event delivery now in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eventbridge-cross-account-event-delivery-govcloud/)
 - [AWS Resource Groups now supports 160 more resource types](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-groups-160-resource-types/)
 - [Amazon Q Developer operational investigations &lpar;preview&rpar; now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-operational-investigations-preview/)
-- [Amazon Connect agent workspace expands capabilities for third-party applications, including contact-related actions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-agent-workspace-capabilities-third-party-applications)
+- [AWS Resource Explorer now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-explorer-privatelink/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
