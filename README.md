@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock Data Automation now supports modality controls, hyperlinks and larger documents](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-data-automation-modality-controls-hyperlinks-larger-documents)
+- [Amazon EventBridge cross-account event delivery now in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eventbridge-cross-account-event-delivery-govcloud/)
 - [AWS Resource Groups now supports 160 more resource types](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-groups-160-resource-types/)
+- [Amazon Q Developer operational investigations &lpar;preview&rpar; now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-operational-investigations-preview/)
 - [Amazon Connect agent workspace expands capabilities for third-party applications, including contact-related actions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-agent-workspace-capabilities-third-party-applications)
-- [AWS AppSync Events now supports data source integrations for channel namespaces](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-appsync-events-data-source-integrations-channel-namespaces)
-- [AWS AppConfig now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-appconfig-internet-protocol-version-6/)
-- [Amazon SageMaker Lakehouse now supports attribute based access control](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sagemaker-lakehouse-attribute-based-access-control/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
