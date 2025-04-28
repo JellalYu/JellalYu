@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Bedrock Data Automation now supports modality controls, hyperlinks and larger documents](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-data-automation-modality-controls-hyperlinks-larger-documents)
-- [Amazon EventBridge cross-account event delivery now in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eventbridge-cross-account-event-delivery-govcloud/)
-- [AWS Resource Groups now supports 160 more resource types](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-groups-160-resource-types/)
-- [Amazon Q Developer operational investigations &lpar;preview&rpar; now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-operational-investigations-preview/)
-- [AWS Resource Explorer now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-explorer-privatelink/)
+- [AWS Amplify enhances developer tooling with refined output and CDK-style notices](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-amplify-developer-tooling-refined-output-cdk-style-notices)
+- [Automated HTTP validated public certificates with Amazon CloudFront](https://aws.amazon.com/about-aws/whats-new/2025/04/automated-http-validated-public-certificates-amazon-cloudfront)
+- [Writer’s Palmyra X5 and X4 models are now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/04/writers-palmyra-x5-x4-models-amazon-bedrock/)
+- [AWS Client VPN now supports Client Routes Enforcement](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-client-vpn-client-routes-enforcement/)
+- [Introducing Amazon EC2 I7i high performance Storage Optimized instances](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7i-high-performance-storage-optimized-instances)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
