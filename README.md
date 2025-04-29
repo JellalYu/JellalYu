@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager launches just-in-time node access](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-systems-manager-just-in-time-node-access)
+- [Announcing second-generation AWS Outposts racks](https://aws.amazon.com/about-aws/whats-new/2025/04/second-generation-aws-outposts-racks)
 - [Amazon DynamoDB Accelerator now supports R7i instances](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-dynamodb-accelerator-r7i-instances)
 - [Amazon Q Developer CLI now supports Model Context Protocol &lpar;MCP&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-cli-model-context-protocol)
 - [Amazon S3 Access Grants are now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-s3-access-grants-malaysia-region/)
-- [Amazon ElastiCache now supports Global Datastore in 15 additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-elasticache-global-datastore-15-additional-regions/)
-- [AWS Amplify introduces data seeding](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-amplify-introduces-data-seeding)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
