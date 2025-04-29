@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Generation 7i instance support for Amazon RDS on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2025/04/generation-7i-instance-amazon-rds-aws-outposts)
+- [Amazon EKS Hybrid Nodes now supports Bottlerocket](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eks-hybrid-nodes-bottlerocket)
+- [AWS Budgets announces support for additional cost metrics and filtering capabilities](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-budgets-cost-metrics-filtering-capabilities)
 - [AWS Systems Manager launches just-in-time node access](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-systems-manager-just-in-time-node-access)
 - [Announcing second-generation AWS Outposts racks](https://aws.amazon.com/about-aws/whats-new/2025/04/second-generation-aws-outposts-racks)
-- [Amazon DynamoDB Accelerator now supports R7i instances](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-dynamodb-accelerator-r7i-instances)
-- [Amazon Q Developer CLI now supports Model Context Protocol &lpar;MCP&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-cli-model-context-protocol)
-- [Amazon S3 Access Grants are now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-s3-access-grants-malaysia-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
