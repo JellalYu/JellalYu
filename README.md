@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Resource Explorer is now available in 3 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-explorer-additional-regions)
+- [Amazon SageMaker scheduling experience for Visual ETL and Query editors](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sagemaker-scheduling-visual-etl-query-editors)
 - [Amazon RDS announces Cross-Region Automated Backups in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-cross-region-automated-backups-additional-aws-regions)
+- [AWS Elastic Beanstalk adds controls for default security group management](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-elastic-beanstalk-controls-default-security-group-management)
 - [Amazon Connect launches administrator access for agent schedules](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-administrator-access-agent-schedules)
-- [Amazon OpenSearch Service now supports OpenSearch version 2.19](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-opensearch-service-opensearch-version-2-19)
-- [Amazon SES Mail Manager now supports Publish to Amazon SNS Topic Rule Action](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ses-mail-manager-publish-amazon-sns-topic-rule-action)
-- [AWS Clean Rooms now supports multiple results receivers in a collaboration](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-clean-rooms-multiple-results-receivers-collaboration)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
