@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kinesis Data Streams now supports tagging and Attribute-Based Access Control for consumers](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kinesis-data-streams-consumer-tagging-abac/)
 - [Announcing Generation 7i instance support for Amazon RDS on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2025/04/generation-7i-instance-amazon-rds-aws-outposts)
 - [Amazon EKS Hybrid Nodes now supports Bottlerocket](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eks-hybrid-nodes-bottlerocket)
 - [AWS Budgets announces support for additional cost metrics and filtering capabilities](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-budgets-cost-metrics-filtering-capabilities)
 - [AWS Systems Manager launches just-in-time node access](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-systems-manager-just-in-time-node-access)
-- [Announcing second-generation AWS Outposts racks](https://aws.amazon.com/about-aws/whats-new/2025/04/second-generation-aws-outposts-racks)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
