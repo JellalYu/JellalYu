@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Clean Rooms now supports multiple results receivers in a collaboration](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-clean-rooms-multiple-results-receivers-collaboration)
+- [Amazon Connect now provides bulk removal of agent schedules](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-bulk-removal-agent-schedules)
 - [MAP enhancements to accelerate AI customer adoption](https://aws.amazon.com/about-aws/whats-new/2025/04/map-accelerate-ai-customer-adoption)
 - [EC2 Image Builder now integrates with SSM Parameter Store](https://aws.amazon.com/about-aws/whats-new/2025/04/ec2-image-builder-integrates-ssm-parameter-store/)
-- [Amazon Kinesis Data Streams now supports tagging and Attribute-Based Access Control for consumers](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kinesis-data-streams-consumer-tagging-abac/)
-- [Announcing Generation 7i instance support for Amazon RDS on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2025/04/generation-7i-instance-amazon-rds-aws-outposts)
-- [Amazon EKS Hybrid Nodes now supports Bottlerocket](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eks-hybrid-nodes-bottlerocket)
+- [Amazon VPC Lattice now supports IPv6 for management endpoints](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-vpc-lattice-ipv6-management-endpoints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
