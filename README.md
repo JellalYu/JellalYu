@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AI search flow builder is now available on the Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2025/05/ai-search-flow-builder-amazon-opensearch-service)
-- [Amazon Connect adds enhanced contact information to DescribeContact API](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-enhanced-contact-information-describecontact-api)
 - [Amazon Connect now publishes post-contact completion events to Contact Event Stream](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-publishes-post-contact-completion-events-contact-event-stream)
+- [Amazon Connect adds enhanced contact information to DescribeContact API](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-enhanced-contact-information-describecontact-api)
 - [Amazon VPC IPAM now allows cost distribution to AWS Organization member-accounts](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-vpc-ipam-cost-distribution-aws-organization-member-accounts)
-- [AWS Launch Wizard automates multi-node SAP NetWeaver deployment on SAP ASE Database](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-launch-wizard-multi-node-sap-netweaver-deployment-sap-ase-database)
+- [Amazon RDS for MySQL now supports new minor versions 8.0.42 and 8.4.5](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-mysql-new-minor-versions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
