@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon VPC IPAM now allows cost distribution to AWS Organization member-accounts](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-vpc-ipam-cost-distribution-aws-organization-member-accounts)
 - [AWS Launch Wizard automates multi-node SAP NetWeaver deployment on SAP ASE Database](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-launch-wizard-multi-node-sap-netweaver-deployment-sap-ase-database)
 - [Amazon CloudWatch launches tiered pricing and additional destinations for AWS Lambda logs](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-tiered-pricing-additional-destinations-aws-lambda-logs)
 - [Amazon RDS for MySQL now supports new minor versions 8.0.42 and 8.4.5](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-mysql-new-minor-versions)
 - [AWS HealthImaging now supports DICOM video data and JPEG 2000 transcoding](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-healthimaging-dicom-video-data-jpeg-2000-transcoding)
-- [Amazon Aurora now supports PostgreSQL major version 17](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-postgresql-major-version-17/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
