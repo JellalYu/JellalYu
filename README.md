@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Resource control policies &lpar;RCPs&rpar; are now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/resource-control-policies-aws-govcloud-us-regions)
-- [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M8g and R8g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-mysql-mariadb-m8g-r8g/)
-- [Amazon Aurora now supports R8g database instances in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-r8g-database-instances-govcloud/)
-- [Amazon ECR adds support for Internet Protocol version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecr-support-ipv6)
 - [Amazon Aurora now supports R7g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-r7g-database-instances-regions/)
+- [Amazon Aurora now supports R8g database instances in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-r8g-database-instances-govcloud/)
+- [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M8g and R8g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-mysql-mariadb-m8g-r8g/)
+- [Amazon ECR adds support for Internet Protocol version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecr-support-ipv6)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
