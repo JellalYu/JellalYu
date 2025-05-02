@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AI search flow builder is now available on the Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2025/05/ai-search-flow-builder-amazon-opensearch-service)
-- [Amazon Connect now publishes post-contact completion events to Contact Event Stream](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-publishes-post-contact-completion-events-contact-event-stream)
-- [Amazon Connect adds enhanced contact information to DescribeContact API](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-enhanced-contact-information-describecontact-api)
-- [Amazon VPC IPAM now allows cost distribution to AWS Organization member-accounts](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-vpc-ipam-cost-distribution-aws-organization-member-accounts)
-- [Amazon CloudWatch launches tiered pricing and additional destinations for AWS Lambda logs](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-tiered-pricing-additional-destinations-aws-lambda-logs)
+- [Amazon Aurora now supports R8g database instances in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-r8g-database-instances-govcloud/)
+- [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M8g and R8g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-mysql-mariadb-m8g-r8g/)
+- [Amazon ECR adds support for Internet Protocol version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecr-support-ipv6)
+- [Amazon Aurora now supports R7g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-r7g-database-instances-regions/)
+- [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports T4g database instances in AWS Asia Pacific &lpar;Malaysia&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-mysql-mariadb-t4g-malaysia/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
