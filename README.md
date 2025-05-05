@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect for WhatsApp Business messaging and SMS now available in new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-whatsapp-business-messaging-sms-aws-regions)
+- [Amazon SES now supports IPv6 when calling SES outbound endpoints](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ses-ipv6-calling-ses-outbound-endpoints)
 - [Amazon ElastiCache now supports AWS PrivateLink in the AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-elasticache-aws-privatelink-aws-europe-spain-region)
 - [AWS WAF is expanding the availability of its enhanced rate-based rules feature across multiple regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-waf-enhanced-rate-based-rules-feature-across-multiple-regions)
 - [Amazon Redshift Serverless is now available in the AWS Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-redshift-serverless-aws-asia-pacific-hyderabad-region)
-- [Payments Account Summary provides an overview of AWS financial account balances](https://aws.amazon.com/about-aws/whats-new/2025/05/payments-account-summary-financial-balances/)
-- [Amazon Connect outbound campaigns now supports Poland](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-outbound-campaigns-poland/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
