@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift Serverless is now available in the AWS Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-redshift-serverless-aws-asia-pacific-hyderabad-region)
+- [Amazon ECS introduces 1-click rollbacks for service deployments](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecs-1-click-rollbacks-service-deployments)
+- [Amazon Bedrock Data Automation now supports extraction of custom insights from audio](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-data-automation-extraction-custom-insights-audio)
 - [The Amazon Q Developer integration in GitHub &lpar;preview&rpar; is now available](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-q-developer-integration-github-preview-available)
 - [Resource control policies &lpar;RCPs&rpar; are now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/resource-control-policies-aws-govcloud-us-regions)
-- [Amazon Aurora now supports R7g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-r7g-database-instances-regions/)
-- [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M8g and R8g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-mysql-mariadb-m8g-r8g/)
-- [Amazon ECR adds support for Internet Protocol version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecr-support-ipv6)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
