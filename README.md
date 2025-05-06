@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Catalog introduces authorization policy for asset type usage](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-catalog-authorization-policy-asset-type-usage)
+- [Amazon EC2 X2idn instances now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-x2idn-instances-aws-israel-tel-aviv-region)
 - [Amazon CloudWatch Network Monitoring adds multi-account support for flow monitors](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-network-monitoring-multi-account-flow-monitors)
 - [Announcing new AWS Wavelength Zone in Lenexa, Kansas](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-wavelength-zone-lenexa-kansas)
 - [Amazon EC2 P5en instances are now available in the AWS US West &lpar;N. California&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-p5en-instances-aws-us-west-n-california-region)
-- [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; Version 24.2](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-oracle-oracle-application-express-apex-version-24-2)
-- [Amazon SageMaker offers additional visual ETL transforms and S3 tables support](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-visual-etl-transforms-s3-tables-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
