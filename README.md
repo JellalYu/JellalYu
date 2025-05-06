@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker offers additional visual ETL transforms and S3 tables support](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-visual-etl-transforms-s3-tables-support/)
+- [Amazon Verified Permissions now supports policy store tagging](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-verified-permissions-policy-store-tagging/)
 - [Amazon Connect Contact Lens real-time dashboards are now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-contact-lens-real-time-dashboards-aws-govcloud-us-west)
 - [Amazon Connect for WhatsApp Business messaging and SMS now available in new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-whatsapp-business-messaging-sms-aws-regions)
 - [Amazon SES now supports IPv6 when calling SES outbound endpoints](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ses-ipv6-calling-ses-outbound-endpoints)
-- [Amazon ElastiCache now supports AWS PrivateLink in the AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-elasticache-aws-privatelink-aws-europe-spain-region)
-- [AWS WAF is expanding the availability of its enhanced rate-based rules feature across multiple regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-waf-enhanced-rate-based-rules-feature-across-multiple-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
