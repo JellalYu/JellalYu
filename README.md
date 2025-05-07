@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 R7g instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-r7g-instances-additional-aws-regions)
 - [Amazon Managed Service for Prometheus now available in the AWS Canada &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-managed-service-prometheus-canada-central-region/)
 - [Amazon WorkSpaces is now available in AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-workspaces-aws-europe-paris-region)
 - [Amazon EC2 R7g instances are now available in AWS GovCloud &lpar;US-East&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-r7g-instances-aws-govcloud-us-east)
 - [Amazon SageMaker adds support for three new data sources](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-new-data-sources)
-- [Amazon SageMaker Catalog introduces authorization policy for asset type usage](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-catalog-authorization-policy-asset-type-usage)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
