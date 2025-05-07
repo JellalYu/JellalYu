@@ -50,8 +50,8 @@
 - [Amazon EC2 C8gd, M8gd, and R8gd instances are now available in AWS Region Europe &lpar;Frankfurt&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-8gd-m8gd-r8gd-instances-aws-region-europe-frankfurt)
 - [Amazon EC2 R7g instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-r7g-instances-additional-aws-regions)
 - [Amazon MSK enables seamless certificate renewals on MSK Provisioned clusters](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-msk-certificate-renewals-provisioned-clusters/)
+- [AWS Systems Manager adds customization options for onboarding configuration](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-systems-manager-customization-options/)
 - [Amazon Managed Service for Prometheus now available in the AWS Canada &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-managed-service-prometheus-canada-central-region/)
-- [Amazon WorkSpaces is now available in AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-workspaces-aws-europe-paris-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
