@@ -48,8 +48,8 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon WorkSpaces is now available in AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-workspaces-aws-europe-paris-region)
-- [Amazon SageMaker adds support for three new data sources](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-new-data-sources)
 - [Amazon EC2 R7g instances are now available in AWS GovCloud &lpar;US-East&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-r7g-instances-aws-govcloud-us-east)
+- [Amazon SageMaker adds support for three new data sources](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-new-data-sources)
 - [Amazon SageMaker Catalog introduces authorization policy for asset type usage](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-catalog-authorization-policy-asset-type-usage)
 - [Amazon EC2 X2idn instances now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-x2idn-instances-aws-israel-tel-aviv-region)
 <!-- AWS-NEWS:END -->
