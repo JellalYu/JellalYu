@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C8gd, M8gd, and R8gd instances are now available in AWS Region Europe &lpar;Frankfurt&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-8gd-m8gd-r8gd-instances-aws-region-europe-frankfurt)
 - [Amazon EC2 R7g instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-r7g-instances-additional-aws-regions)
+- [Amazon MSK enables seamless certificate renewals on MSK Provisioned clusters](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-msk-certificate-renewals-provisioned-clusters/)
 - [Amazon Managed Service for Prometheus now available in the AWS Canada &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-managed-service-prometheus-canada-central-region/)
 - [Amazon WorkSpaces is now available in AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-workspaces-aws-europe-paris-region)
-- [Amazon EC2 R7g instances are now available in AWS GovCloud &lpar;US-East&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-r7g-instances-aws-govcloud-us-east)
-- [Amazon SageMaker adds support for three new data sources](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-new-data-sources)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
