@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS announces new AWS Direct Connect location in Brisbane, Australia](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-direct-connect-location-brisbane-australia)
+- [Amazon RDS for PostgreSQL supports minor versions 17.5, 16.9, 15.13, 14.18, and 13.21](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-supports-new-minor-versions/)
 - [Amazon Aurora PostgreSQL Limitless Database now supports PostgreSQL 16.8](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-postgresql-limitless-database-postgresql-16-8)
+- [Amazon SQS now supports FIPS 140-3 enabled interface VPC endpoint](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sqs-fips-140-3-interface-vpc-endpoint/)
 - [Amazon Route 53 Resolver Query Logging now available in two new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-route-53-resolver-query-logging-new-aws-regions)
-- [Amazon EC2 Inf2 instances now available in Korea](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-inf2-instances-available-korea)
-- [Amazon S3 Tables are now available in eleven additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-s3-tables-additional-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
