@@ -47,10 +47,10 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon RDS for PostgreSQL supports minor versions 17.5, 16.9, 15.13, 14.18, and 13.21](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-supports-new-minor-versions/)
-- [AWS announces new AWS Direct Connect location in Brisbane, Australia](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-direct-connect-location-brisbane-australia)
 - [AWS Security Incident Response is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-security-incident-response-three-additional-regions/)
 - [AWS Shield Advanced is now available in AWS Asia Pacific &lpar;Thailand&rpar; and AWS Mexico &lpar;Central&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-shield-advanced-thailand-mexico-regions/)
+- [Amazon RDS for PostgreSQL supports minor versions 17.5, 16.9, 15.13, 14.18, and 13.21](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-supports-new-minor-versions/)
+- [AWS announces new AWS Direct Connect location in Brisbane, Australia](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-direct-connect-location-brisbane-australia)
 - [Amazon SQS now supports FIPS 140-3 enabled interface VPC endpoint](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sqs-fips-140-3-interface-vpc-endpoint/)
 <!-- AWS-NEWS:END -->
 
