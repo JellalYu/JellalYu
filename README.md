@@ -51,7 +51,7 @@
 - [Amazon RDS for PostgreSQL supports minor versions 17.5, 16.9, 15.13, 14.18, and 13.21](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-supports-new-minor-versions/)
 - [Amazon Aurora PostgreSQL Limitless Database now supports PostgreSQL 16.8](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-postgresql-limitless-database-postgresql-16-8)
 - [Amazon SQS now supports FIPS 140-3 enabled interface VPC endpoint](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sqs-fips-140-3-interface-vpc-endpoint/)
-- [Amazon Route 53 Resolver Query Logging now available in two new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-route-53-resolver-query-logging-new-aws-regions)
+- [AWS Control Tower is now available in AWS Asia Pacific &lpar;Thailand&rpar; and AWS Mexico &lpar;Central&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-control-tower-thailand-mexico-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
