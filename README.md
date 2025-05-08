@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS announces new AWS Direct Connect location in Brisbane, Australia](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-direct-connect-location-brisbane-australia)
 - [Amazon RDS for PostgreSQL supports minor versions 17.5, 16.9, 15.13, 14.18, and 13.21](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-supports-new-minor-versions/)
-- [Amazon Aurora PostgreSQL Limitless Database now supports PostgreSQL 16.8](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-postgresql-limitless-database-postgresql-16-8)
+- [AWS announces new AWS Direct Connect location in Brisbane, Australia](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-direct-connect-location-brisbane-australia)
+- [AWS Security Incident Response is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-security-incident-response-three-additional-regions/)
+- [AWS Shield Advanced is now available in AWS Asia Pacific &lpar;Thailand&rpar; and AWS Mexico &lpar;Central&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-shield-advanced-thailand-mexico-regions/)
 - [Amazon SQS now supports FIPS 140-3 enabled interface VPC endpoint](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sqs-fips-140-3-interface-vpc-endpoint/)
-- [AWS Control Tower is now available in AWS Asia Pacific &lpar;Thailand&rpar; and AWS Mexico &lpar;Central&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-control-tower-thailand-mexico-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
