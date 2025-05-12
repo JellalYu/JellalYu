@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS EC2 instances now support ENA queue allocation for your network interfaces](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-ec2-instances-ena-queue-allocation-network-interfaces/)
+- [AWS announces new AWS Direct Connect location in Istanbul, Turkey](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-direct-connect-location-istanbul-turkey/)
 - [Amazon CloudWatch RUM adds support for Interaction to Next Paint &lpar;INP&rpar; Web Vital](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-rum-inp-web-vital)
 - [Amazon Connect now supports audio optimization for Omnissa cloud desktops](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-audio-optimization-omnissa-cloud-desktops)
 - [Amazon SageMaker HyperPod now integrates with Amazon EventBridge to deliver status change events](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-hyperpod-integrates-amazon-eventbridge-status-change-events)
-- [Amazon FSx for OpenZFS is now available in the AWS Asia Pacific &lpar;Thailand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-openzfs-thailand-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
