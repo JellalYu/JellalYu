@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing Code Editor &lpar;based on VS Code – Open Source&rpar; in Amazon SageMaker Unified Studio](https://aws.amazon.com/about-aws/whats-new/2025/05/code-editor-vs-code-open-source-sagemaker-unified-studio/)
+- [Amazon RDS for MySQL now supports new minor versions 8.0.42 and 8.4.5](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-mysql-new-minor-versions)
 - [Amazon SageMaker Unified Studio now allows you to bring your own image &lpar;BYOI&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-unified-studio-byoi/)
 - [AWS EC2 instances now support ENA queue allocation for your network interfaces](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-ec2-instances-ena-queue-allocation-network-interfaces/)
-- [AWS announces new AWS Direct Connect location in Istanbul, Turkey](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-direct-connect-location-istanbul-turkey/)
 - [Amazon SageMaker launches AWS CloudFormation support for domain features](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-aws-cloudformation-domain-features)
+- [AWS announces new AWS Direct Connect location in Istanbul, Turkey](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-direct-connect-location-istanbul-turkey/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
