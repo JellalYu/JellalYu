@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon ECR expands registry policy to all ECR actions in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecr-registry-policy-actions-aws-govcloud-us-regions)
 - [Amazon VPC adds CloudTrail logging for VPC resources created by default](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-vpc-cloudtrail-logging-resources-default/)
+- [AWS Deadline Cloud service-managed fleets now support configuration scripts](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-deadline-cloud-service-managed-fleets-configuration-scripts)
 - [Amazon Elastic Container Registry &lpar;ECR&rpar; supports image replication between the AWS GovCloud &lpar;US&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecr-image-replication-aws-govcloud-us-region)
-- [Announcing Code Editor &lpar;based on VS Code – Open Source&rpar; in Amazon SageMaker Unified Studio](https://aws.amazon.com/about-aws/whats-new/2025/05/code-editor-vs-code-open-source-sagemaker-unified-studio/)
-- [Amazon SageMaker Unified Studio now allows you to bring your own image &lpar;BYOI&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-unified-studio-byoi/)
+- [Amazon GuardDuty Malware Protection for EC2 now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-guardduty-malware-protection-ec2-aws-govcloud-us-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
