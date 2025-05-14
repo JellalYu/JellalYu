@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports the April 2025 Release Update &lpar;RU&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-oracle-april-2025-release-update)
 - [AWS Control Tower introduces account-level reporting for baseline APIs](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-control-tower-account-level-reporting-baseline-apis)
 - [Amazon Aurora MySQL 3.09 &lpar;compatible with MySQL 8.0.40&rpar; is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-mysql-3-09-compatible-mysql-8-0-40-generally-available)
 - [Amazon EC2 makes it easier to launch Windows instances with EC2 Fast Launch](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-launch-windows-instances-ec2-fast-launch/)
 - [Amazon Kinesis Data Streams expands IPv6 support to VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-kinesis-data-streams-ipv6-vpc-endpoints)
-- [Amazon Aurora and RDS for PostgreSQL, MySQL, and MariaDB now offer Reserved Instances for R8g and M8g instances](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-rds-postgresql-mysql-mariadb-reserved-instances-8g-m8g)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
