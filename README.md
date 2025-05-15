@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [SES Mail Manager adds Debug Logging for traffic policies](https://aws.amazon.com/about-aws/whats-new/2025/05/ses-mail-manager-debug-logging-traffic-policies)
+- [AWS Parallel Computing Service &lpar;PCS&rpar; now supports accounting with Slurm version 24.11](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-pcs-accounting-slurm-version-24-11)
 - [AWS CodeBuild announces support for remote Docker servers](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-codebuild-remote-docker-servers)
 - [AWS Transform for .NET is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-transform-net-generally-available)
 - [AWS Transform for mainframe is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-transform-mainframe-generally-available)
-- [Announcing migration assessment capabilities of AWS Transform](https://aws.amazon.com/about-aws/whats-new/2025/05/migration-assessment-capabilities-aws-transform)
-- [Amazon SageMaker Catalog launches governance for S3 Tables](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-catalog-governance-s3-tables/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
