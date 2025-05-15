@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodeBuild announces support for remote Docker servers](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-codebuild-remote-docker-servers)
 - [AWS Transform for .NET is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-transform-net-generally-available)
 - [AWS Transform for mainframe is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-transform-mainframe-generally-available)
-- [Amazon SageMaker Catalog launches governance for S3 Tables](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-catalog-governance-s3-tables/)
 - [Announcing migration assessment capabilities of AWS Transform](https://aws.amazon.com/about-aws/whats-new/2025/05/migration-assessment-capabilities-aws-transform)
-- [AWS Transform for VMware is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-transform-vmware-generally-available)
+- [Amazon SageMaker Catalog launches governance for S3 Tables](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-catalog-governance-s3-tables/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
