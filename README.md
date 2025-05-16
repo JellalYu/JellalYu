@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Entity Resolution is now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-entity-resolution-additional-regions)
+- [AWS Config rules now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-config-rules-additional-aws-regions)
 - [Amazon Cognito now supports OIDC prompt parameter](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cognito-oidc-prompt-parameter/)
 - [Amazon SageMaker - move project across domain units](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-move-project-domain-units)
 - [Amazon OpenSearch Ingestion increases memory for an OCU to 15 GB](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-opensearch-ingestion-increases-memory-ocu)
-- [SES Mail Manager adds Debug Logging for traffic policies](https://aws.amazon.com/about-aws/whats-new/2025/05/ses-mail-manager-debug-logging-traffic-policies)
-- [AWS Parallel Computing Service &lpar;PCS&rpar; now supports accounting with Slurm version 24.11](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-pcs-accounting-slurm-version-24-11)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
