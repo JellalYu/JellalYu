@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon MSK is now available in Asia Pacific &lpar;Thailand&rpar; and Mexico &lpar;Central&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-msk-thailand-mexico-central-regions/)
+- [AWS CloudWatch Synthetics adds safe canary updates and automatic retries](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-cloudwatch-synthetics-canary-updates-automatic-retries/)
 - [Amazon MSK adds support for Apache Kafka version 4.0](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-msk-apache-kafka-version-4-0)
-- [Amazon Lightsail now supports IPv6 connectivity over AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-lightsail-ipv6-connectivity-aws-privateLink)
-- [AWS Entity Resolution is now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-entity-resolution-additional-regions)
-- [AWS Config rules now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-config-rules-additional-aws-regions)
+- [Amazon MSK is now available in Asia Pacific &lpar;Thailand&rpar; and Mexico &lpar;Central&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-msk-thailand-mexico-central-regions/)
+- [Amazon Bedrock Data Automation now supports generating custom insights from videos](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-data-automation-custom-insights-videos/)
+- [Amazon Inspector enhances container security by mapping ECR images to running containers](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-inspector-container-security-images/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
