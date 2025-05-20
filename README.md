@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon RDS for Oracle now supports credential management with AWS Secrets Manager for databases using Oracle multitenant architecture](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-oracle-credential-management-aws-secrets-manager-multitenant-architecture)
 - [Amazon EC2 High Memory instances now available in US East &lpar;Ohio&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-high-memory-instances-us-east-ohio-region/)
+- [Announcing customer-initiated reboot migrations for EC2 Scheduled Events](https://aws.amazon.com/about-aws/whats-new/2025/05/customer-initiated-reboot-migrations-ec2-scheduled-events/)
 - [AWS Organizations now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-organizations-internet-protocol-version-6/)
-- [Announcing Amazon Bedrock Agents Metrics in CloudWatch](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-agents-metrics-cloudwatch)
-- [AWS CodeBuild adds support for new IAM condition keys](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-codebuild-iam-condition-keys)
+- [AWS service changes](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-service-changes)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
