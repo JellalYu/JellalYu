@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Global Database introduces support for up to 10 secondary Region clusters](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-global-database-support-10-secondary-region-clusters)
 - [Announcing EKS Dashboard, a multi-cluster view of Kubernetes infrastructure across AWS Regions and your AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2025/05/eks-dashboard-multi-cluster-view-kubernetes-infrastructure-aws-regions-organizations)
 - [Amazon EC2 Mac instances now support configurable System Integrity Protection &lpar;SIP&rpar; settings](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-mac-instances-configurable-sip-settings)
 - [AWS DMS introduces Data Resync for improved migration accuracy](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-dms-data-resync-improved-migration-accuracy)
 - [AWS Cost Anomaly Detection enables advanced alerting through AWS User Notifications](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-cost-anomaly-detection-advanced-alerting-user-notifications/)
-- [AWS Deadline Cloud now supports Foundry Nuke version 16](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-deadline-cloud-foundry-nuke-version-16/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
