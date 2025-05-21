@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Mac instances now support configurable System Integrity Protection &lpar;SIP&rpar; settings](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-mac-instances-configurable-sip-settings)
 - [AWS DMS introduces Data Resync for improved migration accuracy](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-dms-data-resync-improved-migration-accuracy)
 - [AWS Cost Anomaly Detection enables advanced alerting through AWS User Notifications](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-cost-anomaly-detection-advanced-alerting-user-notifications/)
 - [AWS Deadline Cloud now supports Foundry Nuke version 16](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-deadline-cloud-foundry-nuke-version-16/)
 - [Amazon RDS now supports easy retrieval of engine lifecycle support dates](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-retrieval-engine-lifecycle-support-dates/)
-- [Amazon RDS for Oracle now supports credential management with AWS Secrets Manager for databases using Oracle multitenant architecture](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-oracle-credential-management-aws-secrets-manager-multitenant-architecture)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
