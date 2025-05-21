@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon RDS for Oracle now supports credential management with AWS Secrets Manager for databases using Oracle multitenant architecture](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-oracle-credential-management-aws-secrets-manager-multitenant-architecture)
+- [Amazon RDS for MariaDB now supports community MariaDB minor versions 10.5.29 and 10.6.22](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-mariadb-community-mariadb-minor-versions/)
 - [Amazon EC2 High Memory instances now available in US East &lpar;Ohio&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-high-memory-instances-us-east-ohio-region/)
 - [Announcing customer-initiated reboot migrations for EC2 Scheduled Events](https://aws.amazon.com/about-aws/whats-new/2025/05/customer-initiated-reboot-migrations-ec2-scheduled-events/)
 - [AWS Site-to-Site VPN Tunnel Endpoint Lifecycle Control is now available in AWS Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-site-to-site-vpn-tunnel-endpoint-lifecycle-control-europe-milan-region)
-- [Amazon RDS for MariaDB now supports community MariaDB minor versions 10.5.29 and 10.6.22](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-mariadb-community-mariadb-minor-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
