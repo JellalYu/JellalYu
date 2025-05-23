@@ -51,7 +51,7 @@
 - [Amazon Route 53 Profiles now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-route-53-profiles-three-additional-regions/)
 - [CloudWatch Database Insights adds support for Aurora Limitless PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/05/cloudwatch-database-insights-aurora-limitless-postgresql/)
 - [Amazon Bedrock models get FedRAMP High and DoD IL-4/5 approval in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-models-fedramp-high-dod-il-4-5-govcloud/)
-- [Amazon Aurora reduces cross-Region Global Database Switchover time to typically under 30 seconds](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-cross-region-global-database-switchover-time-under-30-seconds)
+- [AWS Deadline Cloud Monitor now supports multiple languages](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-deadline-cloud-monitor-multiple-languages/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
