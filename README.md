@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon ECS increases container exit reason message to 1024 characters](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecs-container-exit-reason-message-characters/)
 - [Amazon Route 53 Profiles now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-route-53-profiles-three-additional-regions/)
+- [Amazon ECS increases container exit reason message to 1024 characters](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecs-container-exit-reason-message-characters/)
 - [CloudWatch Database Insights adds support for Aurora Limitless PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/05/cloudwatch-database-insights-aurora-limitless-postgresql/)
-- [Amazon Bedrock models get FedRAMP High and DoD IL-4/5 approval in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-models-fedramp-high-dod-il-4-5-govcloud/)
 - [AWS Deadline Cloud Monitor now supports multiple languages](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-deadline-cloud-monitor-multiple-languages/)
+- [Amazon Bedrock models get FedRAMP High and DoD IL-4/5 approval in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-models-fedramp-high-dod-il-4-5-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
