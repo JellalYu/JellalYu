@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora DSQL is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-dsql-generally-available/)
+- [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20250508](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-mysql-minor-5744-rds-20250508/)
 - [AWS Backup search now supports creating backup indexes within backup policies](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-backup-search-backup-indexes-backup-policies/)
 - [Amazon Route 53 Profiles now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-route-53-profiles-three-additional-regions/)
 - [Amazon ECS increases container exit reason message to 1024 characters](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecs-container-exit-reason-message-characters/)
-- [CloudWatch Database Insights adds support for Aurora Limitless PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/05/cloudwatch-database-insights-aurora-limitless-postgresql/)
-- [AWS Deadline Cloud Monitor now supports multiple languages](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-deadline-cloud-monitor-multiple-languages/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
