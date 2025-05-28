@@ -50,8 +50,8 @@
 - [Amazon EC2 C8gd, M8gd, and R8gd instances are now available Europe &lpar;Spain&rpar; and Asia Pacific &lpar;Tokyo&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-c8gd-m8gd-r8gd-instances-spain-tokyo/)
 - [Amazon CloudWatch Synthetics Adds Java Runtime for Lightweight API Monitoring](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-synthetics-java-runtime-lightweight-api/)
 - [Amazon Neptune announces MCP &lpar;Model Context Protocol&rpar; Server](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-neptune-mcp-server)
+- [AWS Backup enhances Amazon EC2 restores with custom volume configuration support](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-backup-ec2-restores-custom-volume-configuration/)
 - [AWS Neuron introduces NxD Inference GA, new features, and improved tools](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-neuron-nxd-inference-ga)
-- [AWS Secrets Manager announces support for cost allocation tags for secrets](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-secrets-manager-cost-allocation-tags-secrets)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
