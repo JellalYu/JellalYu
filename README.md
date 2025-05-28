@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Synthetics Adds Java Runtime for Lightweight API Monitoring](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-synthetics-java-runtime-lightweight-api/)
 - [AWS Neuron introduces NxD Inference GA, new features, and improved tools](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-neuron-nxd-inference-ga)
 - [AWS Secrets Manager announces support for cost allocation tags for secrets](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-secrets-manager-cost-allocation-tags-secrets)
 - [AWS Backup now supports Amazon Aurora DSQL](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-backup-amazon-aurora-dsql)
 - [Amazon Aurora DSQL is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-dsql-generally-available/)
-- [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20250508](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-mysql-minor-5744-rds-20250508/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
