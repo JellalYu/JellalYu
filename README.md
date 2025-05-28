@@ -51,7 +51,7 @@
 - [Amazon EC2 C8gd, M8gd, and R8gd instances are now available Europe &lpar;Spain&rpar; and Asia Pacific &lpar;Tokyo&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-c8gd-m8gd-r8gd-instances-spain-tokyo/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Announces 99.99% Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-documentdb-mongodb-99-99-sla/)
 - [Amazon CloudWatch Synthetics Adds Java Runtime for Lightweight API Monitoring](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-synthetics-java-runtime-lightweight-api/)
-- [Amazon Neptune announces MCP &lpar;Model Context Protocol&rpar; Server](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-neptune-mcp-server)
+- [AWS Network Firewall Adds Support for Multiple VPC Endpoints](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-network-firewall-multiple-vpc-endpoints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
