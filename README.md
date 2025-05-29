@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Express One Zone now supports granular access controls with S3 Access Points](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-s3-express-one-zone-granular-access-controls-access-points)
+- [AWS Amplify Hosting announces customizable build instances](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-amplify-hosting-customizable-build-instances)
 - [AWS Security Hub now supports NIST SP 800-171 Revision 2](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-security-hub-nist-sp-800-171-revision-2)
 - [AWS Cost Explorer now offers new Cost Comparison feature](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-cost-explorer-new-cost-comparison-feature/)
-- [Amazon OpenSearch Service adds support for Script Plugins](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-opensearch-service-script-plugins)
 - [Amazon Neptune Database is now available in AWS Canada West &lpar;Calgary&rpar; and Asia Pacific &lpar;Melbourne&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-neptune-database-aws-calgary-melbourne-regions)
-- [Amazon FSx for NetApp ONTAP now supports write-back mode for ONTAP FlexCache volumes](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-netapp-ontap-write-back-mode-ontap-flexcache-volumes)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
