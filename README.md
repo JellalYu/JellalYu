@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GameLift Servers SDKs are now on GitHub](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-gamelift-sdks-github)
 - [Amazon FSx for Lustre adds new storage class that delivers the lowest-cost and only fully elastic Lustre file storage](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-lustre-new-storage-class)
 - [Amazon EMR enables enhanced Apache Spark capabilities for Lake Formation tables with full table access](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-emr-apache-spark-capabilities-lake-formation-table)
 - [Announcing new Model Context Protocol &lpar;MCP&rpar; Servers for AWS Serverless and Containers](https://aws.amazon.com/about-aws/whats-new/2025/05/new-model-context-protocol-servers-aws-serverless-containers)
 - [Amazon S3 Express One Zone now supports granular access controls with S3 Access Points](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-s3-express-one-zone-granular-access-controls-access-points)
-- [AWS Amplify Hosting announces customizable build instances](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-amplify-hosting-customizable-build-instances)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
