@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon MWAA now provides option to update environments without interrupting task execution](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-mwaa-option-update-environments-without-interrupting-task-execution)
+- [Announcing Red Hat Enterprise Linux for AWS](https://aws.amazon.com/about-aws/whats-new/2025/05/red-hat-enterprise-linux-aws)
+- [AWS CDK Toolkit Library is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-cdk-toolkit-library-available/)
 - [Mountpoint for Amazon S3 now lets you automatically mount your S3 buckets using fstab](https://aws.amazon.com/about-aws/whats-new/2025/05/mountpoint-amazon-s3-mount-buckets-fstab/)
 - [Amazon EKS introduces configuration insights for Amazon EKS Hybrid Nodes](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-eks-configuration-insights-eks-hybrid-nodes/)
-- [AWS Pricing Calculator, now generally available, supports discounts and purchase commitment](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-pricing-calculator-discounts-purchase-commitments)
-- [Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.33](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-eks-distro-kubernetes-version-1-33)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
