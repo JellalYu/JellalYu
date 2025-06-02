@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Private CA announces support for Microsoft Active Directory child domains](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-private-ca-microsoft-active-directory-child-domains)
+- [AWS Marketplace now supports a localized experience in four additional languages](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-marketplace-localized-experience-additional-languages)
+- [Second-generation Amazon FSx for NetApp ONTAP now available in the AWS Mumbai and Tokyo Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/second-generation-amazon-fsx-netapp-ontap-mumbai-tokyo-regions)
 - [Introducing agentic capabilities for Amazon Q Developer Chat in the AWS Management Console and chat applications](https://aws.amazon.com/about-aws/whats-new/2025/06/agentic-capabilities-amazon-q-developer-chat-aws-management-console-chat-applications)
 - [Amazon DataZone launches upgrade domain to SageMaker](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-datazone-upgrade-domain-sagemaker)
-- [Amazon Lex adds AWS CloudFormation support for GovCloud &lpar;US-West&rpar; and advanced features](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-lex-aws-cloudformation-govcloud-us-west-advanced-features)
-- [AWS Compute Optimizer now supports Aurora I/O-Optimized recommendations](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-compute-optimizer-aurora-i-o-optimized-recommendations)
-- [Cost Optimization Hub supports recommendations for Amazon Aurora](https://aws.amazon.com/about-aws/whats-new/2025/06/cost-optimization-hub-recommendations-amazon-aurora)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
