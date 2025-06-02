@@ -51,7 +51,7 @@
 - [Announcing Red Hat Enterprise Linux for AWS](https://aws.amazon.com/about-aws/whats-new/2025/05/red-hat-enterprise-linux-aws)
 - [AWS CDK Toolkit Library is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-cdk-toolkit-library-available/)
 - [Amazon Redshift now enables cluster relocation by default for RA3 provisioned clusters](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-redshift-cluster-relocation-ra3-provisioned-clusters/)
-- [AWS Pricing Calculator, now generally available, supports discounts and purchase commitment](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-pricing-calculator-discounts-purchase-commitments)
+- [Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.33](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-eks-distro-kubernetes-version-1-33)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
