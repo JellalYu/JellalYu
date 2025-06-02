@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon MWAA now provides option to update environments without interrupting task execution](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-mwaa-option-update-environments-without-interrupting-task-execution)
-- [Announcing Red Hat Enterprise Linux for AWS](https://aws.amazon.com/about-aws/whats-new/2025/05/red-hat-enterprise-linux-aws)
-- [AWS CDK Toolkit Library is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-cdk-toolkit-library-available/)
-- [Amazon Redshift now enables cluster relocation by default for RA3 provisioned clusters](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-redshift-cluster-relocation-ra3-provisioned-clusters/)
-- [AWS Pricing Calculator, now generally available, supports discounts and purchase commitment](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-pricing-calculator-discounts-purchase-commitments)
+- [Introducing agentic capabilities for Amazon Q Developer Chat in the AWS Management Console and chat applications](https://aws.amazon.com/about-aws/whats-new/2025/06/agentic-capabilities-amazon-q-developer-chat-aws-management-console-chat-applications)
+- [Amazon DataZone launches upgrade domain to SageMaker](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-datazone-upgrade-domain-sagemaker)
+- [Amazon Lex adds AWS CloudFormation support for GovCloud &lpar;US-West&rpar; and advanced features](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-lex-aws-cloudformation-govcloud-us-west-advanced-features)
+- [AWS Compute Optimizer now supports Aurora I/O-Optimized recommendations](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-compute-optimizer-aurora-i-o-optimized-recommendations)
+- [Cost Optimization Hub supports recommendations for Amazon Aurora](https://aws.amazon.com/about-aws/whats-new/2025/06/cost-optimization-hub-recommendations-amazon-aurora)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
