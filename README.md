@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Firewall launches new monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-network-firewall-monitoring-dashboard)
+- [ENA Express supports 120 new instances](https://aws.amazon.com/about-aws/whats-new/2025/06/ena-express-new-instances)
 - [Announcing Amazon RDS for PostgreSQL Extended Support versions R2 11.22-rds.20250508 and 12.22-rds.20250508](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-postgresql-extended-support-versions-r2-11-22-rds-20250508-12-22-rds-20250508)
 - [Amazon EKS add-ons now supports Private CA Connector for Kubernetes](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-eks-add-ons-private-ca-connector-kubernetes/)
 - [Amazon EC2 C7a instances are now available in AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7a-instances-europe-london-region/)
-- [AWS Resource Groups adds support AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-resource-groups-privatelink)
-- [Amazon Lex extends custom vocabulary feature to additional languages](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-lex-custom-vocabulary-additional-languages)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
