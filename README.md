@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Developer agentic coding experience is now available within JetBrains and Visual Studio](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-agentic-coding-experience-within-jetbrains-visual-studio)
 - [Amazon EC2 now enables you to delete underlying EBS snapshots when deregistering AMIs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-delete-underlying-ebs-snapshots-deregistering-amis)
 - [Amazon RDS for MariaDB now supports community MariaDB minor versions 10.11.13 and 11.4.7](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-maria-db-community-maria-db-minor-versions-10-11-13-11-4-7)
 - [Amazon Managed Service for Prometheus now available in 7 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-managed-service-prometheus-7-regions/)
 - [Amazon Connect now supports external voice transfers in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-external-voice-transfers-five-regions/)
-- [Pricing and usage model updates for Amazon EC2 instances accelerated by NVIDIA GPUs](https://aws.amazon.com/about-aws/whats-new/2025/06/pricing-usage-model-ec2-instances-nvidia-gpus/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
