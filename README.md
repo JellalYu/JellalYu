@@ -51,7 +51,7 @@
 - [Amazon SageMaker AI Training Jobs announces general availability of P6-B200 instances powered by NVIDIA B200 GPUs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-ai-training-jobs-general-availability-p6-b200-instances)
 - [Ingest data from Atlassian Jira and Confluence into Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2025/06/ingest-data-atlassian-jira-confluence-amazon-opensearch-service)
 - [Upgrade Experience from Amazon SageMaker Studio to SageMaker Unified Studio](https://aws.amazon.com/about-aws/whats-new/2025/06/upgrade-amazon-sagemaker-studio-sagemaker-unified-studio/)
-- [Amazon EFS is now available in the AWS Asia Pacific &lpar;Taipei&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-efs-taipei-region/)
+- [Amazon Connect enhances hold duration tracking for multiparty calls](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-hold-duration-tracking-multiparty-calls/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
