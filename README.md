@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Upgrade Experience from Amazon SageMaker Studio to SageMaker Unified Studio](https://aws.amazon.com/about-aws/whats-new/2025/06/upgrade-amazon-sagemaker-studio-sagemaker-unified-studio/)
+- [Amazon EFS is now available in the AWS Asia Pacific &lpar;Taipei&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-efs-taipei-region/)
 - [Announcing ASN match support for AWS WAF](https://aws.amazon.com/about-aws/whats-new/2025/06/asn-match-aws-waf)
 - [AWS Invoice Summary API is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-invoice-summary-api-generally-available)
 - [Amazon Q Developer agentic coding experience is now available within JetBrains and Visual Studio](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-agentic-coding-experience-within-jetbrains-visual-studio)
-- [Amazon EC2 now enables you to delete underlying EBS snapshots when deregistering AMIs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-delete-underlying-ebs-snapshots-deregistering-amis)
-- [Amazon RDS for MariaDB now supports community MariaDB minor versions 10.11.13 and 11.4.7](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-maria-db-community-maria-db-minor-versions-10-11-13-11-4-7)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
