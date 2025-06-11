@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Developer introduces Pro Tier upgrades for Builder IDs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-pro-tier-upgrades-builder-ids)
+- [Amazon RDS for DB2 now supports cross region standby replicas](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-db2-cross-region-standby-replicas)
 - [Extending the AWS Financing program for AWS Marketplace purchases for all US customers](https://aws.amazon.com/about-aws/whats-new/2025/06/extending-aws-financing-program-marketplace-purchases-us-customers)
 - [Amazon DynamoDB Streams adds supports for Kinesis Client Library &lpar;KCL&rpar; 3.0](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-dynamodb-streams-kinesis-client-library-3-0/)
 - [AWS Deadline Cloud now supports worker performance monitoring](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-deadline-cloud-worker-performance-monitoring)
-- [Express Brokers in Amazon MSK now support Apache Kafka version 3.8](https://aws.amazon.com/about-aws/whats-new/2025/06/express-brokers-amazon-msk-apache-kafka-version-3-8)
-- [AWS AppSync Enhances Security with Default Encryption for GraphQL API Caching](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-appsync-security-encryption-graphql-api-caching/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
