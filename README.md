@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudTrail enhances logging for Amazon S3 DeleteObjects API](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-cloudtrail-logging-amazon-s3-deleteobjects-api)
+- [Amazon Bedrock Custom Model Import now supports Qwen models](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-bedrock-custom-model-import-qwen-models)
 - [Amazon Q Developer introduces Pro Tier upgrades for Builder IDs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-pro-tier-upgrades-builder-ids)
 - [Amazon RDS for DB2 now supports cross region standby replicas](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-db2-cross-region-standby-replicas)
 - [Extending the AWS Financing program for AWS Marketplace purchases for all US customers](https://aws.amazon.com/about-aws/whats-new/2025/06/extending-aws-financing-program-marketplace-purchases-us-customers)
-- [Amazon DynamoDB Streams adds supports for Kinesis Client Library &lpar;KCL&rpar; 3.0](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-dynamodb-streams-kinesis-client-library-3-0/)
-- [AWS Deadline Cloud now supports worker performance monitoring](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-deadline-cloud-worker-performance-monitoring)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
