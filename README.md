@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing price reductions for Amazon SageMaker AI GPU-accelerated instances](https://aws.amazon.com/about-aws/whats-new/2025/06/price-reductions-amazon-sagemaker-ai-gpu-accelerated-instances)
 - [Amazon EKS Pod Identity simplifies the experience for cross-account access](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-eks-pod-identity-cross-account-access)
 - [AWS WAF now supports automatic application layer distributed denial of service &lpar;DDoS&rpar; protection](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-waf-automatic-application-layer-ddos-protection)
 - [Amazon Nova Sonic adds support for Spanish language](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-nova-sonic-spanish-language)
 - [AWS Marketplace now supports Private Marketplace management in the console](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-marketplace-private-marketplace-management-console/)
-- [Amazon Lex improves conversational accuracy with LLM-Assisted NLU](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-lex-conversational-accuracy-llm-assisted-nlu/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
