@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect enhances communication limits for Outbound Campaigns](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-communication-limits-outbound-campaigns)
+- [Amazon VPC IP Address Manager is now available in Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-vpc-ip-address-manager-asia-pacific-taipei-region)
 - [Announcing price reductions for Amazon SageMaker AI GPU-accelerated instances](https://aws.amazon.com/about-aws/whats-new/2025/06/price-reductions-amazon-sagemaker-ai-gpu-accelerated-instances)
 - [Amazon EKS Pod Identity simplifies the experience for cross-account access](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-eks-pod-identity-cross-account-access)
 - [AWS WAF now supports automatic application layer distributed denial of service &lpar;DDoS&rpar; protection](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-waf-automatic-application-layer-ddos-protection)
-- [Amazon Nova Sonic adds support for Spanish language](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-nova-sonic-spanish-language)
-- [Amazon EC2 I8g instances now available in AWS Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i8g-instances-europe-ireland-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
