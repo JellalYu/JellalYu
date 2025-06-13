@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces open-source AWS API Models](https://aws.amazon.com/about-aws/whats-new/2025/06/open-source-aws-api-models)
+- [AWS Control Tower now supports seven new compliance frameworks](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-control-tower-new-compliance-frameworks)
 - [Amazon Connect enhances communication limits for Outbound Campaigns](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-communication-limits-outbound-campaigns)
 - [Amazon VPC IP Address Manager is now available in Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-vpc-ip-address-manager-asia-pacific-taipei-region)
 - [Extend Amazon Q Developer IDE plugins with MCP tools](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-ide-plugins-mcp-tools/)
-- [AWS KMS adds support for post-quantum ML-DSA digital signatures](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-kms-post-quantum-ml-dsa-digital-signatures/)
-- [Announcing price reductions for Amazon SageMaker AI GPU-accelerated instances](https://aws.amazon.com/about-aws/whats-new/2025/06/price-reductions-amazon-sagemaker-ai-gpu-accelerated-instances)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
