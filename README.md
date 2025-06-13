@@ -50,8 +50,8 @@
 - [Amazon Connect enhances communication limits for Outbound Campaigns](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-communication-limits-outbound-campaigns)
 - [Amazon VPC IP Address Manager is now available in Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-vpc-ip-address-manager-asia-pacific-taipei-region)
 - [Extend Amazon Q Developer IDE plugins with MCP tools](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-ide-plugins-mcp-tools/)
+- [AWS KMS adds support for post-quantum ML-DSA digital signatures](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-kms-post-quantum-ml-dsa-digital-signatures/)
 - [Announcing price reductions for Amazon SageMaker AI GPU-accelerated instances](https://aws.amazon.com/about-aws/whats-new/2025/06/price-reductions-amazon-sagemaker-ai-gpu-accelerated-instances)
-- [Amazon EKS Pod Identity simplifies the experience for cross-account access](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-eks-pod-identity-cross-account-access)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
