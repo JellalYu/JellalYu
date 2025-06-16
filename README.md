@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon S3 extends additional context for HTTP 403 Access Denied error messages to AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-context-http-403-access-denied-error-message-aws-organizations)
+- [Amazon RDS for MySQL announces Innovation Release 9.3 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-mysql-innovation-release-9-3-preview/)
 - [AWS announces open-source AWS API Models](https://aws.amazon.com/about-aws/whats-new/2025/06/open-source-aws-api-models)
 - [AWS Control Tower now supports seven new compliance frameworks](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-control-tower-new-compliance-frameworks)
 - [AWS KMS adds support for post-quantum ML-DSA digital signatures](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-kms-post-quantum-ml-dsa-digital-signatures/)
-- [Amazon Connect enhances communication limits for Outbound Campaigns](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-communication-limits-outbound-campaigns)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
