@@ -51,7 +51,7 @@
 - [AWS Backup launches Multi-party approval support for logically air-gapped vaults](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-multi-party-approval-logically-air-gapped-vaults/)
 - [AWS WAF reduces web application security configuration steps and provides expert-level protection](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-waf-web-application-security-configuration-steps-expert-level-protection)
 - [Amazon Inspector launches code security to shift security left in development](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-inspector-code-security-shift-security-development)
-- [Express.js developers can now add authorization in minutes with Amazon Verified Permissions](https://aws.amazon.com/about-aws/whats-new/2025/06/express-js-developers-authorization-amazon-verified-permissions/)
+- [Amazon MSK expands Express Brokers to Mexico &lpar;Central&rpar; and Asia Pacific &lpar;Thailand&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-msk-express-brokers-mexico-thailand-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
