@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Express.js developers can now add authorization in minutes with Amazon Verified Permissions](https://aws.amazon.com/about-aws/whats-new/2025/06/express-js-developers-authorization-amazon-verified-permissions/)
+- [AWS Backup launches Multi-party approval support for logically air-gapped vaults](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-multi-party-approval-logically-air-gapped-vaults/)
 - [AWS WAF reduces web application security configuration steps and provides expert-level protection](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-waf-web-application-security-configuration-steps-expert-level-protection)
 - [AWS IAM now enforces MFA for root users across all account types](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-iam-mfa-root-users-across-all-account-types/)
 - [IAM Access Analyzer now identifies who in your AWS organization can access your AWS resources](https://aws.amazon.com/about-aws/whats-new/2025/06/iam-access-analyzer-aws-organization-access-resources/)
-- [AWS Certificate Manager introduces public certificates you can use anywhere](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-certificate-manager-public-certificates-use-anywhere/)
-- [Amazon CloudFront streamlines CDN setup with smart defaults and automation](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cloudfront-streamlines-cdn-setup-smart-defaults-automation)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
