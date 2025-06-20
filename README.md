@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon IVS Real-Time Streaming now supports E-RTMP multitrack video ingest](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ivs-e-rtmp-multitrack-video-ingest/)
+- [Anthropic&#39;s Claude 3.7 Sonnet is now available on Amazon Bedrock in London](https://aws.amazon.com/about-aws/whats-new/2025/06/anthropics-claude-3-7-sonnet-amazon-bedrock-london)
 - [Amazon U7i instances now available in the AWS US West &lpar;Oregon&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-u7i-instances-aws-us-west-oregon-region)
 - [Amazon EC2 C8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec-c8g-instances-additional-regions)
 - [Introducing the updated AWS Government Competency](https://aws.amazon.com/about-aws/whats-new/2025/06/updated-aws-government-competency)
-- [AWS expands resource control policies &lpar;RCPs&rpar; support to two additional services](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-resource-control-policies-additional-services)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
