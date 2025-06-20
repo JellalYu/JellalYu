@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon IVS Real-Time Streaming now supports E-RTMP multitrack video ingest](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ivs-e-rtmp-multitrack-video-ingest/)
 - [Amazon U7i instances now available in the AWS US West &lpar;Oregon&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-u7i-instances-aws-us-west-oregon-region)
 - [Amazon EC2 C8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec-c8g-instances-additional-regions)
 - [Introducing the updated AWS Government Competency](https://aws.amazon.com/about-aws/whats-new/2025/06/updated-aws-government-competency)
 - [AWS expands resource control policies &lpar;RCPs&rpar; support to two additional services](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-resource-control-policies-additional-services)
-- [Announcing Job Completion Metadata Logging for AWS Parallel Computing Service &lpar;PCS&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/job-completion-metadata-logging-aws-pcs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
