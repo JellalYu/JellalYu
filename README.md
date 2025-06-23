@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS AppSync is now available in 3 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-appsync-additional-regions)
 - [AWS Step Functions TestState now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-step-functions-teststate-govcloud-regions)
 - [Amazon EC2 R7g instances are now available in AWS Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-r7g-instances-aws-asia-pacific-melbourne-region)
 - [Amazon RDS for Oracle now offers Reserved Instances for R7i and M7i instances](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-oracle-reserved-instances-r7i-m7i-instances)
 - [Amazon EC2 C7i-flex and C7i instances are now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7i-flex-c7i-instances-additional-regions)
-- [Amazon EC2 M7i-flex and M7i instances are now available in Asia Pacific &lpar;Hong Kong&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m7i-flex-m7i-instances-asia-pacific-hong-kong)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
