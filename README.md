@@ -47,8 +47,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Bedrock Guardrails announces tiers for content filters and denied topics](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-bedrock-guardrails-tiers-content-filters-denied-topics)
 - [Announcing Intelligent Search for re:Post and re:Post Private](https://aws.amazon.com/about-aws/whats-new/2025/06/intelligent-search-re-post-private)
+- [Amazon Bedrock Guardrails announces tiers for content filters and denied topics](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-bedrock-guardrails-tiers-content-filters-denied-topics)
 - [Announcing Amazon WorkSpaces Core Managed Instances to simplify VDI migrations](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-workspaces-core-managed-instances-vdi-migrations)
 - [Amazon OpenSearch Serverless now supports Point in Time &lpar;PIT&rpar; and SQL search in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-opensearch-serverless-pit-sql-search-aws-govcloud-us-regions)
 - [Amazon VPC raises default Route Table capacity](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-vpc-raises-default-route-table-capacity)
