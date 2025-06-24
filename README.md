@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GameLift Servers now available in Asia Pacific &lpar;Thailand&rpar; and Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-gamelift-servers-asia-pacific-thailand-malaysia)
+- [Amazon Route 53 Resolver endpoints now support DNS delegation for private hosted zones](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-route-53-resolver-endpoints-dns-delegation-private-hosted-zones)
+- [Amazon EMR on EKS now supports Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-emr-eks-service-quotas)
 - [Now in GA: Accelerate troubleshooting with Amazon CloudWatch investigations](https://aws.amazon.com/about-aws/whats-new/2025/06/ga-accelerate-troubleshooting-amazon-cloudwatch-investigations)
 - [Announcing Intelligent Search for re:Post and re:Post Private](https://aws.amazon.com/about-aws/whats-new/2025/06/intelligent-search-re-post-private)
-- [Amazon Bedrock Guardrails announces tiers for content filters and denied topics](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-bedrock-guardrails-tiers-content-filters-denied-topics)
-- [Customer Carbon Footprint Tool now includes location-based emissions](https://aws.amazon.com/about-aws/whats-new/2025/06/customer-carbon-footprint-tool-location-based-emissions/)
-- [Amazon S3 now supports sort and z-order compaction for Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-sort-z-order-compaction-apache-iceberg-tables/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
