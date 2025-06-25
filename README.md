@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker now supports automatic synchronization from Git to S3](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-automatic-synchronization-git-s3)
+- [Amazon FSx for OpenZFS now supports Amazon S3 access](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-fsx-openzfs-amazon-s3-access)
 - [Amazon Bedrock Flows announces preview of persistent long-running execution and inline-code support](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-bedrock-flows-preview-persistent-long-running-execution-inline-code-support)
 - [AWS Glue enables enhanced Apache Spark capabilities for AWS Lake Formation tables with full table access](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-glue-apache-spark-capabilities-lake-formation-tables)
 - [Amazon GameLift Servers now available in Asia Pacific &lpar;Thailand&rpar; and Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-gamelift-servers-asia-pacific-thailand-malaysia)
-- [Amazon Route 53 Resolver endpoints now support DNS delegation for private hosted zones](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-route-53-resolver-endpoints-dns-delegation-private-hosted-zones)
-- [Amazon EMR on EKS now supports Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-emr-eks-service-quotas)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
