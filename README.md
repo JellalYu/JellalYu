@@ -50,8 +50,8 @@
 - [Amazon SageMaker now supports automatic synchronization from Git to S3](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-automatic-synchronization-git-s3)
 - [Amazon FSx for OpenZFS now supports Amazon S3 access](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-fsx-openzfs-amazon-s3-access)
 - [Amazon Bedrock Flows announces preview of persistent long-running execution and inline-code support](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-bedrock-flows-preview-persistent-long-running-execution-inline-code-support)
-- [Amazon S3 Tables are now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-tables-two-additional-aws-regions/)
 - [Amazon EC2 C7g instances are now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7g-instances-israel-tel-aviv-region/)
+- [Amazon S3 Tables are now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-tables-two-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
