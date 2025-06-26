@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Directory Service for Microsoft AD and AD Connector available in Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-directory-service-microsoft-ad-ad-connector-taipei-region)
+- [Amazon SageMaker contributes a custom transport to OpenLineage community and offers additional lineage capabilities](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-custom-transport-openlineage-community-lineage-capabilities)
 - [Amazon FSx for OpenZFS now supports Amazon S3 access](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-fsx-openzfs-amazon-s3-access)
 - [Amazon SageMaker now supports automatic synchronization from Git to S3](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-automatic-synchronization-git-s3)
 - [Amazon Bedrock Flows announces preview of persistent long-running execution and inline-code support](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-bedrock-flows-preview-persistent-long-running-execution-inline-code-support)
-- [AWS Glue enables enhanced Apache Spark capabilities for AWS Lake Formation tables with full table access](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-glue-apache-spark-capabilities-lake-formation-tables)
-- [Amazon EC2 C7g instances are now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7g-instances-israel-tel-aviv-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
