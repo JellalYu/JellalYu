@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WAF announces general availability of Resource-level DDoS protection for Application Load Balancers &lpar;ALB&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-waf-general-availability-resource-level-ddos-protection-alb)
+- [AWS Elastic Beanstalk is now available in Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-elastic-beanstalk-middle-east-uae-region)
+- [Amazon Cognito introduces AWS WAF support for Managed Login](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cognito-aws-waf-managed-login)
 - [AWS Backup now supports copying Amazon S3 backups across Regions and accounts in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-copying-amazon-s3-backups-regions-accounts-aws-govcloud-us-regions)
 - [Amazon WorkSpaces Personal now supports PrivateLink for streaming traffic](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-workspaces-personal-privatelink-streaming-traffic)
-- [AWS announces 100G expansion in Jakarta, Indonesia](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-100G-expansion-jakarta-indonesia)
-- [AWS Directory Service for Microsoft AD and AD Connector available in Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-directory-service-microsoft-ad-ad-connector-taipei-region)
-- [Amazon SageMaker contributes a custom transport to OpenLineage community and offers additional lineage capabilities](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-custom-transport-openlineage-community-lineage-capabilities)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
