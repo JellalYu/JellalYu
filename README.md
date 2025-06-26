@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EventBridge now supports AWS CodeBuild batch builds as a target](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-eventbridge-codebuild-batch-builds-target/)
 - [AWS Directory Service for Microsoft AD and AD Connector available in Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-directory-service-microsoft-ad-ad-connector-taipei-region)
 - [Amazon SageMaker contributes a custom transport to OpenLineage community and offers additional lineage capabilities](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-custom-transport-openlineage-community-lineage-capabilities)
-- [Amazon FSx for OpenZFS now supports Amazon S3 access](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-fsx-openzfs-amazon-s3-access)
-- [Amazon SageMaker now supports automatic synchronization from Git to S3](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-automatic-synchronization-git-s3)
-- [Amazon Bedrock Flows announces preview of persistent long-running execution and inline-code support](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-bedrock-flows-preview-persistent-long-running-execution-inline-code-support)
+- [AWS Security Incident Response adds integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-security-incident-response-integration-eventbridge/)
+- [Amazon Connect Outbound Campaigns is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-outbound-campaigns-three-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
