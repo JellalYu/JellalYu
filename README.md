@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Research and Engineering Studio on AWS Version 2025.06 now available](https://aws.amazon.com/about-aws/whats-new/2025/06/research-engineering-studio-aws-version-2025-06-now-available)
 - [AWS Firewall Manager provides support for AWS WAF L7 DDOS managed rules](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-firewall-manager-aws-waf-l7-ddos-managed-rules)
 - [Amazon EC2 I7ie instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i7ie-instances-additional-aws-regions)
 - [AWS WAF announces general availability of Resource-level DDoS protection for Application Load Balancers &lpar;ALB&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-waf-general-availability-resource-level-ddos-protection-alb)
 - [AWS Elastic Beanstalk is now available in Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-elastic-beanstalk-middle-east-uae-region)
-- [Amazon Cognito introduces AWS WAF support for Managed Login](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cognito-aws-waf-managed-login)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
