@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Developer Java upgrade transformation CLI is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-java-upgrade-transformation-cli-generally-available)
 - [Research and Engineering Studio on AWS Version 2025.06 now available](https://aws.amazon.com/about-aws/whats-new/2025/06/research-engineering-studio-aws-version-2025-06-now-available)
 - [AWS Firewall Manager provides support for AWS WAF L7 DDOS managed rules](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-firewall-manager-aws-waf-l7-ddos-managed-rules)
 - [Amazon Route 53 launches capacity utilization metric for Resolver endpoints](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-route-53-capacity-metric-resolver-endpoints/)
 - [Amazon EC2 I7ie instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i7ie-instances-additional-aws-regions)
-- [Amazon EC2 C7i instances are now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7i-instances-middle-east-uae-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
