@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Textract announces accuracy and feature updates to DetectDocumentText and AnalyzeDocument APIs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-textract-detectdocumenttext-analyzedocument-apis)
 - [Amazon Simple Email Service is now available in three new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-simple-email-service-new-aws-regions)
+- [Amazon Connect can now include agent activities from third-party applications when evaluating agent performance](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-agent-activities-third-party-applications/)
 - [ARC zonal autoshift practice now supports on-demand runs and balanced capacity pre-checks](https://aws.amazon.com/about-aws/whats-new/2025/06/arc-zonal-autoshift-practice-on-demand-runs-balanced-capacity-pre-checks)
 - [Amazon Q Developer Java upgrade transformation CLI is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-java-upgrade-transformation-cli-generally-available)
-- [Research and Engineering Studio on AWS Version 2025.06 now available](https://aws.amazon.com/about-aws/whats-new/2025/06/research-engineering-studio-aws-version-2025-06-now-available)
-- [AWS Firewall Manager provides support for AWS WAF L7 DDOS managed rules](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-firewall-manager-aws-waf-l7-ddos-managed-rules)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
