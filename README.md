@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DynamoDB global tables with multi-Region strong consistency is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-dynamo-db-global-tables-multi-region-strong-consistency-generally-available)
 - [Amazon ElastiCache now supports AWS PrivateLink in eight additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-elasticache-aws-privatelink-additional-regions)
 - [Now generally available: Amazon EC2 C8gn instance](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c8gn-instance)
 - [Finch expands support to Ubuntu, streamlining container development across platforms](https://aws.amazon.com/about-aws/whats-new/2025/06/finch-ubuntu-streamlining-container-development-across-platforms)
 - [AWS Config rules add classifications from AWS Control Tower Control Catalog](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-config-rules-classifications-control-tower-control-catalog)
-- [Amazon Textract announces accuracy and feature updates to DetectDocumentText and AnalyzeDocument APIs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-textract-detectdocumenttext-analyzedocument-apis)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
