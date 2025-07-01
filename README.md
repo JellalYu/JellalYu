@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces availability of ECS Optimized Windows Server 2025 AMIs](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-availability-ecs-optimized-windows-server-2025-amis)
+- [Amazon Q in Connect now supports 7 languages for proactive recommendations](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-q-connect-languages-proactive-recommendations)
 - [Amazon Connect launches segment creation from imported files](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-segment-creation-imported-files/)
 - [Amazon Inspector now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-inspector-additional-aws-regions)
 - [Amazon QuickSight launches Trusted Identity Propagation &lpar;TIP&rpar; for Athena Direct Query](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-quicksight-trusted-identity-propagation/)
-- [Amazon Connect now provides enhancements to audio treatment while customers wait in queue](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-enhancements-audio-treatment-customers-wait-queue)
-- [Amazon Connect forecasting, capacity planning, and scheduling is now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-forecasting-capacity-planning-scheduling-aws-govcloud-us-west)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
