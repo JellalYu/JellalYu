@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Express One Zone now supports tags for cost allocation and attribute-based access control](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-s3-express-one-zone-tags-cost-allocation-attribute-based-access-control)
 - [Amazon Nova Canvas adds virtual try-on and style options for image generation](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-nova-canvas-virtual-try-on-style-options-image-generation)
 - [Amazon QuickSight supports 2B row SPICE dataset](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-quicksight-2b-row-spice-dataset)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports Change Data Capture &lpar;CDC&rpar; Streams](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-keyspaces-apache-cassandra-cdc-streams/)
 - [Amazon Connect now supports custom work labels for agent schedules](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-custom-work-labels-agent-schedules/)
-- [AWS Clean Rooms supports incremental and distributed training for custom modeling](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-clean-rooms-incremental-distributed-training-custom-modeling)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
