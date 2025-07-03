@@ -47,9 +47,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Connect launches additional APIs to update and delete cases and related case items](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-apis-update-delete-cases-items/)
 - [Amazon Aurora PostgreSQL database clusters now support up to 256 TiB of storage volume](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-postgresql-database-clusters-256-tib-storage-volume)
 - [Amazon Connect now provides enhanced flow designer UI editing features](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-enhanced-flow-designer-ui-editing-features)
+- [Amazon Connect launches additional APIs to update and delete cases and related case items](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-apis-update-delete-cases-items/)
 - [Amazon Aurora DSQL is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-dsql-additional-regions)
 - [Amazon S3 Express One Zone now supports tags for cost allocation and attribute-based access control](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-s3-express-one-zone-tags-cost-allocation-attribute-based-access-control)
 <!-- AWS-NEWS:END -->
