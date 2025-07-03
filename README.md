@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Fargate now supports SOCI Index Manifest v2 for greater deployment consistency](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-fargate-soci-index-manifest-v2-deployment-consistency)
 - [Amazon Rekognition Face Liveness launches accuracy improvements and new challenge setting for improved UX](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rekognition-face-liveness-accuracy-improvements-challenge-setting)
 - [Amazon Aurora PostgreSQL database clusters now support up to 256 TiB of storage volume](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-postgresql-database-clusters-256-tib-storage-volume)
 - [Amazon Connect now provides enhanced flow designer UI editing features](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-enhanced-flow-designer-ui-editing-features)
 - [Amazon Connect launches additional APIs to update and delete cases and related case items](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-apis-update-delete-cases-items/)
-- [Amazon Neptune Graph Explorer Introduces Native Query Support for Gremlin and openCypher](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-neptune-graph-explorer-native-query-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
