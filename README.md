@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Q in QuickSight is now available in 7 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-q-in-quicksight-7-additional-regions/)
 - [AWS Config now supports 12 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-config-12-new-resource-types/)
+- [AWS Site-to-Site VPN now supports IPv6 addresses on outer tunnel IPs](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-site-to-site-vpn-supports-ipv6-addresses-outer-tunnel-ips)
+- [AWS Network Firewall: Native AWS Transit Gateway support in all regions](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-network-firewall-native-transit-gateway-support/)
 - [Amazon SageMaker AI is now available in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-ai-available-aws-asia-pacific-taipei-region)
-- [Amazon SNS now supports sending SMS in the Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sns-supports-sending-sms-mexico-central-region)
-- [Amazon Neptune Analytics now integrates with Mem0 for graph-native memory in GenAI applications](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-neptune-analytics-mem0-graph-native-memory-in-genai-applications)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
