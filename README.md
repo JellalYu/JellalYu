@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Custom now supports Cumulative Update 19 for Microsoft SQL Server 2022](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-supports-custom-update-19-microsoft-sql-server-2022/)
+- [Oracle Database@AWS is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/07/oracle-database-at-aws-now-generally-available)
+- [Amazon EC2 C8g, M8g and R8g instances now available in Asia Pacific &lpar;Singapore&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-c8g-m8g-and-r8g-instances-asia-singapore/)
+- [Amazon CloudWatch and Application Signals MCP servers for AI-assisted troubleshooting](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudwatch-application-signals-mcp-servers-for-ai-assisted-troubleshooting)
 - [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-r8g-instances-additional-regions)
-- [Amazon SNS now supports delivery to Amazon Data Firehose in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sns-data-firehose-additional-aws-regions)
-- [AWS Fargate now supports SOCI Index Manifest v2 for greater deployment consistency](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-fargate-soci-index-manifest-v2-deployment-consistency)
-- [Amazon Rekognition Face Liveness launches accuracy improvements and new challenge setting for improved UX](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rekognition-face-liveness-accuracy-improvements-challenge-setting)
-- [Amazon Aurora PostgreSQL database clusters now support up to 256 TiB of storage volume](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-postgresql-database-clusters-256-tib-storage-volume)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
