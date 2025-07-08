@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Oracle Database@AWS announces general availability, expands networking capabilities](https://aws.amazon.com/about-aws/whats-new/2025/07/oracle-database-aws-general-expands-networking-capabilities/)
 - [Amazon RDS Custom now supports Cumulative Update 19 for Microsoft SQL Server 2022](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-supports-custom-update-19-microsoft-sql-server-2022/)
+- [Amazon VPC Lattice announces support for Oracle Database@AWS](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-vpc-lattice-oracle-database-at-aws)
 - [Oracle Database@AWS is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/07/oracle-database-at-aws-now-generally-available)
 - [Amazon EC2 C8g, M8g and R8g instances now available in Asia Pacific &lpar;Singapore&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-c8g-m8g-and-r8g-instances-asia-singapore/)
-- [Amazon CloudWatch and Application Signals MCP servers for AI-assisted troubleshooting](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudwatch-application-signals-mcp-servers-for-ai-assisted-troubleshooting)
-- [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-r8g-instances-additional-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
