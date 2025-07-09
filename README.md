@@ -50,8 +50,8 @@
 - [Amazon QuickSight introduces granular access customization for exports and reports](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-quicksight-granular-access-customization-exports-reports)
 - [AWS Database Migration Service now supports C7i and R7i instances](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-database-migration-service-supports-c7i-r7i-instances)
 - [Amazon Connect now supports parallel AWS Lambda execution in flows](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-parallel-aws-lambda-execution-flows/)
+- [Announcing AWS Builder Center](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-builder-center-available/)
 - [AWS Transfer Family web apps are now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-transfer-family-web-apps-available-aws-asia-pacific-malaysia-region)
-- [Amazon Q chat in the AWS Management Console can now query AWS service data](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-q-chat-aws-management-console-now-query-service-data)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
