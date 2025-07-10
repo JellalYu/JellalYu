@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Anthropic&#39;s Claude 3.7 Sonnet is now available on Amazon Bedrock in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/anthropics-claude-3-7-sonnet-available-amazon-bedrock-aws-govcloud-us-west)
 - [Amazon P6e-GB200 UltraServers now available for the highest GPU performance in EC2](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-p6e-gb200-ultraservers-gpu-performance-ec2)
 - [Amazon QuickSight introduces granular access customization for exports and reports](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-quicksight-granular-access-customization-exports-reports)
 - [AWS Database Migration Service now supports C7i and R7i instances](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-database-migration-service-supports-c7i-r7i-instances)
 - [Amazon Route 53 Resolver Query Logging now available in Asia Pacific &lpar;Taipei&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-route-53-resolver-query-logging-taipei/)
-- [Amazon Connect now supports parallel AWS Lambda execution in flows](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-parallel-aws-lambda-execution-flows/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
