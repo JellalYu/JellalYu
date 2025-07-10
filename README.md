@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker HyperPod accelerates open-weights model deployment](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-hyperpod-accelerates-model-deployment/)
+- [Amazon SageMaker Studio now supports remote connections from Visual Studio Code](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-studio-remote-connections-studio-code/)
+- [Fully managed MLflow 3.0 now available on Amazon SageMaker AI](https://aws.amazon.com/about-aws/whats-new/2025/07/fully-managed-mlflow-3-0-amazon-sagemaker-ai)
+- [Amazon SageMaker HyperPod announces new observability capability](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-hyperpod-new-observability-capability)
 - [Anthropic&#39;s Claude 3.7 Sonnet is now available on Amazon Bedrock in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/anthropics-claude-3-7-sonnet-available-amazon-bedrock-aws-govcloud-us-west)
-- [Amazon P6e-GB200 UltraServers now available for the highest GPU performance in EC2](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-p6e-gb200-ultraservers-gpu-performance-ec2)
-- [Amazon QuickSight introduces granular access customization for exports and reports](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-quicksight-granular-access-customization-exports-reports)
-- [AWS Database Migration Service now supports C7i and R7i instances](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-database-migration-service-supports-c7i-r7i-instances)
-- [Amazon Route 53 Resolver Query Logging now available in Asia Pacific &lpar;Taipei&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-route-53-resolver-query-logging-taipei/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
