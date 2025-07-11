@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Greengrass v2.15 introduces updates to both nucleus and nucleus lite](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-iot-greengrass-v2-15-nucleus-lite/)
 - [Enhanced AWS Specialization badges now display categories](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-specialization-badges-display-categories/)
 - [Amazon SageMaker HyperPod accelerates open-weights model deployment](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-hyperpod-accelerates-model-deployment/)
 - [Amazon SageMaker Studio now supports remote connections from Visual Studio Code](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-studio-remote-connections-studio-code/)
 - [Amazon SageMaker HyperPod introduces CLI and SDK for AI Workflows](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-hyperpod-cli-sdk-ai-workflows)
-- [AWS announces 100G expansion in Kolkata, India](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-100g-expansion-kolkata-india/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
