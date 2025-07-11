@@ -51,7 +51,7 @@
 - [Amazon SageMaker Studio now supports remote connections from Visual Studio Code](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-studio-remote-connections-studio-code/)
 - [Amazon SageMaker HyperPod introduces CLI and SDK for AI Workflows](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-hyperpod-cli-sdk-ai-workflows)
 - [AWS announces 100G expansion in Kolkata, India](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-100g-expansion-kolkata-india/)
-- [Fully managed MLflow 3.0 now available on Amazon SageMaker AI](https://aws.amazon.com/about-aws/whats-new/2025/07/fully-managed-mlflow-3-0-amazon-sagemaker-ai)
+- [Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-fsx-netapp-ontap-aws-asia-pacific-taipei-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
