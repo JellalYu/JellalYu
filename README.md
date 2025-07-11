@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon S3 Tables now supports Model Context Protocol &lpar;MCP&rpar; Server](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-s3-tables-mcp-server)
 - [Amazon SageMaker HyperPod accelerates open-weights model deployment](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-hyperpod-accelerates-model-deployment/)
 - [Amazon SageMaker Studio now supports remote connections from Visual Studio Code](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-studio-remote-connections-studio-code/)
 - [Amazon SageMaker HyperPod introduces CLI and SDK for AI Workflows](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-hyperpod-cli-sdk-ai-workflows)
 - [AWS announces 100G expansion in Kolkata, India](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-100g-expansion-kolkata-india/)
+- [Fully managed MLflow 3.0 now available on Amazon SageMaker AI](https://aws.amazon.com/about-aws/whats-new/2025/07/fully-managed-mlflow-3-0-amazon-sagemaker-ai)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
