@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Inventory ACL support is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-s3-inventory-acl-support-govcloud-us-regions/)
+- [Amazon EC2 M6id instances are now available in Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-m6id-instances-available-europe-spain-region)
+- [Amazon RDS Custom for SQL Server now supports change data capture](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-custom-sql-server-supports-change-data-capture)
 - [Amazon MQ is now available in one additional region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-mq-available-in-additional-region)
 - [Custom Instructions for Topics now generally available for Amazon Q in QuickSight](https://aws.amazon.com/about-aws/whats-new/2025/07/custom-instructions-topics-generally-available-amazon-q-quicksight)
-- [Announcing Model Context Protocol &lpar;MCP&rpar; Server for AWS Price List](https://aws.amazon.com/about-aws/whats-new/2025/07/model-context-protocol-server-price-list/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; introduces support for up to 10 secondary Region clusters](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-documentdb-mongodb-ccompatibility-support-secondary-region-clusters)
-- [AWS Price List API now supports four new Query Filters](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-price-list-api-supports-four-query-filters)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
