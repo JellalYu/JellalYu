@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Introducing AI agents and tools in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/07/ai-agents-tools-aws-marketplace)
 - [AWS API MCP Server now available](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-api-mcp-server-available)
+- [AWS Transform for mainframe introduces enhanced code refactoring and business logic capabilities](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-transform-mainframe-code-refactoring-logic-capabilities/)
 - [Customize Amazon Nova in Amazon SageMaker AI](https://aws.amazon.com/about-aws/whats-new/2025/07/customize-amazon-nova-sagemaker-ai/)
 - [Amazon Nova Sonic adds language support for French, Italian, German](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-nova-sonic-language-support-french-italian-german)
-- [AWS Knowledge MCP Server now available &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-knowledge-mcp-server-available-preview)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
