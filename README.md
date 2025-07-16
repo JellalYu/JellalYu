@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Free Tier now offers $200 in credits and 6-month free plan to explore AWS at no cost](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-free-tier-credits-month-free-plan)
+- [Amazon SageMaker simplifies data management with automated lakehouse onboarding and metadata ingestion](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-data-management-lakehouse-onboarding/)
+- [Amazon SageMaker Catalog adds support for Amazon S3 general purpose buckets](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-catalog-s3-general-purpose-buckets/)
 - [Amazon SageMaker introduces a visual workflows builder](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-visual-workflows-builder/)
-- [Amazon Redshift announces support for automatic refresh of materialized views on Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-redshift-refresh-views-apache-iceberg-tables/)
-- [Amazon EC2 I8g instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-i8g-instances-additional-aws-regions/)
-- [Announcing support for Chaos V-Ray in AWS Deadline Cloud](https://aws.amazon.com/about-aws/whats-new/2025/07/chaos-v-ray-aws-deadline-cloud/)
-- [Amazon S3 Inventory ACL support is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-s3-inventory-acl-support-govcloud-us-regions/)
+- [Announcing Amazon S3 Vectors &lpar;Preview&rpar;—First cloud object storage with native support for storing and querying vectors](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-s3-vectors-preview-native-support-storing-querying-vectors)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
