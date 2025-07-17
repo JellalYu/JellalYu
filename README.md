@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda announces low latency processing for Kafka events](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-lambda-low-latency-processing-kafka-events)
+- [Amazon Connect agent workspace now includes real-time agent performance metrics](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-agent-workspace-agent-metrics/)
 - [Introducing AI agents and tools in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/07/ai-agents-tools-aws-marketplace)
 - [AWS API MCP Server now available](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-api-mcp-server-available)
 - [AWS Transform for mainframe introduces enhanced code refactoring and business logic capabilities](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-transform-mainframe-code-refactoring-logic-capabilities/)
-- [Customize Amazon Nova in Amazon SageMaker AI](https://aws.amazon.com/about-aws/whats-new/2025/07/customize-amazon-nova-sagemaker-ai/)
-- [Amazon Nova Sonic adds language support for French, Italian, German](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-nova-sonic-language-support-french-italian-german)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
