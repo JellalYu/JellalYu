@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Announcing Amazon DynamoDB local major version release version 3.0.0](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-dynamodb-major-version-release-version-3-0-0/)
+- [AWS Clean Rooms ML now supports Parquet file format](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-clean-rooms-ml-parquet-file-format/)
 - [Amazon ECS enables built-in blue/green deployments](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ecs-built-in-blue-green-deployments/)
+- [AWS Lambda enables developers to debug functions running in the cloud from VS Code IDE](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-lambda-debug-functions-cloud-vs-code-ide)
 - [AWS Lambda announces low latency processing for Kafka events](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-lambda-low-latency-processing-kafka-events)
-- [Amazon Connect agent workspace now includes real-time agent performance metrics](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-agent-workspace-agent-metrics/)
-- [Amazon S3 Multi-Region Access Points are now available in 12 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-s3-multi-region-access-points-available-additional-aws-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
