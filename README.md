@@ -51,7 +51,7 @@
 - [Amazon EC2 High Memory U7i instances now support higher Amazon EBS-optimized instance performance](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-high-memory-u7i-instances-higher-performance/)
 - [AWS Private CA now supports issuing up to 100 million certificates per CA](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-private-ca-issuing-100-million-certificates-ca/)
 - [AWS Firewall Manager adds support for AWS Private Link](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-firewall-manager-aws-private-link)
-- [Amazon SNS expands IPv6 support to VPC endpoints in AWS commercial Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sns-ipv6-vpc-endpoints-commercial-regions)
+- [Amazon RDS Custom for SQL Server is now available in the AWS Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-custom-sql-server-aws-region-africa-cape-town-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
