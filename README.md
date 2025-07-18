@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SQS expands IPv6 support to VPC endpoints in AWS commercial Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sqs-ipv6-vpc-endpoints-aws-commercial-regions)
 - [Amazon RDS for SQL Server now supports linked servers with Oracle OLEDB Driver version 21.16](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-sql-server-linked-servers-oracle-oledb-driver-version-21-16)
 - [Announcing Amazon DynamoDB local major version release version 3.0.0](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-dynamodb-major-version-release-version-3-0-0/)
 - [AWS Clean Rooms ML now supports Parquet file format](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-clean-rooms-ml-parquet-file-format/)
 - [Amazon ECS enables built-in blue/green deployments](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ecs-built-in-blue-green-deployments/)
-- [Amazon SNS enhances cross-Region delivery capabilities](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sns-cross-region-delivery-capabilities)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
