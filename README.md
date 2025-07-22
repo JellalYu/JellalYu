@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Audit Manager enhances evidence collection for better compliance insights](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-audit-manager-enhances/)
+- [AWS Deadline Cloud now supports resource endpoints for connecting shared storage to service-managed fleets](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-deadline-cloud-resource-endpoints)
 - [Simplify AWS Organization Tag Policies using new wildcard statement](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-organization-tag-policies-wildcard-statement)
 - [Amazon EMR Serverless adds support for Inline Runtime Permissions for job runs](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-emr-serverless-support-inline-runtime-permissions-job-runs)
 - [Amazon SQS introduces fair queues for multi-tenant workloads](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sqs-introduces-fair/)
-- [Amazon Connect announces per-day pricing for external voice connectors](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-announces-per-day/)
-- [Amazon RDS for Db2 adds support for group-based authorization with self-managed Active Directory](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-db2-authorization-managed-active-directory/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
