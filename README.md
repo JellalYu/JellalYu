@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Simplify AWS Organization Tag Policies using new wildcard statement](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-organization-tag-policies-wildcard-statement)
+- [Amazon EMR Serverless adds support for Inline Runtime Permissions for job runs](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-emr-serverless-support-inline-runtime-permissions-job-runs)
 - [Amazon SQS introduces fair queues for multi-tenant workloads](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sqs-introduces-fair/)
 - [Amazon Connect announces per-day pricing for external voice connectors](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-announces-per-day/)
 - [Amazon RDS for Db2 adds support for group-based authorization with self-managed Active Directory](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-db2-authorization-managed-active-directory/)
-- [Amazon Braket adds new 54-qubit quantum processor from IQM](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-braket-54-qubit-quantum-processor-iqm/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
