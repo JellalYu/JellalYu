@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Timestream for InfluxDB now supports 24xlarge memory-optimized instances](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-timestream-influxdb-24xlarge-memory-optimized-instances/)
 - [Amazon EBS io2 Block Express supports all commercial and AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ebs-io2-block-express/)
 - [AWS Audit Manager enhances evidence collection for better compliance insights](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-audit-manager-enhances/)
 - [AWS Deadline Cloud now supports resource endpoints for connecting shared storage to service-managed fleets](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-deadline-cloud-resource-endpoints)
 - [AWS Client VPN extends availability to two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-client-vpn-extends/)
-- [Simplify AWS Organization Tag Policies using new wildcard statement](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-organization-tag-policies-wildcard-statement)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
