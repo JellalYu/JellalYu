@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS IoT SiteWise Query API adds advanced SQL support and ODBC driver](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-iot-sitewise-advanced-sql-api-odbc-driver)
-- [Amazon EC2 P6-B200 instances are now available in US East &lpar;N. Virginia&rpar;](https://aws.amazon.com/whats-new/2025/07/amazon-ec2-p6-b200-instances-now-available-us-east-n-virginia)
+- [Amazon EC2 P6-B200 instances are now available in US East &lpar;N. Virginia&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-p6-b200-instances-now-available-us-east-n-virginia/)
+- [Amazon ECR now supports exceptions to tag immutability](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ecr-exceptions-tag-immutability/)
 - [Amazon Timestream for InfluxDB now supports 24xlarge memory-optimized instances](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-timestream-influxdb-24xlarge-memory-optimized-instances/)
 - [Amazon EBS io2 Block Express supports all commercial and AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ebs-io2-block-express/)
-- [AWS Audit Manager enhances evidence collection for better compliance insights](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-audit-manager-enhances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
