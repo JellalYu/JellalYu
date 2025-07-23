@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 now supports skipping the operating system shutdown when stopping or terminating instances](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-skip-os-shutdown-option-during-stop-terminate)
 - [AWS IoT SiteWise Query API adds advanced SQL support and ODBC driver](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-iot-sitewise-advanced-sql-api-odbc-driver)
 - [Cost Optimization Hub now supports account names in optimization opportunities](https://aws.amazon.com/about-aws/whats-new/2025/07/cost-optimization-hub-account-names-optimization-opportunities/)
 - [Amazon EC2 P6-B200 instances are now available in US East &lpar;N. Virginia&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-p6-b200-instances-now-available-us-east-n-virginia/)
-- [Amazon ECR now supports exceptions to tag immutability](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ecr-exceptions-tag-immutability/)
-- [Amazon Timestream for InfluxDB now supports 24xlarge memory-optimized instances](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-timestream-influxdb-24xlarge-memory-optimized-instances/)
+- [Amazon RDS for Oracle zero-ETL integration with Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-oracle-zero-etl-integration-redshift/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
