@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now supports AWS CloudFormation for message template attachments](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-aws-cloudformation-message-template-attachments)
 - [Announcing readme file support for AWS HealthOmics workflows](https://aws.amazon.comabout-aws/whats-new/2025/07/readme-file-support-aws-healthomics-workflows)
 - [Amazon EC2 M8g and R8g instances now available in Asia Pacific &lpar;Hong Kong&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-m8g-r8g-instances-asia-pacific-hong-kong/)
 - [AWS Service Reference Information now supports actions for last accessed services](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-service-reference-information-actions-last-accessed-services)
 - [Amazon Connect now supports AWS CloudFormation for quick responses](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-aws-cloudformation-quick-response)
-- [Announcing Bloom filter support in Amazon ElastiCache](https://aws.amazon.com/about-aws/whats-new/2025/07/bloom-filter-amazon-elasticache/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
