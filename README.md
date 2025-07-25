@@ -47,10 +47,10 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Application Recovery Controller now supports Region switch](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-application-recovery/)
 - [AWS Transfer Family is now available in AWS Asia Pacific &lpar;Thailand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-transfer-family-asia-pacific-thailand-region/)
 - [Amazon EC2 C7i instances are now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-c7i-instances-asia-jakarta/)
 - [Amazon Connect now supports AWS CloudFormation for message template attachments](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-aws-cloudformation-message-template-attachments)
+- [AWS HealthOmics introduces third-party Git repository support for workflow creation](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-healthomics-third-party-git-repository-workflow-creation)
 - [Announcing readme file support for AWS HealthOmics workflows](https://aws.amazon.comabout-aws/whats-new/2025/07/readme-file-support-aws-healthomics-workflows)
 <!-- AWS-NEWS:END -->
 
