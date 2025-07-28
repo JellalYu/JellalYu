@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch and Amazon OpenSearch Service launch pre-built dashboard for AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudwatch-opensearch-dashboard-network-firewall)
 - [AWS Transfer Family is now available in AWS Asia Pacific &lpar;Thailand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-transfer-family-asia-pacific-thailand-region/)
 - [AWS Marketplace enhances offer and subscription management](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-marketplace-offer-subscription-management/)
 - [AWS Control Tower is now available in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-control-tower-aws-asia-pacific-taipei-region)
 - [Amazon Connect’s UI builder launches an improved UX/UI](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connects-ui-builder-improved-ux-ui)
-- [Amazon Connect agent workspace enhances third-party applications to support new actions and workflows](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-agent-workspace-third-party-applications)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
