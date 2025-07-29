@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Cognito is now available in Asia Pacific &lpar;Thailand&rpar; and Mexico &lpar;Central&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cognito-thailand-and-mexico-central-regions/)
+- [Amazon MSK Connect is now available in Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-msk-connect-asia-pacific-hyderabad)
 - [AWS Transfer Family is now available in AWS Asia Pacific &lpar;Thailand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-transfer-family-asia-pacific-thailand-region/)
 - [AWS Marketplace enhances offer and subscription management](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-marketplace-offer-subscription-management/)
 - [AWS Control Tower is now available in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-control-tower-aws-asia-pacific-taipei-region)
-- [Amazon Connect’s UI builder launches an improved UX/UI](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connects-ui-builder-improved-ux-ui)
-- [AWS Direct Connect extends MACsec functionality to supported Partner Interconnects](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-direct-connect-extends-macsec-support-partner-interconnects)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
