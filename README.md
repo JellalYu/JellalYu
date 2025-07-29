@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Firewall is now available in the AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-network-firewall-available-in-taipei-region/)
 - [Amazon Cognito is now available in Asia Pacific &lpar;Thailand&rpar; and Mexico &lpar;Central&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cognito-thailand-and-mexico-central-regions/)
 - [AWS Backup improves Aurora DSQL multi-Region restore workflow](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-backup-aurora-dsql-multi-region-restore-workflow/)
 - [Amazon MSK Connect is now available in Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-msk-connect-asia-pacific-hyderabad)
 - [AWS Transfer Family is now available in AWS Asia Pacific &lpar;Thailand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-transfer-family-asia-pacific-thailand-region/)
-- [AWS Marketplace enhances offer and subscription management](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-marketplace-offer-subscription-management/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
