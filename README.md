@@ -51,7 +51,7 @@
 - [Amazon Managed Service for Prometheus increases default active series limit to 50M per workspace](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-managed-service-prometheus-50M-default-activeserieslimit)
 - [AWS Entity Resolution launches advanced matching using Levenshtein, Cosine, and Soundex](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-entity-resolution-levenshtein-cosine-soundex/)
 - [Database Insights adds support for fleets of Aurora Limitless databases](https://aws.amazon.com/about-aws/whats-new/2025/07/database-insights-support-aurora-limitless-fleets/)
-- [AWS announces 100G expansion in Chennai, India.](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-100g-expansion-chennai/)
+- [Amazon CloudFront introduces new origin response timeout controls](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudfront-origin-response-timeout-controls/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
