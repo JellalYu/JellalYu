@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon RDS for Oracle now supports M7i, R7i and X2idn instances in AWS GovCloud &lpar;US&rpar; Regions.](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-oracle-m7i-r7i-x2idn-instances-govcloud/)
+- [AWS announces 100G expansion in Chennai, India.](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-100g-expansion-chennai/)
 - [AWS Network Firewall is now available in the AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-network-firewall-available-in-taipei-region/)
 - [Amazon Cognito is now available in Asia Pacific &lpar;Thailand&rpar; and Mexico &lpar;Central&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cognito-thailand-and-mexico-central-regions/)
 - [AWS Backup improves Aurora DSQL multi-Region restore workflow](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-backup-aurora-dsql-multi-region-restore-workflow/)
-- [Announcing general availability of Amazon EC2 G6f instances with fractional GPUs](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-g6f-instances-fractional-gpus)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
