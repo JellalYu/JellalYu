@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports R6in and M6in instances](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-oracle-r6in-m6in-instances)
+- [Amazon DocumentDB Serverless is Generally Available](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-documentdb-serverless/)
 - [Amazon RDS for Oracle now supports M7i, R7i and X2idn instances in AWS GovCloud &lpar;US&rpar; Regions.](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-oracle-m7i-r7i-x2idn-instances-govcloud/)
 - [Amazon Managed Service for Prometheus increases default active series limit to 50M per workspace](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-managed-service-prometheus-50M-default-activeserieslimit)
 - [Amazon Aurora MySQL database clusters now support up to 256 TiB of storage volume](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-mysql-database-clusters-256-tib-storage/)
-- [AWS Entity Resolution launches advanced matching using Levenshtein, Cosine, and Soundex](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-entity-resolution-levenshtein-cosine-soundex/)
-- [Amazon Aurora MySQL 3.10 &lpar;compatible with MySQL 8.0.42&rpar; is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-mysql-310/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
