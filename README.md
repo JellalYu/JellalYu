@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Database Insights provides on-demand analysis for RDS for Oracle](https://aws.amazon.com/about-aws/whats-new/2025/07/database-insights-on-demand-analysis-rds-oracle/)
 - [Amazon Neptune Global Database is now in five new regions](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-neptune-five-gdb-regions)
 - [Amazon RDS for Oracle now supports R6in and M6in instances](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-oracle-r6in-m6in-instances)
 - [Amazon DocumentDB Serverless is Generally Available](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-documentdb-serverless/)
-- [Amazon EventBridge now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-eventbridge-internet-protocol-version-6/)
-- [AWS DMS Schema Conversion introduces Virtual Mode](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-dms-schema-conversion-virtual-mode)
+- [AWS Lambda response streaming now supports 200 MB response payloads](https://aws.amazon.comhttps://aws.amazon.com/about-aws/whats-new/2025/07/aws-lambda-response-streaming-200-mb-payloads)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
