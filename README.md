@@ -51,7 +51,7 @@
 - [Amazon Neptune Global Database is now in five new regions](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-neptune-five-gdb-regions)
 - [Amazon RDS for Oracle now supports R6in and M6in instances](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-oracle-r6in-m6in-instances)
 - [Amazon announces Extended Support for ElastiCache version 4 and version 5 for Redis OSS](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-elasticache-extended-redis/)
-- [Amazon DocumentDB Serverless is Generally Available](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-documentdb-serverless/)
+- [Amazon Q Developer expands multi-language support](https://aws.amazon.com/about-aws/whats-new/2025/07/q-developer-multi-language-support)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
