@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 now supports force terminate for EC2 instances](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-force-terminate-instances)
 - [Database Insights provides on-demand analysis for RDS for Oracle](https://aws.amazon.com/about-aws/whats-new/2025/07/database-insights-on-demand-analysis-rds-oracle/)
 - [Amazon Neptune Global Database is now in five new regions](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-neptune-five-gdb-regions)
 - [Amazon RDS for Oracle now supports R6in and M6in instances](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-oracle-r6in-m6in-instances)
 - [Amazon announces Extended Support for ElastiCache version 4 and version 5 for Redis OSS](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-elasticache-extended-redis/)
-- [Amazon Q Developer expands multi-language support](https://aws.amazon.com/about-aws/whats-new/2025/07/q-developer-multi-language-support)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
