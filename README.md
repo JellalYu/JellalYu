@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Systems Manager Run Command now supports interpolating parameters into environment variables](https://aws.amazon.com/about-aws/whats-new/2025/08/systems-manager-run-command-interpolating-parameters/)
 - [Amazon OpenSearch Serverless now supports backup and restore](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-serverless-backup-restore/)
 - [Amazon CloudWatch introduces organization-wide VPC flow logs enablement](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-cloudwatch-organization-vpc-flow-logs-enablement)
 - [Amazon Lightsail is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-lightsail-in-jakarta-region/)
 - [AWS Transfer Family is now available in AWS Asia Pacific &lpar;Thailand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-transfer-family-asia-pacific-thailand-region/)
-- [AWS Parallel Computing Service now supports Slurm SPANK plugins](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-parallel-computing-service-slurm-spank-plugins)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
