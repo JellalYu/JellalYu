@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon OpenSearch Serverless introduces automatic semantic enrichment](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-serverless-introduces-automatic-semantic-enrichment)
 - [Amazon CloudWatch introduces organization-wide VPC flow logs enablement](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-cloudwatch-organization-vpc-flow-logs-enablement)
 - [Amazon Lightsail is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-lightsail-in-jakarta-region/)
 - [AWS Transfer Family is now available in AWS Asia Pacific &lpar;Thailand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-transfer-family-asia-pacific-thailand-region/)
 - [AWS Parallel Computing Service now supports Slurm SPANK plugins](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-parallel-computing-service-slurm-spank-plugins)
+- [Amazon SQS increases maximum message payload size to 1 MiB](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sqs-max-payload-size-1mib/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
