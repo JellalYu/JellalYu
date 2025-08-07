@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon EC2 C7g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-c7g-instances-in-regions/)
+- [Amazon EC2 R7gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-r7gd-instances-additional-regions/)
+- [Amazon EC2 M7gd instances are now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m7gd-instances-asia-pacific-seoul-region/)
 - [Amazon OpenSearch Serverless introduces automatic semantic enrichment](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-serverless-introduces-automatic-semantic-enrichment)
-- [Amazon Aurora Serverless v2 now offers up to 30% performance improvement](https://aws.amazon.com/about-aws/whats-new/2026/08/Amazon-Aurora-Serverless-v2-up-to-30-performance/)
-- [Amazon DynamoDB adds support for Console-to-Code](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-dynamodb-adds-console-to-code/)
-- [AWS Outposts racks now support new Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-outposts-racks-cloudwatch-metrics)
+- [Amazon OpenSearch Serverless adds support for Hybrid Search, AI connectors, and automations](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-serverless-ai-connectors-hybrid-search)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
