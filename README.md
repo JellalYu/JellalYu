@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Serverless introduces automatic semantic enrichment](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-serverless-introduces-automatic-semantic-enrichment)
 - [Amazon Aurora Serverless v2 now offers up to 30% performance improvement](https://aws.amazon.com/about-aws/whats-new/2026/08/Amazon-Aurora-Serverless-v2-up-to-30-performance/)
 - [Amazon EC2 C7g instances now available in additional regions](https://aws.amazon.comwhats-new-v2)
 - [Amazon DynamoDB adds support for Console-to-Code](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-dynamodb-adds-console-to-code/)
 - [AWS Outposts racks now support new Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-outposts-racks-cloudwatch-metrics)
-- [Amazon RDS now supports Cumulative Update CU20 for Microsoft SQL Server 2022, and General Distribution Releases for Microsoft SQL Server 2016, 2017 and 2019.](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-sqlserver-supports-cu-gdr)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
