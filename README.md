@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [CloudFormation Hooks Adds Managed Controls and Hook Activity Summary](https://aws.amazon.comhttps://aws.amazon.com/about-aws/whats-new/2025/08/CloudFormation-Hooks-Managed-Controls-Summary/)
+- [Amazon SageMaker HyperPod now provides a new cluster setup experience](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-hyperpod-provides-cluster-setup/)
 - [Amazon Connect Outbound Campaigns now supports multi-profile campaigns and enhanced phone number retry sequencing](https://aws.amazon.comabout-aws/whats-new/2025/08/amazon-connect-outbound-campaigns-multi-profile-campaigns)
-- [AWS IoT Core introduces DeleteConnection API to streamline MQTT connections](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iot-core-delete-connection/)
-- [Amazon CloudWatch RUM is now generally available in 2 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-cloudwatch-rum-generally-available-additional-aws-regions/)
-- [OpenSearch UI supports Fine Grained Access Control by SAML attributes](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-ui-fgac-by-saml-attributes/)
-- [Amazon SageMaker HyperPod now supports continuous provisioning for enhanced cluster operations](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-hyperpod-continuous-provisioning-cluster/)
+- [Amazon RDS for Oracle now supports July 2025 Spatial Patch Bundle](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-oracle-supports-july-2025-spatial-patch-bundle)
+- [Amazon RDS for Oracle now supports the July 2025 Release Update &lpar;RU&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-oracle-supports-july-2025-release-update-ru)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
