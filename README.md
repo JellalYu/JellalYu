@@ -47,7 +47,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [FSx for ONTAP now allows decreasing SSD capacity, broadening support for workloads with varying high-performance storage needs](https://aws.amazon.com/about-aws/whats-new/2025/08/FSx-for-ONTAP-now-allows-decreasing-ssd-capacity)
+- [Amazon Connect Outbound Campaigns now supports multi-profile campaigns and enhanced phone number retry sequencing](https://aws.amazon.comabout-aws/whats-new/2025/08/amazon-connect-outbound-campaigns-multi-profile-campaigns)
 - [AWS IoT Core introduces DeleteConnection API to streamline MQTT connections](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iot-core-delete-connection/)
 - [Amazon CloudWatch RUM is now generally available in 2 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-cloudwatch-rum-generally-available-additional-aws-regions/)
 - [OpenSearch UI supports Fine Grained Access Control by SAML attributes](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-ui-fgac-by-saml-attributes/)
