@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Core introduces DeleteConnection API to streamline MQTT connections](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iot-core-delete-connection/)
 - [Amazon CloudWatch RUM is now generally available in 2 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-cloudwatch-rum-generally-available-additional-aws-regions/)
 - [OpenSearch UI supports Fine Grained Access Control by SAML attributes](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-ui-fgac-by-saml-attributes/)
 - [Amazon SageMaker HyperPod now supports continuous provisioning for enhanced cluster operations](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-hyperpod-continuous-provisioning-cluster/)
 - [Amazon ECS console now supports real-time log analytics via Amazon CloudWatch Logs Live Tail](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ecs-console-analytics-cloudwatch-logs-live-tail)
-- [Amazon SageMaker lakehouse architecture now automates optimization configuration of Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-lakehouse-architecture-automates-optimization-configuration-apache-iceberg-tables)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
