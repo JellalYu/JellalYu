@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [CloudFormation Hooks Adds Managed Controls and Hook Activity Summary](https://aws.amazon.comhttps://aws.amazon.com/about-aws/whats-new/2025/08/CloudFormation-Hooks-Managed-Controls-Summary/)
+- [Amazon SageMaker AI now supports P6e-GB200 UltraServers](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-p6e-gb200-ultraservers)
+- [Announcing new incentives for ISVs selling in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-marketplace-private-offer-promotions)
+- [Amazon SageMaker HyperPod now supports custom AMIs &lpar;Amazon Machine Images&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-support-custom-ami)
 - [Anthropic’s Claude Sonnet 4 in Amazon Bedrock Expanded Context Window](https://aws.amazon.com/about-aws/whats-new/2025/08/anthropic-claude-sonnet-bedrock-expanded-context-window/)
-- [Amazon OpenSearch Serverless now supports kNN Byte vector and new data types](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-serverless-knnbytevector-newdatatypes/)
-- [Amazon SageMaker HyperPod now provides a new cluster setup experience](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-hyperpod-provides-cluster-setup/)
-- [Amazon Connect Outbound Campaigns now supports multi-profile campaigns and enhanced phone number retry sequencing](https://aws.amazon.comabout-aws/whats-new/2025/08/amazon-connect-outbound-campaigns-multi-profile-campaigns)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
