@@ -50,8 +50,8 @@
 - [Amazon U7i instances now available in the AWS US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-u7i-instances-available-in-aws-us-east-ohio/)
 - [Amazon OpenSearch UI is now available in seven new regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-UI-available-seven-new-regions)
 - [AWS Batch now supports AWS Graviton-based Spot compute with AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-batch-graviton-based-spot-compute-fargate/)
+- [Amazon FSx for NetApp ONTAP now supports decreasing your SSD storage capacity](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-fsx-netapp-ontap-decreasing-ssd-storage-capacity)
 - [Amazon Braket introduces support for program sets](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-braket-program-sets/)
-- [Amazon Q Business launches Agentic RAG to enhance accuracy and explainability](https://aws.amazon.com/about-aws/whats-new/2025/08/qbusiness-launches-agentic-rag/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
