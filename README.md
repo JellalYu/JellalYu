@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [SageMaker HyperPod now supports fine-grained quota allocation of compute resources](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-fined-grained-quota-allocation-compute-resources/)
 - [Amazon U7i instances now available in the AWS US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-u7i-instances-available-in-aws-us-east-ohio/)
 - [Amazon EC2 R8g instances now available in AWS Asia Pacific &lpar;Jakarta&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-r8g-instances-in-aws-asia-pacific-jakarta/)
 - [Amazon OpenSearch UI is now available in seven new regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-UI-available-seven-new-regions)
-- [AWS Batch now supports AWS Graviton-based Spot compute with AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-batch-graviton-based-spot-compute-fargate/)
-- [Amazon FSx for NetApp ONTAP now supports decreasing your SSD storage capacity](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-fsx-netapp-ontap-decreasing-ssd-storage-capacity)
+- [PostgreSQL 18 Beta 3 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/08/postgresql-18-beta-3-amazon-rds-database-preview-environment)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
