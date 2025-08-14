@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Business launches Agentic RAG to enhance accuracy and explainability](https://aws.amazon.com/about-aws/whats-new/2025/08/qbusiness-launches-agentic-rag/)
 - [Amazon SageMaker Studio now supports trusted identity propagation](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-studio-trusted-identity-propagation/)
 - [AWS Resource Explorer now Supports Filtering for Multiple Values](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-resource-explorer-filtering-multiple-values/)
 - [Amazon DocumentDB announces Extended Support for Version 3.6](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-documentdb-extended-3-6/)
 - [Amazon DynamoDB now supports more frequent throughput mode updates from provisioned to on-demand capacity](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-dynamodb-more-frequent-throughput-mode-updates/)
-- [Announcing expanded support for Cilium with Amazon EKS Hybrid Nodes](https://aws.amazon.com/about-aws/whats-new/2025/08/expanded-support-cilium-amazon-eks-hybrid-nodes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
