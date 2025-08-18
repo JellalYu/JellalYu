@@ -51,7 +51,7 @@
 - [Amazon Connect now provides out-of-the box embedding of Tasks and Emails into your websites and applications](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-connect-embeds-tasks-emails-websites-applications)
 - [Amazon QuickSight expands limits on calculated fields](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-quicksight-expands-calculated-fields/)
 - [Amazon Connect now supports recurring activities in agent schedules](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-connect-recurring-activities-agent-schedule/)
-- [AWS Batch now supports default instance type options](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-batch-default-instance-types/)
+- [Announcing Amazon Aurora MySQL 3.10 as long-term support &lpar;LTS&rpar; release](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-aurora-mysql-3-10-as-long-term-support-release/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
