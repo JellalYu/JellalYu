@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now supports multi-user web, in-app and video calling](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-connect-multi-user-calling)
+- [New Memory-Optimized Amazon EC2 R8i and R8i-flex Instances](https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances)
+- [Amazon RDS for SQL Server now supports Kerberos authentication with self-managed Active Directory](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-sql-server-kerberos-authentication-active-directory)
 - [Amazon Connect now provides out-of-the box embedding of Tasks and Emails into your websites and applications](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-connect-embeds-tasks-emails-websites-applications)
 - [Amazon Connect now supports recurring activities in agent schedules](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-connect-recurring-activities-agent-schedule/)
-- [Amazon QuickSight expands limits on calculated fields](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-quicksight-expands-calculated-fields/)
-- [AWS Direct Connect announces new location in Barcelona, Spain](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-direct-connect-barcelona-spain/)
-- [Amazon RDS io2 Block Express now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.comabout-aws/whats-new/2025/08/amazon-rds-io2-block-express-aws-govcloud-us-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
