@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Service for Apache Flink now supports Customer Managed Keys &lpar;CMK&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-managed-service-for-apache-flink-cmk-support)
 - [AWS Billing and Cost Management now provides customizable Dashboards](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-billing-cost-management-customizable-dashboards)
 - [Amazon Bedrock now provides simplified access to OpenAI open weight models](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-bedrock-automatic-access-openai-open-weight-models)
+- [Amazon MSK expands support for Graviton3 based M7g instances for Standard brokers in 8 more AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-msk-graviton3-m7g-instances-standard-brokers-8-more-regions)
 - [Amazon OpenSearch Service now supports AI-powered forecasting](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-service-ai-forecasting)
-- [Amazon Connect now supports multi-user web, in-app and video calling](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-connect-multi-user-calling)
-- [Amazon EC2 I7i instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-i7i-instances-available-in-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
