@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Managed Service for Apache Flink now supports Customer Managed Keys &lpar;CMK&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-managed-service-for-apache-flink-cmk-support)
 - [AWS Billing and Cost Management now provides customizable Dashboards](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-billing-cost-management-customizable-dashboards)
+- [AWS Clean Rooms supports error message configurations for PySpark analyses](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-clean-rooms-error-message-configurations-pyspark)
 - [Amazon Bedrock now provides simplified access to OpenAI open weight models](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-bedrock-automatic-access-openai-open-weight-models)
 - [Amazon MSK expands support for Graviton3 based M7g instances for Standard brokers in 8 more AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-msk-graviton3-m7g-instances-standard-brokers-8-more-regions)
-- [Amazon OpenSearch Service now supports AI-powered forecasting](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-service-ai-forecasting)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
