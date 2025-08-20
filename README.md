@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [AWS Billing and Cost Management now provides customizable Dashboards](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-billing-cost-management-customizable-dashboards)
 - [Amazon Bedrock now provides simplified access to OpenAI open weight models](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-bedrock-automatic-access-openai-open-weight-models)
+- [Amazon OpenSearch Service now supports AI-powered forecasting](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-service-ai-forecasting)
 - [Amazon Connect now supports multi-user web, in-app and video calling](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-connect-multi-user-calling)
 - [Amazon EC2 I7i instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-i7i-instances-available-in-additional-aws-regions/)
-- [New Memory-Optimized Amazon EC2 R8i and R8i-flex Instances](https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
