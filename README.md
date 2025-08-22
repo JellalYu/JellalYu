@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Verified Permissions now supports Cedar 4.5](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-verified-permissions-cedar-4-5)
+- [Announcing AWS Neuron SDK 2.25.0](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-neuron-2-25-announce/)
 - [Amazon VPC IPAM adds in-console CloudWatch alarm management](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-vpc-ipam-console-cloudwatch-alarm-management)
 - [Amazon CloudWatch expands region support for natural language query result summarization and query generation](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-cloudwatch-region-support-query-result-summarization-query-generation)
-- [AWS Security Incident Response introduces integrations with ITSM](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-security-incident-response-itsm-integrations)
-- [AWS Security Incident Response achieves HITRUST Certification](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-security-incident-response-hitrust-certification)
+- [AWS IoT Core now supports customer-managed keys](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iot-core-customer-managed-keys/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
