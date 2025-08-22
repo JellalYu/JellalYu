@@ -51,7 +51,7 @@
 - [Amazon RDS for PostgreSQL now supports delayed read replicas](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-postgresql-delayed-replica)
 - [Amazon EC2 R7g instances now available in Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-r7g-instances-africa-cape-town/)
 - [Amazon RDS for Db2 now supports read replicas](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-for-db2-read-replicas/)
-- [Count Tokens API supported for Anthropic’s Claude models now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/08/count-tokens-api-anthropics-claude-models-bedrock/)
+- [Announcing the AWS Billing and Cost Management MCP server](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-billing-cost-management-mcp-server/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
