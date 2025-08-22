@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon EKS enables namespace configuration for AWS and Community add-ons](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-eks-namespace-configuration-addons)
+- [Amazon RDS for PostgreSQL now supports delayed read replicas](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-postgresql-delayed-replica)
+- [Count Tokens API supported for Anthropic’s Claude models now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/08/count-tokens-api-anthropics-claude-models-bedrock/)
 - [Amazon SageMaker Unified Studio adds S3 file sharing options to projects](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-unified-studio-s3-file-sharing-options)
 - [Amazon Verified Permissions now supports Cedar 4.5](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-verified-permissions-cedar-4-5)
-- [Announcing AWS Neuron SDK 2.25.0](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-neuron-2-25-announce/)
-- [Amazon VPC IPAM adds in-console CloudWatch alarm management](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-vpc-ipam-console-cloudwatch-alarm-management)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
