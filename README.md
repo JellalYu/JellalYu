@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune now supports BYOKG - RAG &lpar;GA&rpar; with open-source GraphRAG toolkit](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-neptune-supports-byokg-rag-toolkit)
 - [Amazon EKS enables namespace configuration for AWS and Community add-ons](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-eks-namespace-configuration-addons)
 - [Amazon RDS for PostgreSQL now supports delayed read replicas](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-postgresql-delayed-replica)
 - [Amazon EC2 R7g instances now available in Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-r7g-instances-africa-cape-town/)
 - [Amazon RDS for Db2 now supports read replicas](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-for-db2-read-replicas/)
-- [Announcing the AWS Billing and Cost Management MCP server](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-billing-cost-management-mcp-server/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
