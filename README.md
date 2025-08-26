@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports new certificate authority and cipher suites for SSL and OEM Agent options](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-oracle-certificate-authority-cipher-suites)
 - [AWS Elastic Beanstalk is now available in Asia Pacific &lpar;Thailand&rpar;, &lpar;Malaysia&rpar;, and Europe &lpar;Spain&rpar;.](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-elastic-beanstalk-asiapacific-thailand-malaysia-europe-spain-regions)
 - [Amazon Polly launches more synthetic generative voices](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-polly-new-synthetic-generative-voices)
 - [AWS Deadline Cloud now supports Cinema 4D and Redshift on Linux service-managed fleets](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-deadline-cloud-cinema-4d-redshift-linux/)
-- [AWS Transform for .NET adds support for Azure repos and Artifacts feeds for NuGet packages](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-transform-dotnet-adds-azure-devops-repos/)
-- [AWS B2B Data Interchange introduces custom validation rules](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-b2b-data-interchange-custom-validation)
+- [Aurora DSQL now supports resilience testing with AWS Fault Injection Service](https://aws.amazon.com/about-aws/whats-new/2025/08/aurora-dsql-resilience-testing-with-aws-fault-injection)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
