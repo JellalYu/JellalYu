@@ -47,10 +47,10 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly launches more synthetic generative voices](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-polly-new-synthetic-generative-voices)
 - [AWS B2B Data Interchange introduces custom validation rules](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-b2b-data-interchange-custom-validation)
 - [Amazon EC2 G6 instances are now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-g6-now-available-middle-east-uae-region)
 - [Amazon RDS for MariaDB now supports MariaDB 11.8 with MariaDB Vector support](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-mariadb-11-8-vector-support/)
-- [Amazon Neptune now supports BYOKG - RAG &lpar;GA&rpar; with open-source GraphRAG toolkit](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-neptune-supports-byokg-rag-toolkit/)
 - [Amazon Bedrock Data Automation supports 5 additional languages for Document Workflows](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-bedrock-data-automation-five-additional-languages-documents/)
 <!-- AWS-NEWS:END -->
 
