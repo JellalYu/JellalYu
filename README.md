@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [SageMaker HyperPod now supports customer managed KMS keys for EBS volumes](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-customer-managed-kms-ebs-volumes)
+- [Amazon SageMaker HyperPod now supports Amazon EBS CSI driver for persistent storage](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-ebs-csi-persistent-storage)
+- [Custom Metrics now available in Amazon CloudWatch Application Signals](https://aws.amazon.com/about-aws/whats-new/2025/08/custom-metrics-amazon-cloudwatch-application-signals)
 - [AWS App Runner expands support for IPv6 compatibility](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-app-runner-expands-support-ipv6)
 - [Amazon Braket introduces local device emulator for verbatim circuits](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-braket-local-device-emulator-verbatim-circuits/)
-- [AWS Client VPN now supports connectivity to IPv6 resources](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-client-vpn-connectivity-ipv6-resources)
-- [Amazon GameLift Streams now offers enhanced flexibility with default applications](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-gamelift-streams-default-applications)
-- [Amazon RDS for Oracle now supports new certificate authority and cipher suites for SSL and OEM Agent options](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-oracle-certificate-authority-cipher-suites)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
