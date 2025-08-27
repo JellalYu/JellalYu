@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Client VPN extends OS support to Windows Arm64 v5.3.0](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-client-vpn-windows-arm64/)
 - [AWS Transfer Family introduces Terraform support for deploying SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-transfer-family-terraform-sftp-connectors)
 - [SageMaker HyperPod now supports customer managed KMS keys for EBS volumes](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-customer-managed-kms-ebs-volumes)
+- [Amazon EC2 C7i instances are now available in Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-c7i-instances-available-in-osaka/)
 - [Amazon SageMaker HyperPod now supports Amazon EBS CSI driver for persistent storage](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-ebs-csi-persistent-storage)
-- [Custom Metrics now available in Amazon CloudWatch Application Signals](https://aws.amazon.com/about-aws/whats-new/2025/08/custom-metrics-amazon-cloudwatch-application-signals)
-- [AWS App Runner expands support for IPv6 compatibility](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-app-runner-expands-support-ipv6)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
