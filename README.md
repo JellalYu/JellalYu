@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Braket introduces local device emulator for verbatim circuits](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-braket-local-device-emulator-verbatim-circuits/)
 - [AWS Client VPN now supports connectivity to IPv6 resources](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-client-vpn-connectivity-ipv6-resources)
 - [Amazon GameLift Streams now offers enhanced flexibility with default applications](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-gamelift-streams-default-applications)
 - [Amazon RDS for Oracle now supports new certificate authority and cipher suites for SSL and OEM Agent options](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-oracle-certificate-authority-cipher-suites)
 - [Amazon MWAA now supports downgrading to minor Apache Airflow versions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-mwaa-supports-downgrading/)
-- [AWS Elastic Beanstalk is now available in Asia Pacific &lpar;Thailand&rpar;, &lpar;Malaysia&rpar;, and Europe &lpar;Spain&rpar;.](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-elastic-beanstalk-asiapacific-thailand-malaysia-europe-spain-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
