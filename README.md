@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Developer now supports MCP admin control](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-q-developer-mcp-admin-control/)
+- [AWS HealthOmics now supports task level timeout controls for Nextflow workflows](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-healthomics-task-level-timeout-nextflow-workflows/)
 - [Amazon EBS launches snapshot copy for AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ebs-launches-snapshot-copy-aws-local-zones)
 - [AWS IoT ExpressLink technical specification v1.3](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iot-expresslink-v1-3)
 - [Amazon RDS Custom for SQL Server now supports new General Distribution Releases for Microsoft SQL Server 2019, 2022](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-custom-sql-server-supports-new-gdr-microsoft-sql-server-2019-2022)
-- [Amazon Connect now offers generative text-to-speech voices](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-connect-generative-text-to-speech-voices)
-- [New General Purpose Amazon EC2 M8i and M8i-flex instances](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
