@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [OpenSearch Serverless now supports Attribute Based Access Control &lpar;ABAC&rpar; for Data Plane APIs and Resource control policy](https://aws.amazon.com/about-aws/whats-new/2025/08/opensearch-serverless-attribute-based-access-control/)
+- [Amazon OpenSearch Serverless now supports Attribute Based Access Control](https://aws.amazon.com/about-aws/whats-new/2025/08/opensearch-serverless-attribute-based-access-control/)
+- [Amazon S3 improves AWS CloudFormation and AWS CDK support for S3 Tables](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-s3-tables-cloudformation-cdk)
 - [Amazon EKS introduces on-demand insights refresh](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-eks-on-demand-insights-refresh/)
 - [AWS Client VPN extends OS support to Windows Arm64 v5.3.0](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-client-vpn-windows-arm64/)
 - [AWS Transfer Family introduces Terraform support for deploying SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-transfer-family-terraform-sftp-connectors)
-- [SageMaker HyperPod now supports customer managed KMS keys for EBS volumes](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-customer-managed-kms-ebs-volumes)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
