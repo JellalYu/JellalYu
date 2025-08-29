@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS HealthOmics now supports third-party container registries for private workflows](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-healthomics-third-party-container-registries-private-workflows)
+- [AWS IAM launches new VPC endpoint condition keys for network perimeter controls](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iam-new-vpc-endpoint-condition-keys)
 - [Amazon Q Developer now supports MCP admin control](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-q-developer-mcp-admin-control/)
 - [AWS HealthOmics now supports task level timeout controls for Nextflow workflows](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-healthomics-task-level-timeout-nextflow-workflows/)
 - [Amazon EBS launches snapshot copy for AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ebs-launches-snapshot-copy-aws-local-zones)
-- [AWS IoT ExpressLink technical specification v1.3](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iot-expresslink-v1-3)
-- [Amazon RDS Custom for SQL Server now supports new General Distribution Releases for Microsoft SQL Server 2019, 2022](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-custom-sql-server-supports-new-gdr-microsoft-sql-server-2019-2022)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
