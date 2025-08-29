@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker introduces account-agnostic, reusable project profiles](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-account-agnostic-project-profiles/)
 - [RDS Data API now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/08/rds-data-api-ipv6)
 - [Amazon QuickSight now supports connectivity to Google Sheets](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-quicksight-google-sheets-connector/)
 - [Amazon Neptune Analytics now introduces stop/start capability](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-neptune-stop-start-capability)
 - [AWS HealthOmics now supports third-party container registries for private workflows](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-healthomics-third-party-container-registries-private-workflows)
-- [AWS IAM launches new VPC endpoint condition keys for network perimeter controls](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iam-new-vpc-endpoint-condition-keys)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
