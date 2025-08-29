@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [RDS Data API now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/08/rds-data-api-ipv6)
+- [Amazon QuickSight now supports connectivity to Google Sheets](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-quicksight-google-sheets-connector/)
+- [Amazon Neptune Analytics now introduces stop/start capability](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-neptune-stop-start-capability)
 - [AWS HealthOmics now supports third-party container registries for private workflows](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-healthomics-third-party-container-registries-private-workflows)
 - [AWS IAM launches new VPC endpoint condition keys for network perimeter controls](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iam-new-vpc-endpoint-condition-keys)
-- [Amazon Q Developer now supports MCP admin control](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-q-developer-mcp-admin-control/)
-- [AWS HealthOmics now supports task level timeout controls for Nextflow workflows](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-healthomics-task-level-timeout-nextflow-workflows/)
-- [Amazon EBS launches snapshot copy for AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ebs-launches-snapshot-copy-aws-local-zones)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
