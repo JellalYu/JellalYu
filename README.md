@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Announcing a new open source project for scenario-focused AWS CLI scripts](https://aws.amazon.com/about-aws/whats-new/2025/09/open-source-aws-cli-scripts)
 - [AWS Resource Explorer is now available in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-resource-explorer-aws-asia-pacific-taipei-region)
+- [AWS Deadline Cloud Now Supports Automating Job Attachments Downloads](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-deadline-cloud-automates-job-attachment-download/)
 - [Amazon Managed Service for Prometheus adds direct PagerDuty integration](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-managed-service-prometheus-pagerduty-integration)
 - [Amazon SageMaker introduces account-agnostic, reusable project profiles](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-account-agnostic-project-profiles/)
-- [RDS Data API now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/08/rds-data-api-ipv6)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
