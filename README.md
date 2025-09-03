@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch now supports querying metrics data up to two weeks old](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-query-metrics-data-two-weeks/)
+- [Amazon CloudWatch query alarms now support monitoring metrics individually](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-alarm-multiple-metrics/)
 - [Amazon RDS for Oracle introduces bare metal instances with 25% lower pricing compared to equivalent virtualized instances](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-oracle-bare-metal-instances)
 - [AWS Clean Rooms supports adding new data providers to existing collaborations](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-clean-rooms-add-data-providers-existing-collaborations/)
 - [Amazon Bedrock now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-asia-pacific-jakarta-region/)
-- [AWS adds the ability to centrally manage access to AWS Regions and AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2025/09/manage-access-aws-regions-local-zones/)
-- [Amazon CloudWatch Synthetics adds multi-browser support for application testing](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-synthetics-adds-multi-browser-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
