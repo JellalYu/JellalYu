@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon EC2 announces AMI Usage to better monitor the use of AMIs](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-ami-usage-monitor-amis/)
 - [Amazon Neptune Database now supports Public Endpoints for simplified development access](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-neptune-database-public-endpoints)
-- [AWS HealthOmics is now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-healthomics-in-asia-pacific-seoul-region/)
-- [CloudFormation Hooks adds Managed Controls and Hook Activity Summary](https://aws.amazon.com/about-aws/whats-new/2025/09/cloudformation-hooks-managed-controls-summary/)
-- [ECS Exec is now available in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2025/09/ecs-exec-aws-management-console/)
+- [Validate best practice compliance for SAP with AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2025/09/validate-best-practice-compliance-for-sap-aws-systems-manager/)
+- [Amazon Managed Service for Prometheus adds quota visibility through AWS Service Quotas and CloudWatch](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-managed-service-prometheus-quota-visibility-aws-service-quotas-cloudwatch)
+- [AWS adds support for three new condition keys to govern API keys for Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-api-keys-conditions-govern-amazon-bedrock)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
