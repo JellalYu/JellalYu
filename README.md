@@ -49,8 +49,8 @@
 <!-- AWS-NEWS:START -->
 - [Amazon MQ now supports OAuth 2.0 plugin for RabbitMQ](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-mq-supports-oauth-20/)
 - [Amazon CloudWatch now supports querying metrics data up to two weeks old](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-query-metrics-data-two-weeks/)
-- [AWS Direct Connect announces new location in Nairobi, Kenya](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-nairobi/)
 - [Amazon CloudWatch query alarms now support monitoring metrics individually](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-alarm-multiple-metrics/)
+- [AWS Direct Connect announces new location in Nairobi, Kenya](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-nairobi/)
 - [Amazon RDS for Oracle introduces bare metal instances with 25% lower pricing compared to equivalent virtualized instances](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-oracle-bare-metal-instances)
 <!-- AWS-NEWS:END -->
 
