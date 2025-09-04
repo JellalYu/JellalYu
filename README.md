@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 announces AMI Usage to better monitor the use of AMIs](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-ami-usage-monitor-amis/)
 - [Amazon Neptune Database now supports Public Endpoints for simplified development access](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-neptune-database-public-endpoints)
-- [ECS Exec is now available in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2025/09/ecs-exec-aws-management-console/)
 - [CloudFormation Hooks adds Managed Controls and Hook Activity Summary](https://aws.amazon.com/about-aws/whats-new/2025/09/cloudformation-hooks-managed-controls-summary/)
+- [ECS Exec is now available in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2025/09/ecs-exec-aws-management-console/)
 - [Amazon Connect adds detailed disconnect reasons for improved call troubleshooting](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-expanded-disconnect-reasons)
-- [AWS HealthOmics is now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-healthomics-in-asia-pacific-seoul-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
