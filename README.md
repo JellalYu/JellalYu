@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing general availability of Organizational Notification Configurations for AWS User Notifications](https://aws.amazon.com/about-aws/whats-new/2025/09/general-availability-organizational-notification-configurations-aws-user-notifications)
 - [Amazon EC2 announces AMI Usage to better monitor the use of AMIs](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-ami-usage-monitor-amis/)
 - [Amazon Neptune Database now supports Public Endpoints for simplified development access](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-neptune-database-public-endpoints)
 - [Validate best practice compliance for SAP with AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2025/09/validate-best-practice-compliance-for-sap-aws-systems-manager/)
 - [Amazon Managed Service for Prometheus adds quota visibility through AWS Service Quotas and CloudWatch](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-managed-service-prometheus-quota-visibility-aws-service-quotas-cloudwatch)
-- [AWS adds support for three new condition keys to govern API keys for Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-api-keys-conditions-govern-amazon-bedrock)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
