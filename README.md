@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront launches TLS security policy with post-quantum support](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudfront-TLS-policy-post-quantum-support)
 - [Amazon RDS Proxy now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-proxy-supports-ipv6)
 - [Enhancing threat detection with Amazon GuardDuty new custom entity lists](https://aws.amazon.com/about-aws/whats-new/2025/09/threat-detection-amazon-guardfuty-custom-entity-lists)
 - [Amazon Aurora PostgreSQL Limitless Database now supports PostgreSQL 16.9](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-aurora-postgresql-limitless-database-postgresql-16-9/)
 - [Announcing general availability of Organizational Notification Configurations for AWS User Notifications](https://aws.amazon.com/about-aws/whats-new/2025/09/general-availability-organizational-notification-configurations-aws-user-notifications)
-- [AWS Backup now supports organization-wide reports in six additional regions](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-backup-organization-wide-reports-6-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
