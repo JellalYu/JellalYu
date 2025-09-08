@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WAF now includes free WAF Vended Logs based on request volume](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-waf-free-vended-logs-request-volume/)
 - [Amazon RDS now supports the latest GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-latest-gdr-updates-microsoft-sql-server)
 - [Amazon CloudFront launches TLS security policy with post-quantum support](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudfront-TLS-policy-post-quantum-support)
 - [MediaConvert now supports Time-Addressable Media Store &lpar;TAMS&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/mediaconvert-time-addressable-media-store/)
 - [Amazon RDS Proxy now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-proxy-supports-ipv6)
-- [Enhancing threat detection with Amazon GuardDuty new custom entity lists](https://aws.amazon.com/about-aws/whats-new/2025/09/threat-detection-amazon-guardduty-custom-entity-lists)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
