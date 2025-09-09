@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK Connect is now available in Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/msk-connect-available-malaysia/)
 - [AWS Managed Microsoft AD adds LDAPS and Smart Card support using AWS Private CA](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-microsoft-ad-ldaps-smart-card-private-ca/)
 - [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8g-instances-additional-regions/)
 - [Amazon ElastiCache supports M7g and R7g Graviton3-based nodes in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-elasticache-m7g-r7g-graviton3-aws-regions/)
 - [Amazon Q in Connect now supports selecting LLMs directly in Connect Web UI](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-q-connect-selecting-llms-connect-web-ui/)
-- [AWS WAF is now available in the AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-waf-asia-pacific-taipei-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
