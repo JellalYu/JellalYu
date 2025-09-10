@@ -47,10 +47,10 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing AWS CDK Refactor &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-cdk-refactor-preview/)
 - [Amazon IVS now supports private ingest via interface VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ivs-private-ingest-interface-vpc-endpoints/)
 - [AWS IoT SiteWise now supports retraining of anomaly detection models](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-iot-sitewise-retraining-anomaly-detection-models/)
-- [AWS HealthImaging now supports OpenID Connect &lpar;OIDC&rpar; authentication for DICOMweb APIs](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-healthimaging-oidc-authentication-dicomweb-apis/)
-- [Amazon CloudWatch Network Monitoring adds flow visibility between Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-network-flow-visibility-regions/)
+- [Amazon Bedrock AgentCore Gateway supports AWS PrivateLink invocation and invocation logging](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-agentcore-gateway-privatelink-invocation-logging)
 - [Amazon EC2 I8g instances now available in AWS US East &lpar;Ohio&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-i8g-instances-east-ohio-region/)
 <!-- AWS-NEWS:END -->
 
