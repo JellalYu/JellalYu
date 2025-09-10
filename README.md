@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon IVS now supports private ingest via interface VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ivs-private-ingest-interface-vpc-endpoints/)
+- [AWS IoT SiteWise now supports retraining of anomaly detection models](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-iot-sitewise-retraining-anomaly-detection-models/)
 - [TwelveLabs’ Marengo Embed 2.7 can now be used for synchronous inference in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/twelvelabs-marengo-embed-synchronous-inference-amazon-bedrock/)
 - [Amazon MSK Connect is now available in Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/msk-connect-available-malaysia/)
 - [Amazon CloudFront adds ECDSA support for signed URLs](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudfront-ecdsa-signed-urls/)
-- [AWS Managed Microsoft AD adds LDAPS and Smart Card support using AWS Private CA](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-microsoft-ad-ldaps-smart-card-private-ca/)
-- [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8g-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
