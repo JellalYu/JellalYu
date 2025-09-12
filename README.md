@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Direct Connect support for 4-byte Autonomous System numbers for Virtual interfaces](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-4-byte-autonomous-system-numbers/)
+- [Amazon SageMaker Unified Studio supports remote connection from VS Code](https://aws.amazon.com/about-aws/whats-new/2025/09/sagemaker-unified-studio-vs-code/)
 - [Amazon ECS enhances task definition editing in the AWS Console with Amazon Q Developer](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-task-definition-q-developer)
 - [Amazon CloudWatch Observability Access Manager Now Supports VPC Endpoints](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-observability-access-manager-vpc-endpoints/)
 - [Amazon Managed Service for Prometheus collector logs now available in Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-managed-service-prometheus-collector-vended-logs/)
-- [AWS launches LocalStack integration in VS Code IDE to simplify local testing for serverless applications](https://aws.amazon.com/about-aws/whats-new/2025/09/localstack-integration-vs-code-ide-local-testing/)
-- [Amazon EventBridge API destinations is now available in AWS Asia Pacific &lpar;Melbourne and Thailand&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-eventbridge-api-destinations-melbourne-thailand/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
