@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Batch Operations now supports managing buckets or prefixes in a single step in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-s3-batch-operations-managing-buckets-console)
 - [Amazon SageMaker HyperPod announces health monitoring agent support for Slurm clusters](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sagemaker-hyperpod-health-monitoring-agent-slurm/)
 - [Amazon Connect Cases now supports date range filters in the case list view](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-cases-date-range-filters/)
 - [Amazon OpenSearch Service now supports OpenSearch version 3.1](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-service-opensearch-version-3-1/)
 - [AWS Organizations now provides account state information for member accounts](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-organizations-provides-account-state-information-member-accounts)
-- [Announcing on-demand deployment for custom Meta Llama models in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/on-demand-deployment-custom-meta-llama-models-amazon-bedrock)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
