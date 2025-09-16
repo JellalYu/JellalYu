@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 supports detailed performance stats on all NVMe local volumes](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-detailed-performance-stats-nvme-local-volumes/)
 - [AWS Storage Gateway now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-storage-gateway-ipv6)
 - [Amazon EC2 R8i and R8i-flex instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8i-r8i-flex-additional-regions/)
 - [Amazon OpenSearch Service announces Star-Tree Index](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-star-tree-index/)
 - [Amazon OpenSearch Service announces Derived Source for storage optimization](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-derived-source/)
-- [Amazon S3 Batch Operations now supports managing buckets or prefixes in a single step in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-s3-batch-operations-managing-buckets-console)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
