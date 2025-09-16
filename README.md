@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon EKS introduces a new catalog of community add-ons in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-eks-community-addons-govcloud)
+- [Amazon EC2 I7i instances now available in South America &lpar;São Paulo&rpar;, Canada West &lpar;Calgary&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-i7i-instances-sao-paulo-calgary-regions/)
 - [Amazon Lex provides generative AI based enhanced natural language understanding in eight new languages](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-lex-generative-ai-natural-language-eight-languages/)
+- [New fault action in AWS FIS to inject I/O latency on Amazon EBS volumes](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-fis-action-inject-io-latency-on-ebs/)
 - [Amazon EC2 supports detailed performance stats on all NVMe local volumes](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-detailed-performance-stats-nvme-local-volumes/)
-- [Amazon AppStream 2.0 adds support for fractional GPU instances](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-appstream-fractional-gpu/)
-- [AWS Storage Gateway now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-storage-gateway-ipv6)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
