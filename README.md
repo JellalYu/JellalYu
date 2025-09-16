@@ -50,8 +50,8 @@
 - [Amazon EKS introduces a new catalog of community add-ons in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-eks-community-addons-govcloud)
 - [Amazon Lex provides generative AI based enhanced natural language understanding in eight new languages](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-lex-generative-ai-natural-language-eight-languages/)
 - [Amazon EC2 supports detailed performance stats on all NVMe local volumes](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-detailed-performance-stats-nvme-local-volumes/)
+- [Amazon AppStream 2.0 adds support for fractional GPU instances](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-appstream-fractional-gpu/)
 - [AWS Storage Gateway now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-storage-gateway-ipv6)
-- [Amazon Aurora PostgreSQL Limitless Database is now available in the AWS GovCloud &lpar;US-East, US-West&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-aurora-postgresql-limitless-database-aws-govcloud-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
