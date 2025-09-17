@@ -51,7 +51,7 @@
 - [Amazon Corretto 25 is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-corretto-25-generally-available)
 - [Amazon Connect launches the ability to search contacts using agent hierarchy filters](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-search-contacts-agent-hierarchy-filters/)
 - [Amazon EC2 I8ge instances now available in AWS Europe &lpar;Frankfurt&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-i8ge-instances-in-europe-frankfurt)
-- [Amazon CloudWatch launches Cross-Account and Cross-Region Log Centralization](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-cross-account-cross-region-log-centralization)
+- [Announcing availability of second-generation AWS Outposts racks in 52 more countries](https://aws.amazon.com/about-aws/whats-new/2025/09/second-generation-aws-outposts-racks-more-countries)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
