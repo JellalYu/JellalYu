@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Second-generation AWS Outposts racks now supported in the AWS Canada &lpar;Central&rpar; and US West &lpar;N. California&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/second-generation-outposts-racks-canada-us-west-regions)
 - [Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in seven additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-vpc-reachability-network-access-analyzer-seven-regions/)
 - [Amazon Q Developer CLI announces support for remote MCP servers](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-q-developer-remote-mcp-servers/)
 - [AWS Step Functions expands data source options and improves observability for Distributed Map](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-step-functions-data-source-options-observability-distributed-map)
 - [Amazon Lex provides enhanced confirmation and currency built-in slots to 10 additional languages](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-lex-enhanced-confirmation-currency-slots-to-languages/)
-- [Amazon SageMaker HyperPod now supports autoscaling using Karpenter](https://aws.amazon.com/about-aws/whats-new/2025/09/sagemaker-hyperpod-autoscaling/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
