@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Contact Lens now provides sensitive data redaction in 7 additional languages](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-contact-lens-redaction-7-languages/)
 - [Amazon Connect flow designer now supports analytics mode](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-flow-designer-analytics-mode/)
 - [Amazon OpenSearch Ingestion now supports cross-account ingestion](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-ingestion-cross-account-ingestion/)
 - [Amazon RDS for MySQL announces Innovation Release 9.4 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-mysql-innovation-release-94-database-preview-environment/)
 - [Amazon Redshift announces the general availability of Multidimensional Data Layouts](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-redshift-multidimensional-data-layouts/)
-- [Announcing AWS Neuron SDK 2.26.0](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-neuron-2-26-announce/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
