@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS IAM Identity Center organization instances now support customer-managed KMS keys for encryption at rest](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-iam-identity-center-organization-customer-managed-kms-keys-encryption-at-rest/)
-- [Amazon EC2 R8gb instances are now generally available](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8gb-instances/)
+- [Amazon Nova Act extension: Build and test AI agents within your IDE](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-nova-act-extension-build-test-ai-agents-ide/)
 - [Amazon Connect now supports you to associate custom attributes with interaction segments](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-associate-custom-attributes-interaction-segments/)
-- [Amazon Connect Contact Lens now provides sensitive data redaction in 7 additional languages](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-contact-lens-redaction-7-languages/)
-- [Amazon Connect flow designer now supports analytics mode](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-flow-designer-analytics-mode/)
+- [Amazon EC2 R8gb instances are now generally available](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8gb-instances/)
+- [Amazon Redshift Serverless is now available in the AWS Asia Paciﬁc &lpar;Taipei&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-redshift-serverless-asia-pacific-taipei/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
