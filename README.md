@@ -50,8 +50,8 @@
 - [Amazon DataZone is now available in 3 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-datazone-additional-regions/)
 - [AWS License Manager now supports shared AWS Managed Active Directory](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-license-manager-shared-managed-active-directory)
 - [AWS IAM Identity Center organization instances now support customer-managed KMS keys for encryption at rest](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-iam-identity-center-organization-customer-managed-kms-keys-encryption-at-rest/)
-- [Amazon Nova Act extension: Build and test AI agents within your IDE](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-nova-act-extension-build-test-ai-agents-ide/)
 - [Amazon RDS announces cross-Region and cross-account snapshot copy](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-cross-region-cross-account-snapshot-copy/)
+- [Amazon Nova Act extension: Build and test AI agents within your IDE](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-nova-act-extension-build-test-ai-agents-ide/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
