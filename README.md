@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch now supports resource tags when monitoring vended metrics](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-cloudwatch-tags-observability)
 - [Announcing AWS Lambda Support for Code Signing in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-lambda-code-signing-govcloud)
 - [Application Recovery Controller Region switch is now available in Asia Pacific &lpar;New Zealand&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/application-recovery-controller-region-switch-new-zealand/)
 - [Amazon Route 53 Resolver Query Logging now available in Asia Pacific &lpar;New Zealand&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-route-53-resolver-query-logging-available-asia-pacific-nz)
 - [Amazon GameLift Servers launches a new Local Zone in Dallas, Texas](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-gamelift-servers-local-zone-dallas-texas/)
-- [AWS announces unlimited network burst duration on EC2 I8g and I7i instances](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-announces-unlimited-network-burst-duration-i8g-i7i)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
