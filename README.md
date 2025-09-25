@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Bedrock AgentCore Runtime, Browser, and Code Interpreter add support for VPC, AWS PrivateLink, CloudFormation, and tagging](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-agentcore-runtime-browser-code-interpreter-vpc-privatelink-cloudformation-tagging)
 - [Amazon EC2 I7i instances now available in AWS Europe &lpar;Milan&rpar; and AWS US West &lpar;N. California&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-i7i-instances-available-in-milan-california/)
+- [AWS Network Firewall enhances application layer traffic controls](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-network-firewall-enhances-application-layer-traffic-controls)
 - [Research and Engineering Studio on AWS 2025.09 is now available](https://aws.amazon.com/about-aws/whats-new/2025/09/research-engineering-studio-aws-2025-09-now-available)
 - [Amazon CloudWatch now supports resource tags when monitoring vended metrics](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-cloudwatch-tags-observability)
-- [AWS X-Ray introduces Adaptive Sampling for automatic optimized error detection](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-x-ray-adaptive-sampling-automatic-error/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
