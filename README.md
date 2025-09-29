@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect dashboards now support filtering and comparing metrics by any time range](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-dashboards-filtering-comparing-metrics-time-range)
 - [Amazon Neptune Analytics is now available in AWS Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-neptune-analytics-available-mumbai)
 - [Local file redirection is now available on Amazon AppStream 2.0 multi-session fleets](https://aws.amazon.com/about-aws/whats-new/2025/09/local-file-redirection-amazon-appstream-multi-session-fleets/)
 - [Amazon MSK Connect is now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-msk-connect-five-additional-regions/)
 - [AWS Clean Rooms supports incremental ID mapping with AWS Entity Resolution](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-clean-rooms-incremental-id-mapping-entity-resolution)
-- [Amazon EBS increases the maximum size and provisioned performance of General Purpose &lpar;gp3&rpar; volumes](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ebs-size-provisioned-performance-gp3-volumes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
