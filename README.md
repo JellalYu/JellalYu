@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch and OpenSearch Service expand region support for integrated analytics experience](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-opensearch-service-region-integrated-analytics-experience/)
 - [Amazon SNS expands IPv6 support to the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sns-ipv6-aws-govcloud/)
 - [AWS Transform now enables Terraform for VMware network automation](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transform-terraform-vmware-network-automation)
 - [AWS Firewall Manager launches in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-firewall-manager-aws-asia-pacific-taipei-region)
-- [AWS Outposts now supports external block volumes from Dell and HPE storage arrays](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-outposts-external-block-volumes-dell-hpe-storage-arrays)
-- [AWS Storage Gateway now supports VPC endpoint policies](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-storage-gateway-vpc-endpoint-policies)
+- [AWS Transfer Family adds support for additional IAM condition keys](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transfer-family-iam-condition-keys)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
