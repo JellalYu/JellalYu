@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon GameLift Streams adds IPv6 support for streaming Windows applications](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-gamelift-streams-ipv6-support)
+- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports IPv6 with dual-stack endpoints](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-keyspaces-apache-cassandra-ipv6-dual-stack-endpoints/)
 - [Amazon Bedrock Data Automation now provides support for enhancing transcriptions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-data-automation-support-enhancing-transcription/)
 - [Application map is now generally available for Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2025/10/application-map-generally-available-amazon-cloudwatch)
 - [Amazon Detective now supports AWS PrivateLink for private API access](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-detective-aws-privatelink-private-api-access)
-- [AWS API MCP Server v1.0.0 release](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-api-mcp-server-v1-0-0-release)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
