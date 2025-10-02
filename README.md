@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Connect makes it easier to get customer input on outbound calls](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-customer-input-outbound-calls)
-- [AWS Clean Rooms now supports data access budgets](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-clean-rooms-data-access-budgets/)
-- [Amazon EC2 Instance Connect Endpoint now supports IPv6 connectivity](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-instance-connect-endpoint-ipv6)
-- [Amazon GameLift Streams adds IPv6 support for streaming Windows applications](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-gamelift-streams-ipv6-support)
-- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports IPv6 with dual-stack endpoints](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-keyspaces-apache-cassandra-ipv6-dual-stack-endpoints/)
+- [Amazon Connect now supports agent screen recording for ChromeOS](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-screen-recording-chromeos/)
+- [AWS Direct Connect announces 100G expansion in Makati City, Philippines](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-direct-connect-100g-makati-city/)
+- [Amazon Connect now provides agent time-off balance data in analytics data lake](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-time-off-balance-data/)
+- [Amazon Neptune Database now integrates with GraphStorm for scalable graph machine learning](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-neptune-database-graphstorm)
+- [AWS Secrets Manager expands AWS PrivateLink support to FIPS endpoints](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-secrets-manager-privatelink-fips-endpoints)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
