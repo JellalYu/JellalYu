@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Directory Service enables API-driven Managed Microsoft AD edition upgrades](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-directory-service-api-edition-upgrades)
 - [Amazon Connect now supports agent screen recording for ChromeOS](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-screen-recording-chromeos/)
 - [AWS Direct Connect announces 100G expansion in Makati City, Philippines](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-direct-connect-100g-makati-city/)
 - [Amazon Connect now provides agent time-off balance data in analytics data lake](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-time-off-balance-data/)
 - [Amazon Neptune Database now integrates with GraphStorm for scalable graph machine learning](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-neptune-database-graphstorm)
-- [AWS Secrets Manager expands AWS PrivateLink support to FIPS endpoints](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-secrets-manager-privatelink-fips-endpoints)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
