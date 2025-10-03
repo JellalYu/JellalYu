@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now provides generative AI-powered email conversation overviews and suggested responses](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-generative-ai-powered-email-conversation-overviews)
+- [AWS Directory Service introduces IPv6 support for Managed Microsoft AD and AD Connector](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-directory-service-ipv6)
 - [AWS Directory Service enables API-driven Managed Microsoft AD edition upgrades](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-directory-service-api-edition-upgrades)
 - [Amazon Connect now supports agent screen recording for ChromeOS](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-screen-recording-chromeos/)
 - [AWS Direct Connect announces 100G expansion in Makati City, Philippines](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-direct-connect-100g-makati-city/)
-- [Amazon Connect now provides agent time-off balance data in analytics data lake](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-time-off-balance-data/)
-- [Amazon Neptune Database now integrates with GraphStorm for scalable graph machine learning](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-neptune-database-graphstorm)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
