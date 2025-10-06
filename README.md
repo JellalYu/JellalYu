@@ -47,7 +47,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [New Compute Optimized Amazon EC2 C8i and C8i-flex instances](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-c8i-and-c8i-flex-instances-generally-available)
+- [New Compute Optimized Amazon EC2 C8i and C8i-flex instances](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available)
 - [AWS Glue adds write operations for SAP OData, Adobe Marketo Engage, Salesforce Marketing Cloud, and HubSpot connectors](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-glue-write-operations-connectors)
 - [Amazon OpenSearch Ingestion now supports batch AI inference](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-opensearch-service-supports-batch-ai-inference)
 - [Amazon Kinesis Video Streams now supports IPv6 for Streams capability](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-kinesis-video-streams-ipv6-streams-capability/)
