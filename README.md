@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.34](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-eks-distro-kubernetes-version-1-34)
+- [Amazon Connect launches new case APIs to link related cases, add custom related items, and search across them](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-cases-api-link-search/)
 - [New Compute Optimized Amazon EC2 C8i and C8i-flex instances](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available)
 - [AWS Glue adds write operations for SAP OData, Adobe Marketo Engage, Salesforce Marketing Cloud, and HubSpot connectors](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-glue-write-operations-connectors)
 - [Amazon OpenSearch Ingestion now supports batch AI inference](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-opensearch-service-supports-batch-ai-inference)
-- [Amazon Kinesis Video Streams now supports IPv6 for Streams capability](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-kinesis-video-streams-ipv6-streams-capability/)
-- [AWS End User Messaging now sends onboarding progress alerts via Slack, Email, or any other EventBridge destination](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-end-user-messaging-onboarding-progress-alerts-slack-email-eventbridge-destination)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
