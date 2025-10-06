@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New Compute Optimized Amazon EC2 C8i and C8i-flex instances](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-c8i-and-c8i-flex-instances-generally-available)
 - [AWS Glue adds write operations for SAP OData, Adobe Marketo Engage, Salesforce Marketing Cloud, and HubSpot connectors](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-glue-write-operations-connectors)
 - [Amazon OpenSearch Ingestion now supports batch AI inference](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-opensearch-service-supports-batch-ai-inference)
 - [Amazon Kinesis Video Streams now supports IPv6 for Streams capability](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-kinesis-video-streams-ipv6-streams-capability/)
 - [AWS End User Messaging now sends onboarding progress alerts via Slack, Email, or any other EventBridge destination](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-end-user-messaging-onboarding-progress-alerts-slack-email-eventbridge-destination)
-- [Amazon Connect now provides generative AI-powered email conversation overviews and suggested responses](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-generative-ai-powered-email-conversation-overviews)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
