@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon RDS for Db2 launches support for native database backups](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-for-db2-native-database-backup/)
+- [Amazon VPC Lattice now supports configurable IP addresses for Resource Gateways](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-vpc-lattice-configurable-ip-resource-gateway/)
 - [AWS Marketplace now supports new currencies for usage-based private offers](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-marketplace-currencies-usage-based-private-offers)
 - [Automatic quota management is now generally available for AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/10/automatic-quota-management-service-quotas/)
-- [Amazon Redshift Serverless with lower base capacity available in the AWS Asia Pacific &lpar;Seoul&rpar; and Canada &lpar;Central&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-redshift-serverless-asia-pacific-seoul-europe-paris/)
-- [Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.34](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-eks-distro-kubernetes-version-1-34)
+- [AWS Marketplace announces enhanced pricing dimension capabilities for sellers](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-marketplace-pricing-dimension-sellers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
