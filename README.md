@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon RDS for Db2 launches support for native database backups](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-for-db2-native-database-backup/)
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now available in 4 new regions across Asia Pacific and Mexico](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-documentdb-mongodb-compatibility-new-regions-asia-pacific-mexico)
 - [Amazon VPC Lattice now supports configurable IP addresses for Resource Gateways](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-vpc-lattice-configurable-ip-resource-gateway/)
+- [Amazon RDS for Db2 launches support for native database backups](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-for-db2-native-database-backup/)
 - [AWS Marketplace now supports new currencies for usage-based private offers](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-marketplace-currencies-usage-based-private-offers)
-- [Automatic quota management is now generally available for AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/10/automatic-quota-management-service-quotas/)
-- [AWS Marketplace announces enhanced pricing dimension capabilities for sellers](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-marketplace-pricing-dimension-sellers/)
+- [Amazon EC2 Im4gn instances now available in AWS Asia Pacific &lpar;Mumbai&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-im4gn-instances-asia-pacific-mumbai-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
