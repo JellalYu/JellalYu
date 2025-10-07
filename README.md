@@ -51,7 +51,7 @@
 - [Amazon VPC Lattice now supports configurable IP addresses for Resource Gateways](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-vpc-lattice-configurable-ip-resource-gateway/)
 - [Amazon RDS for Db2 launches support for native database backups](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-for-db2-native-database-backup/)
 - [AWS Marketplace now supports new currencies for usage-based private offers](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-marketplace-currencies-usage-based-private-offers)
-- [Amazon EC2 Im4gn instances now available in AWS Asia Pacific &lpar;Mumbai&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-im4gn-instances-asia-pacific-mumbai-region/)
+- [AWS Marketplace expands Japan consumption tax support for Channel Partner Private Offers](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-marketplace-japan-consumption-tax-support)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
