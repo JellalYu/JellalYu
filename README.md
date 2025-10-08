@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon EC2 I7ie instances now available in AWS South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i7ie-instances-available-in-aws-sao-paulo/)
+- [New General Purpose Amazon EC2 M8a Instances](https://aws.amazon.comabout-aws/whats-new/2025/10/general-purpose-amazon-ec2-m8a-instances/)
 - [Amazon Q Developer now help customers understand service prices and estimate workload costs](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-q-developer-understand-service-prices-estimate-workload-costs)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now available in 4 new regions across Asia Pacific and Mexico](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-documentdb-mongodb-compatibility-new-regions-asia-pacific-mexico)
 - [Amazon VPC Lattice now supports configurable IP addresses for Resource Gateways](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-vpc-lattice-configurable-ip-resource-gateway/)
-- [Amazon RDS for Db2 launches support for native database backups](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-for-db2-native-database-backup/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
