@@ -50,8 +50,8 @@
 - [Introducing Amazon Quick Suite: your agentic AI-powered workspace](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-quick-suite-agentic-ai-powered-workspace)
 - [AWS Direct Connect announces 100G expansion in Kansas City, MO](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-direct-connect-100g-expansion-kansas-city/)
 - [Amazon EC2 I7i instances now available in AWS Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i7i-instances-available-in-aws-europe-spain/)
-- [Amazon EC2 M6in and M6idn instances are now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-m6in-m6idn-asia-pacific-seoul/)
 - [Amazon EC2 C6in instances are now available in Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c6in-instances-mexico-central-region)
+- [Amazon EC2 M6in and M6idn instances are now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-m6in-m6idn-asia-pacific-seoul/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
