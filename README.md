@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora PostgreSQL now supports R8g database instances in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-aurora-postgresql-r8g-database-instances-additional-aws-regions/)
+- [Amazon Connect now supports copy and bulk edit of agent scheduling configuration](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-copy-bulk-edit-agent-scheduling/)
+- [Amazon Connect now supports agent schedule adherence notifications](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-adherence-notifications/)
 - [Amazon Neptune Analytics is now available in AWS Canada &lpar;Central&rpar; and Australia &lpar;Sydney&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-neptune-analytics-canada-central-australia-sydney/)
-- [Introducing Amazon Quick Suite: your agentic AI-powered workspace](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-quick-suite-agentic-ai-powered-workspace)
-- [AWS Direct Connect announces 100G expansion in Kansas City, MO](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-direct-connect-100g-expansion-kansas-city/)
-- [Amazon EC2 I7i instances now available in AWS Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i7i-instances-available-in-aws-europe-spain/)
-- [Amazon EC2 C6in instances are now available in Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c6in-instances-mexico-central-region)
+- [Amazon EBS io2 Block Express supports China Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ebs-io2-block-express-china-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
