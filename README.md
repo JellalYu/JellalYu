@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-supports-latest-cu-gdr-updates-for-microsoft-sql-server)
 - [Amazon Quick Sight expands font customization for visuals](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-quicksight-expands-font-customization)
+- [AWS now supports immediate resource discovery within a Region](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-immediate-resource-discovery-within-region/)
+- [Amazon EC2 High Memory U7i instances now available in Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-high-memory-u7i-instances-asia-pacific-mumbai-region)
 - [Amazon SageMaker AI Projects now supports custom template S3 provisioning](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-sagemaker-ai-projects-custom-template-s3-provisioning)
-- [Amazon Bedrock AgentCore is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-agentcore-available/)
-- [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-service-availability/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
