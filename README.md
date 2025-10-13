@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-supports-latest-cu-gdr-updates-for-microsoft-sql-server)
 - [Amazon Quick Sight expands font customization for visuals](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-quicksight-expands-font-customization)
 - [Amazon SageMaker AI Projects now supports custom template S3 provisioning](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-sagemaker-ai-projects-custom-template-s3-provisioning)
 - [Amazon Bedrock AgentCore is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-agentcore-available/)
 - [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-service-availability/)
-- [Generative AI observability now generally available for Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2025/10/generative-ai-observability-amazon-cloudwatch/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
