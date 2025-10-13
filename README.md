@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock AgentCore is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-agentcore-available/)
 - [AWS Client VPN is now supporting MacOS Tahoe](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-client-vpn-macos-tahoe/)
 - [Amazon Aurora PostgreSQL now supports R8g database instances in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-aurora-postgresql-r8g-database-instances-additional-aws-regions/)
 - [Amazon Connect now supports copy and bulk edit of agent scheduling configuration](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-copy-bulk-edit-agent-scheduling/)
 - [Amazon Connect now supports agent schedule adherence notifications](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-adherence-notifications/)
-- [Amazon Neptune Analytics is now available in AWS Canada &lpar;Central&rpar; and Australia &lpar;Sydney&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-neptune-analytics-canada-central-australia-sydney/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
