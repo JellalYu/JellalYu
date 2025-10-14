@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS for Fluent Bit 3.0.0 based on Fluent Bit 4.1.0](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-fluent-bit-3-0-0-based-4-1-0)
+- [Amazon EC2 M8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-m8g-instances-additional-regions/)
 - [Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-supports-latest-cu-gdr-updates-for-microsoft-sql-server)
 - [Amazon Quick Sight expands font customization for visuals](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-quicksight-expands-font-customization)
 - [AWS now supports immediate resource discovery within a Region](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-immediate-resource-discovery-within-region/)
-- [Amazon EC2 High Memory U7i instances now available in Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-high-memory-u7i-instances-asia-pacific-mumbai-region)
-- [Amazon SageMaker AI Projects now supports custom template S3 provisioning](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-sagemaker-ai-projects-custom-template-s3-provisioning)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
