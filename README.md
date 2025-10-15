@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-r8g-instances-additional-regions)
 - [Amazon EC2 M7i instances are now available in the Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-m7i-instances-milan-region/)
 - [Amazon AppStream 2.0 announces availability of license included Microsoft applications](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-appstream-license-included-apps)
-- [Announcing AWS for Fluent Bit 3.0.0 based on Fluent Bit 4.1.0](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-fluent-bit-3-0-0-based-4-1-0)
 - [Amazon EBS now supports Volume Clones for instant volume copies](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ebs-volume-clones-instant-volume-copies)
-- [Amazon Route 53 Profiles now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-route-53-profiles-supports-aws-privatelink)
+- [Announcing AWS for Fluent Bit 3.0.0 based on Fluent Bit 4.1.0](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-fluent-bit-3-0-0-based-4-1-0)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
