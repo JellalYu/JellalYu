@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [CloudWatch Database Insights now supports tag based access control](https://aws.amazon.com/about-aws/whats-new/2025/10/database-insights-tag-based-access-control)
 - [Amazon OpenSearch Service now supports Graviton4 based &lpar;c8g,m8g,r8g and r8gd&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-opensearch-service-supports-graviton4-based-instances)
-- [Customer managed KMS keys now available for Automated Reasoning checks](https://aws.amazon.com/about-aws/whats-new/2025/10/customer-managed-kms-keys-automated-reasoning-checks/)
 - [AWS Systems Manager Patch Manager launches security updates notification for Windows](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-systems-manager-patch-manager-windows/)
-- [Amazon Timestream now supports InfluxDB 3](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-timestream-influxdb-3/)
-- [Amazon Location Service Introduces New Map Styling Features for Enhanced Customization](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-location-services-new-map-styling-enchanced-customization)
+- [Customer managed KMS keys now available for Automated Reasoning checks](https://aws.amazon.com/about-aws/whats-new/2025/10/customer-managed-kms-keys-automated-reasoning-checks/)
+- [Amazon EC2 C8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8g-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
