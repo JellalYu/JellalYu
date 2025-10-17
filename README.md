@@ -51,7 +51,7 @@
 - [Amazon Location Service Introduces New Map Styling Features for Enhanced Customization](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-location-services-new-map-styling-enchanced-customization)
 - [Amazon EC2 C8gn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8gn-instances-additional-regions)
 - [Amazon EC2 now supports CPU options optimization for license-included instances](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-cpu-options-optimization-license-included-instances)
-- [AWS Security Hub CSPM now supports CIS AWS Foundations Benchmark v5.0](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-security-hub-cspm-cis-foundations-benchmark-v5/)
+- [AWS Global Accelerator now supports endpoints in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-global-accelerator-endpoints-in-two-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
