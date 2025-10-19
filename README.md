@@ -51,7 +51,7 @@
 - [CloudWatch Database Insights now supports tag based access control](https://aws.amazon.com/about-aws/whats-new/2025/10/database-insights-tag-based-access-control)
 - [Announcing Amazon EC2 Capacity Manager](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-capacity-manager)
 - [Amazon OpenSearch Service now supports Graviton4 based &lpar;c8g,m8g,r8g and r8gd&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-opensearch-service-supports-graviton4-based-instances)
-- [Customer managed KMS keys now available for Automated Reasoning checks](https://aws.amazon.com/about-aws/whats-new/2025/10/customer-managed-kms-keys-automated-reasoning-checks/)
+- [AWS Systems Manager Patch Manager launches security updates notification for Windows](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-systems-manager-patch-manager-windows/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
