@@ -51,7 +51,7 @@
 - [Amazon Corretto October 2025 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-corretto-october-2025-quarterly-updates)
 - [Amazon U7i instances now available in Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-u7i-instances-europe-london-region/)
 - [Amazon CloudWatch Database Insights now provides on-demand analysis for RDS for SQL Server](https://aws.amazon.com/about-aws/whats-new/2025/10/cloudwatch-database-on-demand-analysis-rds-sql-server/)
-- [Amazon ECS now publishes AWS CloudTrail data events for insight into API activities](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-aws-cloudtrail-data-events-insight-api-activities)
+- [Amazon Connect now supports automated follow-up evaluations triggered by initial evaluation results](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-automated-evaluations-triggered-evaluations)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
