@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Location Service Introduces New Map Styling Features for Enhanced Customization](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-location-services-new-map-styling-enchanced-customization)
+- [Amazon CloudWatch introduces interactive incident reporting](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-incident-report/)
+- [Amazon U7i instances now available in AWS US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-u7i-instances-available-aws-us-east-ohio-region/)
 - [Amazon EKS Auto Mode now available in AWS GovCloud &lpar;US-East&rpar; and &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-eks-auto-mode-aws-govcloud-us-east-west)
-- [Amazon S3 now generates AWS CloudTrail events for S3 Tables maintenance operations](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-s3-generates-aws-cloudtrail-events)
+- [Amazon Location Service Introduces New Map Styling Features for Enhanced Customization](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-location-services-new-map-styling-enchanced-customization)
 - [Amazon CloudWatch Agent adds support for Windows Event Log Filters](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-agent-windows-event-log-filters)
-- [Amazon Redshift auto-copy is now available in 4 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-redshift-auto-copy-additional-aws-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
