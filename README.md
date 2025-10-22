@@ -51,7 +51,7 @@
 - [Amazon SES adds IP observability for Dedicated IP addresses &lpar;managed&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ses-ip-observability-dedicated-op-addresses-managed)
 - [Amazon Corretto October 2025 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-corretto-october-2025-quarterly-updates)
 - [Amazon Bedrock Data Automation supports additional formats for video and faster processing for images](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-data-automation-formats-video-images/)
-- [Amazon Nova now supports the customization of content moderation settings](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-nova-customization-content-moderation-settings/)
+- [Amazon CloudWatch Database Insights now provides on-demand analysis for RDS for SQL Server](https://aws.amazon.com/about-aws/whats-new/2025/10/cloudwatch-database-on-demand-analysis-rds-sql-server/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
