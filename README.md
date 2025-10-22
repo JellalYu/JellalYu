@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 now generates AWS CloudTrail events for S3 Tables maintenance operations](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-s3-generates-aws-cloudtrail-events)
 - [AWS announces Nitro Enclaves are now available in all AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-nitro-enclaves-available-in-all-regions/)
 - [Amazon SES adds IP observability for Dedicated IP addresses &lpar;managed&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ses-ip-observability-dedicated-op-addresses-managed)
 - [Amazon Corretto October 2025 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-corretto-october-2025-quarterly-updates)
 - [Amazon Bedrock Data Automation supports additional formats for video and faster processing for images](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-data-automation-formats-video-images/)
-- [Amazon CloudWatch Database Insights now provides on-demand analysis for RDS for SQL Server](https://aws.amazon.com/about-aws/whats-new/2025/10/cloudwatch-database-on-demand-analysis-rds-sql-server/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
