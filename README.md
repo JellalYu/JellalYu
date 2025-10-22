@@ -50,8 +50,8 @@
 - [Amazon Location Service Introduces New Map Styling Features for Enhanced Customization](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-location-services-new-map-styling-enchanced-customization)
 - [Amazon CloudWatch Agent adds support for Windows Event Log Filters](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-agent-windows-event-log-filters)
 - [Amazon S3 now generates AWS CloudTrail events for S3 Tables maintenance operations](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-s3-generates-aws-cloudtrail-events)
-- [AWS announces Nitro Enclaves are now available in all AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-nitro-enclaves-available-in-all-regions/)
-- [Amazon SES adds IP observability for Dedicated IP addresses &lpar;managed&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ses-ip-observability-dedicated-op-addresses-managed)
+- [Amazon Redshift auto-copy is now available in 4 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-redshift-auto-copy-additional-aws-regions)
+- [AWS Parallel Computing Service &lpar;PCS&rpar; now supports rotation of cluster secret keys](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-parallel-computing-service-rotation-cluster-secret-keys/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
