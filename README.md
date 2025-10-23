@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Now generally available: AWS RTB Fabric for real-time bidding workloads](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-rtb-fabric-generally-available/)
 - [Amazon CloudWatch introduces interactive incident reporting](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-incident-report/)
 - [Amazon U7i instances now available in AWS US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-u7i-instances-available-aws-us-east-ohio-region/)
 - [Amazon EKS Auto Mode now available in AWS GovCloud &lpar;US-East&rpar; and &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-eks-auto-mode-aws-govcloud-us-east-west)
 - [Amazon Location Service Introduces New Map Styling Features for Enhanced Customization](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-location-services-new-map-styling-enchanced-customization)
-- [Amazon CloudWatch Synthetics now supports bundled multi-check canaries](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-synthetics-bundled-multi-check-canaries)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
