@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora DSQL is now available in Europe &lpar;Frankfurt&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-aurora-dsql-available-in-frankfurt)
+- [Amazon Connect outbound campaigns supports preview dialing for greater agent control](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-outbound-campaigns-preview-dialing/)
+- [AWS Outposts 2U server is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-outposts-2u-server-govcloud-regions)
 - [Now generally available: AWS RTB Fabric for real-time bidding workloads](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-rtb-fabric-generally-available/)
 - [Amazon Connect now supports threaded views and includes conversation history in agent replies](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-threaded-views-conversation-history/)
-- [Amazon EC2 I8g instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i8g-instances-available-in-additional-aws/)
-- [AWS Secret-West Region is now available](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-secret-west-region-is-now-available)
-- [Amazon CloudWatch introduces interactive incident reporting](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-incident-report/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
