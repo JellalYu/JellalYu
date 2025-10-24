@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Aurora DSQL now supports resource-based policies](https://aws.amazon.com/about-aws/whats-new/2025/10/aurora-dsql-resource-based-policies)
 - [Amazon Connect outbound campaigns supports preview dialing for greater agent control](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-outbound-campaigns-preview-dialing/)
 - [Amazon Aurora DSQL is now available in Europe &lpar;Frankfurt&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-aurora-dsql-available-in-frankfurt)
 - [Amazon Connect now provides granular permissions for conversation recordings and transcripts](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-granular-permissions-conversation-recordings-transcripts/)
 - [AWS Outposts 2U server is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-outposts-2u-server-govcloud-regions)
-- [Amazon DynamoDB zero-ETL integration with Amazon Redshift now available in the Asia Pacific &lpar;Taipei&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-dynamodb-zero-etl-integration-redshift-asia-pacific-taipei-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
