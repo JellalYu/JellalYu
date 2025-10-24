@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Auto Scaling now supports predictive scaling in six more regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-auto-scaling-predictive-scaling-in-six/)
 - [Aurora DSQL now supports resource-based policies](https://aws.amazon.com/about-aws/whats-new/2025/10/aurora-dsql-resource-based-policies)
+- [New Amazon CloudWatch metrics to monitor EC2 instances exceeding I/O performance](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-metrics-monitor-ec2-instances-i-o-performance)
 - [Amazon SageMaker Unified Studio supports Amazon Athena workgroups](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-sagemaker-unified-studio-athena-workgroups/)
 - [Amazon Connect outbound campaigns supports preview dialing for greater agent control](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-outbound-campaigns-preview-dialing/)
-- [Amazon Aurora DSQL is now available in Europe &lpar;Frankfurt&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-aurora-dsql-available-in-frankfurt)
-- [Amazon Connect now provides granular permissions for conversation recordings and transcripts](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-granular-permissions-conversation-recordings-transcripts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
