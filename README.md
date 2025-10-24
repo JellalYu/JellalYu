@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Aurora DSQL now supports resource-based policies](https://aws.amazon.com/about-aws/whats-new/2025/10/aurora-dsql-resource-based-policies)
+- [Amazon SageMaker Unified Studio supports Amazon Athena workgroups](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-sagemaker-unified-studio-athena-workgroups/)
 - [Amazon Connect outbound campaigns supports preview dialing for greater agent control](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-outbound-campaigns-preview-dialing/)
 - [Amazon Aurora DSQL is now available in Europe &lpar;Frankfurt&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-aurora-dsql-available-in-frankfurt)
 - [Amazon Connect now provides granular permissions for conversation recordings and transcripts](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-granular-permissions-conversation-recordings-transcripts/)
-- [AWS Outposts 2U server is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-outposts-2u-server-govcloud-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
