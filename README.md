@@ -51,7 +51,7 @@
 - [Amazon Cognito now supports resource indicators to simplify enhancing protection of OAuth 2.0 resources](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cognito-resource-indicators-protection-oauth-2-0-resources)
 - [Amazon Location Service introduces new API key restrictions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-location-service-new-api-key-security-restrictions)
 - [Amazon ECS Managed Instances now available in all  commercial AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-managed-instances-commercial-regions/)
-- [Amazon EC2 Auto Scaling now supports predictive scaling in six more regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-auto-scaling-predictive-scaling-in-six/)
+- [Amazon SageMaker adds additional search context for search results](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-sagemaker-adds-search-context/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
