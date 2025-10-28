@@ -51,7 +51,7 @@
 - [Amazon EC2 I7i instances now available in additional AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i7i-instances-aws-govcloud-us-regions)
 - [Amazon Kinesis Data Streams now supports 10x larger record sizes](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-kinesis-data-streams-10x-larger-record-sizes)
 - [Announcing Amazon Nova Multimodal Embeddings](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-nova-multimodal-embeddings/)
-- [Amazon EC2 I7ie instances now available in AWS GovCloud &lpar;US&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i7ie-instances-govcloud-us-region/)
+- [Amazon EC2 R8i and R8i-flex instances are now available in Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-r8i-flex-instances-in-london-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
