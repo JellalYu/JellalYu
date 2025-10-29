@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon EC2 High Memory U7i instances are now available in AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-high-memory-u7i-instances-aws-europe-london-region)
+- [AWS Elastic Beanstalk adds support for Amazon Corretto 25 and Tomcat 11](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-elastic-beanstalk-amazon-corretto-25-tomcat-11)
 - [Web Grounding: Build accurate AI applications with Amazon Nova models](https://aws.amazon.com/about-aws/whats-new/2025/10/web-grounding-ai-applications-amazon-nova-models)
 - [AWS Control Tower is now available in AWS Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-control-tower-asia-pacific-new-zealand-region/)
 - [Amazon EC2 Im4gn instances now available in AWS Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-im4gn-instances-europe-milan-region)
-- [Amazon Kinesis Data Streams now supports 10x larger record sizes](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-kinesis-data-streams-10x-larger-record-sizes)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
