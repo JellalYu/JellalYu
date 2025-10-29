@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Web Grounding: Build accurate AI applications with Amazon Nova models](https://aws.amazon.com/about-aws/whats-new/2025/10/web-grounding-ai-applications-amazon-nova-models)
 - [Amazon EC2 Im4gn instances now available in AWS Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-im4gn-instances-europe-milan-region)
 - [Amazon Kinesis Data Streams now supports 10x larger record sizes](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-kinesis-data-streams-10x-larger-record-sizes)
 - [Amazon EC2 I7i instances now available in additional AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i7i-instances-aws-govcloud-us-regions)
 - [Announcing Amazon Nova Multimodal Embeddings](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-nova-multimodal-embeddings/)
-- [Amazon EC2 R8i and R8i-flex instances are now available in Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-r8i-flex-instances-in-london-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
