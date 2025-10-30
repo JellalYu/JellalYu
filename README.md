@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Elastic Beanstalk adds support for Amazon Corretto 25](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-elastic-beanstalk-support-amazon-corretto-25)
+- [Introducing the Capacity Reservation Topology API for AI, ML, and HPC instance types](https://aws.amazon.com/about-aws/whats-new/2025/10/capacity-reservation-topology-api-ai-ml-hpc-instance-type)
 - [TwelveLabs’ Marengo Embed 3.0 for advanced video understanding now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/10/twelvelabs-marengo3-embed-amazon-bedrock)
 - [4 new image editing tools added to Stability AI Image Services in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/10/stability-ai-image-updates-amazon-bedrock/)
 - [AWS Elastic Beanstalk adds support for Amazon Corretto 25 and Tomcat 11](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-elastic-beanstalk-amazon-corretto-25-tomcat-11)
-- [Amazon EBS introduces additional performance monitoring metrics for EBS volumes](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ebs-performance-monitoring-metrics-ebs-volumes)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
