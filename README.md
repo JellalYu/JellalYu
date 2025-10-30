@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [TwelveLabs’ Marengo Embed 3.0 for advanced video understanding now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/10/twelvelabs-marengo3-embed-amazon-bedrock)
 - [4 new image editing tools added to Stability AI Image Services in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/10/stability-ai-image-updates-amazon-bedrock/)
-- [Amazon EC2 High Memory U7i instances are now available in AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-high-memory-u7i-instances-aws-europe-london-region)
 - [AWS Elastic Beanstalk adds support for Amazon Corretto 25 and Tomcat 11](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-elastic-beanstalk-amazon-corretto-25-tomcat-11)
-- [Amazon S3 adds conditional write functionality to copy operations](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-s3-conditional-write-functionality-copy-operations)
+- [Amazon EBS introduces additional performance monitoring metrics for EBS volumes](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ebs-performance-monitoring-metrics-ebs-volumes)
+- [Amazon EC2 High Memory U7i instances are now available in AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-high-memory-u7i-instances-aws-europe-london-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
