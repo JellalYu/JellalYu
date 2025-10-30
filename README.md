@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS now supports built-in Linear and Canary deployments](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-built-in-linear-canary-deployments)
 - [AWS Elastic Beanstalk adds support for Amazon Corretto 25](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-elastic-beanstalk-support-amazon-corretto-25)
 - [Introducing the Capacity Reservation Topology API for AI, ML, and HPC instance types](https://aws.amazon.com/about-aws/whats-new/2025/10/capacity-reservation-topology-api-ai-ml-hpc-instance-type)
-- [TwelveLabs’ Marengo Embed 3.0 for advanced video understanding now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/10/twelvelabs-marengo3-embed-amazon-bedrock)
-- [4 new image editing tools added to Stability AI Image Services in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/10/stability-ai-image-updates-amazon-bedrock/)
-- [AWS Elastic Beanstalk adds support for Amazon Corretto 25 and Tomcat 11](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-elastic-beanstalk-amazon-corretto-25-tomcat-11)
+- [AWS Cloud Map supports cross-account workloads in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-cloud-map-cross-account-gov-cloud)
+- [AWS Backup adds single-action database snapshot copy across AWS Regions and accounts](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-backup-single-action-database-snapshot-copy-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
