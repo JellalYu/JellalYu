@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GameLift Streams adds AWS Health notifications for aging resources](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-gamelift-streams-health-notifications)
+- [Amazon Route 53 Resolver now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-route53-resolver-supports-aws-privatelink)
 - [Amazon DynamoDB Accelerator now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-dynamodb-accelerator-privatelink/)
 - [Amazon Aurora DSQL now supports FIPS 140-3 compliant endpoints](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-aurora-dsql-fips-140-3-endpoints)
-- [Amazon Connect now supports scheduling of individual agents](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-scheduling-individual-agents/)
-- [AWS Marketplace now offers pricing model flexibility and simplified deployment for AI agents and tools](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-marketplace-pricing-ai-agents-tools/)
-- [The Model Context Protocol &lpar;MCP&rpar; Proxy for AWS is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/10/model-context-protocol-proxy-available/)
+- [New SAP on AWS GROW Region Availability for SAP Cloud ERP](https://aws.amazon.com/about-aws/whats-new/2025/10/sap-aws-grow-region-availability-sap-cloud-erp)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
