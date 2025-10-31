@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DynamoDB Accelerator now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-dynamodb-accelerator-privatelink/)
 - [Amazon Aurora DSQL now supports FIPS 140-3 compliant endpoints](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-aurora-dsql-fips-140-3-endpoints)
 - [Amazon Connect now supports scheduling of individual agents](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-scheduling-individual-agents/)
 - [AWS Marketplace now offers pricing model flexibility and simplified deployment for AI agents and tools](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-marketplace-pricing-ai-agents-tools/)
 - [The Model Context Protocol &lpar;MCP&rpar; Proxy for AWS is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/10/model-context-protocol-proxy-available/)
-- [Amazon WorkSpaces announces USB redirection support for DCV WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-workspaces-usb-redirection-dcv/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
