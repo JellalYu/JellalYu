@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Cognito removes Machine-to-Machine app client price dimension](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cognito-removes-machine-machine-app-client-price-dimension)
 - [Amazon CloudWatch Agent adds support for NVMe Local Volume Performance Statistics](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-agent-nvme-local-volume-performance-statistics)
 - [Mountpoint for Amazon S3 and Mountpoint for Amazon S3 CSI driver add monitoring capability](https://aws.amazon.com/about-aws/whats-new/2025/11/mountpoint-amazon-s3-csi-driver-monitoring-capability)
 - [Amazon GameLift Streams adds AWS Health notifications for aging resources](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-gamelift-streams-health-notifications)
 - [Amazon Route 53 Resolver now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-route53-resolver-supports-aws-privatelink)
-- [Amazon DynamoDB Accelerator now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-dynamodb-accelerator-privatelink/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
