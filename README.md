@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [EC2 Auto Scaling announces warm pool support for Auto Scaling groups that have mixed instances policies](https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-auto-scaling-warm-pool-mixed-instances-policies/)
+- [AWS Service Reference Information now supports SDK Operation to Action mapping](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-service-reference-information-sdk-operation-action-mapping)
 - [AWS Config launches 42 new managed rules](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-config-launches-42-new-managed-rules/)
-- [Amazon CloudWatch Synthetics adds multi-browser support in AWS GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-synthetics-multi-browser-aws-govcloud-regions/)
-- [Amazon Cognito removes Machine-to-Machine app client price dimension](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cognito-removes-machine-machine-app-client-price-dimension)
-- [Amazon CloudWatch Agent adds support for NVMe Local Volume Performance Statistics](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-agent-nvme-local-volume-performance-statistics)
+- [AWS Config conformance packs now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-config-conformance-packs-additional-regions/)
+- [Amazon Kinesis Data Streams launches On-demand Advantage mode](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-kinesis-data-streams-ondemand-advantage)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
