@@ -50,8 +50,8 @@
 - [Amazon VPC Lattice now supports custom domain names for resource configurations](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-vpc-lattice-custom-domain-name-resource-configuration)
 - [AWS Advanced .NET Data Provider Driver is Generally Available](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-net-data-provider-driver/)
 - [Amazon Cognito user pools now supports private connectivity with AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cognito-user-pools-private-connectivity-aws-privatelink)
+- [AWS KMS now supports Edwards-curve Digital Signature Algorithm &lpar;EdDSA&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-kms-edwards-curve-digital-signature-algorithm/)
 - [Amazon SageMaker launches custom tags for project resources](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-custom-tags-project-resources)
-- [AWS B2B Data Interchange is now available in AWS Europe &lpar;Ireland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-b2b-data-interchange-europe-ireland-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
