@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Control Tower supports automatic enrollment of accounts](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-control-tower-automatic-enrollment)
+- [Anthropic’s Claude Sonnet 4.5 is now in Amazon Bedrock in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/anthropics-claude-sonnet-4-5-amazon-bedrock-aws-govcloud-us)
+- [Amazon CloudWatch agent adds Shared Memory Metrics](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-agent-shared-memory-metrics/)
+- [Amazon SageMaker Unified Studio adds support for catalog notifications](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-unified-studio-catalog-notifications/)
 - [Amazon VPC Lattice now supports custom domain names for resource configurations](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-vpc-lattice-custom-domain-name-resource-configuration)
-- [AWS Advanced .NET Data Provider Driver is Generally Available](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-net-data-provider-driver/)
-- [Amazon Cognito user pools now supports private connectivity with AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cognito-user-pools-private-connectivity-aws-privatelink)
-- [AWS KMS now supports Edwards-curve Digital Signature Algorithm &lpar;EdDSA&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-kms-edwards-curve-digital-signature-algorithm/)
-- [Amazon SageMaker launches custom tags for project resources](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-custom-tags-project-resources)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
