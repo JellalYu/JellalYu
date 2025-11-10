@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Control Tower supports automatic enrollment of accounts](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-control-tower-automatic-enrollment)
+- [Amazon Braket notebook instances now support CUDA-Q natively](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-braket-notebook-instances-cuda-q-natively)
 - [Anthropic’s Claude Sonnet 4.5 is now in Amazon Bedrock in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/anthropics-claude-sonnet-4-5-amazon-bedrock-aws-govcloud-us)
 - [Amazon CloudWatch agent adds Shared Memory Metrics](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-agent-shared-memory-metrics/)
 - [Amazon SageMaker Unified Studio adds support for catalog notifications](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-unified-studio-catalog-notifications/)
-- [Amazon VPC Lattice now supports custom domain names for resource configurations](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-vpc-lattice-custom-domain-name-resource-configuration)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
