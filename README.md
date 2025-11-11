@@ -50,8 +50,8 @@
 - [AWS Backup now supports Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-supports-amazon-eks)
 - [MSK Express brokers now support Intelligent Rebalancing at no additional cost, and with no action required](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-msk-express-brokers-support-intelligent-rebalancing)
 - [AWS Control Tower supports automatic enrollment of accounts](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-control-tower-automatic-enrollment)
-- [Amazon S3 Express One Zone now supports Internet Protocol version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-s3-express-one-zone-ipv6)
 - [Amazon Braket notebook instances now support CUDA-Q natively](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-braket-notebook-instances-cuda-q-natively)
+- [Amazon S3 Express One Zone now supports Internet Protocol version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-s3-express-one-zone-ipv6)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
