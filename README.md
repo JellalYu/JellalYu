@@ -50,8 +50,8 @@
 - [AWS Parallel Computing Service &lpar;PCS&rpar; now supports Slurm CLI Filter plugins](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-pcs-slurm-cli-filter-plugins)
 - [Amazon CloudWatch Composite Alarms adds threshold-based alerting](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-composite-alarms-threshold-based/)
 - [Amazon U7i instances now available in Europe &lpar;Stockholm and Ireland&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-additional-regions)
-- [Amazon EC2 C6id and R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-c6id-r6id-instances-additional-regions)
 - [Amazon EC2 C8gd, M8gd, and R8gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-c8gd-m8gd-r8gd-instances-additional-regions)
+- [Amazon EC2 C6id and R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-c6id-r6id-instances-additional-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
