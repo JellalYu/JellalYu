@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Health enhances Amazon EventBridge to give more flexibility and higher resilience](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-health-amazon-eventbridge-flexibility-higher-resilience)
+- [Amazon EC2 I7i instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-i7i-instances-additional-aws-regions)
+- [Amazon EC2 I8g instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-i8g-instances-additional-aws-regions)
+- [AWS IoT Core adds location resolution capabilities for Amazon Sidewalk enabled devices](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iot-core-location-resolution-capabilities-amazon-sidewalk-enabled-devices)
 - [AWS Transform automates Landing Zone Accelerator network configuration](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-transform-landing-zone-accelerator-network-configuration)
-- [Application loadbalancer support client credential flow with JWT verification](https://aws.amazon.com/about-aws/whats-new/2025/11/application-load-balancer-jwt-verification)
-- [Amazon ElastiCache supports M7g and R7g Graviton3-based nodes in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-elasticache-m7g-r7g-graviton3-govcloud-regions/)
-- [AWS Fault Injection Service &lpar;FIS&rpar; launches new test scenarios for partial failures](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-fis-test-scenarios-partial-failures)
-- [Amazon Connect Cases adds conditional field visibility and dependent options](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-cases-conditional-field-visibility-dependent-options)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
