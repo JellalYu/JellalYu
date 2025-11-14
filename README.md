@@ -51,7 +51,7 @@
 - [Announcing agreement EventBridge notifications for AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/11/agreement-eventbridge-notifications-aws-marketplace)
 - [AWS Network Firewall is now available in the AWS New Zealand &lpar;Auckland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/11/network-firewall-new-zealand-auckland-region/)
 - [Amazon EventBridge introduces enhanced visual rule builder](https://aws.amazon.com/about-aws/whats-new/2025/11/eventbridge-enhanced-visual-rule-builder/)
-- [AWS CloudFormation Hooks adds granular invocation details for Hooks invocation summary](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cloudformation-hooks-granular-invocation-details)
+- [Amazon RDS for PostgreSQL now supports major version 18](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-postgresql-major-version-18/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
