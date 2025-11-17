@@ -51,7 +51,7 @@
 - [Amazon ECS improves Service Availability during Rolling deployments](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ecs-service-availability-rolling-deployments/)
 - [AWS Lambda announces Provisioned Mode for SQS event source mapping &lpar;ESM&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-provisioned-mode-sqs-esm)
 - [Announcing agreement EventBridge notifications for AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/11/agreement-eventbridge-notifications-aws-marketplace)
-- [AWS IoT Services expand support of VPC endpoints and IPv6 connectivity](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iot-services-vpc-endpoints-ipv6-connectivity)
+- [Amazon RDS Blue/Green deployments now supports Aurora Global Database](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-blue-green-deployments-aurora-global-database)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
