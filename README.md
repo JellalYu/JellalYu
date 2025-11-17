@@ -50,7 +50,7 @@
 - [Amazon Redshift now supports writing to Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-redshift-iceberg-writes-m1)
 - [AWS Backup extends delegated administrator support to 17 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-delegated-administrator-17-regions)
 - [AWS Backup now supports backing up directly to a logically air-gapped vault](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-direct-to-logically-air-gapped-vault/)
-- [Amazon U7i instances now available in AWS Europe &lpar;Ireland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-aws-europe-ireland-region)
+- [Announcing EC2 Image Builder support for Lambda and Step functions](https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-image-builder-lambda-step-functions)
 - [Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-m8i-m8i-flex-instances-asia-pacific-mumbai-region)
 <!-- AWS-NEWS:END -->
 
