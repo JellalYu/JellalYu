@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Serverless now adds audit logs for data plane APIs](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-auditlogs-dataplane-apis)
+- [EC2 Auto Scaling now offers a synchronous API to launch instances inside an Auto Scaling group](https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-auto-scaling-synchronous-api-launch-instances/)
 - [Amazon Polly expands Generative TTS engine with additional languages and region support](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-polly-generative-tts-engine)
-- [AWS Transfer Family announces Terraform module to automate scanning of transferred files](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-transfer-family-terraform-module)
 - [Amazon EC2 I7ie instances now available in AWS Asia Pacific &lpar;Singapore&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-i7ie-instances-aws-asia-pacific-singapore-region)
-- [Active threat defense now enabled by default in AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2025/11/active-threat-defense-default-network-firewall/)
-- [Amazon MSK Replicator is now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-msk-replicator-two-additional-regions/)
+- [AWS Transfer Family announces Terraform module to automate scanning of transferred files](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-transfer-family-terraform-module)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
