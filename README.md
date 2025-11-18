@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly expands Generative TTS engine with additional languages and region support](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-polly-generative-tts-engine)
+- [Active threat defense now enabled by default in AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2025/11/active-threat-defense-default-network-firewall/)
 - [Amazon Route 53 DNS Firewall adds protection against Dictionary-based DGA attacks](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-route-53-dns-firewall-protection-dictionary-dga-attacks)
 - [Amazon Redshift now supports writing to Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-redshift-iceberg-writes-m1)
 - [Amazon WorkSpaces Applications adds new instance types and configurable storage options](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-workspaces-applications-instances-storage-addition)
-- [Amazon WorkSpaces Applications expands the regional availability to Italy, Spain, Malaysia, and Israel](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-workspaces-applications-region-expansion)
-- [AWS Backup extends delegated administrator support to 17 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-delegated-administrator-17-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
