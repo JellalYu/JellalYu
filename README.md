@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Polly expands Generative TTS engine with additional languages and region support](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-polly-generative-tts-engine)
+- [AWS Transfer Family announces Terraform module to automate scanning of transferred files](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-transfer-family-terraform-module)
 - [Amazon EC2 I7ie instances now available in AWS Asia Pacific &lpar;Singapore&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-i7ie-instances-aws-asia-pacific-singapore-region)
 - [Active threat defense now enabled by default in AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2025/11/active-threat-defense-default-network-firewall/)
 - [Amazon MSK Replicator is now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-msk-replicator-two-additional-regions/)
-- [Amazon Redshift announces support for the SUPER data type in Databases with Case-Insensitive Collation](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-redshift-super-data-type-databases/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
