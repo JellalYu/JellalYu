@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Channel Partners can now resell using Billing Transfer](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-channel-partner-billing-transfer/)
 - [Get Invoice PDF API is now generally available.](https://aws.amazon.com/about-aws/whats-new/2025/11/get-invoice-pdf-api/)
-- [Amazon ECR introduces archive storage class for rarely accessed container images](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ecr-archive-storage-class-container-images/)
-- [Amazon CloudWatch now supports scheduled queries in Logs Insights](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-scheduled-queries)
-- [Amazon OpenSearch Service launches Cluster Insights for improved operational visibility](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-service-cluster-insights/)
-- [Amazon EC2 P6-B300 instances with NVIDIA Blackwell Ultra GPUs are now available](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-p6-b300-instances-nvidia-blackwell-ultra-gpus-available)
+- [AWS NAT Gateway now supports regional availability](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-nat-gateway-regional-availability)
+- [AWS Secrets Manager announces managed external secrets](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-secrets-manager-managed-external-secrets)
+- [Amazon EKS introduces enhanced container network observability](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-eks-enhanced-container-network-observability)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
