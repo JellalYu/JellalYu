@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now provides conversational analytics for voice and chat bots](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-conversational-analytics/)
+- [Amazon Bedrock is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-available-in-additional-region/)
 - [AWS Channel Partners can now resell using Billing Transfer](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-channel-partner-billing-transfer/)
 - [Get Invoice PDF API is now generally available.](https://aws.amazon.com/about-aws/whats-new/2025/11/get-invoice-pdf-api/)
 - [AWS NAT Gateway now supports regional availability](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-nat-gateway-regional-availability)
-- [AWS Secrets Manager announces managed external secrets](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-secrets-manager-managed-external-secrets)
-- [Amazon EKS introduces enhanced container network observability](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-eks-enhanced-container-network-observability)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
