@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECR introduces archive storage class for rarely accessed container images](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ecr-archive-storage-class-container-images/)
+- [Amazon OpenSearch Service launches Cluster Insights for improved operational visibility](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-service-cluster-insights/)
 - [Amazon EC2 P6-B300 instances with NVIDIA Blackwell Ultra GPUs are now available](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-p6-b300-instances-nvidia-blackwell-ultra-gpus-available)
 - [Amazon Bedrock introduces Priority and Flex inference service tiers](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-priority-flex-inference-service-tiers)
 - [EC2 Auto Scaling now offers a synchronous API to launch instances inside an Auto Scaling group](https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-auto-scaling-synchronous-api-launch-instances/)
-- [Amazon OpenSearch Serverless now adds audit logs for data plane APIs](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-auditlogs-dataplane-apis)
-- [Amazon Polly expands Generative TTS engine with additional languages and region support](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-polly-generative-tts-engine)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
