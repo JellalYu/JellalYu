@@ -51,7 +51,7 @@
 - [Amazon Bedrock is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-available-in-additional-regions/)
 - [Amazon Connect outbound campaigns supports ring time configuration for unanswered calls](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-outbound-campaigns-ring-time-configuration)
 - [Amazon OpenSearch Serverless now supports backup and restore through the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-backup-and-restore-console)
-- [AWS Channel Partners can now resell using Billing Transfer](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-channel-partner-billing-transfer/)
+- [AWS IAM enables identity federation to external services using JSON Web Tokens &lpar;JWTs&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iam-identity-federation-external-services-jwts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
