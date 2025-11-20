@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Step Functions enhances Local Testing with TestState API](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-step-functions-local-testing-teststate-api/)
 - [Amazon Connect now provides conversational analytics for voice and chat bots](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-conversational-analytics/)
 - [Amazon Bedrock is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-available-in-additional-regions/)
 - [Amazon Connect outbound campaigns supports ring time configuration for unanswered calls](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-outbound-campaigns-ring-time-configuration)
 - [AWS IAM enables identity federation to external services using JSON Web Tokens &lpar;JWTs&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iam-identity-federation-external-services-jwts/)
-- [Amazon OpenSearch Serverless now supports backup and restore through the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-backup-and-restore-console)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
