@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Aurora DSQL now provides statement-level cost estimates in query plans](https://aws.amazon.com/about-aws/whats-new/2025/11/aurora-dsql-statement-level-cost-estimates-query-plans/)
+- [AWS Glue supports additional SAP entities as zero-ETL integration sources](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-additional-sap-entities-zero-etl-integration-sources)
+- [Amazon Braket introduces spending limits feature for quantum processing units](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-braket-spending-limits-feature-quantum-processing-units)
+- [Amazon EC2 Mac instances now support Apple macOS Tahoe](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-mac-instances-apple-macos-tahoe)
 - [Amazon EC2 High Memory U7i instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-high-memory-u7i-additional-regions/)
-- [Amazon Braket adds new quantum processor from Alpine Quantum Technologies &lpar;AQT&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-braket-alpine-quantum-technologies)
-- [AWS Step Functions enhances Local Testing with TestState API](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-step-functions-local-testing-teststate-api/)
-- [Amazon Quick Sight expands Dashboard Theme Customization](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-sight-expands-dashboard-theme-customization)
+- [Amazon Aurora DSQL now provides statement-level cost estimates in query plans](https://aws.amazon.com/about-aws/whats-new/2025/11/aurora-dsql-statement-level-cost-estimates-query-plans/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
