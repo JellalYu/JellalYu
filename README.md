@@ -50,8 +50,8 @@
 - [Validate and enforce required tags in CloudFormation, Terraform and Pulumi with Tag Policies](https://aws.amazon.com/about-aws/whats-new/2025/11/validate-enforce-required-tags-cloudformation-terraform-pulumi/)
 - [AWS DMS Schema Conversion adds SAP &lpar;Sybase&rpar; ASE to PostgreSQL support with generative AI](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-dms-schema-conversion-sap-sybase-ase-postgresql/)
 - [Amazon RDS supports Multi-AZ for SQL Server Web Edition](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-sql-server-multi-az-web-edition/)
-- [AWS Cloud WAN adds Routing Policy for advanced traffic control and flexible network deployments](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cloud-wan-routing-policy/)
-- [AWS Glue supports additional SAP entities as zero-ETL integration sources](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-additional-sap-entities-zero-etl-integration-sources)
+- [Amazon OpenSearch Serverless adds AWS PrivateLink for management console](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-privatelink-mgmt)
+- [Recycle Bin adds support for Amazon EBS Volumes](https://aws.amazon.com/about-aws/whats-new/2025/11/recycle-bin-support-amazon-ebs-volumes)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
