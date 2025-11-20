@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora DSQL now provides statement-level cost estimates in query plans](https://aws.amazon.com/about-aws/whats-new/2025/11/aurora-dsql-statement-level-cost-estimates-query-plans/)
+- [Amazon EC2 High Memory U7i instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-high-memory-u7i-additional-regions/)
+- [Amazon Braket adds new quantum processor from Alpine Quantum Technologies &lpar;AQT&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-braket-alpine-quantum-technologies)
 - [AWS Step Functions enhances Local Testing with TestState API](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-step-functions-local-testing-teststate-api/)
-- [Amazon Connect now provides conversational analytics for voice and chat bots](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-conversational-analytics/)
-- [Amazon Bedrock is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-available-in-additional-regions/)
-- [Amazon Connect outbound campaigns supports ring time configuration for unanswered calls](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-outbound-campaigns-ring-time-configuration)
-- [AWS IAM enables identity federation to external services using JSON Web Tokens &lpar;JWTs&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iam-identity-federation-external-services-jwts/)
+- [Amazon Quick Sight expands Dashboard Theme Customization](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-sight-expands-dashboard-theme-customization)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
