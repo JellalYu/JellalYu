@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Location Service introduces Address Form Solution Builder](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-location-service-introduces-address-form-builder)
+- [AWS License Manager introduces license asset groups for centralized software asset management](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-license-manager-license-asset-groups)
+- [Amazon OpenSearch Service OR2 and OM2 now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-service-or2-om2-instances-available-regions)
 - [Amazon EKS add-ons now supports the AWS Secrets Store CSI Driver provider](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-eks-add-ons-aws-secrets-store-csi-driver-provider)
-- [Amazon Connect now offers persistent agent connections for faster call handling](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-persistent-agent-connections)
-- [Validate and enforce required tags in CloudFormation, Terraform and Pulumi with Tag Policies](https://aws.amazon.com/about-aws/whats-new/2025/11/validate-enforce-required-tags-cloudformation-terraform-pulumi/)
-- [AWS DMS Schema Conversion adds SAP &lpar;Sybase&rpar; ASE to PostgreSQL support with generative AI](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-dms-schema-conversion-sap-sybase-ase-postgresql/)
-- [Amazon RDS supports Multi-AZ for SQL Server Web Edition](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-sql-server-multi-az-web-edition/)
+- [AWS Control Tower now supports seven new compliance frameworks and 279 additional AWS Config rules](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-control-tower-new-compliance-frameworks-additional-aws-config-rules)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
