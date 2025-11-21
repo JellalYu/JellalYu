@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing a Fully Managed Appium Endpoint for AWS Device Farm](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-device-farm-managed-appium-endpoint/)
 - [EC2 Image Builder now supports auto-versioning and enhances Infrastructure as Code experience](https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-image-builder-auto-versioning-infrastructure/)
 - [Automated Reasoning checks now include natural language test Q&amp;A generation](https://aws.amazon.com/about-aws/whats-new/2025/11/automated-reasoning-checks-include-natural-language/)
 - [AWS IoT Core enhances IoT rules-SQL with variable setting and error handling capabilities](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iot-core-rules-sql/)
 - [Amazon Connect launches monitoring of contacts queued for callback](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-monitoring-contacts-queued-callback/)
-- [Aurora DSQL launches new Python, Node.js, and JDBC Connectors that simplify IAM authorization](https://aws.amazon.com/about-aws/whats-new/2025/11/aurora-dsql-python-node-js-jdbc-connectors-iam)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
