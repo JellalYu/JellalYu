@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Flexible Cost Allocation on AWS Transit Gateway](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-transit-gateway-flexible-cost-allocation/)
+- [AWS Security Incident Response now provides agentic AI-powered investigation](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-security-incident-response-agentic-ai-powered-investigation)
 - [Amazon Location Service introduces Address Form Solution Builder](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-location-service-introduces-address-form-builder)
 - [AWS License Manager introduces license asset groups for centralized software asset management](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-license-manager-license-asset-groups)
-- [Amazon OpenSearch Service OR2 and OM2 now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-service-or2-om2-instances-available-regions)
 - [Amazon EKS add-ons now supports the AWS Secrets Store CSI Driver provider](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-eks-add-ons-aws-secrets-store-csi-driver-provider)
-- [AWS Control Tower now supports seven new compliance frameworks and 279 additional AWS Config rules](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-control-tower-new-compliance-frameworks-additional-aws-config-rules)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
