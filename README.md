@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon EMR Serverless now supports Apache Spark 4.0.1 &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-emr-serverless-apache-spark/)
+- [Amazon Athena for Apache Spark is now available in Amazon SageMaker notebooks](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-athena-apache-spark-sagemaker-notebooks/)
 - [AWS Payments Cryptography announces support for post-quantum cryptography to secure data in transit](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-payments-cryptography-post-quantum-data-transit)
 - [Announcing a Fully Managed Appium Endpoint for AWS Device Farm](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-device-farm-managed-appium-endpoint/)
 - [EC2 Image Builder now supports auto-versioning and enhances Infrastructure as Code experience](https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-image-builder-auto-versioning-infrastructure/)
-- [Automated Reasoning checks now include natural language test Q&amp;A generation](https://aws.amazon.com/about-aws/whats-new/2025/11/automated-reasoning-checks-include-natural-language/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
