@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Elemental MediaTailor now supports HLS Interstitials for live streams](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-elemental-mediatailor-hls-interstitials-live-streams)
+- [OpenSearch Service Enhances Log Analytics with New PPL Experience](https://aws.amazon.com/about-aws/whats-new/2025/11/opensearch-service-log-analytics-ppl/)
 - [Amazon Redshift now supports federated permissions across multi-warehouse architectures](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-redshift-federated-permissions-multi-warehouse-architectures)
+- [AWS Elemental MediaTailor now supports HLS Interstitials for live streams](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-elemental-mediatailor-hls-interstitials-live-streams)
+- [Amazon Connect flow modules now support custom inputs, outputs, and version management](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-flow-modules-custom-inputs-outputs-version-management)
 - [Amazon U7i instances now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-asia-pacific-jakarta-region)
-- [Amazon MSK Replicator is now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-msk-replicator-additional-aws-regions)
-- [AWS Lambda announces enhanced error handling capabilities for Kafka event processing](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-enhanced-error-handling-capabilities-kafka-event-processing)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
