@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Glue Data Quality now supports pre-processing queries](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-data-quality-pre-processing-queries/)
+- [AWS Glue Data Quality now supports rule labeling for enhanced reporting](https://aws.amazon.com/about-aws/whats-new/2025/11/glue-data-quality-rule-labeling-enhanced-reporting/)
 - [OpenSearch Service Enhances Log Analytics with New PPL Experience](https://aws.amazon.com/about-aws/whats-new/2025/11/opensearch-service-log-analytics-ppl/)
 - [Amazon CloudFront announces support for mutual TLS authentication](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudfront-mutual-tls-authentication/)
 - [Amazon EC2 announces interruptible Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-interruptible-capacity-reservations)
-- [AWS IoT Core now supports IoT thing registry data retrieval from IoT rules](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iot-core-thing-registry-data-retrieval/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
