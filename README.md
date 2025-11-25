@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Manage Amazon SageMaker HyperPod clusters with the new Amazon SageMaker AI MCP Server](https://aws.amazon.com/about-aws/whats-new/2025/11/manage-amazon-sagemaker-hyperpod-clusters-mcp-server/)
+- [AWS Lambda adds support for Node.js 24](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-nodejs-24/)
 - [Amazon OpenSearch Service introduces Agentic Search](https://aws.amazon.com/about-aws/whats-new/2025/11/opensearch-service-agentic-search/)
-- [Automatic quota management is now AWS Service Quotas adds support for automatic quota management](https://aws.amazon.com/about-aws/whats-new/2025/11/automatic-quota-management-service-quota-management/)
-- [AWS Glue Data Quality now supports rule labeling for enhanced reporting](https://aws.amazon.com/about-aws/whats-new/2025/11/glue-data-quality-rule-labeling-enhanced-reporting/)
-- [AWS Glue Data Quality now supports pre-processing queries](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-data-quality-pre-processing-queries/)
+- [AWS Service Quotas adds now support for automatic quota management](https://aws.amazon.com/about-aws/whats-new/2025/11/automatic-quota-management-service-quota-management/)
+- [Amazon SageMaker AI Inference now supports bidirectional streaming](https://aws.amazon.com/about-aws/whats-new/2025/11/sagemaker-ai-inference-bidirectional-streaming/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
