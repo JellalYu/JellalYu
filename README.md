@@ -51,7 +51,7 @@
 - [Introducing AWS Network Firewall Proxy in preview](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-network-firewall-proxy-preview)
 - [AWS Lambda adds support for Node.js 24](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-nodejs-24/)
 - [Amazon OpenSearch Service introduces Agentic Search](https://aws.amazon.com/about-aws/whats-new/2025/11/opensearch-service-agentic-search/)
-- [AWS Service Quotas adds now support for automatic quota management](https://aws.amazon.com/about-aws/whats-new/2025/11/automatic-quota-management-service-quota-management/)
+- [Amazon SageMaker AI Inference now supports bidirectional streaming](https://aws.amazon.com/about-aws/whats-new/2025/11/sagemaker-ai-inference-bidirectional-streaming/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
