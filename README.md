@@ -51,7 +51,7 @@
 - [Amazon SageMaker HyperPod now supports custom Kubernetes labels and taints](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-hyperpod-kubernetes/)
 - [Amazon Kinesis Video Streams now supports a new cost effective warm storage tier](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-kinesis-video-streams-warm-storage-tier/)
 - [Amazon Aurora now supports PostgreSQL 17.6, 16.10, 15.14, 14.19, and 13.22](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-aurora-minor-versions-17-6-16-10-15-14-14-19-13-22)
-- [Amazon S3 Block Public Access now supports organization-level enforcement](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-s3-block-public-access-organization-level-enforcement)
+- [AWS announces support for Apache Iceberg V3 deletion vectors and row lineage](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-apache-iceberg-v3-deletion-vectors-row-lineage)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
