@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Transform launches an AI agent for full-stack Windows modernization](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-transform-ai-agent-full-stack-windows-modernization)
-- [AWS launches AWS Transform custom to accelerate organization-wide application modernization](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-custom-organization-wide-modernization/)
+- [AWS Transform for mainframe now supports application reimagining](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-mainframe-application-reimagining/)
+- [AWS Transform adds new agentic AI capabilities for enterprise VMware migrations](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-vmware-agentic-ai-enterprise-migration/)
 - [AWS Transform for mainframe delivers new testing automation capabilities](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-mainframe-testing-automation/)
-- [AWS Transform expands .NET transformation capabilities and enhances developer experience](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-net-transformation-developer-experience/)
-- [Amazon Connect now provides native testing and simulation capabilities](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-native-testing-simulation-capabilities)
+- [AWS launches AWS Transform custom to accelerate organization-wide application modernization](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-custom-organization-wide-modernization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
