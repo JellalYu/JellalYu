@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Connect now provides automated performance evaluations for self-service interactions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-automated-performance-evaluations-self-service-interactions)
 - [Amazon Connect Chat now supports agent-initiated workflows](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-chat-agent-initiated-workflows)
+- [Amazon Connect now provides native testing and simulation capabilities &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-native-testing-simulation-capabilities-preview)
+- [Amazon Connect launches automated email responses using conditional keywords and phrases](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-automated-email-responses/)
 - [Amazon Connect now streams messages for AI-powered interactions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-streams-messages-ai-powered-interactions)
-- [Amazon Connect agent workspace now supports custom visual themes](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-agent-workspace-custom-visual-themes)
-- [Amazon Connect launches AI-powered predictive insights &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-ai-powered-predictive-insights-preview)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
