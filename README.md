@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [SageMaker HyperPod now supports Managed tiered KV cache and intelligent routing](https://aws.amazon.com/about-aws/whats-new/2025/11/sagemaker-hyperpod-managed-tiered-kv-cache/)
-- [Amazon SageMaker HyperPod now supports custom Kubernetes labels and taints](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-hyperpod-kubernetes/)
-- [Amazon Kinesis Video Streams now supports a new cost effective warm storage tier](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-kinesis-video-streams-warm-storage-tier/)
-- [Amazon Aurora now supports PostgreSQL 17.6, 16.10, 15.14, 14.19, and 13.22](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-aurora-minor-versions-17-6-16-10-15-14-14-19-13-22)
-- [Amazon S3 Block Public Access now supports organization-level enforcement](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-s3-block-public-access-organization-level-enforcement)
+- [Amazon Connect now provides automated performance evaluations for self-service interactions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-automated-performance-evaluations-self-service-interactions)
+- [Amazon Connect Chat now supports agent-initiated workflows](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-chat-agent-initiated-workflows)
+- [Amazon Connect now streams messages for AI-powered interactions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-streams-messages-ai-powered-interactions)
+- [Amazon Connect agent workspace now supports custom visual themes](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-agent-workspace-custom-visual-themes)
+- [Amazon Connect launches AI-powered predictive insights &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-ai-powered-predictive-insights-preview)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
