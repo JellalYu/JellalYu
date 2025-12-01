@@ -51,7 +51,7 @@
 - [Amazon Connect launches automated email responses using conditional keywords and phrases](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-automated-email-responses/)
 - [Amazon Connect Chat now supports agent-initiated workflows](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-chat-agent-initiated-workflows)
 - [Amazon Connect now provides automated performance evaluations for self-service interactions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-automated-performance-evaluations-self-service-interactions)
-- [Amazon Connect launches Model Context Protocol &lpar;MCP&rpar; support](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-mcp-support)
+- [Amazon Connect now supports AI agent assistance and summarization for Agentforce Service](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-ai-agent-assistance-summarization-agentforce-service)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
