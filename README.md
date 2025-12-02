@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Transform launches an AI agent for full-stack Windows modernization](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-transform-ai-agent-full-stack-windows-modernization)
-- [AWS Transform for mainframe now supports application reimagining](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-mainframe-application-reimagining/)
-- [AWS Transform adds new agentic AI capabilities for enterprise VMware migrations](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-vmware-agentic-ai-enterprise-migration/)
-- [AWS launches AWS Transform custom to accelerate organization-wide application modernization](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-custom-organization-wide-modernization/)
-- [AWS Transform for mainframe delivers new testing automation capabilities](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-mainframe-testing-automation/)
+- [Amazon EC2 P6e-GB300 UltraServers accelerated by NVIDIA GB300 NVL72 are now generally available](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-p6e-gb300-ultraservers-nvidia-gb300-nvl72-generally-available)
+- [Announcing Amazon Nova 2 Sonic for real-time conversational AI](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-nova-2-sonic-real-time-conversational-ai/)
+- [Introducing AWS AI Factories](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-ai-factories)
+- [Announcing Amazon Nova 2 foundation models now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/12/nova-2-foundation-models-amazon-bedrock/)
+- [Introducing AWS DevOps Agent &lpar;preview&rpar;, frontier agent for operational excellence](https://aws.amazon.com/about-aws/whats-new/2025/12/devops-agent-preview-frontier-agent-operational-excellence/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
