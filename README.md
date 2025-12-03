@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing Amazon EC2 General purpose M8azn instances &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-amazon-ec2-m8azn-preview)
-- [Announcing Amazon Nova 2 Sonic for real-time conversational AI](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-nova-2-sonic-real-time-conversational-ai/)
-- [Announcing the Apache Spark upgrade agent for Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2025/12/apache-spark-upgrade-agent-amazon-emr)
-- [Amazon RDS for SQL Server now supports Developer Edition](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-rds-sql-server-supports-developer-edition/)
-- [Amazon S3 Storage Lens adds performance metrics, support for billions of prefixes, and export to S3 Tables](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-s3-storage-lens-performance-metrics-prefixes-export-tables)
+- [Amazon SageMaker HyperPod now supports checkpointless training](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-hyperpod-checkpointless-training)
+- [New serverless model customization capability in Amazon SageMaker AI](https://aws.amazon.com/about-aws/whats-new/2025/12/new-serverless-model-customization-capability-amazon-sagemaker-ai)
+- [Announcing TypeScript support in Strands Agents &lpar;preview&rpar; and more](https://aws.amazon.com/about-aws/whats-new/2025/12/typescript-strands-agents-preview)
+- [Introducing elastic training on Amazon SageMaker HyperPod](https://aws.amazon.com/about-aws/whats-new/2025/12/elastic-training-amazon-sagemaker-hyperpod/)
+- [Amazon Bedrock now supports reinforcement fine-tuning delivering 66% accuracy gains on average over base models](https://aws.amazon.com/about-aws/whats-new/2025/12/bedrock-reinforcement-fine-tuning-66-base-models/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
