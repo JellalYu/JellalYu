@@ -48,9 +48,9 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon OpenSearch Service now supports automatic semantic enrichment](https://aws.amazon.com/about-aws/whats-new/2025/12/opensearch-service-automatic-semantic-enrichment/)
-- [Amazon SES adds VPC support for API endpoints](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ses-vpc-api-endpoints/)
 - [TwelveLabs’ Pegasus 1.2 model now in 23 new AWS regions via Global cross-region inference](https://aws.amazon.com/about-aws/whats-new/2025/12/twelvelabs-pegasus-available-with-global-cross-region-inference/)
 - [SES Mail Manager is now available in 10 additional AWS Regions, 27 total](https://aws.amazon.com/about-aws/whats-new/2025/12/ses-mail-manager-10-regions/)
+- [Amazon SES adds VPC support for API endpoints](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ses-vpc-api-endpoints/)
 - [Amazon Connect launches WhatsApp channel for Outbound Campaigns](https://aws.amazon.com/about-aws/whats-new/2025/12/connect-whatsapp-channel-outbound-campaigns/)
 <!-- AWS-NEWS:END -->
 
