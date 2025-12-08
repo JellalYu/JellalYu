@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Quick Suite integrates Quick Research with Quick Flows for report automation](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-quick-suite-research-flows-report-automation)
+- [Announcing Spatial Data Management on AWS to accelerate spatial-data insights](https://aws.amazon.com/about-aws/whats-new/2025/12/spatial-data-management-spatial-data-insights/)
 - [Amazon OpenSearch Service now supports automatic semantic enrichment](https://aws.amazon.com/about-aws/whats-new/2025/12/opensearch-service-automatic-semantic-enrichment/)
 - [TwelveLabs’ Pegasus 1.2 model now in 23 new AWS regions via Global cross-region inference](https://aws.amazon.com/about-aws/whats-new/2025/12/twelvelabs-pegasus-available-with-global-cross-region-inference/)
 - [SES Mail Manager is now available in 10 additional AWS Regions, 27 total](https://aws.amazon.com/about-aws/whats-new/2025/12/ses-mail-manager-10-regions/)
-- [Amazon SES adds VPC support for API endpoints](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ses-vpc-api-endpoints/)
-- [Amazon Connect launches WhatsApp channel for Outbound Campaigns](https://aws.amazon.com/about-aws/whats-new/2025/12/connect-whatsapp-channel-outbound-campaigns/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
