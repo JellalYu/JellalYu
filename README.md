@@ -50,8 +50,8 @@
 - [Amazon EC2 X8g instances now available in Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-x8g-instances-europe-stockholm/)
 - [AWS Partner Central now includes opportunity deal sizing](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-partner-central-opportunity-deal-sizing)
 - [Amazon RDS and Aurora now support resource tagging for Automated Backups](https://aws.amazon.com/about-aws/whats-new/2025/12/rds-aurora-resource-tagging-automated-backups/)
+- [Amazon GameLift Servers enhances AWS Console for game developers with AI powered assistance](https://aws.amazon.com/about-aws/whats-new/2025/12/gamelift-servers-console-developers-ai-powered/)
 - [Amazon Quick Suite integrates Quick Research with Quick Flows for report automation](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-quick-suite-research-flows-report-automation)
-- [Announcing Spatial Data Management on AWS to accelerate spatial-data insights](https://aws.amazon.com/about-aws/whats-new/2025/12/spatial-data-management-spatial-data-insights/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
