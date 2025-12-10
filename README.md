@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Now generally available: Amazon EC2 C8gb instances](https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-c8gb-instances)
 - [AWS Support Center Console now supports  screen sharing for troubleshooting support cases](https://aws.amazon.com/about-aws/whats-new/2025/12/support-center-console-screen-sharing/)
 - [Amazon Braket now supports Qiskit 2.0](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-braket-qiskit-2-0/)
 - [Amazon EC2 C8gn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8gn-instances-additional-regions)
 - [Amazon EC2 X8g instances now available in Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-x8g-instances-europe-stockholm/)
-- [AWS Partner Central now includes opportunity deal sizing](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-partner-central-opportunity-deal-sizing)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
