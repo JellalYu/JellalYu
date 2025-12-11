@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Migration Service supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/12/application-migration-service-ipv6/)
 - [Amazon ECS now supports custom container stop signals on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecs-custom-container-stop-signals-fargate/)
 - [Now generally available: Amazon EC2 C8gb instances](https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-c8gb-instances)
 - [Amazon EC2 X8g instances now available in Asia Pacific &lpar;Sydney&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-x8g-instances-asia-pacific-sydney/)
 - [Amazon ElastiCache Serverless now supports same-slot WATCH command](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-elasticache-serverless-same-slot-watch-command)
-- [Amazon CloudWatch SDK supports optimized JSON, CBOR protocols](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-cloudwatch-sdk-json-cbor-protocols)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
