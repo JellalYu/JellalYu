@@ -51,7 +51,7 @@
 - [AWS Shield network security director now supports multi-account analysis](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-shield-network-security-director-multi-account-analysis)
 - [Amazon EMR Managed Scaling is now available in 7 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-emr-managed-scaling-additional-regions)
 - [Validate best practice compliance for SAP ABAP applications with AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2025/12/compliance-sap-abap-systems-manager/)
-- [AWS DataSync introduces Terraform support for Enhanced mode](https://aws.amazon.com/about-aws/whats-new/2025/12/datasync-terraform-enhanced-mode/)
+- [Amazon EC2 X2iedn instances now available in AWS Europe &lpar;Zurich&rpar;  region](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-x2iedn-instances-zurich-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
