@@ -51,7 +51,7 @@
 - [Amazon WorkSpaces Secure Browser introduces Web Content Filtering](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-secure-browser-web-content-filtering/)
 - [Amazon Cognito identity pools now support private connectivity with AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-cognito-identity-pools-private-connectivity-aws-privatelink)
 - [Amazon Aurora PostgreSQL now supports integration with Kiro powers](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-aurora-postgresql-integration-kiro-powers)
-- [AWS Application Migration Service supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/12/application-migration-service-ipv6/)
+- [Amazon CloudWatch SDK supports optimized JSON, CBOR protocols](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-cloudwatch-sdk-json-cbor-protocols)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
