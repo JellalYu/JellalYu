@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now supports multiple choice and date questions in evaluation forms](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-multiple-choice-date-questions-evaluation-forms/)
+- [Amazon Elastic VMware Service &lpar;Amazon EVS&rpar; is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-evs-available-in-additional-regions/)
 - [ACM now supports automated certificate management for Kubernetes](https://aws.amazon.com/about-aws/whats-new/2025/12/acm-automated-certificate-management-kubernetes/)
 - [AWS DataSync increases scalability and performance for on-premises file transfers](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-datasync-scalability-performance-on-premises-file-transfers)
 - [AWS Shield network security director now supports multi-account analysis](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-shield-network-security-director-multi-account-analysis)
-- [Amazon MSK Replicator is now available in ten additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-msk-replicator-additional-aws-regions)
-- [Amazon EMR Managed Scaling is now available in 7 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-emr-managed-scaling-additional-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
