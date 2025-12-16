@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Device Management Commands now supports dynamic payloads](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-iot-device-management-commands-dynamic-payload/)
+- [AWS Direct Connect announces new location in Hanoi, Vietnam](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-direct-connect-hanoi/)
+- [AWS Artifact enables access to previous versions of compliance reports](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-artifact-access-previous-versions-compliance-reports)
 - [Amazon EC2 M8i instances are now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-m8i-instances-additional-regions)
 - [AWS reduces publishing time for Carbon Footprint Data to 21 days or Less](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-reduces-publishing-time-carbon-footprint-data)
-- [Amazon Quick Suite now supports memory for chat agents](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-quick-suite-memory-chat-agents/)
-- [Amazon EC2 M8i-flex instances are now available in Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-m8i-flex-instances-sydney-region/)
-- [Amazon Quick Suite browser extension now supports Quick Flows](https://aws.amazon.com/about-aws/whats-new/2025/12/quick-suite-browser-extension-quick-flows/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
