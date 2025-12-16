@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Clean Rooms publishes events for member invitations and table readiness to EventBridge](https://aws.amazon.com/about-aws/whats-new/2025/12/clean-rooms-events-member-invitations-table-readiness/)
 - [Amazon Connect now supports multiple choice and date questions in evaluation forms](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-multiple-choice-date-questions-evaluation-forms/)
 - [Amazon Elastic VMware Service &lpar;Amazon EVS&rpar; is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-evs-available-in-additional-regions/)
 - [Amazon Managed Service for Apache Flink is now available in AWS Asia Pacific &lpar;Auckland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-managed-service-apache-flink-aws-asia-pacific-auckland-region/)
 - [Announcing cost allocation using users’ attributes](https://aws.amazon.com/about-aws/whats-new/2025/12/cost-allocation-using-users-attributes)
-- [Amazon EKS introduces enhanced network security policies](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-eks-enhanced-network-security-policies)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
