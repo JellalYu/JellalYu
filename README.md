@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS IoT Device Management Commands now supports dynamic payloads](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-iot-device-management-commands-dynamic-payload/)
+- [Amazon Connect launches additional details within real-time metric alerts](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-additional-details-real-time-metric-alerts/)
 - [AWS Direct Connect announces new location in Hanoi, Vietnam](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-direct-connect-hanoi/)
 - [AWS Artifact enables access to previous versions of compliance reports](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-artifact-access-previous-versions-compliance-reports)
 - [Amazon EC2 M8i instances are now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-m8i-instances-additional-regions)
-- [AWS reduces publishing time for Carbon Footprint Data to 21 days or Less](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-reduces-publishing-time-carbon-footprint-data)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
