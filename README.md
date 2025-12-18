@@ -47,9 +47,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Databases are now available on the Vercel Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-databases-are-available-on-the-vercel/)
-- [Now generally available: Amazon EC2 M8gn and M8gb instances](https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances)
 - [Amazon WorkSpaces Applications announces additional health and performance metrics](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-applications-health-performance-metrics)
+- [Now generally available: Amazon EC2 M8gn and M8gb instances](https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances)
+- [AWS Databases are now available on the Vercel Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-databases-are-available-on-the-vercel/)
 - [Amazon Aurora now supports PostgreSQL 18.1 in the Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-aurora-postgresql-18-1-rds-database-preview)
 - [AWS announces enhanced custom line item controls for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2025/12/enhanced-custom-line-item-controls-aws-billing-conductor)
 <!-- AWS-NEWS:END -->
