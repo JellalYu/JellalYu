@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon WorkSpaces Applications announces additional health and performance metrics](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-applications-health-performance-metrics)
-- [Now generally available: Amazon EC2 M8gn and M8gb instances](https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances)
-- [AWS Databases are now available on the Vercel Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-databases-are-available-on-the-vercel/)
-- [Amazon Aurora now supports PostgreSQL 18.1 in the Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-aurora-postgresql-18-1-rds-database-preview)
-- [AWS announces enhanced custom line item controls for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2025/12/enhanced-custom-line-item-controls-aws-billing-conductor)
+- [Amazon WorkSpaces now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-ipv6/)
+- [Amazon MSK Connect now supports dual-stack &lpar;IPv4 and IPv6&rpar; connectivity for new connectors](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-msk-connect-dual-stack-ipv-and-ipv/)
+- [AWS Direct Connect now supports resilience testing with AWS Fault Injection Service](https://aws.amazon.com/about-aws/whats-new/2025/12/direct-connect-resilience-testing-fault-injection-service/)
+- [Amazon EC2 R8i and R8i-flex instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-r8i-r8i-flex-instances-additional-regions/)
+- [Amazon MSK introduces KRaft support for Express Brokers with Apache Kafka v3.9](https://aws.amazon.comabout-aws/whats-new/2025/12/aws-msk-express-brokers-support-kraft/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
