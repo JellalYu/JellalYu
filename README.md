@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C8a instances now available in the Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8a-instances-europe-spain-region)
 - [Amazon WorkSpaces now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-ipv6/)
 - [Amazon MSK Connect now supports dual-stack &lpar;IPv4 and IPv6&rpar; connectivity for new connectors](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-msk-connect-dual-stack-ipv-and-ipv/)
-- [AWS Direct Connect now supports resilience testing with AWS Fault Injection Service](https://aws.amazon.com/about-aws/whats-new/2025/12/direct-connect-resilience-testing-fault-injection-service/)
 - [Amazon EC2 R8i and R8i-flex instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-r8i-r8i-flex-instances-additional-regions/)
-- [Amazon MSK introduces KRaft support for Express Brokers with Apache Kafka v3.9](https://aws.amazon.comabout-aws/whats-new/2025/12/aws-msk-express-brokers-support-kraft/)
+- [AWS Direct Connect now supports resilience testing with AWS Fault Injection Service](https://aws.amazon.com/about-aws/whats-new/2025/12/direct-connect-resilience-testing-fault-injection-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
