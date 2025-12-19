@@ -51,7 +51,7 @@
 - [Amazon WorkSpaces Applications announces Elastic fleets powered by Ubuntu Pro 24.04 LTS](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-ubuntu-elasticfleets)
 - [Amazon EC2 C8a instances now available in the Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8a-instances-europe-spain-region)
 - [AWS IoT Core adds message batching to HTTP rule action](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-iot-core-message-batching-http-rule-action)
-- [Amazon MSK Connect now supports dual-stack &lpar;IPv4 and IPv6&rpar; connectivity for new connectors](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-msk-connect-dual-stack-ipv-and-ipv/)
+- [Amazon WorkSpaces now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-ipv6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
