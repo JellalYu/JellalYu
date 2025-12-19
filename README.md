@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS enhances observability for snapshot exports to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-rds-observability-snapshot-exports-s3)
+- [Amazon WorkSpaces Applications now supports Microsoft Windows Server 2025](https://aws.amazon.comabout-aws/whats-new/2025/12/amazon-workspaces-applications-supports-microsoft-windows-server)
 - [Amazon EC2 now supports Availability Zone ID across its APIs](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-az-id-api-support)
 - [Amazon WorkSpaces Applications announces Elastic fleets powered by Ubuntu Pro 24.04 LTS](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-ubuntu-elasticfleets)
 - [Amazon EC2 C8a instances now available in the Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8a-instances-europe-spain-region)
-- [AWS IoT Core adds message batching to HTTP rule action](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-iot-core-message-batching-http-rule-action)
-- [Amazon WorkSpaces now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-ipv6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
