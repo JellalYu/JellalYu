@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Wickr launches admin APIs for programmatic network management at scale](https://aws.amazon.comabout-aws/whats-new/2025/12/aws-wickr-admin-apis-generally-available/)
 - [Amazon Application Recovery Controller region switch now supports three new capabilities](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-application-recovery-controller-region-switch-new-capabilities)
 - [AWS Private CA OCSP now available in China and AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-private-ca-ocsp-china-govcloud-us-regions)
 - [Amazon SageMaker Studio now supports SOCI indexing for faster container startup times](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-nbi-soci/)
 - [Amazon RDS enhances observability for snapshot exports to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-rds-observability-snapshot-exports-s3)
-- [Amazon Bedrock Data Automation launches instruction optimization for your document blueprints](https://aws.amazon.com/about-aws/whats-new/2025/12/bedrock-data-automation-optimization-document-blueprints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
