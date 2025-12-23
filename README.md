@@ -51,7 +51,7 @@
 - [Oracle Database@AWS now supports sharing of AWS Marketplace entitlements across accounts](https://aws.amazon.com/about-aws/whats-new/2025/12/oracle-database-aws-marketplace-entitlements-across-accounts/)
 - [Amazon ECS Service Connect enhances observability with Envoy Access Logs](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecs-service-connect-observability-envoy-access-logs)
 - [Amazon Kinesis Video Streams now supports IPv6 for WebRTC](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-kinesis-video-streams-webrtc-ipv6/)
-- [Research and Engineering Studio on AWS Version 2025.12 now available](https://aws.amazon.com/about-aws/whats-new/2025/12/research-engineering-studio-aws-new-version-available/)
+- [Amazon GameLift Streams launches real-time performance stats and improved API error messaging](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-gameliftstream-performance-stats-error-messaging)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
