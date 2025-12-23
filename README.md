@@ -51,7 +51,7 @@
 - [Oracle Database@AWS now supports sharing of AWS Marketplace entitlements across accounts](https://aws.amazon.com/about-aws/whats-new/2025/12/oracle-database-aws-marketplace-entitlements-across-accounts/)
 - [Amazon ECS Service Connect enhances observability with Envoy Access Logs](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecs-service-connect-observability-envoy-access-logs)
 - [Amazon Kinesis Video Streams now supports IPv6 for WebRTC](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-kinesis-video-streams-webrtc-ipv6/)
-- [Amazon GameLift Streams launches real-time performance stats and improved API error messaging](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-gameliftstream-performance-stats-error-messaging)
+- [Amazon GameLift Streams launches Gen6-based stream classes and enhanced autoscaling for better performance and pricing](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-gameliftstream-gen6-enhanced-autoscaling)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
