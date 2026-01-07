@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 I7ie instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-i7ie-instances-additional-aws-regions/)
+- [Amazon EC2 C8i and C8i-flex instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-c8i-c8i-flex-instances-additional-aws-regions)
 - [AWS Marketplace Seller Reporting now provides collections visibility](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-marketplace-seller-reporting-collections/)
 - [Amazon ECS now supports tmpfs mounts on AWS Fargate and ECS Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ecs-tmpfs-mounts-aws-fargate-managed-instances)
 - [Amazon MQ now supports HTTP based authentication for RabbitMQ brokers](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-mq-http-based-rabbitmq-brokers/)
-- [AWS Config now supports 21 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-config-new-resource-types)
-- [Amazon EC2 G5 instances are now available in Asia Pacific &lpar;Hong Kong&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-g5-now-available-asia-pacific-hong-kong)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
