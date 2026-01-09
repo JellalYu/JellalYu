@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server now supports cross-region read replica in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-sql-server-cross-region-read-replica-in-additional-aws-regions/)
 - [Amazon MQ now supports certificate based authentication with mutual TLS for RabbitMQ brokers](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-mq-certificate-based-authentication-mutual-tls-rabbitmq/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is Now Available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-documentdb-mongodb-compatibility-asia-pacific-jakarta-region)
 - [Amazon EC2 R8i and R8i-flex instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-r8i-r8i-flex-instances-additional-aws-regions)
 - [Amazon Quick adds third-party AI agents and expands built-in actions library](https://aws.amazon.com/about-aws/whats-new/2026/01/3p-agent-in-quick/)
-- [Amazon EC2 M8i instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-m8i-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
