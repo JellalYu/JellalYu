@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift Serverless is now available in the AWS Asia Pacific &lpar;New Zealand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-redshift-serverless-aws-asia-pacific-new-zealand-region)
 - [Announcing larger managed database bundles for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2026/01/larger-managed-database-bundles-lightsail/)
 - [Amazon EMR Serverless adds support for job run level cost allocation](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-emr-serverless-adds-job-run-level)
 - [Amazon RDS for SQL Server now supports cross-region read replica in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-sql-server-cross-region-read-replica-in-additional-aws-regions/)
 - [Amazon MQ now supports certificate based authentication with mutual TLS for RabbitMQ brokers](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-mq-certificate-based-authentication-mutual-tls-rabbitmq/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is Now Available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-documentdb-mongodb-compatibility-asia-pacific-jakarta-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
