@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon VPC IPAM policies now support RDS and Application Load Balancers](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-vpc-ipam-policies-rds-alb/)
 - [AWS IoT Device Management launches Wi-Fi Simple Setup for managed integrations](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-iot-device-management-wifi-simple-setup/)
 - [Amazon Neptune Database now supports R7g and R8g instances in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-neptune-database-r7g-r8g-additional-regions)
 - [Amazon EC2 X8aedz instances are now available in Asia Pacific &lpar;Mumbai, Seoul&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-x8aedz-instances-asia-pacific-mumbai-seoul-regions)
 - [Amazon Connect Cases now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-cases-aws-cloudformation/)
-- [Amazon MSK Connect is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-msk-connect-additional-aws-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
