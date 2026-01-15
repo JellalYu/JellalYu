@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 on Outposts is now available on second-generation AWS Outposts racks](https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-s3-second-generation-aws-outposts-racks)
 - [AWS Clean Rooms now supports parameters in PySpark analysis templates](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-clean-rooms-parameters-pyspark-analysis-templates/)
+- [AWS Databases are now available on v0 by Vercel](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-databases-available-vercel-v0/)
+- [Announcing Amazon EC2 Memory optimized X8i instances](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-amazon-ec2-x8i-generally-available)
 - [Amazon Connect now provides agent scheduling metrics in data lake](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-scheduling-metrics/)
-- [Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-cu-gdr-updates-microsoft-sql-server)
-- [Amazon RDS Custom now supports the latest GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-custom-gdr-updates-microsoft-sql-server)
-- [Amazon Redshift Serverless adds queue-based query resource management](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-redshift-serverless-queue-based-query-resource-management)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
