@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Connect now provides agent scheduling metrics in data lake](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-scheduling-metrics/)
+- [Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-cu-gdr-updates-microsoft-sql-server)
 - [Amazon RDS Custom now supports the latest GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-custom-gdr-updates-microsoft-sql-server)
 - [Amazon Redshift Serverless adds queue-based query resource management](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-redshift-serverless-queue-based-query-resource-management)
 - [Amazon VPC Route Server now available in new regions](https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-vpc-route-server-available-new-regions)
-- [Amazon VPC IPAM policies now support RDS and Application Load Balancers](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-vpc-ipam-policies-rds-alb/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
