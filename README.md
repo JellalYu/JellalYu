@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue is now available in Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-glue-available-new-zealand-region)
 - [Amazon Quick Sight expands dashboard customization in tables and pivot tables](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-quicksight-expands-dashboard-customization-tables-pivot-tables)
 - [Amazon MWAA now available in additional Region](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-mwaa-additional-region)
 - [AWS Outposts racks support multiple LGW routing domains](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-outposts-multiple-lgw-routing-domain)
 - [Second-generation AWS Outposts racks are now supported in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/second-generation-aws-outposts-racks-additional-aws-regions)
-- [Amazon S3 Storage Lens is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/s3-storage-lens-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
