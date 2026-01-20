@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS expands managed integrations for AWS IoT Device Management service coverage to the Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/01/managed-integrations-iot-device-coverage-uae/)
 - [AWS Glue is now available in Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-glue-available-new-zealand-region)
+- [Amazon Quick Suite launches expanded size, faster ingestion, and richer data type support for SPICE datasets](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-quick-suite-launches-expanded-spice)
+- [Amazon RDS for Oracle extends support for bare metal instances to Standard Edition 2](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-oracle-support-bare-metal-instances-standard-edition-2)
 - [Amazon Quick Sight expands dashboard customization in tables and pivot tables](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-quicksight-expands-dashboard-customization-tables-pivot-tables)
-- [Amazon MWAA now available in additional Region](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-mwaa-additional-region)
-- [AWS Outposts racks support multiple LGW routing domains](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-outposts-multiple-lgw-routing-domain)
-- [Second-generation AWS Outposts racks are now supported in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/second-generation-aws-outposts-racks-additional-aws-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
