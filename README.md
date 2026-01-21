@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Transfer Family Terraform module now supports web apps](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-transfer-family-terraform-webapps)
+- [Amazon ECR now supports cross-repository layer sharing to optimize storage and improve push performance](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ecr-cross-repository-layer-sharing/)
 - [SageMaker Unified Studio adds support for cross-Region and IAM role-based subscriptions](https://aws.amazon.com/about-aws/whats-new/2026/01/sagemaker-unified-studio-adds-cross-region-iam/)
 - [AWS expands managed integrations for AWS IoT Device Management service coverage to the Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/01/managed-integrations-iot-device-coverage-uae/)
 - [AWS Glue is now available in Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-glue-available-new-zealand-region)
-- [Amazon Quick Suite launches expanded size, faster ingestion, and richer data type support for SPICE datasets](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-quick-suite-launches-expanded-spice)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
