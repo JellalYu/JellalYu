@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Neptune Analytics is now available in 7 additional regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-neptune-analytics-generally-available-additional-regions)
 - [AWS expands Resource Control Policies support for Cognito and CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-expands-resource-control-policies)
+- [Amazon Bedrock AgentCore Browser now supports custom browser extensions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-bedrock-agentcore-browser-custom-extensions)
 - [Amazon SageMaker HyperPod introduces enhanced lifecycle scripts debugging](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-sagemaker-hyperpod-lcs-enhanced-debug/)
 - [AWS Clean Rooms adds support for join and partition hints in SQL](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-clean-rooms-join-partition-hints-sql/)
-- [Amazon Connect can now automatically select random samples of agent contacts for evaluation](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-automatically-select-random-contacts-evaluation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
