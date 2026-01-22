@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS expands Resource Control Policies support for Cognito and CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-expands-resource-control-policies)
 - [Amazon SageMaker HyperPod introduces enhanced lifecycle scripts debugging](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-sagemaker-hyperpod-lcs-enhanced-debug/)
 - [AWS Clean Rooms adds support for join and partition hints in SQL](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-clean-rooms-join-partition-hints-sql/)
 - [Amazon Connect can now automatically select random samples of agent contacts for evaluation](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-automatically-select-random-contacts-evaluation/)
 - [Amazon EMR Serverless now supports AWS KMS customer managed keys for encrypting local disks](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-emr-serverless-aws-kms-customer-managed)
-- [Amazon Bedrock Reserved Tier available now for Claude Sonnet 4.5 in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-bedrock-reserved-tier-for-claude-sonnet-in-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
