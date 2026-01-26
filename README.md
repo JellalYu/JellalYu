@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon WorkSpaces Core announces monthly pricing for managed instances](https://aws.amazon.com/about-aws/whats-new/2026/1/amazon-workspaces-core-managed-instances-flexible-billing/)
+- [AWS Transfer Family now supports Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-transfer-family-amazon-fsx-netapp-ontap)
 - [Amazon Route 53 Domains adds support for .ai, and other top-level domains](https://aws.amazon.com/about-aws/whats-new/2026/1/amazon-route-53-domains-adds-support-for-.ai-and-other-top-level-domains/)
 - [EC2 Auto Scaling Introduces New Mechanisms for Group Deletion Protection](https://aws.amazon.com/about-aws/whats-new/2026/01/ec2-auto-scaling-new-mechanisms-group-deletion-protection)
 - [Amazon EVS now supports multiple VMware NSX Edge Gateways](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-evs-multiple-vmware-nsx-edge-gateways)
-- [Announcing general availability of Amazon EC2 M4 Max Mac instances](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-m4-max-mac-instances-ga)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
