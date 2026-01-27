@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Deadline Cloud now supports editing job name and description](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-deadline-cloud-editing-job-name-description/)
 - [AWS Network Firewall now supports GenAI traffic visibility and enforcement with Web category-based filtering](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-network-firewall-web-category-based-filtering)
 - [AWS Marketplace expands AMI self-service listing experience to FPGA products](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-marketplace-expands-ami-self-service-listing-experience-to-fpga-products)
 - [Amazon WorkSpaces announces advanced printer redirection](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-workspaces-advanced-printer-redirection/)
 - [Amazon Lightsail expands blueprint selection with updated support for Node.js, LAMP, and Ruby on Rails blueprints](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-lightsail-nodejs-lamp-and-ruby-on-rails/)
-- [Amazon Bedrock now supports 1-hour duration for prompt caching](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-bedrock-one-hour-duration-prompt-caching/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
