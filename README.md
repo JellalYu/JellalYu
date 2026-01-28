@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 R7gd instances are now available in Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/01/r7gd-instances-available-in-paris)
+- [Amazon MSK Replicator is now available in Asia Pacific &lpar;New Zealand&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-msk-replicator-asia-pacific-new-zealand)
 - [AWS Deadline Cloud now supports editing job name and description](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-deadline-cloud-editing-job-name-description/)
 - [AWS Network Firewall now supports GenAI traffic visibility and enforcement with Web category-based filtering](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-network-firewall-web-category-based-filtering)
-- [Amazon WorkSpaces announces advanced printer redirection](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-workspaces-advanced-printer-redirection/)
 - [AWS Marketplace expands AMI self-service listing experience to FPGA products](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-marketplace-expands-ami-self-service-listing-experience-to-fpga-products)
-- [Amazon RDS for PostgreSQL, MySQL and MariaDB now support r6id and r6gd database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-product-generally-available-rds-r6id-r6gd-expansion)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
