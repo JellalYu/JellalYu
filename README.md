@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.35](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-eks-distro-kubernetes-version-1-35)
 - [Amazon EC2 R7gd instances are now available in Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/01/r7gd-instances-available-in-paris)
 - [Amazon MSK Replicator is now available in Asia Pacific &lpar;New Zealand&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-msk-replicator-asia-pacific-new-zealand)
+- [Amazon DynamoDB global tables with multi-Region strong consistency now supports application resiliency testing with AWS Fault Injection Service](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-dynamodb-global-tables-with-mrsc-fis/)
 - [AWS Deadline Cloud now supports editing job name and description](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-deadline-cloud-editing-job-name-description/)
-- [AWS Network Firewall now supports GenAI traffic visibility and enforcement with Web category-based filtering](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-network-firewall-web-category-based-filtering)
-- [AWS Marketplace expands AMI self-service listing experience to FPGA products](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-marketplace-expands-ami-self-service-listing-experience-to-fpga-products)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
