@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS now supports IPv6 for VPC endpoints of RDS Service APIs](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-ipv6-vpc-endpoints-service-apis)
 - [Amazon SageMaker Unified Studio now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-sagemaker-unified-studio-aws-privatelink/)
 - [Amazon ECS now publishes container health status as a CloudWatch metric](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ecs-container-health-status-metric/)
 - [New Partner Revenue Measurement gives visibility into AWS service consumption](https://aws.amazon.com/about-aws/whats-new/2026/01/new-partner-revenue-measurement)
 - [Amazon GameLift Streams expands streaming capability to six new regions](https://aws.amazon.com/about-aws/whats-new/2026/01/glstreams-new-regions)
-- [Amazon EC2 R8a instances are now available in Europe &lpar;Spain&rpar; and Europe &lpar;Frankfurt&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-r8a-instances-are-available-europe)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
