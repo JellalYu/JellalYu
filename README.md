@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IAM Identity Center enables account access and application use in multiple AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-iam-identity-center-multi-region-aws-account-access-and-application-deployment)
 - [DeepSeek OCR, MiniMax M2.1, and Qwen3-VL-8B-Instruct models are now available on SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/new-models-on-sagemaker-jumpstart)
+- [Build Production-Ready Drug Discovery and Robotics Pipelines with NVIDIA NIMs on SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/02/accelerate-biosciences-and-robotics-with-NVIDIA-NIMs-on-sagemaker-jumpstart)
 - [Announcing memory-optimized instance bundles for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-lightsail-memory-optimized-instances/)
 - [AWS STS now supports validation of select identity provider specific claims from Google, GitHub, CircleCI and OCI](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-sts-supports-validation-identity-provider-claims)
-- [AWS Multi-party approval now requires one-time password verification for voting](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-multi-party-approval-requires-one-time-password-verification-for-voting)
-- [Amazon CloudFront announces mutual TLS support for origins](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cloudfront-mutual-tls-for-origins/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
