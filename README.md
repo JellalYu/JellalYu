@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DynamoDB global tables now support replication across multiple AWS accounts](https://aws.amazon.com/about-aws/whats-new/2026/02/dynamodb-gt-multi-account/)
+- [AWS Marketplace introduces localized billing for Professional Services from AWS EMEA](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-marketplace-localized-billing-professional/)
+- [Amazon RDS now provides an enhanced console experience to connect to a database](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-rds-provides-enhanced-console-experience)
 - [AWS Lake Formation is now available in Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/02/AWS-Lake-Formation-Asia-Pacific-New-Zealand-Region)
 - [Amazon Connect launches an appeals workflow for agent performance evaluations](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-appeals-workflow-agent-performance-evaluations/)
-- [AWS Management Console now displays Account Name on the Navigation bar for easier account identification](https://aws.amazon.com/about-aws/whats-new/2026/02/console-displays-account-name-on-nav-bar)
-- [AWS IAM Identity Center enables account access and application use in multiple AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-iam-identity-center-multi-region-aws-account-access-and-application-deployment)
-- [DeepSeek OCR, MiniMax M2.1, and Qwen3-VL-8B-Instruct models are now available on SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/new-models-on-sagemaker-jumpstart)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
