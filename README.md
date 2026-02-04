@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon DynamoDB global tables now support replication across multiple AWS accounts](https://aws.amazon.com/about-aws/whats-new/2026/02/dynamodb-gt-multi-account/)
-- [AWS Marketplace introduces localized billing for Professional Services from AWS EMEA](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-marketplace-localized-billing-professional/)
-- [Amazon RDS now provides an enhanced console experience to connect to a database](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-rds-provides-enhanced-console-experience)
-- [AWS Lake Formation is now available in Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/02/AWS-Lake-Formation-Asia-Pacific-New-Zealand-Region)
-- [Amazon Connect launches an appeals workflow for agent performance evaluations](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-appeals-workflow-agent-performance-evaluations/)
+- [AWS Batch now supports unmanaged compute environments for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-batch-on-eks-unmanaged-compute-environments)
+- [Structured outputs now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/02/structured-outputs-available-amazon-bedrock/)
+- [Amazon EC2 G7e instances now available in US West &lpar;Oregon&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g7e-instances-oregon-region/)
+- [Cartesia Sonic 3 text-to-speech model is now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/02/cartesia-sonic-3-on-sagemaker-jumpstart)
+- [Amazon ECS adds Network Load Balancer support for Linear and Canary deployments](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ecs-nlb-linear-canary-deployments)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
