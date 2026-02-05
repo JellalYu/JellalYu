@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Builder ID now supports Sign in with Apple](https://aws.amazon.comabout-aws/whats-new/2026/02/aws-builder-id-sign-in-apple)
+- [Amazon EC2 High Memory U7i-6TB instances now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-u7i-6tb-instances-available/)
+- [Claude Opus 4.6 now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/2/claude-opus-4.6-available-amazon-bedrock/)
 - [AWS Batch now supports unmanaged compute environments for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-batch-on-eks-unmanaged-compute-environments)
 - [Structured outputs now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/02/structured-outputs-available-amazon-bedrock/)
-- [Amazon EC2 G7e instances now available in US West &lpar;Oregon&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g7e-instances-oregon-region/)
-- [Cartesia Sonic 3 text-to-speech model is now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/02/cartesia-sonic-3-on-sagemaker-jumpstart)
-- [Amazon ECS adds Network Load Balancer support for Linear and Canary deployments](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ecs-nlb-linear-canary-deployments)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
