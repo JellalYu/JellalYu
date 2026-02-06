@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon WorkSpaces Secure Browser now supports custom domain](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-workspaces-secure-browser-custom-domains/)
+- [Amazon ECS Managed Instances now available in AWS European Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/02/ecs-mi-european-sovereign-cloud)
+- [Amazon Bedrock AgentCore Browser now supports browser profiles](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-agentcore-browser-profiles)
+- [AWS Config now supports 30 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-config-new-resource-types)
 - [Amazon Connect Cases now supports CSV uploads to map related field options](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-cases-csv-related-field-options)
-- [AWS Network Firewall announces new price reductions](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-network-firewall-new-price-reduction/)
-- [Amazon EC2 G6e instances now available in Dubai region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g6e-instances-dubai-region/)
-- [AWS Builder ID now supports Sign in with Apple](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-builder-id-sign-in-apple)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
