@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune Analytics is now available in 7 additional regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-neptune-analytics-in-seven-additional-regions)
+- [Amazon Redshift now supports allocating extra compute for automatic optimizations](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-redshift-allocate-extra-compute-for-automatic-optimizations)
 - [Amazon WorkSpaces Secure Browser now supports custom domain](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-workspaces-secure-browser-custom-domains/)
 - [Amazon ECS Managed Instances now available in AWS European Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/02/ecs-mi-european-sovereign-cloud)
 - [Amazon Bedrock AgentCore Browser now supports browser profiles](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-agentcore-browser-profiles)
-- [AWS Config now supports 30 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-config-new-resource-types)
-- [Amazon Connect Cases now supports CSV uploads to map related field options](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-cases-csv-related-field-options)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
