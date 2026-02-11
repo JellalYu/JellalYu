@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Neptune Analytics is now available in 7 additional regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-neptune-analytics-in-seven-additional-regions)
-- [AWS HealthOmics introduces a Kiro Power and Kiro IDE extension for bioinformatics workflow development](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-healthomics-introduces-kiro-plugin-for-bioinformatics-workflow-development/)
-- [Amazon Redshift now supports allocating extra compute for automatic optimizations](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-redshift-allocate-extra-compute-for-automatic-optimizations)
-- [Amazon WorkSpaces Secure Browser now supports custom domain](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-workspaces-secure-browser-custom-domains/)
-- [Amazon ECS Managed Instances now available in AWS European Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/02/ecs-mi-european-sovereign-cloud)
+- [AWS Payment Cryptography Achieves Cartes Bancaires Approval](https://aws.amazon.com/about-aws/whats-new/2026/02/payment-cryptography-cartes-bancaires)
+- [Amazon Connect launches after contact work timeout configuration for tasks, chats, and emails](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-omnichannel-acw-timeouts)
+- [Amazon Connect launches auto-accept for tasks, chats, and emails](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-omnichannel-auto-accept)
+- [Amazon Aurora DSQL is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-additional-aws-regions)
+- [Amazon MSK now supports broker logs on Express Brokers](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-msk-express-brokers-support-broker-logs)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
