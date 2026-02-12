@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Payment Cryptography Achieves Cartes Bancaires Approval](https://aws.amazon.com/about-aws/whats-new/2026/02/payment-cryptography-cartes-bancaires)
-- [Amazon Connect launches after contact work timeout configuration for tasks, chats, and emails](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-omnichannel-acw-timeouts)
-- [Amazon Connect launches auto-accept for tasks, chats, and emails](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-omnichannel-auto-accept)
-- [Amazon Aurora DSQL is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-additional-aws-regions)
-- [Amazon MSK now supports broker logs on Express Brokers](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-msk-express-brokers-support-broker-logs)
+- [Amazon Bedrock increases default quotas for Anthropic’s Claude Sonnet 4.5 model in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.comabout-aws/whats-new/2026/02/amazon-bedrock-increases-default-sonnet-4.5-quotas-aws-govcloud-us)
+- [AI Troubleshooting in the AWS Support Center Console now supports 7 additional languages](https://aws.amazon.com/about-aws/whats-new/2026/02/ai-troubleshooting-in-aws-support-center/)
+- [Amazon RDS for PostgreSQL supports minor versions  18.2, 17.8, 16.12, 15.16 and 14.21](https://aws.amazon.com/about-aws/whats-new/2026/02/rds-minor-version-18-2-17-8-16-12-15-16-14-21)
+- [Announcing new Amazon EC2 general purpose M8azn instances](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-m8azn-instances-generally-available)
+- [Amazon S3 Tables add partition and sort order definition in the CreateTable API](https://aws.amazon.com/about-aws/whats-new/2026/02/s3-tables-partition-and-sort-order-createtable-api/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
