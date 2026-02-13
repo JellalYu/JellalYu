@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Bedrock increases default quotas for Anthropic’s Claude Sonnet 4.5 model in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.comabout-aws/whats-new/2026/02/amazon-bedrock-increases-default-sonnet-4.5-quotas-aws-govcloud-us)
-- [AI Troubleshooting in the AWS Support Center Console now supports 7 additional languages](https://aws.amazon.com/about-aws/whats-new/2026/02/ai-troubleshooting-in-aws-support-center/)
-- [Amazon RDS for PostgreSQL supports minor versions  18.2, 17.8, 16.12, 15.16 and 14.21](https://aws.amazon.com/about-aws/whats-new/2026/02/rds-minor-version-18-2-17-8-16-12-15-16-14-21)
-- [Announcing new Amazon EC2 general purpose M8azn instances](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-m8azn-instances-generally-available)
-- [Amazon S3 Tables add partition and sort order definition in the CreateTable API](https://aws.amazon.com/about-aws/whats-new/2026/02/s3-tables-partition-and-sort-order-createtable-api/)
+- [AWS Batch now provides Job Queue and Share Utilization Visibility](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-batch-provides-job-queue-share-utilization)
+- [Amazon Connect launches in-app notifications to surface critical operational alerts to business users](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-in-app-notifications)
+- [Amazon Connect now provides real time AI-powered overviews and recommended next actions for Tasks](https://aws.amazon.comamazon-connect-tasks-ai-assistance)
+- [Amazon RDS now supports backup configuration when restoring snapshots](https://aws.amazon.com/about-aws/whats-new/2026/02/rds-aurora-backup-configuration-restoring-snapshots/)
+- [Amazon Aurora DSQL adds support for identity columns and sequence objects](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-adds-identity-columns-sequence/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
