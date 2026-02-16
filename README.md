@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon DocumentDB long-term support &lpar;LTS&rpar; on 5.0](https://aws.amazon.com/about-aws/whats-new/2026/02/announcing-amazon-documentdb-5-0-long-term-support)
 - [Amazon EC2 supports nested virtualization on virtual Amazon EC2 instances](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-nested-virtualization-on-virtual)
 - [Amazon EC2 High Memory U7i instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-highmem-instances-available/)
 - [AWS Batch now provides Job Queue and Share Utilization Visibility](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-batch-provides-job-queue-share-utilization)
 - [Amazon Connect launches in-app notifications to surface critical operational alerts to business users](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-in-app-notifications)
-- [Amazon Connect now provides real time AI-powered overviews and recommended next actions for Tasks](https://aws.amazon.com/about-aws/whats-new/2026/02/connect-tasks-ai-assistance)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
