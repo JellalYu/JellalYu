@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Connect now includes agent time-off requests in draft schedules](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-time-off-draft-schedules)
+- [Amazon EC2 C8a instances now available in the Europe &lpar;Frankfurt&rpar; and Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8a-instances-europe-frankfurt-europe-ireland-regions)
 - [Claude Sonnet 4.6 now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/02/claude-sonnet-4.6-available-in-amazon-bedrock/)
 - [AWS HealthImaging launches additional metrics for monitoring data stores](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-healthimaging-additional-metrics/)
 - [Announcing new high performance computing Amazon EC2 Hpc8a instances](https://aws.amazon.com/about-aws/whats-new/2026/02/announcing-amazon-ec2-hpc8a-instances/)
-- [Announcing Amazon DocumentDB long-term support &lpar;LTS&rpar; on 5.0](https://aws.amazon.com/about-aws/whats-new/2026/02/announcing-amazon-documentdb-5-0-long-term-support)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
