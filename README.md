@@ -50,7 +50,7 @@
 - [AWS HealthImaging launches additional metrics for monitoring data stores](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-healthimaging-additional-metrics/)
 - [Announcing new high performance computing Amazon EC2 Hpc8a instances](https://aws.amazon.com/about-aws/whats-new/2026/02/announcing-amazon-ec2-hpc8a-instances/)
 - [Announcing Amazon DocumentDB long-term support &lpar;LTS&rpar; on 5.0](https://aws.amazon.com/about-aws/whats-new/2026/02/announcing-amazon-documentdb-5-0-long-term-support)
-- [AWS Backup announces PrivateLink support for SAP HANA on AWS](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-backup-announces-privatelink-sap-hana-aws/)
+- [AWS Glue 5.1 is now available in 18 additional regions](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-glue-5-1-eighteen-additional-regions)
 - [Amazon EC2 M7i instances are now available in the Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m7i-israel-tel-aviv-regions)
 <!-- AWS-NEWS:END -->
 
