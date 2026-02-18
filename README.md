@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Cases now supports AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-cases-aws-service-quotas)
 - [Amazon OpenSearch Service expands support for Graviton4 &lpar;c8g,m8g &amp; r8g &rpar; instances](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-opensearch-service-expands-support-graviton4-based-instances)
 - [Amazon OpenSearch Service now supports storage optimized  i7i  instances](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-opensearch-service-supports-i7i-instances)
 - [Amazon Bedrock reinforcement fine-tuning adds support for open-weight models with OpenAI-compatible APIs](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-reinforcement-fine-tuning-openai)
-- [Amazon Connect now includes agent time-off requests in draft schedules](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-time-off-draft-schedules)
-- [Amazon Connect now supports multi-line text fields on case templates](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-cases-multiline-text-fields/)
+- [Amazon Aurora MySQL 3.12 &lpar;compatible with MySQL 8.0.44&rpar; is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-mysql-312-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
