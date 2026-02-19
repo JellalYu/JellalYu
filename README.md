@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IAM Identity Center is now available in the Asia Pacific &lpar;New Zealand&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-iam-identity-center-asia-pacific-new-zealand-region/)
 - [Amazon EC2 G7e instances now available in Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g7e-instances-tokyo-region/)
 - [Aurora DSQL launches new Go, Python, and Node.js connectors that simplify IAM authentication](https://aws.amazon.com/about-aws/whats-new/2026/02/aurora-dsql-launches-go-python-nodejs-connectors)
 - [Amazon MQ now supports ActiveMQ minor version 5.19](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-mq-activemq-5-19/)
 - [Amazon SNS now supports sending SMS in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-sns-sms-region-expansion)
-- [Amazon EC2 M8i-flex instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8i-flex-instances-FRA-ICN-KUL-NRT-SIN-YUL-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
