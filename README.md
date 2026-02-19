@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 M8i-flex instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8i-flex-instances-FRA-ICN-KUL-NRT-SIN-YUL-region/)
 - [AWS Certificate Manager updates default certificate validity to comply with new guidelines](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-certificate-manager-updates-default/)
 - [Amazon Aurora DSQL now integrates with Kiro powers and AI agent skills](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-integrates-with-kiro-powers-and-agent-skills)
 - [Amazon Connect Cases now supports AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-cases-aws-service-quotas)
 - [Amazon Managed Grafana now supports AWS KMS customer managed keys](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-managed-grafana-customer-managed-keys)
-- [AWS Clean Rooms announces support for remote Apache Iceberg REST catalogs](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-clean-rooms-remote-iceberg-catalogs)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
