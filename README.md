@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Aurora DSQL launches new Go, Python, and Node.js connectors that simplify IAM authentication](https://aws.amazon.com/about-aws/whats-new/2026/02/aurora-dsql-launches-go-python-nodejs-connectors)
+- [Amazon MQ now supports ActiveMQ minor version 5.19](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-mq-activemq-5-19/)
+- [Amazon SNS now supports sending SMS in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-sns-sms-region-expansion)
 - [Amazon EC2 M8i-flex instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8i-flex-instances-FRA-ICN-KUL-NRT-SIN-YUL-region/)
 - [AWS Certificate Manager updates default certificate validity to comply with new guidelines](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-certificate-manager-updates-default/)
-- [Amazon Aurora DSQL now integrates with Kiro powers and AI agent skills](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-integrates-with-kiro-powers-and-agent-skills)
-- [Amazon Connect Cases now supports AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-cases-aws-service-quotas)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
