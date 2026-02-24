@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS AppConfig integrates with New Relic for automated rollbacks](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-appconfig-new-relic-for-automated-rollback/)
+- [Amazon EKS Node Monitoring Agent is now open source](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-eks-node-monitoring-agent-open-source/)
 - [MediaConvert Introduces new video probe API and UI](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-mediaconvert-introduces-video-probe/)
 - [AWS Trusted Advisor now delivers more accurate unused NAT Gateway checks powered by AWS Compute Optimizer](https://aws.amazon.com/about-aws/whats-new/2026/02/trusted-advisor-unused-nat-gateway-check/)
 - [Amazon announces generative AI-based artifacts in Amazon Q Developer for visualizing resource and cost data](https://aws.amazon.com/about-aws/whats-new/2026/02/generative-ai-based-Amazon-Q-artifacts/)
-- [AWS Elemental Media Services Now Available in Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/02/elemental-Malaysia/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
