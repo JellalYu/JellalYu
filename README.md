@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [MediaConvert Introduces new video probe API and UI](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-mediaconvert-introduces-video-probe/)
+- [AWS Trusted Advisor now delivers more accurate unused NAT Gateway checks powered by AWS Compute Optimizer](https://aws.amazon.com/about-aws/whats-new/2026/02/trusted-advisor-unused-nat-gateway-check/)
+- [Amazon announces generative AI-based artifacts in Amazon Q Developer for visualizing resource and cost data](https://aws.amazon.com/about-aws/whats-new/2026/02/generative-ai-based-Amazon-Q-artifacts/)
+- [AWS Elemental Media Services Now Available in Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/02/elemental-Malaysia/)
 - [AWS IAM Policy Autopilot is now available as a Kiro Power](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-iam-policy-autopilot-kiro-power/)
-- [Amazon Redshift Serverless introduces 3-year Serverless Reservations](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-redshift-serverless-three-year-reservations/)
-- [Amazon RDS for Oracle now supports January 2026 Release Update and Spatial Patch Bundle](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-rd-for-oracle-jan-release-update-spatial-patch-bundle/)
-- [AWS IAM Identity Center is now available in the Asia Pacific &lpar;New Zealand&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-iam-identity-center-asia-pacific-new-zealand-region/)
-- [Amazon EC2 G7e instances now available in Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g7e-instances-tokyo-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
