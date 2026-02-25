@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing new metal sizes for Amazon EC2 M8gn and M8gb instances](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8gn-m8gb-new-metal-sizes/)
 - [Amazon Bedrock now supports server-side tool execution with AgentCore Gateway](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-server-side-tool-execution-agentcore-gateway/)
 - [AWS Compute Optimizer now applies AWS-generated tags to EBS snapshots created during automation](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-compute-optimizer-applies-tags-ebs-snapshots/)
 - [AWS Observability now available as a Kiro power](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-observability-kiro-power/)
 - [Announcing AWS Elemental Inference](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-elemental-inference-generally-avail/)
-- [Amazon RDS Snapshot Export to S3 now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/rds-exports-s3-available-gov-cloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
