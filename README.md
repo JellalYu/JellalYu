@@ -50,8 +50,8 @@
 - [Amazon Connect now supports dynamic dialing mode switching for outbound campaigns](https://aws.amazon.com/about-aws/whats-new/2026/02/connect-dynamic-dialing-modes/)
 - [AWS Security Hub launches Extended plan for pay-as-you-go partner solutions](https://aws.amazon.com/about-aws/whats-new/2026/02/sec-hub-extended/)
 - [Amazon Cognito enhances client secret management with secret rotation and custom secrets](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-cognito-client-secret-lifecycle/)
-- [AWS Lambda Durable Execution SDK for Java now available in Developer Preview](https://aws.amazon.com/about-aws/whats-new/2026/02/lambda-durable-execution-java-preview/)
-- [AWS Outposts racks now support additional Amazon CloudWatch metrics in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-outposts-racks-cloudwatch-metrics-govcloud-regions/)
+- [Amazon EC2 M8i and M8i-flex instances are available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8i-m8i-flex-instances-additional-regions/)
+- [Introducing Amazon EC2 I8g.metal-48xl instances](https://aws.amazon.com/about-aws/whats-new/2026/02/ec2-i8g-metal-48xl-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
