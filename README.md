@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub launches Extended plan for pay-as-you-go partner solutions](https://aws.amazon.com/about-aws/whats-new/2026/02/sec-hub-extended/)
+- [Amazon Cognito enhances client secret management with secret rotation and custom secrets](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-cognito-client-secret-lifecycle/)
+- [AWS Lambda Durable Execution SDK for Java now available in Developer Preview](https://aws.amazon.com/about-aws/whats-new/2026/02/lambda-durable-execution-java-preview/)
 - [AWS Outposts racks now support additional Amazon CloudWatch metrics in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-outposts-racks-cloudwatch-metrics-govcloud-regions/)
 - [AWS Security Agent adds support for penetration tests on shared VPCs across AWS accounts](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-security-agent-adds-penetration-tests-shared/)
-- [Amazon Aurora DSQL launches Playground for interactive database exploration](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-launches-playground/)
-- [Aurora DSQL launches new support for Tortoise, Flyway, and Prisma](https://aws.amazon.com/about-aws/whats-new/2026/02/aurora-dsql-launches-tortoise-flyway-prisma/)
-- [Aurora DSQL launches new integrations for Visual Studio Code SQLTools and DBeaver](https://aws.amazon.com/about-aws/whats-new/2026/02/aurora-dsql-visual-studio-code-sqltools-dbeaver/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
