@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service adds new insights for improved cluster stability](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-opensearch-service-adds-new-insights-improved-cluster-stability/)
 - [Amazon ECS Managed Instances now integrates with Amazon EC2 Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2026/02/ecs-mi-ec2-capacity-reservations/)
 - [AWS Marketplace now supports multiple purchases of SaaS and Professional Services products](https://aws.amazon.com/about-aws/whats-new/2026/02/concurrent-agreements-february/)
 - [Amazon Connect now supports dynamic dialing mode switching for outbound campaigns](https://aws.amazon.com/about-aws/whats-new/2026/02/connect-dynamic-dialing-modes/)
 - [Amazon CloudWatch now provides lock contention diagnostics for Amazon RDS for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-cloudwatch-lock-contention-diagnostics-rds-postgresql/)
-- [AWS Security Hub launches Extended plan for pay-as-you-go partner solutions](https://aws.amazon.com/about-aws/whats-new/2026/02/sec-hub-extended/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
