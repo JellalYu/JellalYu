@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon CloudWatch logs centralization rules now support customizable destination log group structure](https://aws.amazon.com/about-aws/whats-new/2026/02/cloudwatch-centralization-custom-groups/)
+- [AWS Resource Access Manager now supports maintaining shares when accounts change organizations](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-resource-access-manager/)
 - [AWS now supports Bacs Direct Debit as a payment method for UK customers](https://aws.amazon.com/about-aws/whats-new/aws-supports-bacs-direct-debit-payment-method/)
 - [Amazon OpenSearch Service adds new insights for improved cluster stability](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-opensearch-service-adds-new-insights-improved-cluster-stability/)
 - [Amazon RDS for PostgreSQL supports minor versions 18.3, 17.9, 16.13, 15.17, and 14.22](https://aws.amazon.com/about-aws/whats-new/2026/02/rds-minor-version-18-3-17-9-16-13-15-17-14-22/)
-- [Amazon Bedrock announces OpenAI-compatible Projects API](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-projects-api-mantle-inference-engine/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
