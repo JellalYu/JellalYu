@@ -50,8 +50,8 @@
 - [AWS Batch now supports configurable scale down delay](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-configurable-scale-down-delay/)
 - [AWS Config now supports 30 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-config-new-resource-types/)
 - [AWS announces pricing for VPC Encryption Controls](https://aws.amazon.com/about-aws/whats-new/2026/03/vpc-encryption-controls-pricing/)
+- [AWS Elemental MediaLive Now Supports SRT Listener Mode](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-medialive-introduces-srt-listener/)
 - [Amazon Lightsail expands blueprint selection with a new WordPress blueprint](https://aws.amazon.com/about-aws/whats-new/2026/02/wordpress-blueprint-lightsail/)
-- [EC2 Image Builder enhances lifecycle policies with wildcard support and simplified IAM](https://aws.amazon.com/about-aws/whats-new/2026/02/ec2-image-builder-lifecycle-enhancements/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
