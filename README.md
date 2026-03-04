@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Lightsail now offers OpenClaw, a private self-hosted AI assistant](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-lightsail-openclaw/)
 - [Amazon OpenSearch Ingestion now supports Amazon Managed Service for Prometheus as a sink](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-ingestion-supports-amazon-managed-service-prometheus-sink)
+- [Amazon OpenSearch Ingestion now supports unified ingestion endpoint for OpenTelemetry data](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-ingestion-unified-ingestion-endpoint-opentelemetry)
 - [Amazon GameLift Servers launches DDoS Protection](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-gamelift-servers-ddos-protection/)
 - [Amazon SageMaker Unified Studio adds metadata sync with third-party catalogs](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-3p-catalogs/)
-- [Amazon SageMaker Unified Studio now supports AWS Glue 5.1 for data processing jobs](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-aws-glue-5-1/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
