@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service introduces capacity optimized blue/green deployments](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-service-bg/)
+- [Introducing Amazon Connect Health, Agentic AI Built for Healthcare](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-health-agentic-ai-healthcare/)
+- [AWS HealthLake announces data transformation agent for automated CCDA-to-FHIR data conversion &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthlake-data-transformation-agent/)
 - [Accelerate Lambda durable functions development with new Kiro power](https://aws.amazon.com/about-aws/whats-new/2026/03/lambda-durable-kiro-power/)
 - [AWS simplifies IAM role creation and setup in service workflows](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-simplifies-iam-role-creation-and-setup/)
-- [Amazon SageMaker HyperPod now provides comprehensive observability for Restricted Instance Groups](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-hyperpod-observability-rig/)
-- [Amazon Lightsail now offers OpenClaw, a private self-hosted AI assistant](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-lightsail-openclaw/)
-- [Amazon OpenSearch Ingestion now supports Amazon Managed Service for Prometheus as a sink](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-ingestion-supports-amazon-managed-service-prometheus-sink)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
