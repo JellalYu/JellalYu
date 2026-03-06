@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift introduces reusable templates for COPY operations](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-reusable-templates-copy/)
+- [Amazon Redshift introduces new array functions for semi-structured data processing](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-nine-new-array-functions/)
 - [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8g-instances-additional-regions/)
 - [Amazon Redshift Serverless now maintains datashare permissions during restore](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-serverless-maintains-datashare-permissions-on-restore/)
 - [Multi-party approval now supports approval team baselining](https://aws.amazon.com/about-aws/whats-new/2026/03/multi-party-approval-team-baselining/)
-- [Database Savings Plans now supports Amazon OpenSearch Service and Amazon Neptune Analytics](https://aws.amazon.com/about-aws/whats-new/2026/03/dbsp-opensearch-service-neptune-analytics/)
-- [AWS Elastic Beanstalk now offers AI-powered environment analysis](https://aws.amazon.com/about-aws/whats-new/2026/03/elastic-beanstalk-ai-analysis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
