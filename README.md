@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8g-instances-additional-regions/)
+- [Amazon Redshift Serverless now maintains datashare permissions during restore](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-serverless-maintains-datashare-permissions-on-restore/)
 - [Multi-party approval now supports approval team baselining](https://aws.amazon.com/about-aws/whats-new/2026/03/multi-party-approval-team-baselining/)
 - [Database Savings Plans now supports Amazon OpenSearch Service and Amazon Neptune Analytics](https://aws.amazon.com/about-aws/whats-new/2026/03/dbsp-opensearch-service-neptune-analytics/)
 - [AWS Elastic Beanstalk now offers AI-powered environment analysis](https://aws.amazon.com/about-aws/whats-new/2026/03/elastic-beanstalk-ai-analysis/)
-- [AWS Shield network security director findings are now available in AWS Security Hub](https://aws.amazon.com/about-aws/whats-new/2026/03/network-security-director-findings/)
-- [Amazon EC2 I8ge instances now generally available in Europe &lpar;Ireland&rpar; AWS region.](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-I8ge-expansion-ireland/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
