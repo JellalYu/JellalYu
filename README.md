@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon CloudWatch Logs announces increased query concurrency and API limits](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-logs-increased-limits/)
+- [Amazon Cognito is now available in Asia Pacific &lpar;Taipei&rpar; and Asia Pacific &lpar;New Zealand&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/cognito-taipei-and-new-zealand-regions/)
+- [IAM Roles Anywhere now supports post-quantum digital certificates](https://aws.amazon.com/about-aws/whats-new/2026/03/iam-roles-anywhere-post-quantum-digital-certificates)
+- [Amazon EC2 G7e instances now available in Asia Pacific &lpar;Seoul&rpar; and Europe &lpar;Spain&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-g7e-seoul-spain-regions/)
 - [Amazon Redshift introduces reusable templates for COPY operations](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-reusable-templates-copy/)
-- [Amazon Redshift introduces new array functions for semi-structured data processing](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-nine-new-array-functions/)
-- [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8g-instances-additional-regions/)
-- [Amazon Redshift Serverless now maintains datashare permissions during restore](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-serverless-maintains-datashare-permissions-on-restore/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
