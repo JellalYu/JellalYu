@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect introduces AI-powered manager assistance &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-ai-powered-manager-assistance/)
+- [Amazon Connect now supports conversational analytics for email](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-conversational-analytics-email/)
 - [Amazon CloudWatch Logs announces increased query concurrency and API limits](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-logs-increased-limits/)
 - [Amazon Quick Suite launches User Preferences for chat personalization](https://aws.amazon.com/about-aws/whats-new/2026/03/user-preferences-in-quick/)
 - [Amazon Cognito is now available in Asia Pacific &lpar;Taipei&rpar; and Asia Pacific &lpar;New Zealand&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/cognito-taipei-and-new-zealand-regions/)
-- [IAM Roles Anywhere now supports post-quantum digital certificates](https://aws.amazon.com/about-aws/whats-new/2026/03/iam-roles-anywhere-post-quantum-digital-certificates)
-- [Amazon EC2 G7e instances now available in Asia Pacific &lpar;Seoul&rpar; and Europe &lpar;Spain&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-g7e-seoul-spain-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
