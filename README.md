@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock AgentCore Runtime now supports stateful MCP server features](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-agentcore-runtime-stateful-mcp/)
+- [Amazon Bedrock now supports observability of First Token Latency and Quota Consumption](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-observability-ttft-quota/)
 - [AWS Builder ID now supports Sign in with GitHub and Amazon](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-builder-id-sign-in-github-amazon/)
 - [Amazon Connect enhances AI-powered predictive insights](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-predictive-insights/)
 - [Amazon Connect now supports conversational analytics for email](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-conversational-analytics-email/)
-- [Amazon Connect introduces AI-powered manager assistance &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-ai-powered-manager-assistance/)
-- [Amazon OpenSearch Service now supports in-place volume increases for all volume sizes](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-service-in-place-volume/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
