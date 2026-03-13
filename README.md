@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [OpenSearch UI supports Cross Account Data Access to OpenSearch domains](https://aws.amazon.com/about-aws/whats-new/2026/03/opensearch-ui-cross-account-data-access-domains/)
 - [AWS Elastic Beanstalk launches Deployments tab with in-progress deployment logs](https://aws.amazon.com/about-aws/whats-new/2026/03/elastic-beanstalk-deployments-tab/)
 - [AWS Private CA Connector for SCEP now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-private-ca-connector-scep-privatelink/)
 - [AWS CDK Mixins is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-cdk-mixins/)
 - [Amazon Bedrock AgentCore Memory announces streaming notifications for long-term memory](https://aws.amazon.com/about-aws/whats-new/2026/03/agentcore-memory-streaming-ltm/)
-- [Amazon EC2 M8i and M8i-flex instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8i-m8i-flex-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
