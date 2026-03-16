@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune now supports reading S3 data using openCyper](https://aws.amazon.com/about-aws/whats-new/2026/03/neptune-read-s3-opencypher/)
 - [Amazon Timestream for InfluxDB 3 Now Supports Expanded Multi-Node Cluster Configurations](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-timestream-for-influxdb-3-multi-node-cluster/)
 - [Announcing AWS Partner Central agents to accelerate co-sell](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-partner-central-agents-accelerate-co-sell/)
 - [Amazon SimpleDB now supports exporting domain data to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-simpledb-domain-export-to-amazon-s3/)
 - [Amazon Connect now enables agents to forward email contacts to external email addresses](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-forward-email-contacts/)
-- [Amazon Bedrock AgentCore Runtime now supports the AG-UI protocol](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-agentcore-runtime-ag-ui-protocol/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
