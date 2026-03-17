@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [SageMaker Training Plans now enables extending of existing capacity commitments without workload reconfiguration](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-training-plan-extension/)
+- [Amazon MSK expands Express brokers to Africa &lpar;Cape Town&rpar; and Asia Pacific &lpar;Taipei&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-msk-express-2-new-aws-regions/)
+- [Amazon Bedrock is now available in Asia Pacific &lpar;New Zealand&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-asia-pacific-new-zealand/)
 - [Amazon CloudWatch introduces organization-wide EC2 detailed monitoring enablement](https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-org-enablement-ec2-metrics/)
 - [Amazon CloudWatch Logs now supports log ingestion using HTTP-based protocol](https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-http-log-collector/)
-- [SageMaker HyperPod now supports idle resource sharing for dynamic cluster utilization](https://aws.amazon.com/about-aws/whats-new/2026/03/sagemaker-hyperpod-idle-resource-sharing/)
-- [Amazon Neptune now supports reading S3 data using openCyper](https://aws.amazon.com/about-aws/whats-new/2026/03/neptune-read-s3-opencypher/)
-- [Amazon Timestream for InfluxDB 3 Now Supports Expanded Multi-Node Cluster Configurations](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-timestream-for-influxdb-3-multi-node-cluster/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
