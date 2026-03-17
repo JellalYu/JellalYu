@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Unified Studio supports aggregated view of data lineage](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sageMaker-unified-studio-aggregated-view -data-lineage/)
 - [SageMaker Training Plans now enables extending of existing capacity commitments without workload reconfiguration](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-training-plan-extension/)
+- [AWS Blu Insights is now AWS Transform for mainframe refactor](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-transform-mainframe-refactor/)
 - [Amazon MSK expands Express brokers to Africa &lpar;Cape Town&rpar; and Asia Pacific &lpar;Taipei&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-msk-express-2-new-aws-regions/)
 - [Amazon Bedrock AgentCore Runtime now supports shell command execution](https://aws.amazon.com/about-aws/whats-new/2026/03/bedrock-agentcore-runtime-shell-command/)
-- [Amazon Bedrock is now available in Asia Pacific &lpar;New Zealand&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-asia-pacific-new-zealand/)
-- [Amazon CloudWatch introduces organization-wide EC2 detailed monitoring enablement](https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-org-enablement-ec2-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
