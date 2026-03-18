@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Access Grants are now available in the AWS Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-s3-access-grants-new-zealand/)
 - [Amazon EC2 C8a instances now available in the Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8a-instances-asia-pacific-tokyo-regions/)
 - [Amazon Inspector expands agentless EC2 scanning and introduces Windows KB-based findings](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-inspector-agentless-ec2-scanning-windows/)
+- [AWS Config launches 75 new managed rules](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-config-launches-new-rules/)
 - [Amazon Redshift increases performance for new queries in dashboards and ETL workloads by up to 7x](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-increases-performance-for-new-queries/)
-- [Amazon OpenSearch Service now supports OpenSearch version 3.5](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-service-version-3-5/)
-- [Amazon Connect expands agentic speech-to-speech voice experiences to the London &lpar;Europe&rpar; region and adds three new voices](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-london-europe-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
