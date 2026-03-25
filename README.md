@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon EC2 I7ie instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-i7ie-instances-additional-aws-regions/)
+- [AWS Backup expands support for Amazon DocumentDB to 12 Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-backup-amazon-documentdb-regions/)
 - [Amazon SageMaker HyperPod now supports continuous provisioning for Slurm-orchestrated clusters](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-hyperpod-continuous-provisioning/)
-- [LTS upgrade testing](https://aws.amazon.com/about-aws/whats-new/2025/01/example-post/)
+- [Amazon Bedrock AgentCore Runtime now supports managed session storage for persistent agent filesystem state &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/bedrock-agentcore-runtime-session-storage/)
 - [Amazon Timestream for InfluxDB is now available in the Mexico &lpar;Central&rpar;, Japan &lpar;Osaka&rpar;, and Brazil &lpar;Sao Paulo&rpar; AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-timestream-influxdb-mexico-osaka-sao-paulo/)
-- [AWS HealthImaging is now available in Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthimaging-europe-london/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
