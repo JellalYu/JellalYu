@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Aurora DSQL launches connector that simplifies building Ruby applications](https://aws.amazon.com/about-aws/whats-new/2026/03/aurora-dsql-connector-for-ruby/)
 - [AWS AppConfig adds enhanced targeting during feature flag rollout](https://aws.amazon.com/about-aws/whats-new/2026/03/appconfig-enhanced-targeting-feature-flag-rollout/)
+- [The AWS Advanced JDBC Wrapper now supports automatic query caching with Valkey](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-jdbc-caching-with-valkey/)
 - [Amazon EC2 R8gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8gd-aws-regions/)
 - [AWS Firewall Manager launches in AWS Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-firewall-manager-launches-ap-nz/)
-- [Accelerate AI-assisted development with Agent Plugin for AWS Serverless](https://aws.amazon.com/about-aws/whats-new/2026/03/agent-plugin-aws-serverless/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
