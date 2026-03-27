@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon SageMaker Studio launches support for Kiro and Cursor IDEs as remote IDEs](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-studio-kiro-cursor/)
+- [Amazon ECS Managed Instances now supports FIPS-certified workloads on Graviton and GPU accelerated instances in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ecs-mi-supports-fips-graviron-gpu/)
 - [Aurora DSQL launches connector that simplifies building Ruby applications](https://aws.amazon.com/about-aws/whats-new/2026/03/aurora-dsql-connector-for-ruby/)
 - [AWS Lambda increases the file descriptor limit to 4,096 for functions running on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-Lambda-file-descriptors-increase-4096/)
 - [AWS AppConfig adds enhanced targeting during feature flag rollout](https://aws.amazon.com/about-aws/whats-new/2026/03/appconfig-enhanced-targeting-feature-flag-rollout/)
-- [The AWS Advanced JDBC Wrapper now supports automatic query caching with Valkey](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-jdbc-caching-with-valkey/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
