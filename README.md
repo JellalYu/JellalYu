@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Elemental MediaTailor now available in Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-elemental-mediatailor-london-region/)
+- [Amazon Athena launches Capacity Reservations in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-athena-adding-cap-reservation-regions/)
 - [Access Cluster Insights through the Amazon OpenSearch Service Console and Amazon EventBridge events](https://aws.amazon.com/about-aws/whats-new/2026/03/access-cluster-insights-opensearch/)
 - [Amazon SageMaker Data Agent is now available in the Amazon SageMaker Unified Studio Query Editor](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-data-agent-query-editor/)
 - [AWS Direct Connect adds CloudWatch metrics for BGP monitoring](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-direct-connect-cloudwatch-bgp-monitoring/)
-- [Amazon Timestream for InfluxDB Now Supports Advanced Metrics](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-timestream-for-influxdb-advanced-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
