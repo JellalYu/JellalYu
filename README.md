@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaTailor now available in Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-elemental-mediatailor-london-region/)
 - [Access Cluster Insights through the Amazon OpenSearch Service Console and Amazon EventBridge events](https://aws.amazon.com/about-aws/whats-new/2026/03/access-cluster-insights-opensearch/)
 - [Amazon Timestream for InfluxDB Now Supports Advanced Metrics](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-timestream-for-influxdb-advanced-metrics/)
 - [Amazon CloudWatch Logs now supports data protection,  OpenSearch PPL and OpenSearch SQL for the Infrequent Access ingestion class](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-infrequent-access-log-class/)
 - [AWS Lambda supports up to 32 GB of memory and 16 vCPUs for Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/03/lambda-32-gb-memory-16-vcpus/)
-- [AWS Management Console now supports settings to control service and Region visibility](https://aws.amazon.com/about-aws/whats-new/2026/03/account-customizations-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
