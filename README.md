@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Managed Service for Apache Flink now supports Apache Flink 2.2](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-managed-service-flink-2-2/)
 - [AWS Deadline Cloud now supports new fleet scaling configurations for render farms](https://aws.amazon.com/about-aws/whats-new/2026/03/deadline-cloud-fleet-scaling/)
+- [AWS Marketplace sellers can now self-serve refunds and agreement cancellations](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-marketplace-seller-self-service-refund-cancel/)
 - [Aurora DSQL launches new connectors that simplify building .NET and Rust applications](https://aws.amazon.com/about-aws/whats-new/2026/03/aurora-dsql-rust-npgsql-connectors/)
-- [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-service-availability/)
-- [Amazon ECS Managed Instances now supports Amazon EC2 instance store](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ecs-mi-local-storage/)
+- [Amazon S3 Vectors expands to 17 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/s3-vectors-expands-17-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
