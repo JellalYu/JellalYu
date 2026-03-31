@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Aurora DSQL launches new connectors that simplify building .NET and Rust applications](https://aws.amazon.com/about-aws/whats-new/2026/03/aurora-dsql-rust-npgsql-connectors/)
 - [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-service-availability/)
 - [Amazon ECS Managed Instances now supports Amazon EC2 instance store](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ecs-mi-local-storage/)
 - [AWS DevOps Agent is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-devops-agent-generally-available/)
 - [AWS Security Agent on-demand penetration testing is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-penetration/)
-- [AWS Private CA now publishes utilization metrics to Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-private-ca-publishes-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
