@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS VPC Encryption Controls now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-vpc-encryption-controls/)
 - [Amazon CloudFront now supports SHA-256 for signed URLs and signed cookies](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudfront-sha-256-signed-urls/)
 - [Amazon RDS for Oracle now supports cross-account snapshot sharing with additional storage volumes](https://aws.amazon.com/about-aws/whats-new/2026/04/rds-oracle-cross-account-snapshot-sharing-additional-storage-volume/)
 - [Oracle Database@AWS launches sub-millisecond network latency for high performance applications](https://aws.amazon.com/about-aws/whats-new/2026/04/oracle-database-aws-launches-high-performance-networking/)
 - [AWS Managed Microsoft AD adds Multi-Region replication for Opt-In regions](https://aws.amazon.com/about-aws/whats-new/2026/04/multi-region-opt-in-aws-microsoft-ad/)
-- [Amazon CloudWatch now supports ingesting Security Hub CSPM findings with organization-wide enablement](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-securityhub-findings/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
