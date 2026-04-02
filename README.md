@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ElastiCache Serverless now supports IPv6 and dual stack connectivity](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-elasticache-serverless-ipv6-dual-stack/)
+- [Amazon CloudWatch launches OTel Container Insights for Amazon EKS &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/cloudwatch-otel-container-insights-eks/)
+- [AWS Deadline Cloud now supports configurable job scheduling modes for queues](https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-job-scheduling/)
+- [Announcing compute-optimized instance bundles for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2026/04/lightsail-compute-optimized-instances/)
 - [Amazon CloudWatch expands auto-enablement to Amazon CloudFront logs and 3 additional resource types](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-cloudfront-enablement/)
-- [AWS Direct Connect announces 100G expansion in Auckland, New Zealand](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-direct-connect-100g-auckland/)
-- [Amazon CloudWatch now supports OpenTelemetry metrics in public preview](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-opentelemetry-metrics/)
-- [Amazon SES Mail Manager adds new features for enhanced security and email processing](https://aws.amazon.com/about-aws/whats-new/2026/04/ses-mail-manager-introduces-new-features/)
-- [Amazon ECS announces Managed Daemons for ECS Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-managed-daemons/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
