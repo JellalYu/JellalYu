@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon CloudWatch expands auto-enablement to Amazon CloudFront logs and 3 additional resource types](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-cloudfront-enablement/)
+- [AWS Direct Connect announces 100G expansion in Auckland, New Zealand](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-direct-connect-100g-auckland/)
 - [Amazon CloudWatch now supports OpenTelemetry metrics in public preview](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-opentelemetry-metrics/)
 - [Amazon SES Mail Manager adds new features for enhanced security and email processing](https://aws.amazon.com/about-aws/whats-new/2026/04/ses-mail-manager-introduces-new-features/)
 - [Amazon ECS announces Managed Daemons for ECS Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-managed-daemons/)
-- [Amazon SageMaker Data Agent now supports geo-specific inference for Japan and Australia](https://aws.amazon.com/about-aws/whats-new/2026/03/sage-maker-da-infr-jp-au/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
