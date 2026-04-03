@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Partner Revenue Measurement now supports User Agent string for certain AWS services](https://aws.amazon.com/about-aws/whats-new/2026/04/partner-revenue-measurement-user-agent-support/)
+- [Partner Revenue Measurement now supports AWS Marketplace Metering for certain AWS Marketplace products](https://aws.amazon.com/about-aws/whats-new/2026/04/partner-revenue-supports-mp-metering/)
 - [Amazon CloudWatch introduces PromQL querying with Query Studio Preview](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-query-studio-preview/)
 - [Amazon ElastiCache Serverless now supports IPv6 and dual stack connectivity](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-elasticache-serverless-ipv6-dual-stack/)
 - [Amazon CloudWatch launches OTel Container Insights for Amazon EKS &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/cloudwatch-otel-container-insights-eks/)
-- [AWS Deadline Cloud now supports configurable job scheduling modes for queues](https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-job-scheduling/)
-- [Announcing compute-optimized instance bundles for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2026/04/lightsail-compute-optimized-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
