@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Verified Permissions now supports policy store aliases and named policies and policy templates](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-verified-permissions-policy-store/)
+- [Amazon WorkSpaces Personal now supports unique DNS names for PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-personal-privatelink/)
+- [AWS announces general availability of Smithy-Java client framework](https://aws.amazon.com/about-aws/whats-new/2026/03/smithy-java-client-framework/)
 - [Apache Spark troubleshooting and upgrade agents now available as Kiro powers](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-emr-spark-troubleshooting-upgrade-kiro-power/)
 - [AWS Glue Schema Registry is now available in three more AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-gsr-3-more-regions/)
-- [Amazon SageMaker Data Agent introduces charting capabilities and support for materialized views](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sgmkr-dataagent-chart-mv/)
-- [Amazon Bedrock Guardrails announces general availability of cross-account safeguards](https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-guardrails-cross-account-safeguards/)
-- [Partner Revenue Measurement now supports User Agent string for certain AWS services](https://aws.amazon.com/about-aws/whats-new/2026/04/partner-revenue-measurement-user-agent-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
