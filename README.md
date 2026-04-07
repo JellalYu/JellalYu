@@ -50,8 +50,8 @@
 - [AWS Lambda expands response streaming support to all commercial AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-response-streaming/)
 - [AWS Cost Explorer launches Natural Language Query capabilities powered by Amazon Q](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-cost-explorer-natural-language-query/)
 - [Amazon Lightsail is now available in the Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-lightsail-malaysia/)
+- [Amazon Bedrock now offers Claude Mythos Preview &lpar;Gated Research Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-claude-mythos/)
 - [Amazon SageMaker adds serverless workflows to Identity Center domains](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-serverless-workflows/)
-- [Announcing Amazon S3 Files, making S3 buckets accessible as file systems](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-s3-files/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
