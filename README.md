@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Unified Studio adds notebook import/export and developer acceleration features](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-unified-studio/)
 - [Amazon Verified Permissions now supports policy store aliases and named policies and policy templates](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-verified-permissions-policy-store/)
 - [Amazon WorkSpaces Personal now supports unique DNS names for PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-personal-privatelink/)
 - [Amazon FSx for OpenZFS is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-openzfs-melbourne-region/)
 - [AWS announces general availability of Smithy-Java client framework](https://aws.amazon.com/about-aws/whats-new/2026/03/smithy-java-client-framework/)
-- [AWS IoT Greengrass component SDK for C, C++, and Rust applications](https://aws.amazon.com/about-aws/whats-new/2026/04/iot-greengrass-component-sdk/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
