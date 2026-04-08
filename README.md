@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock AgentCore Browser adds OS-level interaction capabilities](https://aws.amazon.com/about-aws/whats-new/2026/04/agentcore-browser-os-actions/)
 - [Amazon OpenSearch Service now supports Graviton4 based i8ge instances](https://aws.amazon.com/about-aws/whats-new/2026/4/amazon-opensearch-service-supports-i8ge/)
 - [Oracle Database@AWS is now available in twelve AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/oracle-database-aws-available-twelve-regions/)
 - [AWS Lambda expands response streaming support to all commercial AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-response-streaming/)
 - [AWS Cost Explorer launches Natural Language Query capabilities powered by Amazon Q](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-cost-explorer-natural-language-query/)
-- [Amazon Lightsail is now available in the Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-lightsail-malaysia/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
