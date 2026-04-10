@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Billing and Cost Management Dashboards Now Supports Scheduled Email Delivery](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-billing-and-cost-management-dashboards-scheduled-email-delivery/)
 - [Amazon Timestream for InfluxDB Now Supports Customer-Defined Maintenance Windows](https://aws.amazon.com/about-aws/whats-new/2026/04/timestream-influxdb-maintenance-windows/)
 - [Amazon Bedrock now supports cost allocation by IAM user and role](https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-iam-cost-allocation/)
 - [Amazon OpenSearch Service supports Managed Prometheus and agent tracing](https://aws.amazon.com/about-aws/whats-new/2026/04/opensearch-managed-prometheus-agent-tracing/)
 - [Amazon S3 Lifecycle pauses actions on objects that are unable to replicate](https://aws.amazon.com/about-aws/whats-new/2026/03/s3-lifecycle-pauses-actions-on-objects/)
-- [Amazon RDS Blue/Green Deployments now supports Amazon RDS Proxy](https://aws.amazon.com/about-aws/whats-new/2026/04/rds-proxy-blue-green/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
