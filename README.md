@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 X8i instances are now available in Europe &lpar;Paris&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-x8i-instances-CDG-region/)
 - [Amazon CloudWatch pipelines now supports drop and conditional processing](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-pipelines-conditional/)
 - [AWS Deadline Cloud supports monitor creation in multiple regions](https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-monitor-creation/)
 - [Amazon CloudWatch pipelines introduces new compliance and governance capabilities](https://aws.amazon.com/about-aws/whats-new/2026/04/cloudwatch-pipelines-compliance-governance/)
 - [Second-generation Amazon FSx for NetApp ONTAP is now available in four additional AWS commercial and AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/second-gen-amazon-fsx-ontap-regions/)
-- [AWS Billing and Cost Management Dashboards Now Supports Scheduled Email Delivery](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-billing-and-cost-management-dashboards-scheduled-email-delivery/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
