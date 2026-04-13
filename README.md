@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT is now available in Israel &lpar;Tel Aviv&rpar; and Europe &lpar;Milan&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-iot-israel-tel-aviv-europe-milan/)
+- [AWS Elastic Disaster Recovery now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-elastic-disaster-recovery-ipv6/)
 - [Amazon EC2 X8i instances are now available in Europe &lpar;Paris&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-x8i-instances-CDG-region/)
 - [Amazon CloudWatch pipelines now supports drop and conditional processing](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-pipelines-conditional/)
 - [AWS Deadline Cloud supports monitor creation in multiple regions](https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-monitor-creation/)
-- [Amazon CloudWatch pipelines introduces new compliance and governance capabilities](https://aws.amazon.com/about-aws/whats-new/2026/04/cloudwatch-pipelines-compliance-governance/)
-- [Second-generation Amazon FSx for NetApp ONTAP is now available in four additional AWS commercial and AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/second-gen-amazon-fsx-ontap-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
