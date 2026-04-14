@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C8gn, M8gn, and R8gn instances now support higher Amazon EBS-optimized performance](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-c8gn-m8gn-r8gn-ebs/)
 - [NVIDIA Nemotron-3-Super-120B, Qwen3.5-9B, and Qwen3.5-27B models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/04/nemotron3super-120b-qwen3.5-9b-qwen3.5-27b-on-sagemaker-jumpstart/)
 - [Amazon OpenSearch Serverless now supports Derived Source for storage optimization](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-serverless-supports-derived-source/)
 - [Amazon Redshift introduces key  performance  optimization for Top-K queries](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-topk-optimization/)
 - [Amazon Quick now supports document-level access controls for Google Drive knowledge bases](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-document-level-access-controls-google-drive/)
-- [Aurora DSQL launches connector that simplifies building PHP applications](https://aws.amazon.com/about-aws/whats-new/2026/04/aurora-dsql-connector-for-php/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
