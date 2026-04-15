@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Quick Introduces Sheet Tooltips for Rich, Contextual Data Exploration](https://aws.amazon.com/about-aws/whats-new/2026/04/quick-sheet-tooltips/)
 - [Amazon EC2 P6-B300 instances are now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-p6-b300-govcloud-us-east/)
 - [AWS Transform is now available in Kiro and VS Code](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transform-kiro-vscode/)
 - [AWS Secrets Manager now supports hybrid post-quantum TLS to protect secrets from quantum threats](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-secrets-manager-post-quantum-tls/)
-- [Amazon EC2 C8gn, M8gn, and R8gn instances now support higher Amazon EBS-optimized performance](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-c8gn-m8gn-r8gn-ebs/)
-- [NVIDIA Nemotron-3-Super-120B, Qwen3.5-9B, and Qwen3.5-27B models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/04/nemotron3super-120b-qwen3.5-9b-qwen3.5-27b-on-sagemaker-jumpstart/)
+- [AWS announces general availability of AWS Interconnect - multicloud](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-announces-ga-AWS-interconnect-multicloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
