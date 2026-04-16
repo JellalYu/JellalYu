@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elastic Disaster Recovery is now available in the AWS European Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/04/drs-thf/)
+- [Amazon Quick now supports multi-account sign-in within the same browser](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-multi-account-sign-in/)
 - [Claude Opus 4.7 is now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/04/claude-opus-4.7-amazon-bedrock/)
 - [AWS Payment Cryptography now available in South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-payment-cryptography-south/)
 - [Amazon Quick Introduces Sheet Tooltips for Rich, Contextual Data Exploration](https://aws.amazon.com/about-aws/whats-new/2026/04/quick-sheet-tooltips/)
-- [Amazon EC2 P6-B300 instances are now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-p6-b300-govcloud-us-east/)
-- [AWS Transform is now available in Kiro and VS Code](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transform-kiro-vscode/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
