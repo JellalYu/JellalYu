@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch now supports cross-region telemetry auditing and enablement rules](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-cross-region-enablement-rules/)
 - [AWS Elastic Disaster Recovery is now available in the AWS European Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/04/drs-thf/)
 - [Amazon Quick now supports multi-account sign-in within the same browser](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-multi-account-sign-in/)
 - [Claude Opus 4.7 is now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/04/claude-opus-4.7-amazon-bedrock/)
 - [AWS Payment Cryptography now available in South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-payment-cryptography-south/)
-- [Amazon Quick Introduces Sheet Tooltips for Rich, Contextual Data Exploration](https://aws.amazon.com/about-aws/whats-new/2026/04/quick-sheet-tooltips/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
