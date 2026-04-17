@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch RUM now available in AWS European Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-rum-european-sovereign-cloud/)
 - [Amazon CloudWatch now supports cross-region telemetry auditing and enablement rules](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-cross-region-enablement-rules/)
 - [AWS Elastic Disaster Recovery is now available in the AWS European Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/04/drs-thf/)
 - [Amazon WorkSpaces Personal and Amazon WorkSpaces Core are now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-available-two-new-regions/)
 - [Amazon FSx for Lustre Persistent-2 file systems are now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-lustre-persistent-2-aws/)
-- [Introducing Amazon EC2 C8in and C8ib instances](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
