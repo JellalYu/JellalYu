@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Deadline Cloud announces AI-powered troubleshooting assistant for render jobs](https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-ai-troubleshooting/)
+- [Amazon Managed Grafana now supports creating Grafana 12.4 workspaces](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-managed-grafana-v12-create/)
+- [SageMaker JumpStart now offers optimized deployments for foundation models](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-jumpstart-optimized-deployments/)
 - [Amazon CloudWatch RUM now available in AWS European Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-rum-european-sovereign-cloud/)
 - [Amazon CloudWatch now supports cross-region telemetry auditing and enablement rules](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-cross-region-enablement-rules/)
-- [AWS Elastic Disaster Recovery is now available in the AWS European Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/04/drs-thf/)
-- [Amazon WorkSpaces Personal and Amazon WorkSpaces Core are now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-available-two-new-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
