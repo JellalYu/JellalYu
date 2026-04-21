@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker now supports multi-region replication from IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2026/04/smus-identity-center/)
 - [AWS Marketplace streamlines VAT payment for deemed supply transactions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-vat/)
 - [Amazon Athena Spark adds support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-athena-spark-aws-privatelink/)
 - [AWS Lambda functions can now mount Amazon S3 buckets as file systems with S3 Files](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-amazon-s3/)
 - [AWS Transform custom is now available in six additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-atx-custom-additional-regions/)
-- [Amazon EC2 G7e instances now available in AWS Local Zones in Los Angeles](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-g7e-instances-local-zones/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
