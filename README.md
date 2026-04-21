@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Marketplace streamlines VAT payment for deemed supply transactions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-vat/)
+- [Amazon Athena Spark adds support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-athena-spark-aws-privatelink/)
 - [AWS Lambda functions can now mount Amazon S3 buckets as file systems with S3 Files](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-amazon-s3/)
+- [AWS Transform custom is now available in six additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-atx-custom-additional-regions/)
 - [Amazon EC2 G7e instances now available in AWS Local Zones in Los Angeles](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-g7e-instances-local-zones/)
-- [Amazon Aurora serverless: Up to 30% better performance, smarter scaling, and still scales to zero](https://aws.amazon.com/about-aws/whats-new/2026/04/aurora-serverless-smarter-scaling/)
-- [AWS Backup adds Amazon Redshift Serverless and Aurora DSQL support for AWS Organizations backup policies](https://aws.amazon.com/about-aws/whats-new/2026/04/backup-policies-aurora-dsql-redshift-serverless/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
