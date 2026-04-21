@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora serverless: Up to 30% better performance, smarter scaling, and still scales to zero](https://aws.amazon.com/about-aws/whats-new/2026/04/aurora-serverless-smarter-scaling/)
 - [Amazon Connect Outbound Campaigns now supports contact priority ordering](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-priority-dialing/)
 - [Amazon EBS expands volume modification enhancement to AWS European Sovereign Cloud Region](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ebs-four-volume-modifications-european-sovereign-region/)
 - [Amazon EVS now offers Microsoft Windows Server Licensing](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-evs-windows-server-licensing/)
 - [AWS IoT Greengrass v2.17 now supports non-root installation and introduces new light weight components](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-iot-greengrass-v217/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports in-place upgrade from version 5.0 to 8.0](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-documentdb-mongodb-in-place-version-upgrade-5-0-to-8-0/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
