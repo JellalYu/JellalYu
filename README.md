@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Secrets Manager extends managed external secrets to MongoDB Atlas and Confluent Cloud](https://aws.amazon.com/about-aws/whats-new/2026/04/secrets-manager-managed-external-secrets-mongodb-confluent/)
+- [Amazon SageMaker AI launches optimized generative AI inference recommendations](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-ai-inference-rec/)
 - [Amazon SageMaker now supports multi-region replication from IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2026/04/smus-identity-center/)
 - [Five new Qwen models for coding agents and efficient reasoning are now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/04/qwen-models-on-sagemaker-jumpstart/)
 - [Introducing the Amazon EKS Hybrid Nodes gateway for hybrid Kubernetes networking](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-hybrid-nodes-gateway/)
-- [AWS Marketplace streamlines VAT payment for deemed supply transactions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-vat/)
-- [Amazon Athena Spark adds support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-athena-spark-aws-privatelink/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
