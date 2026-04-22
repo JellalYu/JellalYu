@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon SageMaker now supports multi-region replication from IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2026/04/smus-identity-center/)
+- [Introducing the Amazon EKS Hybrid Nodes gateway for hybrid Kubernetes networking](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-hybrid-nodes-gateway/)
 - [AWS Marketplace streamlines VAT payment for deemed supply transactions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-vat/)
 - [Amazon Athena Spark adds support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-athena-spark-aws-privatelink/)
 - [AWS Lambda functions can now mount Amazon S3 buckets as file systems with S3 Files](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-amazon-s3/)
-- [Amazon CloudWatch pipelines now supports configuration of processors via AI](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-pipelines-ai-configuration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
