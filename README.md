@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker supports notebooks and data agent for IdC domains](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-idc/)
+- [Attributed Revenue Dashboard Now Available in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2026/04/attributed-revenue-dashboard-launch/)
+- [AWS Elastic Beanstalk AI-powered environment analysis now supports Windows](https://aws.amazon.com/about-aws/whats-new/2026/04/elastic-beanstalk-ai-analysis-windows/)
+- [Second-generation AWS Outposts racks now supported in the AWS Asia Pacific &lpar;Seoul, Sydney&rpar; and Europe &lpar;Paris&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/second-generation-aws-outposts-racks-sydney-seoul-paris/)
 - [Amazon Quick now supports multiple owners for admin-managed SharePoint and Google Drive knowledge bases](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-sharepoint/)
-- [Amazon Redshift supports UPDATE, DELETE, MERGE for Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2026/04/redshift-update-delete-merge-iceberg-tables/)
-- [Amazon Quick now supports permission verification for ACL-enabled knowledge bases](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-acl/)
-- [Amazon S3 now supports five additional checksum algorithms](https://aws.amazon.com/about-aws/whats-new/2026/04/s3-five-additional-checksum-algorithms/)
-- [Amazon SageMaker Unified Studio now supports VPC for notebook kernels](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-unified-studio-vpc/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
