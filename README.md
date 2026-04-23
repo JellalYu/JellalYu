@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift supports UPDATE, DELETE, MERGE for Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2026/04/redshift-update-delete-merge-iceberg-tables/)
 - [Amazon SageMaker Unified Studio now supports VPC for notebook kernels](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-unified-studio-vpc/)
 - [Amazon SageMaker Unified Studio now supports multiple code spaces within projects for IAM domains](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-code-spaces/)
 - [Amazon EC2 C8i-flex instances are now available in Europe &lpar;Ireland, London&rpar;, and Asia Pacific &lpar;New Zealand&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-flex-instances-europe-ireland-europe-london-asia-pacific-new-zealand-regions/)
 - [Amazon EC2 C8i instances are now available in Europe &lpar;Ireland&rpar; and Asia Pacific &lpar;New Zealand&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-instances-europe-ireland-asia-pacific-new-zealand-regions/)
-- [Enhancements to AWS Network Firewall Managed Rules from AWS Marketplace Partners](https://aws.amazon.com/about-aws/whats-new/2026/04/marketplace-managed-rules-enhancements/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
