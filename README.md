@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Athena simplifies federated queries with managed connectors](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-athena/)
 - [AWS Parallel Computing Service now supports Slurm 25.11](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-pcs-slurm-25-11/)
 - [Amazon SageMaker supports notebooks and data agent for IdC domains](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-idc/)
 - [Attributed Revenue Dashboard Now Available in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2026/04/attributed-revenue-dashboard-launch/)
 - [AWS Elastic Beanstalk AI-powered environment analysis now supports Windows](https://aws.amazon.com/about-aws/whats-new/2026/04/elastic-beanstalk-ai-analysis-windows/)
-- [Second-generation AWS Outposts racks now supported in the AWS Asia Pacific &lpar;Seoul, Sydney&rpar; and Europe &lpar;Paris&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/second-generation-aws-outposts-racks-sydney-seoul-paris/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
