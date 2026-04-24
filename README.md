@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon EC2 High Memory U7i instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-high-memory-u7i/)
+- [Amazon Connect now provides eight new metrics to measure and improve AI agent performance](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-ai-agent-metrics/)
+- [AWS Marketplace Management Portal now supports bank account deletion](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-management-portal/)
 - [Amazon Athena simplifies federated queries with managed connectors](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-athena/)
 - [AWS Client VPN now supports native AWS Transit Gateway integration](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-client-vpn-transit-gateway/)
-- [Amazon SageMaker HyperPod now supports automatic Slurm topology management](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-hyperpod-automatic-slurm-topology/)
-- [AWS Parallel Computing Service now supports Slurm 25.11](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-pcs-slurm-25-11/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
