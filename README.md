@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift Serverless is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; and Canada West &lpar;Calgary&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-melbourne-calgary-regions/)
+- [Amazon Connect increases attachment file sizes and adds custom file types](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-increases-attachment/)
+- [Amazon FSx for OpenZFS Single-AZ &lpar;HA&rpar; file systems are now available in 17 additional AWS commercial and AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-openzfs-single-az-ha/)
 - [Amazon SageMaker HyperPod now supports G7e and r5d.16xlarge instances](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-hyperpod-g7e-r5d/)
 - [Amazon WorkSpaces Personal Supports Rocky 9, Red Hat Enterprise Linux 9, and Ubuntu 24.04](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-workspaces-rocky9-rhel9-ubuntu24/)
-- [AWS Lambda Provisioned Mode for Kafka event source mappings &lpar;ESMs&rpar; now available in AWS Asia Pacific &lpar;Taipei&rpar; and AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-Lambda-provisioned-esm-region-expansion/)
-- [Amazon Quick now integrates with Visier’s Vee agent for workforce intelligence](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-visier-vee/)
-- [Amazon Bedrock AgentCore Gateway and Identity support VPC egress](https://aws.amazon.com/about-aws/whats-new/2024/04/agentcore-gateway-identity-vpc/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
