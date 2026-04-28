@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Redshift Serverless AI-driven scaling is now the default for new workgroups](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-ai-driven-scaling-default/)
+- [AWS KMS now tracks last usage of all KMS keys](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-kms-tracks-last-usage-kms-keys/)
 - [Amazon Redshift Serverless is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; and Canada West &lpar;Calgary&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-melbourne-calgary-regions/)
 - [Amazon Connect increases attachment file sizes and adds custom file types](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-increases-attachment/)
 - [Amazon FSx for OpenZFS Single-AZ &lpar;HA&rpar; file systems are now available in 17 additional AWS commercial and AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-openzfs-single-az-ha/)
-- [Amazon SageMaker HyperPod now supports G7e and r5d.16xlarge instances](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-hyperpod-g7e-r5d/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
