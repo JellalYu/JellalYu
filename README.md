@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Redshift Serverless AI-driven scaling is now the default for new workgroups](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-ai-driven-scaling-default/)
-- [AWS KMS now tracks last usage of all KMS keys](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-kms-tracks-last-usage-kms-keys/)
-- [Amazon Redshift Serverless is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; and Canada West &lpar;Calgary&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-melbourne-calgary-regions/)
-- [Amazon Connect increases attachment file sizes and adds custom file types](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-increases-attachment/)
-- [Amazon FSx for OpenZFS Single-AZ &lpar;HA&rpar; file systems are now available in 17 additional AWS commercial and AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-openzfs-single-az-ha/)
+- [Amazon Connect Talent for AI-powered hiring &lpar;now available in Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-talent-ai-powered/)
+- [AWS Announces Amazon Connect Decisions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-decisions-april/)
+- [Amazon Quick now supports document and visual creation in chat](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick/)
+- [Amazon Quick expands integrations to include Google Workspace, Zoom, Airtable, and more](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-google-workspace-zoom/)
+- [Start using Amazon Quick for free in minutes with Free and Plus pricing plans](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-free-plus/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
