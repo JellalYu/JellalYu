@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Outposts racks now support LagStatus CloudWatch metric](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-outposts-lagstatus-cloudwatch/)
+- [Amazon ECS Managed Instances now supports NVIDIA GPU metrics](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-mi-gpu-metrics/)
 - [Amazon MQ for RabbitMQ now supports Prometheus metrics](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mq-rabbitmq-prometheus-metrics/)
+- [Amazon Bedrock AgentCore Identity now supports On-Behalf-Of &lpar;OBO&rpar; token exchange](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore/)
 - [AWS Neuron SDK now available with Neuron Agentic Development for NKI kernel development on Trainium](https://aws.amazon.com/about-aws/whats-new/2026/04/announcing-neuron-agentic-development/)
-- [AWS Lambda adds support for Ruby 4.0](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-adds-ruby/)
-- [Amazon Quick adds Microsoft Excel, PowerPoint extensions and updates the Word extension &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-microsoft-excel/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
