@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock AgentCore is now available in the South America &lpar;São Paulo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-sao-paulo-region/)
+- [FreeRTOS 202604 LTS now available with enhanced security and MQTT v5.0](https://aws.amazon.com/about-aws/whats-new/2026/04/freertos-lts/)
 - [OpenSearch UI supports cross-region data access to OpenSearch domains](https://aws.amazon.com/about-aws/whats-new/2026/05/opensearch-ui-cross-region-data-access-domains/)
 - [Amazon CloudFront Announces WebSocket Support for VPC Origins](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-websockets-vpc-origins/)
 - [IAM Roles Anywhere now enforces VPC endpoint policies for the CreateSession API](https://aws.amazon.com/about-aws/whats-new/2026/05/iam-roles-anywhere-vpc/)
-- [Amazon Redshift Introduces Concurrency Scaling Support for auto-copy and zero-ETL](https://aws.amazon.com/about-aws/whats-new/2026/03/concurrency-scaling-auto-copy-zero-ETL/)
-- [AWS Transform now offers BI migration agents for Power BI and Tableau to Amazon Quick](https://aws.amazon.com/about-aws/whats-new/2026/05/quick-bi-migration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
