@@ -50,8 +50,8 @@
 - [Amazon CloudFront Announces WebSocket Support for VPC Origins](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-websockets-vpc-origins/)
 - [IAM Roles Anywhere now enforces VPC endpoint policies for the CreateSession API](https://aws.amazon.com/about-aws/whats-new/2026/05/iam-roles-anywhere-vpc/)
 - [Amazon Redshift Introduces Concurrency Scaling Support for auto-copy and zero-ETL](https://aws.amazon.com/about-aws/whats-new/2026/03/concurrency-scaling-auto-copy-zero-ETL/)
+- [AWS Transform now offers BI migration agents for Power BI and Tableau to Amazon Quick](https://aws.amazon.com/about-aws/whats-new/2026/05/quick-bi-migration/)
 - [Announcing Kubernetes Dynamic Resource Allocation for Elastic Fabric Adapter](https://aws.amazon.com/about-aws/whats-new/2026/05/kubernetes-dra-elastic-fabric-adapter/)
-- [Amazon RDS for SQL Server supports cross-account snapshot sharing with additional storage volumes](https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-cross-account-snapshot-sharing-additional-storage-volume/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
