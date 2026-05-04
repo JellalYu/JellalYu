@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Quick now supports S3 tables bucket as a data source](https://aws.amazon.com/about-aws/whats-new/2026/05/quick-direct-query-s3-tables/)
+- [Amazon SageMaker AI launches AI agent experience for model customization](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ai-ai/)
 - [Amazon Bedrock AgentCore is now available in the South America &lpar;São Paulo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-sao-paulo-region/)
 - [FreeRTOS 202604 LTS now available with enhanced security and MQTT v5.0](https://aws.amazon.com/about-aws/whats-new/2026/04/freertos-lts/)
 - [OpenSearch UI supports cross-region data access to OpenSearch domains](https://aws.amazon.com/about-aws/whats-new/2026/05/opensearch-ui-cross-region-data-access-domains/)
-- [Amazon CloudFront Announces WebSocket Support for VPC Origins](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-websockets-vpc-origins/)
-- [IAM Roles Anywhere now enforces VPC endpoint policies for the CreateSession API](https://aws.amazon.com/about-aws/whats-new/2026/05/iam-roles-anywhere-vpc/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
