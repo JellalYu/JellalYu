@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [AWS Entity Resolution launches support for incremental Machine Learning based matching workflows](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-entity-resolution-ml/)
 - [Amazon Quick generates dashboards from natural language prompts](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-generates-analyses-from-natural-language-prompts/)
+- [Amazon Aurora DSQL now supports the JSON data type with compression](https://aws.amazon.com/about-aws/whats-new/2026/05/aurora-dsql-json-support/)
 - [Amazon Quick introduces Dataset Q&amp;A for conversational analytics against enterprise data](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-dataset-qa/)
 - [Amazon Quick now supports S3 tables bucket as a data source](https://aws.amazon.com/about-aws/whats-new/2026/05/quick-direct-query-s3-tables/)
-- [Amazon Quick upgrades the extension for Microsoft Outlook &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-microsoft-outlook/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
