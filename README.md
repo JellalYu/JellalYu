@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS SAM CLI adds BuildKit support for AWS Lambda functions packaged as container images](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-cli-buildkit-aws-lambda/)
+- [AWS SAM now supports WebSocket APIs for Amazon API Gateway](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-websocket-apis-api-gateway/)
 - [Amazon ElastiCache adds thirteen new Amazon CloudWatch metrics for network capacity planning and engine diagnostics](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-cloudwatch-metrics-network-engine-diagnostics/)
 - [Amazon WorkSpaces now lets AI agents operate desktop applications &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-ai-agents/)
-- [Amazon Quick now integrates with New Relic for observability-driven AI agents](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-new-relic/)
-- [Amazon Connect Cases now supports customer profile identity resolution](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-cases-customer-profiles-id-res/)
-- [Amazon OpenSearch Service expands Cluster Insights with a new insight](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-cluster-insights/)
+- [AWS IoT Core for Device Location adds Confidence Level Configuration and Measurement Type support](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-device-location/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
