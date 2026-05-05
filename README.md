@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Cases now supports customer profile identity resolution](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-cases-customer-profiles-id-res/)
+- [Amazon OpenSearch Service expands Cluster Insights with a new insight](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-cluster-insights/)
+- [AWS IAM now provides higher maximum quotas for roles, role trust policies, instance profiles, managed policies, and identity providers](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iam-increased-quotas/)
 - [Amazon CloudWatch Logs Insights supports querying by log group tags](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudwatch-logs-query-by-tags/)
 - [Amazon WorkSpaces Applications now supports host-to-client URL redirection](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-workspaces-applications-url/)
-- [AWS Entity Resolution launches support for incremental Machine Learning based matching workflows](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-entity-resolution-ml/)
-- [Amazon FSx is now available in the AWS Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-fsx-aws-asia-pacific/)
-- [Amazon Quick generates dashboards from natural language prompts](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-generates-analyses-from-natural-language-prompts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
