@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaTailor now provides automatic secure server-to-server integration with Google&#39;s ad platforms](https://aws.amazon.com/about-aws/whats-new/2026/05/mediatailor-automatic-google-ad-platform-integration)
 - [AWS SAM CLI adds BuildKit support for AWS Lambda functions packaged as container images](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-cli-buildkit-aws-lambda/)
 - [AWS SAM now supports WebSocket APIs for Amazon API Gateway](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-websocket-apis-api-gateway/)
 - [Amazon ElastiCache adds thirteen new Amazon CloudWatch metrics for network capacity planning and engine diagnostics](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-cloudwatch-metrics-network-engine-diagnostics/)
 - [Amazon WorkSpaces now lets AI agents operate desktop applications &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-ai-agents/)
-- [AWS IoT Core for Device Location adds Confidence Level Configuration and Measurement Type support](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-device-location/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
