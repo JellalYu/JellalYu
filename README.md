@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Site-to-Site VPN now supports modifying tunnel bandwidth on existing VPN connections](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-site-to-site-vpn-modify-bandwidth/)
+- [Amazon EC2 P6-B300 instances are now available in the US East &lpar;N. Virginia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-p6-b300-us-east)
 - [AWS Marketplace now supports programmatic procurement with Agreements API](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-marketplace-agreements-api/)
 - [Amazon Neptune now supports 1-click connect with CloudShell](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-neptune-cloudshell/)
-- [AWS Elastic Beanstalk now supports TLS listeners for Network Load Balancers](https://aws.amazon.com/about-aws/whats-new/2026/04/elastic-beanstalk-tls-support/)
-- [AWS Elemental MediaTailor now supports ad trickplay personalization and compact DASH manifest optimization via dynamic transcoding](https://aws.amazon.com/about-aws/whats-new/2026/05/mediatail-ad-trickplay-and-compact-dash-manifest-optimization)
-- [Announcing Agent Toolkit for AWS — help AI coding agents build effectively on AWS](https://aws.amazon.com/about-aws/whats-new/2026/05/agent-toolkit/)
+- [Amazon Bedrock AgentCore Memory announces metadata for long-term memory](https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-longterm-memory-metadata)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
