@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon SageMaker Unified Studio adds identity and user management features](https://aws.amazon.com/about-aws/whats-new/2026/05/smus-identity-user-management/)
 - [AWS Capabilities by Region now supports availability notifications](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-regional-planning-tool-notification)
+- [AWS Elemental MediaTailor launches Monetization Functions](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-elemental-mediatailor-monetization-functions)
 - [Amazon SageMaker HyperPod now supports AMI-based node lifecycle configuration for Slurm clusters](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-ami-based-node/)
 - [AWS India customers can now use UPI Scan and Pay for sign-up and payments](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-india-upi-scanandpay/)
-- [Agents that transact: Amazon Bedrock AgentCore now includes Payments &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore-payments-preview)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
