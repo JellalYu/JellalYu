@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 G6 instances now available in AWS European Sovereign Cloud &lpar;Germany&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-g6-aws-european-sovereign-cloud/)
 - [Amazon EC2 X8i instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-BOM-DUB-region/)
 - [Amazon SageMaker Unified Studio adds identity and user management features](https://aws.amazon.com/about-aws/whats-new/2026/05/smus-identity-user-management/)
 - [Amazon EC2 G7e instances now available in Europe &lpar;London&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-g7e-london-region/)
 - [AWS Capabilities by Region now supports availability notifications](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-regional-planning-tool-notification)
-- [AWS Elemental MediaTailor launches Monetization Functions](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-elemental-mediatailor-monetization-functions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
