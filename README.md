@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Client VPN now supports Ubuntu OS version 26.04 LTS](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-client-vpn-ubuntu-26/)
+- [Amazon Connect adds default Step-by-Step Guides for After Contact Work](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-adds-default-step-by-step-guides-for-after-contact-work)
 - [Amazon Route 53 Global Resolver now lets you add and remove AWS Regions for anycast DNS resolution](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-global-resolver-aws/)
 - [AWS Service Catalog is now available in the AWS Asia Pacific &lpar;New Zealand&rpar; and Canada West &lpar;Calgary&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-service-catalog-calgary-new-zealand-regions/)
 - [IAM Policy Autopilot adds Java support and Terraform-aware policy generation](https://aws.amazon.com/about-aws/whats-new/2026/05/iam-policy-autopilot/)
-- [Amazon Route 53 Resolver endpoints now support additional capabilities for IPv6 query traffic](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-53-resolver-ipv6/)
-- [AWS Marketplace introduces Tax management portal for sellers](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-marketplace-tax/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
