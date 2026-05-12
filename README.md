@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Region Expansion of P6-B200 instances on SageMaker Studio notebooks](https://aws.amazon.com/about-aws/whats-new/2026/05/p6-b200-region-expansion-sagemaker-studio-notebooks/)
 - [Announcing Region Expansion of G6e instances on SageMaker Studio notebooks](https://aws.amazon.com/about-aws/whats-new/2026/04/g6e-region-expansion-sagemaker-studio-notebooks/)
 - [Announcing Region Expansion of G6 instances on SageMaker Studio notebooks](https://aws.amazon.com/about-aws/whats-new/2026/03/g6-region-expansion-sagemaker-studio-notebooks/)
+- [ENA Express for Amazon EC2 instances now supports traffic between Availability Zones](https://aws.amazon.com/about-aws/whats-new/2026/05/ena-express-availability-zones/)
 - [Announcing Region Expansion of P4de instances on SageMaker Studio notebooks](https://aws.amazon.com/about-aws/whats-new/2026/02/p4de-region-expansion-sagemaker-studio-notebooks/)
-- [Amazon Aurora DSQL is now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-dsql-five-additional-aws-regions/)
-- [AWS HealthOmics now supports caching of cancelled workflow runs](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-healthomics-caching-cancelled-runs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
