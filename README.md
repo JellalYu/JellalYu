@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [AWS Lambda supports scheduled scaling for functions on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-lambda-managed-instances/)
 - [Amazon EventBridge Scheduler adds 619 new SDK API actions, including Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-eventbridge-sdk-integrations/)
+- [AWS Security Agent now supports full repository code reviews](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent-full-repository-code-review/)
 - [Amazon SageMaker Feature Store now supports SageMaker Python SDK V3](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-feature-store-pyv3/)
 - [Karpenter now supports Amazon Application Recovery Controller zonal shift](https://aws.amazon.com/about-aws/whats-new/2026/05/karpenter-arc-zonal-shift/)
-- [Amazon Redshift launches RG instances powered by AWS Graviton](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-rg-instances-powered-by-graviton)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
