@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon SageMaker Data Agent now available for IAM Identity Center domains](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-data-agent-idc/)
-- [Amazon FSx for OpenZFS now supports creating Multi-AZ file systems in shared VPCs](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-fsx-openzfs-multi-az-vpcs/)
-- [Amazon RDS for Oracle now supports M8i and R8i instances with Oracle SE2 License Included](https://aws.amazon.com/about-aws/whats-new/amazon-oracle-m8i-r8i-license-included)
-- [AWS Lambda supports scheduled scaling for functions on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-lambda-managed-instances/)
-- [Amazon EventBridge Scheduler adds 619 new SDK API actions, including Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-eventbridge-sdk-integrations/)
+- [SageMaker AI now supports serverless model customization for Qwen3.6](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ft-qwen3-6/)
+- [AWS Transform agents now available in Kiro, Claude, Cursor, and Codex](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transform-developer-tools/)
+- [AWS Transform introduces the agent builder toolkit Kiro power for building customized transformation agents](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-agent-builder-toolkit/)
+- [ARC Region switch adds Lambda event source mapping execution block for event handling during failover](https://aws.amazon.com/about-aws/whats-new/2026/05/region-switch-lambda-esm-execution-block/)
+- [Amazon Aurora DSQL now supports change data capture &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-dsql-change-data-capture-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
