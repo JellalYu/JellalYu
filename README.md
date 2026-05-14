@@ -50,8 +50,8 @@
 - [SageMaker AI now supports serverless model customization for Qwen3.6](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ft-qwen3-6/)
 - [AWS Transform agents now available in Kiro, Claude, Cursor, and Codex](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transform-developer-tools/)
 - [AWS Transform introduces the agent builder toolkit Kiro power for building customized transformation agents](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-agent-builder-toolkit/)
+- [New models for image generation and text embeddings are now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/05/image-embeddings-models-on-sagemaker-jumpstart/)
 - [ARC Region switch adds Lambda event source mapping execution block for event handling during failover](https://aws.amazon.com/about-aws/whats-new/2026/05/region-switch-lambda-esm-execution-block/)
-- [Amazon Aurora DSQL now supports change data capture &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-dsql-change-data-capture-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
