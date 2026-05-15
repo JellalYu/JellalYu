@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon CloudFront announces Passthrough Mode for mutual TLS &lpar;Viewer&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-mtls-passthrough/)
+- [Amazon CloudFront announces support for OCSP Revocation for Mutual TLS &lpar;Viewer&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-mtls-ocsp/)
 - [Amazon Bedrock Introduces Advanced Prompt Optimization and Migration Tool](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-advanced-prompt-optimization-migration-tool/)
 - [Announcing general availability of Amazon EC2 M3 Ultra Mac instances](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m3-ultra-mac-instances-generally-available/)
 - [SageMaker AI now supports serverless model customization for Qwen3.6](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ft-qwen3-6/)
-- [AWS Transform agents now available in Kiro, Claude, Cursor, and Codex](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transform-developer-tools/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
