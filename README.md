@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub now uncovers identity risks from unused access](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-hub-unused-access/)
 - [Security Hub Extended expands to 21 curated partner solutions across 9 categories](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-hub-extended/)
 - [AWS announces ExtendDB, an open source DynamoDB-compatible adapter](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-extenddb-dynamodb/)
 - [AWS Billing Conductor Improves Account Visibility with Billing Transfer Inventory](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-billing-conductor-billing-transfer/)
 - [ECS supports native integration with Amazon EBS volumes in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2026/05/ecs-amazon-ebs-govcloud/)
-- [Announcing the general availability of a new AWS Local Zone in Istanbul, Türkiye](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-local-zones-istanbul-turkiye/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
