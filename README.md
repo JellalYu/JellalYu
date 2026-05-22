@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Agent adds verification scripts for pentest findings](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent/)
+- [Amazon WorkSpaces Personal now supports WorkSpace Migration for Linux WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-linux-migration)
+- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; expands to Asia Pacific &lpar;Malaysia&rpar; and Asia Pacific &lpar;Thailand&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-keyspaces-malaysia-thailand/)
+- [AWS Clean Rooms now supports mutable payment configurations for collaborations](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-clean-rooms-mutable-payments)
 - [Amazon CloudWatch Logs Insights adds new query commands and functions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-insights/)
-- [Amazon EC2 C7i-flex, M7i-flex &amp; M7i instances now available in Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-c7i-flex-m7i-flex-m7i-instances-HYD-region/)
-- [SageMaker Unified Studio automates Glue connector provisioning for cross-subnet job retries](https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-unified-studio-glue/)
-- [Amazon SageMaker AI now supports OpenAI-compatible APIs for inference endpoints](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ai-openai-apis/)
-- [Amazon Aurora MySQL 8.4  is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-mysql/8-4/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
