@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon RDS now supports ENA Express for Multi-AZ replication](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-ena-express-multiAZ/)
+- [Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8i-m8i-flex-govcloud-east/)
+- [Amazon EC2 R8i and R8i-flex instances are now available in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-r8i-r8i-flex-govcloud-east/)
 - [Amazon VPC IPAM now supports tags on IPAM pool allocations](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-vpc-ipam-tags/)
 - [Amazon SageMaker Unified Studio adds interactive interface for managing Feature Store in IAM Domains](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-feature-store/)
-- [Amazon SageMaker expands domain management across domain types](https://aws.amazon.com/about-aws/whats-new/2026/05/domain-management-iam-idc/)
-- [New agentic migration assessment capabilities now available with AWS Transform](https://aws.amazon.com/about-aws/whats-new/2026/05/assessment-capabilities-transform)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
