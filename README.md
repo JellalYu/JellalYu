@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Unified Studio adds interactive interface for managing Feature Store in IAM Domains](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-feature-store/)
 - [Amazon SageMaker expands domain management across domain types](https://aws.amazon.com/about-aws/whats-new/2026/05/domain-management-iam-idc/)
 - [New agentic migration assessment capabilities now available with AWS Transform](https://aws.amazon.com/about-aws/whats-new/2026/05/assessment-capabilities-transform)
 - [Amazon SageMaker adds business metadata and governance in IAM-based domains](https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-catalog-iam-domains/)
 - [AWS Security Agent adds verification scripts for pentest findings](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent/)
-- [Amazon WorkSpaces Personal now supports WorkSpace Migration for Linux WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-linux-migration)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
