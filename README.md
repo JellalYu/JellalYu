@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [SageMaker Notebook Instances now support P5.4xl instance types](https://aws.amazon.com/about-aws/whats-new/2026/03/g6-region-expansion-sagemaker-notebook-instances/)
-- [SageMaker Notebook Instances now support P5en.48xl instance types](https://aws.amazon.com/about-aws/whats-new/2026/02/g6-region-expansion-sagemaker-notebook-instances/)
+- [SageMaker Notebook Instances now support P5.4xl instance types](https://aws.amazon.com/about-aws/whats-new/2026/03/p5-4xl-new-instance-launch-sagemaker-notebook-instances/)
+- [SageMaker Notebook Instances now support P5en.48xl instance types](https://aws.amazon.com/about-aws/whats-new/2026/02/p5en-new-instance-launch-sagemaker-notebook-instances/)
 - [Amazon EMR now supports Apache Spark 4.0.2 in general availability](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-apache-spark/)
+- [AWS Glue large and memory optimized workers now available in Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-glue-larger-memory-intensive-workers-spain)
 - [Amazon Connect Customer now uses generative AI to automatically evaluate self-service interactions](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-gen-AI-evaluations-self-service)
-- [Amazon SageMaker HyperPod Slurm clusters now support specifying minimum capacity requirements with continuous provisioning](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-mincount/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
