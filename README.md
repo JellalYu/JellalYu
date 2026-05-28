@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Claude Opus 4.8 is now available on AWS](https://aws.amazon.com/about-aws/whats-new/2026/05/claude-opus-4.8-aws/)
+- [DynamoDB Streams now supports AWS PrivateLink for FIPS endpoints in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-dynamodb-streams-privatelink-fips-govcloud/)
 - [Announcing Region Expansion of P6-B200 instances on SageMaker Notebook Instances](https://aws.amazon.com/about-aws/whats-new/2026/06/p6-b200-region-expansion-sagemaker-notebook-instances/)
-- [Amazon Bedrock expands support for Service Quotas](https://aws.amazon.com/about-aws/whats-new/2026/5/amazon-bedrock-service-quotas/)
-- [SageMaker Notebook Instances now support P5.4xl instance types](https://aws.amazon.com/about-aws/whats-new/2026/03/p5-4xl-new-instance-launch-sagemaker-notebook-instances/)
-- [SageMaker Notebook Instances now support P5en.48xl instance types](https://aws.amazon.com/about-aws/whats-new/2026/02/p5en-new-instance-launch-sagemaker-notebook-instances/)
-- [Amazon EMR now supports Apache Spark 4.0.2 in general availability](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-apache-spark/)
+- [Announcing Region Expansion of P5.48xl instances on SageMaker Notebook Instances](https://aws.amazon.com/about-aws/whats-new/2026/05/p5-48xl-region-expansion-sagemaker-notebook-instances/)
+- [Announcing Region Expansion of P4de instances on SageMaker Notebook Instances](https://aws.amazon.com/about-aws/whats-new/2026/04/p4de-region-expansion-sagemaker-notebook-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
