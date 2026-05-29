@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Connect Customer now supports scheduling tasks up to 90 days in advance](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-tasks-90day-schedule)
 - [AWS Shield Advanced introduces DDoS attack flow logs](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-shield-ddos/)
+- [AWS Interconnect - multicloud now offers a free 500 Mbps tier](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-interconnect-multicloud-offers-free-500-mbps-tier)
 - [Amazon RDS for Oracle now supports April 2026 Release Update and Supplemental Patch Bundle](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-oracle-supports-april-2026-release-update-supplemental-patch-bundle)
 - [Oracle Database@AWS is now available in twenty AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/05/oracle-database-aws-available-twenty-regions/)
-- [Amazon S3 Tables are now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-s3-tables-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
