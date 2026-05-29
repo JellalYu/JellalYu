@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Tables are now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-s3-tables-aws-regions/)
 - [Monitor AWS Budgets directly in Billing and Cost Management Dashboards with new Budgets widget](https://aws.amazon.com/about-aws/whats-new/2026/05/monitor-aws-budgets-using-dashboards)
 - [AWS IoT Core adds APIs for MQTT connection management](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-apis-mqtt/)
 - [AWS Organizations emits CloudTrail events for account membership changes](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-cloudtrail/)
 - [AWS announces general availability of the next generation of AWS Resilience Hub](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-announces-next-gen-aws-resilience-hub/)
-- [Amazon Connect Customer expands generative AI-powered post-contact summaries to eight new languages](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-summary-languages/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
