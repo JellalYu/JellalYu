@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Customer now supports scheduling tasks up to 90 days in advance](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-tasks-90day-schedule)
+- [AWS Shield Advanced introduces DDoS attack flow logs](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-shield-ddos/)
+- [Amazon RDS for Oracle now supports April 2026 Release Update and Supplemental Patch Bundle](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-oracle-supports-april-2026-release-update-supplemental-patch-bundle)
+- [Oracle Database@AWS is now available in twenty AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/05/oracle-database-aws-available-twenty-regions/)
 - [Amazon S3 Tables are now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-s3-tables-aws-regions/)
-- [Monitor AWS Budgets directly in Billing and Cost Management Dashboards with new Budgets widget](https://aws.amazon.com/about-aws/whats-new/2026/05/monitor-aws-budgets-using-dashboards)
-- [AWS IoT Core adds APIs for MQTT connection management](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-apis-mqtt/)
-- [AWS Organizations emits CloudTrail events for account membership changes](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-cloudtrail/)
-- [AWS announces general availability of the next generation of AWS Resilience Hub](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-announces-next-gen-aws-resilience-hub/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
