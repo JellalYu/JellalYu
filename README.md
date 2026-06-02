@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS HealthOmics now supports Nextflow version pinning at run time](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-pinning-at-runtime/)
+- [AWS HealthOmics now supports Nextflow version 26.04](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-26-04/)
 - [Quick Research now supports customer managed keys](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-research-cm-keys)
 - [Amazon Quick now supports VPC connectivity for MCP connections](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-vpc-mcp/)
 - [Amazon SageMaker adds permissions boundaries for SCP compliance](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-scp/)
-- [Amazon Bedrock AgentCore Identity now allows you to bring your own secrets with AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-identity-secrets-manager/)
-- [Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8i-m8i-flex-new-zealand/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
