@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ElastiCache for Valkey now supports durability](https://aws.amazon.com/about-aws/whats-new/2026/06/durability-amazon-elasticache)
+- [AWS Cost and Usage Report 2.0 now supports Athena and Redshift integration](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cur2.0-athena-redshift/)
+- [Amazon RDS for SQL Server supports Bring Your Own Media](https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-supports-bring-your-own-media/)
 - [AWS HealthOmics now supports Nextflow version pinning at run time](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-pinning-at-runtime/)
 - [AWS HealthOmics now supports Nextflow version 26.04](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-26-04/)
-- [Quick Research now supports customer managed keys](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-research-cm-keys)
-- [Amazon Quick now supports VPC connectivity for MCP connections](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-vpc-mcp/)
-- [Amazon SageMaker adds permissions boundaries for SCP compliance](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-scp/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
