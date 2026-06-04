@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Cognito now supports multi-Region replication](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/)
 - [AWS IoT Device Management adds MQTT session data to connectivity status API](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-device-management-mqtt/)
 - [Amazon SageMaker Data Agent now supports conversation history](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent/)
 - [Amazon SageMaker Unified Studio now supports notebook scheduling](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio/)
 - [AWS Step Functions adds AgentCore-powered agentic reasoning step](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-step-functions-agentcore/)
-- [OpenAI GPT-5.4 generally available on Amazon Bedrock in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/06/GPT54-available-in-aws-govcloud-us-west/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
