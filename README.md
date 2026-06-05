@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [The AWS MCP Server now supports cross-account and cross-role access](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-mcp-server/)
 - [Amazon SageMaker Data Agent integrates business context into conversations](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent-bdc/)
 - [Amazon Cognito now supports multi-Region replication](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/)
 - [AWS Databases on Vercel now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-databases-vercel-aws-regions/)
 - [Amazon EKS Capabilities now supports Amazon CloudWatch Vended Logs](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-capabilities-logging)
-- [AWS Deadline Cloud now supports plugin sync for service-managed fleets](https://aws.amazon.com/about-aws/whats-new/2026/06/deadline-cloud/plugin-sync)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
