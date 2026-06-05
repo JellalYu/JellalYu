@@ -51,7 +51,7 @@
 - [Amazon Cognito now supports multi-Region replication](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/)
 - [AWS Databases on Vercel now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-databases-vercel-aws-regions/)
 - [Amazon EKS Capabilities now supports Amazon CloudWatch Vended Logs](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-capabilities-logging)
-- [Amazon MQ is now available in the AWS European Sovereign Cloud &lpar;Germany&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mq-eur-sov-cloud)
+- [AWS Deadline Cloud now supports plugin sync for service-managed fleets](https://aws.amazon.com/about-aws/whats-new/2026/06/deadline-cloud/plugin-sync)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
