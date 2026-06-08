@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Application Migration Service is now AWS Transform MGN](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mgn-rebrand/)
-- [Amazon Redshift reduces manual snapshot cost for Serverless and RG instances](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-incremental-manual-snapshots/)
-- [Amazon OpenSearch Serverless now supports Agentic Search](https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-agentic-search/)
-- [Amazon Bedrock AgentCore Runtime introduces interactive shells for terminal access into agent sessions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-runtime/)
-- [Simplified permissions for Amazon S3 Tables and Iceberg materialized views are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/gdc-s3tables-simplified-permissions-in-aws-govcloud/)
+- [AWS Compute Optimizer now supports idle recommendations for six additional resource types](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-six-new-idle)
+- [Amazon MSK Express Brokers now support automatic topic creation with Kafka Streams](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-msk-express-topic-support-kstreams/)
+- [Amazon DocumentDB now supports engine minor version starting with 5.0.1](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-documentdb-engine-minor-version-5-0-1/)
+- [AWS Savings Plans Purchase Analyzer now supports target coverage analysis](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-savings-plans-coverage/)
+- [PostgreSQL 19 Beta 1 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2026/06/postgresql-19-beta-1-amazon-rds-database-preview-environment/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
