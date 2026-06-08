@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Migration Service is now AWS Transform MGN](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mgn-rebrand/)
+- [Amazon Redshift reduces manual snapshot cost for Serverless and RG instances](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-incremental-manual-snapshots/)
 - [Amazon OpenSearch Serverless now supports Agentic Search](https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-agentic-search/)
 - [Amazon Bedrock AgentCore Runtime introduces interactive shells for terminal access into agent sessions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-runtime/)
 - [Simplified permissions for Amazon S3 Tables and Iceberg materialized views are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/gdc-s3tables-simplified-permissions-in-aws-govcloud/)
-- [Amazon OpenSearch UI is now available in GovCloud regions](https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-ui-govcloud-region)
-- [Amazon ECS with AWS Fargate now supports 32vCPU compute configurations](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-fargate-32vcpu)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
