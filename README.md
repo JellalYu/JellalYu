@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS FinOps Agent is now available in preview](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-finops-agent-preview/)
+- [AWS announces Claude Fable 5, the first generally available Mythos-class model](https://aws.amazon.com/about-aws/whats-new/2026/06/claude-fable-5-aws/)
+- [Run Interactive Workloads on Amazon EMR Serverless with Spark Connect](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-serverless-spark-connect)
 - [AWS Cost Explorer launches intelligent cost explanations powered by Amazon Q](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-explorer-intelligent-cost-explanations)
 - [AWS Compute Optimizer now supports idle recommendations for six additional resource types](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-six-new-idle)
-- [Amazon MSK Express Brokers now support automatic topic creation with Kafka Streams](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-msk-express-topic-support-kstreams/)
-- [Amazon DocumentDB now supports engine minor version starting with 5.0.1](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-documentdb-engine-minor-version-5-0-1/)
-- [Amazon CloudWatch Logs Insights adds 23 new query commands and functions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-insights-new/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
