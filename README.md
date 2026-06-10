@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx for OpenZFS Intelligent-Tiering storage class is now available in 8 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-fsx-openzfs/)
 - [Amazon SageMaker Unified Studio Notebooks now support EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio-emr/)
 - [Amazon S3 Access Grants are now available in the AWS European Sovereign Cloud &lpar;Germany&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-access-grants-european-sovereign-cloud-germany-region)
 - [AWS FinOps Agent is now available in preview](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-finops-agent-preview/)
 - [AWS announces Claude Fable 5, the first generally available Mythos-class model](https://aws.amazon.com/about-aws/whats-new/2026/06/claude-fable-5-aws/)
-- [AWS Backup support for Amazon EKS is now available in the AWS European Sovereign Cloud &lpar;Germany&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-backup-amazon-eks-aws-european-sovereign-cloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
