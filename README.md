@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elastic Beanstalk console now integrates CloudWatch Logs in the Logs tab](https://aws.amazon.com/about-aws/whats-new/2026/06/elastic-beanstalk-cloudwatch-logs/)
+- [Amazon MWAA Serverless now supports Amazon EventBridge notifications/](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mwaa-serverless-eventbridge/)
+- [Amazon Managed Service for Prometheus now supports out of order sample ingestion](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-managed-service-prometheus-outoforder-ingestion/)
+- [AWS announces AWS Workload Credentials Provider](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-workload-credentials-provider/)
 - [OpenAI GPT-5.4 and GPT-5.5 models now available in US East &lpar;N. Virginia&rpar; on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/06/openai-gpt-us-east-virginia-amazon/)
-- [Amazon OpenSearch Service launches MCP Apps for agentic observability](https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-agentic-observability-mcp-app)
-- [Amazon ECS Managed Daemons now support inter-task visibility and communication](https://aws.amazon.com/about-aws/whats-new/2026/06/ecs-managed-daemons-pid-ipc-modes/)
-- [Amazon EC2 M9g and M9gd general purpose instances are now available](https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available)
-- [Amazon EC2 P6-B200 instances are now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-p6-b200-aws-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
