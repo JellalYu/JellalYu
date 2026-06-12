@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon EC2 I7i instances now available in AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-i7i-instances-europe-paris-region/)
+- [Amazon EC2 Capacity Blocks for ML is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-capacity-blocks-ml-govcloud/)
 - [Amazon EC2 High Memory U7i-8TB instances now available in AWS Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-u7i-8tb-europe-paris/)
 - [Amazon Quick now integrates with Snowflake Cortex AI](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-snowflake-cortex-ai/)
-- [Amazon CloudWatch Application Signals now supports infrastructure, logs, and traces context for faster troubleshooting](https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-application-signals-supports infrastructure-logs-traces-context-for-faster troubleshooting/)
-- [Amazon Aurora now supports PostgreSQL major version 18](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-aurora-postgresql-major-version-18/)
+- [Amazon EKS now supports local clusters on AWS Outposts with Amazon EC2 instance store](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-aws-outposts-ec2-instance-store/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
