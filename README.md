@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Lightsail is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-lightsail-aws-regions/)
-- [SageMaker AI now supports serverless fine-tuning for NVIDIA Nemotron models](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ft-nemotron-3/)
-- [Amazon EC2 I7i instances now available in AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-i7i-instances-europe-paris-region/)
-- [Amazon EC2 Capacity Blocks for ML is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-capacity-blocks-ml-govcloud/)
-- [Amazon EC2 High Memory U7i-8TB instances now available in AWS Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-u7i-8tb-europe-paris/)
+- [Amazon ECS Express Mode is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-express-mode-govcloud/)
+- [AWS launches Cost Explorer historical data retention for accounts in billing groups](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-explorer/)
+- [AWS Lambda Managed Instances now supports Tag Propagation for Managed Resources](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-managed-instances-tag-propagation/)
+- [AWS DevOps Agent expands with custom SRE agents and MCP/A2A protocols](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-custom-agents/)
+- [Amazon CloudWatch now supports cross-account metrics centralization](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cross-account-metrics-centralization)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
