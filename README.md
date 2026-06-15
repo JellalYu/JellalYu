@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock AgentCore Memory now supports strictly consistent metadata for long-term memory](https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-memory-scmetadata)
+- [Amazon CloudWatch introduces Log Analytics for unified log analysis](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-log-analytics/)
+- [Amazon Route 53 Resolver DNS Firewall now supports Palo Alto Networks Advanced DNS Security &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-route-53-resolver-dns/)
 - [Amazon ECS Express Mode is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-express-mode-govcloud/)
 - [AWS launches Cost Explorer historical data retention for accounts in billing groups](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-explorer/)
-- [AWS Lambda Managed Instances now supports Tag Propagation for Managed Resources](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-managed-instances-tag-propagation/)
-- [AWS DevOps Agent expands with custom SRE agents and MCP/A2A protocols](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-custom-agents/)
-- [Amazon CloudWatch now supports cross-account metrics centralization](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cross-account-metrics-centralization)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
