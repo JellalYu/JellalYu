@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Management Console Private Access now works without internet connectivity](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-management-console-private/)
 - [Amazon Bedrock AgentCore Memory now supports strictly consistent metadata for long-term memory](https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-memory-scmetadata)
+- [Amazon FSx for OpenZFS now supports on-demand data replication across AWS opt-in Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/on-demand-cross-region-replication/)
 - [Amazon CloudWatch introduces Log Analytics for unified log analysis](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-log-analytics/)
 - [Amazon Route 53 Resolver DNS Firewall now supports Palo Alto Networks Advanced DNS Security &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-route-53-resolver-dns/)
-- [Amazon ECS Express Mode is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-express-mode-govcloud/)
-- [AWS launches Cost Explorer historical data retention for accounts in billing groups](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-explorer/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
