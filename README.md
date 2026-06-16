@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transform for mainframe now delivers a traceable reimagine workflow](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mainframe-traceable-reimagine-workflow/)
 - [AWS Sign-in now supports resource-based policies and resource control policies](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-sign-in/)
 - [Amazon Redshift RG instances powered by AWS Graviton now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-rg-instances-3-additional-regions/)
 - [AWS announces AWS Blocks, an open-source framework for composing application backends on AWS &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-blocks-preview)
 - [AWS Partner Central agents now accelerate co-selling on every deal](https://aws.amazon.com/about-aws/whats-new/2026/06/accelerate-co-selling-with-agents/)
-- [Amazon CloudWatch introduces native OpenTelemetry metrics with PromQL querying and per-GB pricing](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-otel-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
