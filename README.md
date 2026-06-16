@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Transform now supports Amazon FSx for NetApp ONTAP &lpar;Public Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-vmware-fsx-for-ontap-preview)
-- [AWS Management Console Private Access now works without internet connectivity](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-management-console-private/)
-- [Grok 4.3 from xAI now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/06/grok-amazon-bedrock/)
-- [Amazon Bedrock AgentCore Memory now supports strictly consistent metadata for long-term memory](https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-memory-scmetadata)
-- [Amazon FSx for OpenZFS now supports on-demand data replication across AWS opt-in Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/on-demand-cross-region-replication/)
+- [AWS Sign-in now supports resource-based policies and resource control policies](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-sign-in/)
+- [AWS Partner Central agents now accelerate co-selling on every deal](https://aws.amazon.com/about-aws/whats-new/2026/06/accelerate-co-selling-with-agents/)
+- [Amazon CloudWatch introduces native OpenTelemetry metrics with PromQL querying and per-GB pricing](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-otel-metrics/)
+- [AWS Marketplace announces AI-assisted product listing](https://aws.amazon.com/about-aws/whats-new/2026/06/ai-assisted-product-listing/)
+- [AWS Partner Central now validates Foundational Technical Review in minutes](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-central-foundational-technical-review/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
