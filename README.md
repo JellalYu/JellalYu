@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS HealthOmics now streams workflow engine logs to Amazon CloudWatch in real time](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-real-time-engine-log-streaming/)
 - [AWS DevOps Agent adds release management capability &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-release-management/)
+- [Amazon Aurora and RDS for MySQL expand Extended Support for MySQL 5.7 through June 2029](https://aws.amazon.com/about-aws/whats-new/2026/06/rds-mysql-es-extension/)
 - [AWS Outposts racks now support bmn-cx3a instances, the first AMD-based instances with accelerated networking on Outposts](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-outposts-amd-bmn-cx3a/)
 - [Amazon Bedrock AgentCore now supports Bedrock Guardrails in policy](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-policy-guardrails-generally-available)
-- [AgentCore harness in now generally available](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-harness-generally-available)
-- [Amazon Bedrock AgentCore introduces new optimization capabilities to continuously improve agents in production](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-new-optimization-capabilities)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
