@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue Interactive Sessions now support Spark Connect for interactive workloads](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-glue-interactive-sessions-spark-connect-smus-notebooks)
 - [AWS HealthOmics now streams workflow engine logs to Amazon CloudWatch in real time](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-real-time-engine-log-streaming/)
 - [AWS DevOps Agent adds release management capability &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-release-management/)
+- [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M9g database instances](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-postgresql-mysql-mariadb-m9g-instances/)
 - [Amazon Aurora and RDS for MySQL expand Extended Support for MySQL 5.7 through June 2029](https://aws.amazon.com/about-aws/whats-new/2026/06/rds-mysql-es-extension/)
-- [AWS Outposts racks now support bmn-cx3a instances, the first AMD-based instances with accelerated networking on Outposts](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-outposts-amd-bmn-cx3a/)
-- [Amazon Bedrock AgentCore now supports Bedrock Guardrails in policy](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-policy-guardrails-generally-available)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
