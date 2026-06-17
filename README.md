@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Bedrock Guardrails announces a new API targeting agentic AI workflows](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails-api-ai/)
-- [AWS Transform now supports model-to-model migration assessment for generative AI workloads](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-model-to-model-assessments)
-- [Amazon S3 Vectors now supports up to 10,000 similarity search results per query](https://aws.amazon.com/about-aws/whats-new/2026/06/s3-vectors-supports-10000-search-results-per-query)
-- [AWS Transform for mainframe now delivers a traceable reimagine workflow](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mainframe-traceable-reimagine-workflow/)
-- [AWS Sign-in now supports resource-based policies and resource control policies](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-sign-in/)
+- [AWS DevOps Agent adds release management capability &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-release-management/)
+- [AWS Outposts racks now support bmn-cx3a instances, the first AMD-based instances with accelerated networking on Outposts](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-outposts-amd-bmn-cx3a/)
+- [Amazon Bedrock AgentCore now supports Bedrock Guardrails in policy](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-policy-guardrails-generally-available)
+- [AgentCore harness in now generally available](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-harness-generally-available)
+- [Amazon Bedrock AgentCore introduces new optimization capabilities to continuously improve agents in production](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-new-optimization-capabilities)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
