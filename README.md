@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Glue Interactive Sessions now support Spark Connect for interactive workloads](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-glue-interactive-sessions-spark-connect-smus-notebooks)
-- [AWS HealthOmics now streams workflow engine logs to Amazon CloudWatch in real time](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-real-time-engine-log-streaming/)
-- [AWS DevOps Agent adds release management capability &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-release-management/)
-- [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M9g database instances](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-postgresql-mysql-mariadb-m9g-instances/)
-- [Amazon Aurora and RDS for MySQL expand Extended Support for MySQL 5.7 through June 2029](https://aws.amazon.com/about-aws/whats-new/2026/06/rds-mysql-es-extension/)
+- [Amazon MQ for RabbitMQ now supports private networking connectivity](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-mq-private-network-connectivity/)
+- [Nested virtualization is now available on additional Intel platforms and US Gov Cloud regions](https://aws.amazon.com/about-aws/whats-new/2026/06/nested-virtualization-intel-us-gov-cloud/)
+- [Amazon Connect Customer launches the ability to interrupt an agent with an urgent contact](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-interrupt-agent-with-urgent-contact/)
+- [all-MiniLM-L12-v2 for semantic search and sentence similarity is now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/06/all-minilm-l12-v2-on-sagemaker-jumpstart/)
+- [Ministral-3-14B-Instruct for multimodal reasoning and agentic AI is now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/06/ministral-3-14b-on-sagemaker-jumpstart/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
