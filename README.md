@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Announcing the general availability of a new AWS Local Zone in Hanoi, Vietnam](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-local-zones-hanoi-vietnam/)
+- [Amazon CloudWatch Synthetics now supports multilocation canaries](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-synthetics-multilocation/)
 - [Amazon MSK Express brokers now support Intelligent Rebalancing on existing clusters](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-msk-express-intelligent/)
 - [Amazon ECS announces faster service auto scaling](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-faster-autoscaling/)
 - [Amazon EC2 G7 instances are now generally available](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-g7-generally-available)
-- [Amazon MQ for RabbitMQ now supports private networking connectivity](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-mq-private-network-connectivity/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
