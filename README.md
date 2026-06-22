@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Firewall updates default drop action for improved connection reliability](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-network-firewall-updates-default-drop-action)
+- [AWS Batch now supports customer-ordered instance allocation strategies](https://aws.amazon.com/about-aws/whats-new/2026/06/batch-ordered-allocation-strategies/)
+- [AWS IAM Identity Center now supports separate quotas for AWS accounts and applications](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-identity-center-separate-quotas/)
 - [Announcing the general availability of a new AWS Local Zone in Hanoi, Vietnam](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-local-zones-hanoi-vietnam/)
 - [Amazon CloudWatch Synthetics now supports multilocation canaries](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-synthetics-multilocation/)
-- [Amazon MSK Express brokers now support Intelligent Rebalancing on existing clusters](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-msk-express-intelligent/)
-- [Amazon ECS announces faster service auto scaling](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-faster-autoscaling/)
-- [Amazon EC2 G7 instances are now generally available](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-g7-generally-available)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
