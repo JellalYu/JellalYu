@@ -51,7 +51,7 @@
 - [SageMaker Notebook Instances now support G6e instance types](https://aws.amazon.com/about-aws/whats-new/2026/03/g6e-new-launch-sagemaker-notebook-instances/)
 - [Amazon Bedrock AgentCore Memory now supports cross-account access](https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-memory-cross-account-access)
 - [AWS HealthOmics now supports ephemeral storage for private workflows](https://aws.amazon.com/about-aws/whats-new/2026/06/healthomics-scratch-storage/)
-- [Automated Reasoning checks in Amazon Bedrock Guardrails add new policy refinement workflows](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails/)
+- [Amazon Cognito now supports customer managed key for encryption at rest](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-customer-managed-key)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
