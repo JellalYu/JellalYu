@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Firewall now supports managed threat intelligence rules from VisionHeight](https://aws.amazon.com/about-aws/whats-new/2026/06/network-firewall-visionheight-managed-rules)
+- [Kiro achieves FedRAMP High and DoD IL-4/5 authorization in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-fedramp-high-dod-il-4-5-govcloud-us/)
 - [Amazon Redshift adds Reserved Instance upfront pricing options for RG instances](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-ri-upfront-pricing-rg-instances)
-- [Amazon EC2 announces AMI Watermarks for improved AMI governance](https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-image-watermarks-allowed-images)
-- [Amazon EMR Serverless now supports live configuration updates without application restarts](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-emr-serverless/)
-- [AWS IoT Device SDK for Swift is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-iot-device-sdk-swift/)
-- [Amazon Route 53 Global Resolver now supports sharing DNS Views between AWS Accounts](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-route-53-global-resolver/)
+- [AWS GovCloud &lpar;US&rpar; now offers US-based, US citizen 24/7 technical support for all customers by default](https://aws.amazon.com/about-aws/whats-new/2026/06/default-govcloud-us-based-support/)
+- [AWS Backup enhances Amazon S3 backup copy performance](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-backup-amazon-s3-copy-enhancement/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
