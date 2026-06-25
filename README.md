@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift adds Reserved Instance upfront pricing options for RG instances](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-ri-upfront-pricing-rg-instances)
 - [Amazon EC2 announces AMI Watermarks for improved AMI governance](https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-image-watermarks-allowed-images)
 - [Amazon EMR Serverless now supports live configuration updates without application restarts](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-emr-serverless/)
 - [AWS IoT Device SDK for Swift is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-iot-device-sdk-swift/)
-- [Amazon Neptune now supports AWS CloudFormation for global databases](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-neptune-aws-cloudformation/)
-- [Amazon CloudWatch now supports tags on dashboards](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-tags-on-dashboards)
+- [Amazon Route 53 Global Resolver now supports sharing DNS Views between AWS Accounts](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-route-53-global-resolver/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
