@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WAF adds support for Amazon Bedrock AgentCore Gateway](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-amazon-bedrock-agentcore/)
 - [Amazon MWAA Serverless now supports shared VPC configurations](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mwaa-serverless-vpc/)
 - [Amazon S3 server access logs now deliver to Amazon CloudWatch Logs and Amazon S3 Tables](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-cloudwatch-logs-tables/)
 - [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-r8g-instances-additional-regions/)
 - [Amazon EC2 C7a instances are now available in the Asia Pacific &lpar;Singapore&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7a-instances-asia-pacific-singapore-region/)
-- [Amazon EC2 M8a instances now available in the Asia Pacific &lpar;Mumbai&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8a-instances-asia-pacific-mumbai-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
