@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Logs enriches log events with AWS resource tags](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-resource-tags/)
+- [AWS CloudFormation and CDK accelerate development feedback loops with pre-deployment validation on all stack operations](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cloudformation/)
+- [AWS CloudFormation and CDK express mode speeds up infrastructure deployments by up to 4x](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cloudformation-cdk/)
+- [Amazon RDS Enhances IAM Database Authentication with Connection Rate Scaling](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-iam/)
 - [AWS Parallel Computing Service supports in-place Slurm major version upgrades](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-parallel-computing-service-upgrade/)
-- [Amazon ElastiCache T4g nodes now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-elasticache-t4g-additional-aws-regions/)
-- [AWS End User Messaging RCS now supports rich media and interactive messaging](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-end-user-messaging-rcs/)
-- [Amazon Time Sync Service adds support for Microsecond accurate time on 26 additional EC2 instance types in all commercial regions](https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-time-sync-precision-time-placement-group)
-- [Announcing general availability of Amazon WorkSpaces for AI agents](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-workspaces-ai/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
