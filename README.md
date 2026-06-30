@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Parallel Computing Service supports in-place Slurm major version upgrades](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-parallel-computing-service-upgrade/)
+- [Amazon ElastiCache T4g nodes now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-elasticache-t4g-additional-aws-regions/)
+- [AWS End User Messaging RCS now supports rich media and interactive messaging](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-end-user-messaging-rcs/)
 - [Amazon Time Sync Service adds support for Microsecond accurate time on 26 additional EC2 instance types in all commercial regions](https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-time-sync-precision-time-placement-group)
 - [Announcing general availability of Amazon WorkSpaces for AI agents](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-workspaces-ai/)
-- [Amazon SageMaker AI cuts generative AI inference scale-out time by up to half with automatic container image caching](https://aws.amazon.com/about-aws/whats-new/2026/06/sagemakerai-inf-scale-out-time)
-- [IAM Identity Center now enables programmatic AWS account access for customer managed applications](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-iam-identity-center-account-access-customer-managed-apps/)
-- [Amazon SageMaker AI now supports serverless model customization for Gemma 4 models](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-ai-gemma-4/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
