@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Claude Opus 4.8 is now available in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/claude-opus-4.8-aws-govcloud-us)
-- [OpenAI GPT-5.4 and NVIDIA Nemotron 3 Super 120B now available on Kiro in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-gpt-nemotron-launch-aws-govcloud-us/)
-- [AWS WAF adds support for Amazon Bedrock AgentCore Gateway](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-amazon-bedrock-agentcore/)
-- [Amazon MWAA Serverless now supports shared VPC configurations](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mwaa-serverless-vpc/)
-- [Amazon S3 server access logs now deliver to Amazon CloudWatch Logs and Amazon S3 Tables](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-cloudwatch-logs-tables/)
+- [Amazon Time Sync Service adds support for Microsecond accurate time on 26 additional EC2 instance types in all commercial regions](https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-time-sync-precision-time-placement-group)
+- [Announcing general availability of Amazon WorkSpaces for AI agents](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-workspaces-ai/)
+- [Amazon SageMaker AI cuts generative AI inference scale-out time by up to half with automatic container image caching](https://aws.amazon.com/about-aws/whats-new/2026/06/sagemakerai-inf-scale-out-time)
+- [IAM Identity Center now enables programmatic AWS account access for customer managed applications](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-iam-identity-center-account-access-customer-managed-apps/)
+- [Amazon SageMaker AI now supports serverless model customization for Gemma 4 models](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-ai-gemma-4/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
