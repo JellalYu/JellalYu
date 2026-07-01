@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Bedrock AgentCore now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-four-additional-regions/)
+- [AWS Artifact now includes Assurance Assistant for compliance inquiries](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-artifact-assurance-assistant/)
+- [AWS Partner Central now supports AWS Marketplace listings for co-selling](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-marketplace-co-selling-support/)
 - [Amazon RDS announces Cross-Region Automated Backups in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-cross-region-automated-backups-additional-aws-regions/)
-- [Amazon EKS now supports Kubernetes version rollback](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-version-rollback)
-- [Amazon Managed Service for Prometheus achieves FedRAMP High and DoD IL-4/5 authorization in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-fedramp-high/)
-- [AWS Security Agent now available in Asia Pacific &lpar;Mumbai&rpar;, Asia Pacific &lpar;Singapore&rpar;, and South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-agent-asia-pacific/)
+- [Amazon Bedrock AgentCore now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-four-additional-regions/)
+- [Amazon GuardDuty adds sensitive file modification threat detections](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-guardduty-sfm/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
