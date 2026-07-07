@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub adds impact analysis for exposure findings](https://aws.amazon.com/about-aws/whats-new/2026/07/impact-analysis-aws-security-hub/)
 - [Amazon SageMaker HyperPod now supports disaggregated prefill and decode](https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-sagemaker-hyperpod-dpd/)
 - [Amazon Cognito now supports self-service provisioned API rate limits](https://aws.amazon.com/about-aws/whats-new/2026/07/cognito-provisioned-limits)
 - [Amazon SageMaker Studio now integrates with Hugging Face for one-click model deployment and customization](https://aws.amazon.com/about-aws/whats-new/2026/07/sagemaker-studio-hugging-face-integration/)
 - [Amazon EVS VCF 9.0 and 9.1 support](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-evs-vcf9)
-- [AWS Certificate Manager now supports the ACME protocol for public certificates](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-certificate-manager-acme/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
