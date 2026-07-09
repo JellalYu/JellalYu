@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [AWS Client VPN extends availability to four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-client-vpn-four-additional-regions/)
 - [Amazon SageMaker Unified Studio adds custom asset types to the catalog in IAM-based domains](https://aws.amazon.com/about-aws/whats-new/2026/07/smus-custom-asset-types-iam/)
+- [Amazon SageMaker Feature Store now supports batch feature writes and record listing](https://aws.amazon.com/about-aws/whats-new/2026/07/amzn-sgm-feature-store-batch-write-list/)
 - [AWS Builder Center Now Offers Free Sandbox Environments](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/)
 - [Amazon SageMaker Unified Studio Workflows now supports operators for Amazon Bedrock, S3 Tables, S3 Vectors, and Glue Catalog](https://aws.amazon.com/about-aws/whats-new/2026/07/apache-airflow-operators-amazon-sagemaker-unified-studio-workflows/)
-- [AWS Security Hub now offers Network Scanning to identify publicly reachable resources](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-network-scanning/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
