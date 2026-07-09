@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Builder Center Now Offers Free Sandbox Environments](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/)
 - [AWS Security Hub now offers Network Scanning to identify publicly reachable resources](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-network-scanning/)
 - [Amazon Redshift RG instances now available on the trailing track](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-graviton-rg-instances-trailing-track)
 - [Amazon Aurora DSQL change data capture &lpar;CDC&rpar; Is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-cdc-ga/)
 - [Amazon Connect Customer now supports forecasting, planning, and scheduling for Tasks and Emails](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-customer-agent-scheduling-tasks/)
-- [Amazon EC2 High Memory U7i instances now available in AWS Europe &lpar;Zurich&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-u7i-aws-europe-zurich/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
