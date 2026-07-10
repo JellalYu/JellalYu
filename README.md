@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS DMS Schema Conversion now supports offline SQL Server conversion](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-dms-schema-conversion-offline-source/)
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports R8g.24xlarge and R8g.48xlarge instances](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-r8g-24xl-48xl/)
+- [AWS DMS Schema Conversion now supports AI agent automation](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-dms-sc-ai-agent-automation-mcp-server/)
 - [OAuth support for the AWS MCP Server](https://aws.amazon.com/about-aws/whats-new/2026/07/oauth-aws-mcp-server/)
 - [Amazon Timestream for InfluxDB now publishes database state change events to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-eventbridge/)
-- [AWS Client VPN extends availability to four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-client-vpn-four-additional-regions/)
-- [Amazon SageMaker Unified Studio adds custom asset types to the catalog in IAM-based domains](https://aws.amazon.com/about-aws/whats-new/2026/07/smus-custom-asset-types-iam/)
-- [Amazon SageMaker HyperPod now supports deep health checks for Slurm clusters with continuous provisioning](https://aws.amazon.com/about-aws/whats-new/2026/07/deep-health-check-continuous-slurm/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
