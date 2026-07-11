@@ -50,8 +50,8 @@
 - [Amazon EC2 network/EBS instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8in-r8ib-r8idn-r8idb)
 - [Amazon EMR on EKS now supports Apache Spark troubleshooting agent](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-emr-eks-spark-troubleshooting/)
 - [Amazon Location Service enhances Places APIs with new address and search options](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-enhanced-address-search)
+- [Amazon SageMaker HyperPod now supports AMI-based node lifecycle configuration for Slurm clusters using continuous provisioning](https://aws.amazon.com/about-aws/whats-new/2025/06/ami-configuration-continuous-slurm/)
 - [Amazon EC2 G7 instances are now available in the AWS US East &lpar;N. Virginia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-g7-available-North-Virginia)
-- [AWS DMS Schema Conversion now supports offline SQL Server conversion](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-dms-schema-conversion-offline-source/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
