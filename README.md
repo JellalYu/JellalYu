@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elastic Disaster Recovery now supports Amazon EBS volume initialization rate](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-hydration/)
+- [AWS Elastic Disaster Recovery reduces recovery time for AWS-to-AWS workloads](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-recovery/)
 - [AWS IAM Identity Center achieves FedRAMP Class C Certification](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-identity-center-fedramp/)
 - [Introducing Amazon GuardDuty AI Protection for AWS AI workloads](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-guardduty-ai-protection-aws/)
-- [Amazon WorkSpaces Personal simplifies bulk PCoIP to DCV protocol migration](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-workspaces-personal-pcoip/)
-- [AWS Security Hub now provides AI inventory for organization-wide visibility of AI assets](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-ai/)
-- [Amazon Aurora DSQL is now available in Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-available-in-spain/)
+- [Amazon Managed Service for Apache Flink now offers AI Agent Skills to simplify building and operating Flink applications](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-flink-agent-skills/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
