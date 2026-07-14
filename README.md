@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IAM Identity Center achieves FedRAMP Class C Certification](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-identity-center-fedramp/)
 - [Introducing Amazon GuardDuty AI Protection for AWS AI workloads](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-guardduty-ai-protection-aws/)
 - [Amazon WorkSpaces Personal simplifies bulk PCoIP to DCV protocol migration](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-workspaces-personal-pcoip/)
 - [AWS Security Hub now provides AI inventory for organization-wide visibility of AI assets](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-ai/)
 - [Amazon Aurora DSQL is now available in Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-available-in-spain/)
-- [AWS Storage Gateway adds console support for copying file shares across gateways](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-storage-gateway-console-copy-file-shares/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
