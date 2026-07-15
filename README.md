@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS and Aurora now support R8g and M8g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-rds-aurora-r8g-m8g-regions/)
+- [Amazon RDS and Aurora expand R8gd and M8gd to additional Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-aurora-r8gd-m8gd-regions/)
 - [Amazon RDS now supports up to four storage modifications in 24 hours](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-upto-four-storage-modifications-24-hours)
 - [Amazon OpenSearch Service now supports the Agent Toolkit for AWS with a curated skill](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-service-agent/)
-- [AWS Lambda announces self-managed code storage](https://aws.amazon.com/about-aws/whats-new/2026/07/lambda-self-managed-code-storage/)
-- [AWS Elastic Disaster Recovery reduces recovery time for AWS-to-AWS workloads](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-recovery/)
-- [AWS Elastic Disaster Recovery now supports Amazon EBS volume initialization rate](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-hydration/)
+- [Amazon RDS for Db2 is now available in additional AWS Commercial regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-db2-available-additional-aws-commercial-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
