@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Elastic Disaster Recovery now supports Amazon EBS volume initialization rate](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-hydration/)
-- [AWS Elastic Disaster Recovery reduces recovery time for AWS-to-AWS workloads](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-recovery/)
 - [AWS Lambda console provides a one-click setup prompt for coding agents](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-prompt-coding-agents/)
 - [AWS IAM Identity Center achieves FedRAMP Class C Certification](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-identity-center-fedramp/)
 - [Introducing Amazon GuardDuty AI Protection for AWS AI workloads](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-guardduty-ai-protection-aws/)
+- [Amazon Managed Service for Apache Flink now offers AI Agent Skills to simplify building and operating Flink applications](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-flink-agent-skills/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
