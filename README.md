@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS now supports up to four storage modifications in 24 hours](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-upto-four-storage-modifications-24-hours)
+- [Amazon OpenSearch Service now supports the Agent Toolkit for AWS with a curated skill](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-service-agent/)
 - [AWS Lambda announces self-managed code storage](https://aws.amazon.com/about-aws/whats-new/2026/07/lambda-self-managed-code-storage/)
 - [AWS Elastic Disaster Recovery reduces recovery time for AWS-to-AWS workloads](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-recovery/)
 - [AWS Elastic Disaster Recovery now supports Amazon EBS volume initialization rate](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-hydration/)
-- [Amazon EC2 M8in, M8idn, M8ib, M8idb instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/m8in-m8idn-m8ib-m8idb-new-regions)
-- [AWS Lambda console provides a one-click setup prompt for coding agents](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-prompt-coding-agents/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
