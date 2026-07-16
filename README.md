@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Managed Grafana achieves FedRAMP High authorization in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-grafana-fedramp-high/)
+- [Track cost efficiency trends directly in Billing and Cost Management Dashboards with the new Cost Efficiency widget](https://aws.amazon.com/about-aws/whats-new/2026/07/monitor-cost-efficiency-using-dashboards)
 - [Amazon EC2 now surfaces the public SSM parameters associated with public AMIs](https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-public-images-ssm-parameters)
 - [Amazon S3 Event Notifications now include system-generated tags](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-s3-event-notifications-system-generated-tags/)
 - [PostgreSQL 19 Beta 2 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2026/07/postgresql-19-beta-2-amazon-rds-database-preview-environment/)
-- [AWS Sustainability service now includes water withdrawals data](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-sustainability-water-withdrawals/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
