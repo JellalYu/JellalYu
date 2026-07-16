@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon EC2 now surfaces the public SSM parameters associated with public AMIs](https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-pulic-images-ssm-parameters)
 - [Amazon S3 Event Notifications now include system-generated tags](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-s3-event-notifications-system-generated-tags/)
+- [PostgreSQL 19 Beta 2 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2026/07/postgresql-19-beta-2-amazon-rds-database-preview-environment/)
+- [AWS Sustainability service now includes water withdrawals data](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-sustainability-water-withdrawals/)
 - [Amazon EC2 High Memory U7in-24TB instances now available in AWS Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-high-memory-europe/)
-- [AWS Control Tower Account Factory for Terraform now re-applies customizations when accounts move between OUs](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-control-tower-account/)
-- [Amazon CloudWatch Logs Insights adds 25 new query commands and functions](https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-cloudwatch-logs-insights-ql/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
