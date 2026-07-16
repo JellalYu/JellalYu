@@ -50,8 +50,8 @@
 - [Amazon CloudWatch Logs announces intelligent tiering for storage](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-intelligent-tiering/)
 - [Amazon MQ now supports configurable storage for RabbitMQ brokers](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mq-rabbitmq-configurable-storage/)
 - [Amazon EC2 G7e instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-g7e-additional-regions/)
+- [Amazon Cognito now supports importing users with password hashes](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cognito-password-hash-import/)
 - [Amazon RDS and Aurora now support R8g and M8g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-rds-aurora-r8g-m8g-regions/)
-- [Amazon RDS and Aurora expand R8gd and M8gd to additional Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-aurora-r8gd-m8gd-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
