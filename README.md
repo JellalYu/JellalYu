@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon EKS now supports EFA and placement groups on Amazon EKS Auto Mode and Karpenter](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-efa-placement-groups/)
+- [AWS Direct Connect announces 100G expansion in Lima, Peru](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-direct-connect-100g-lima/)
 - [AWS Elastic Disaster Recovery is now available in six additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-additional-regions/)
 - [Amazon EC2 R6in and R6idn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r6in-r6idn/)
 - [Amazon EC2 M6in and M6idn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m6in-m6idn/)
-- [Amazon EC2 C6in instances are now available in Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c6in/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
