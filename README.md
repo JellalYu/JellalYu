@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Load Balancer now supports Listener Rules for custom traffic routing](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-network-load-balancer-supports-listener-rules/)
+- [AWS Lambda durable functions now supports customer managed key encryption](https://aws.amazon.com/about-aws/whats-new/2026/07/durablefunctions-cmk/)
+- [Amazon Corretto July 2026 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-corretto-july-2026-quarterly-updates)
 - [Amazon EKS now supports EFA and placement groups on Amazon EKS Auto Mode and Karpenter](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-efa-placement-groups/)
-- [AWS Direct Connect announces 100G expansion in Lima, Peru](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-direct-connect-100g-lima/)
-- [AWS Elastic Disaster Recovery is now available in six additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-additional-regions/)
-- [Amazon EC2 R6in and R6idn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r6in-r6idn/)
-- [Amazon EC2 M6in and M6idn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m6in-m6idn/)
+- [AWS Secrets Manager now publishes secret update notifications to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2026/07/secrets-manager-update-notifications)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
