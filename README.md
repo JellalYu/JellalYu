@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Network Load Balancer now supports Listener Rules for custom traffic routing](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-network-load-balancer-supports-listener-rules/)
+- [AWS Entity Resolution now supports advanced real-time matching](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-entity-resolution/)
 - [AWS Lambda durable functions now supports customer managed key encryption](https://aws.amazon.com/about-aws/whats-new/2026/07/durablefunctions-cmk/)
 - [Amazon Corretto July 2026 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-corretto-july-2026-quarterly-updates)
 - [Amazon EKS now supports EFA and placement groups on Amazon EKS Auto Mode and Karpenter](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-efa-placement-groups/)
-- [AWS Secrets Manager now publishes secret update notifications to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2026/07/secrets-manager-update-notifications)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
