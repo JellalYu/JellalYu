@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Bedrock AgentCore now delivers unified observability with traces and logs in a single log group](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-unified-observability-single-log-group/)
 - [Claude Sonnet 5 is now available on Amazon Bedrock in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/claude-sonnet-5-govcloud/)
+- [Announcing region expansion of G7e instances on SageMaker AI inference](https://aws.amazon.com/about-aws/whats-new/2026/07/g7e-sagemaker-ai/)
+- [Announcing region expansion of G6 instances on SageMaker AI Inference](https://aws.amazon.com/about-aws/whats-new/2026/07/g6-sagemaker-ai-inference/)
 - [Amazon EC2 C7a instances are now available in the US West &lpar;N. California&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7a-instances-us-west-ncalifornia-region/)
-- [Amazon EC2 M8a instances now available in the Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m8a-instances-asia-pacific-hyderabad-region/)
-- [Amazon EC2 M8id instances are now available in Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m8id-europe-ireland/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
