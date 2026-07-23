@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MySQL supports MySQL 9.7 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-mysql-long-term-9-7-rds-database-preview/)
 - [Amazon Bedrock AgentCore now delivers unified observability with traces and logs in a single log group](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-unified-observability-single-log-group/)
+- [Amazon EVS is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-evs-available-in-additional-regions/)
 - [Claude Sonnet 5 is now available on Amazon Bedrock in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/claude-sonnet-5-govcloud/)
 - [Announcing region expansion of G7e instances on SageMaker AI inference](https://aws.amazon.com/about-aws/whats-new/2026/07/g7e-sagemaker-ai/)
-- [Announcing region expansion of G6 instances on SageMaker AI Inference](https://aws.amazon.com/about-aws/whats-new/2026/07/g6-sagemaker-ai-inference/)
-- [Amazon EC2 C7a instances are now available in the US West &lpar;N. California&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7a-instances-us-west-ncalifornia-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
