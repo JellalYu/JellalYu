@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SES simplifies sending emails over SMTP using Mail Manager](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ses-simplified-smtp-mail-manager)
 - [Claude Opus 5 is now available on AWS](https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws/)
 - [Opus 4.8, Sonnet 5, and User Activity Monitoring now available on Kiro in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/kiro-opus-sonnet-monitoring-launch-aws-govcloud-us/)
 - [AWS announces aws-bench, an open-source benchmark for AI agents on AWS](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/)
 - [Amazon ECS Service Connect now supports Zone-Aware routing](https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-service-connect-zone-aware/)
-- [AWS now supports automatic credit memo application preferences](https://aws.amazon.com/about-aws/whats-new/2026/07/credit-memo-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
