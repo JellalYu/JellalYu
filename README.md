@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune now supports tag-based access control for IAM](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-neptune-tbac/)
+- [AWS Glue Data Quality now supports anomaly detection and writing results to the AWS Glue Data Catalog](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-data-quality-catalog-anomaly-detection-write-results)
+- [AWS Glue Data Quality now supports distribution statistics for data profiling](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-data-quality-distribution-profiling)
 - [Amazon GameLift Streams now supports Custom Aspect Ratio and Dynamic Resolution](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams/)
 - [AWS Security Hub MCP App brings exposure findings into your AI-assisted workflow &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-mcp-app/)
-- [AWS Elemental MediaTailor adds configurable ad timeout and concurrency controls for improved ad fill and faster startup](https://aws.amazon.com/about-aws/whats-new/2026/07/mediatail-configurable-ad-timeout-and-concurrency)
-- [Amazon RDS for SQL Server now supports restoring TDE databases on Mult-AZ instances](https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sql-server-supports-tde-for-maz/)
-- [Amazon Connect now supports audio optimization for Azure Virtual Desktop and Windows 365 Cloud PC](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
