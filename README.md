@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS CodeDeploy now available in five additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codedeploy-five-additional-regions)
+- [Amazon EC2 C7i-flex instances now available in Europe &lpar;Milan&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7i-flex-instances-MXP-region/)
+- [Amazon EC2 C7i instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7i-instances-mxp-yyc-region/)
 - [Amazon SageMaker Unified Studio brings richer Git version control to all project tools](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-git/)
 - [AWS Direct Connect now supports BGP route visibility on Virtual Interfaces](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-direct-connect-bgp-visibility/)
-- [Amazon Redshift RG large and 12xlarge instances now available on the trailing track](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-rg-large-12xlarge-trailing-track)
-- [IAM Policy Simulator moves to the IAM console and adds additional capabilities](https://aws.amazon.com/about-aws/whats-new/2026/07/iam-policy-simulator-iam-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
