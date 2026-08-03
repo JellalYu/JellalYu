@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS HealthOmics now supports task-level timeout for WDL workflows](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-healthomics-wdl-task-level-timeout/)
+- [AWS Resilience Hub now provides recommended resilience tests](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-resilience-hub/)
+- [Amazon SageMaker AI serverless model customization now supports full fine-tuning](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-fft)
 - [AWS Transform for full-stack Windows modernization now supports offline schema transformation to Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-windows-sql-schema-aurora)
 - [AWS WAF now supports Miggo Security managed rule groups for emerging threats and AI/ML application protection](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-waf-miggo-managed-rule-groups)
-- [Amazon ECR now supports image layers up to 200 GB](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-image-layers/)
-- [AWS Config now supports 15 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-config-new-resource-types)
-- [Amazon Aurora DSQL adds multi-Region cluster support in four more Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-adds-multi-region-clusters-four-more-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
