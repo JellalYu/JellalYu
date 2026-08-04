@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transform continuous modernization is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-continuous-general-available)
+- [OpenAI GPT-5.6 Sol, Terra, and Luna now support 1 million token context windows on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/08/gpt-sol-terra-luna-long-context-bedrock)
 - [Amazon GameLift Streams now supports sharing streams with stream URLs](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-gamelift-streams/)
-- [AWS HealthOmics now supports task-level timeout for WDL workflows](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-healthomics-wdl-task-level-timeout/)
 - [AWS Resilience Hub now provides recommended resilience tests](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-resilience-hub/)
-- [Amazon EC2 I7i instances now available in Asia Pacific &lpar;Thailand&rpar; and Israel &lpar;Tel Aviv&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-i7i-instances-in-additional-regions/)
-- [Amazon SageMaker AI serverless model customization now supports full fine-tuning](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-fft)
+- [AWS Organizations now provides maximum account quota visibility in Service Quotas](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-organizations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
