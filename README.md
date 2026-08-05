@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [AWS Marketplace adds AI Insights so buyers can understand pricing before they buy](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-ai-insights/)
 - [Amazon DynamoDB now supports real-time vector search](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-dynamodb-vector-search)
+- [AWS IAM Identity Center makes managment of AWS account access optional for new organization instances](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-identity-center-accounts-optional/)
 - [Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads](https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-12-acu-scaling)
 - [[Preview Announcement] Re-introducing Forward Proxy as AWS Network Firewall Functionality](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-forward-proxy-preview/)
-- [Amazon Connect Customer now lets you export cases to CSV from the agent workspace](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-export-cases/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
