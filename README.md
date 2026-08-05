@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace adds AI Insights so buyers can understand pricing before they buy](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-ai-insights/)
+- [Amazon DynamoDB now supports real-time vector search](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-dynamodb-vector-search)
+- [Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads](https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-12-acu-scaling)
 - [[Preview Announcement] Re-introducing Forward Proxy as AWS Network Firewall Functionality](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-forward-proxy-preview/)
 - [Amazon Connect Customer now lets you export cases to CSV from the agent workspace](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-export-cases/)
-- [Amazon Bedrock launches Web Search for OpenAI GPT models](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web/)
-- [Run interactive workloads on Amazon EMR on EC2 with Spark Connect](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-emr-ec2-spark-connect/)
-- [AWS Security Hub Extended adds supply chain security as its 10th category](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-hub-extended-adds-supply-chain-security)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
