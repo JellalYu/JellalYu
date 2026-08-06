@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [AWS Lambda announces scalable network bandwidth up to 3,000 Mbps for functions outside a VPC](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-network-bandwidth/)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; is now available in the Canada West &lpar;Calgary&rpar; Region &lpar;ca-west-1&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-keyspaces-apache-cassandra-canada-west/)
+- [AWS Glue Data Quality makes ETL anomaly detection free and improves anomaly predictions](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-data-quality-anomaly-detection-free)
 - [AWS Marketplace adds AI Insights so buyers can understand pricing before they buy](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-ai-insights/)
 - [Amazon DynamoDB now supports real-time vector search](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-dynamodb-vector-search)
-- [AWS IAM Identity Center makes managment of AWS account access optional for new organization instances](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-identity-center-accounts-optional/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
