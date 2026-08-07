@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IAM Identity Center supports one-click multi-Region option for new organization instances](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-identity-center-supports-one-click-multi-region-option-new-organization-instances)
 - [AWS Parallel Computing Service is now in scope for FedRAMP, SOC, ISO, CSA STAR, and PCI](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-pcs-august/)
 - [Amazon ECS now supports fractional GPU scheduling with Amazon EC2 G6f instances](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-fractional-gpu/)
 - [AWS Lambda console extends console-to-IDE integration to Kiro and Cursor](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-ide-kiro-cursor/)
 - [AWS WAF now supports a Salt Security managed rule group for API and MCP threat detection](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-waf-salt-security-managed-rules/)
-- [Amazon EC2 G7 instances are now available in the AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-g7-available-spain)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
