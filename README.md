@@ -51,7 +51,7 @@
 - [Amazon Timestream for InfluxDB now supports backup and restore](https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-backup-restore/)
 - [Amazon Cognito now available as a skill in the Agent Toolkit for AWS](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-auth-agent-skill/)
 - [AWS IAM Identity Center supports one-click multi-Region option for new organization instances](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-identity-center-supports-one-click-multi-region-option-new-organization-instances)
-- [Amazon Bedrock AgentCore adds memory, policy, and harness in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/08/agentcore-memory-policy-harness-govcloud/)
+- [Amazon VPC IPAM now supports BGP route protection monitoring and delegated RPKI for BYOIP prefixes](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-vpc-ipam-bgp-rpki-byoip/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
