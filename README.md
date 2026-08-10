@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elastic Disaster Recovery now preserves UEFI boot mode for Linux servers](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-drs-linux-uefi)
 - [Amazon EC2 R8i and R8i-Flex instances are now available in Europe &lpar;Milan&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex/)
 - [Amazon Timestream for InfluxDB now supports backup and restore](https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-backup-restore/)
 - [Amazon Cognito now available as a skill in the Agent Toolkit for AWS](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-auth-agent-skill/)
 - [AWS IAM Identity Center supports one-click multi-Region option for new organization instances](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-identity-center-supports-one-click-multi-region-option-new-organization-instances)
-- [Amazon VPC IPAM now supports BGP route protection monitoring and delegated RPKI for BYOIP prefixes](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-vpc-ipam-bgp-rpki-byoip/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
