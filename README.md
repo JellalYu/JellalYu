@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 introduces application status checks](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-application-status-checks)
+- [Amazon OpenSearch Serverless now supports up to 10,000 collections per collection group](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-serverless-supports-10000-collections-per-collection-group/)
 - [AWS Elastic Disaster Recovery now preserves UEFI boot mode for Linux servers](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-drs-linux-uefi)
 - [Amazon EC2 R8i and R8i-Flex instances are now available in Europe &lpar;Milan&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex/)
 - [Amazon Timestream for InfluxDB now supports backup and restore](https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-backup-restore/)
-- [Amazon Cognito now available as a skill in the Agent Toolkit for AWS](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-auth-agent-skill/)
-- [AWS IAM Identity Center supports one-click multi-Region option for new organization instances](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-identity-center-supports-one-click-multi-region-option-new-organization-instances)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
