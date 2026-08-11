@@ -50,8 +50,8 @@
 - [LocateAnything-3B, Qwen-AgentWorld-35B-A3B, and Qwen3.5-122B-A10B models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/locateAnything-3B-qwen-agentworld-35B-A3B-qwen3.5-122B-A10B-on-sagemaker-jumpstart/)
 - [NVIDIA Nemotron 3.5 Lightning model is now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-lightning-on-sagemaker-jumpstart/)
 - [Amazon Connect Customer launches performance dashboard for Cases](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-dashboard/)
+- [Amazon RDS for MariaDB now supports MariaDB 12.3](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-mariadb-1232-available/)
 - [FLUX.2-small-decoder and gemma-4-12B-it models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/flux.2-small-decoder-gemma-4-12B-it-on-sagemaker-jumpstart/)
-- [langcache-embed-v3-small, Mellum2-12B-A2.5B-Thinking, and LightOnOCR-2-1B models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/langcache-embed-v3-small-mellum2-12B-A2.5B-thinking-lightOnOCR-2-1B-on-sagemaker-jumpstart/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
