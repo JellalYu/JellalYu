@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 R8a instances are now available in Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-instances-canada-central/)
 - [Amazon Bedrock expands IAM principal cost allocation to the bedrock-mantle endpoint](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-expands-iam-principal-cost-allocation-bedrock-mantle/)
 - [LocateAnything-3B, Qwen-AgentWorld-35B-A3B, and Qwen3.5-122B-A10B models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/locateAnything-3B-qwen-agentworld-35B-A3B-qwen3.5-122B-A10B-on-sagemaker-jumpstart/)
 - [NVIDIA Nemotron 3.5 Lightning model is now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-lightning-on-sagemaker-jumpstart/)
 - [AWS Glue adds one-click access to SageMaker Unified Studio from the AWS console](https://aws.amazon.com/about-aws/whats-new/2026/08/smus-glue-access)
-- [AWS Secrets Manager adds managed external secrets support for Jenkins and SonarQube](https://aws.amazon.com/about-aws/whats-new/2026/08/secrets-manager-integration-jenkins-sonarqube/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
