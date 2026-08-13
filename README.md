@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Global View now offers an interactive map view for AWS Regions and AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-global-view-map-view/)
+- [AWS IAM now provides role manager to set up IAM roles automatically](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-role-manager)
 - [Amazon EKS now supports advanced Kubernetes control plane configuration parameters](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-control-plane-configuration-parameters)
-- [Amazon Connect Customer supports manual assignment of queued agent-first callbacks](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-agent-callbacks/)
 - [Amazon Quick adds deny by default for custom permissions](https://aws.amazon.com/whats-new/2026/08/amazon-quick-deny-by-default-permissions/)
-- [Amazon Quick now supports data loss prevention with Microsoft Purview](https://aws.amazon.com/whats-new/2026/08/amazon-quick-dlp-purview/)
+- [Amazon Connect Customer supports manual assignment of queued agent-first callbacks](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-agent-callbacks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
