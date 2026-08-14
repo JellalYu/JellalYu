@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; version 26.1](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-apex-26-1/)
 - [Amazon SES click tracking now supports custom URL paths for mobile app deep linking](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-supports-customurl-deeplinking)
 - [AWS Billing and Cost Management introduces Managed Dashboards](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-billing-and-cost-management-managed-dashboards/)
 - [AWS Client VPN now supports CLI, administration controls, and faster connections](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-client-vpn-cli/)
 - [Amazon Redshift adds rg.large and rg.12xlarge instance sizes in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-adds-rg-large-12xlarge-aws-govcloud-regions/)
-- [Claude Opus 5 is now available in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
