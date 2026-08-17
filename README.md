@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-cross-region-openai-v2/)
+- [Amazon ECR now supports 25 replication rules per registry](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-increased-replication-rules-limit)
 - [Amazon EC2 Auto Scaling now supports batch instance termination](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-auto-scaling-batch-termination)
+- [Amazon MSK now supports configuring custom domain names for MSK Provisioned clusters](https://aws.amazon.com/about-aws/whats-new/2026/17/amazon-msk-custom-domain-names/)
 - [Amazon EC2 R8i and R8i-Flex instances are now available in Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex-calgary/)
-- [Amazon Connect Customer dashboards now support reporting on routing steps and agent proficiencies](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-routing-steps/)
-- [AWS Network Firewall Now Supports Stateful Rule Hit Counts](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-stateful-rule-hit-counts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
