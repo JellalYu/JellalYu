@@ -50,8 +50,8 @@
 - [Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-cross-region-openai-v2/)
 - [Amazon EC2 Auto Scaling now supports batch instance termination](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-auto-scaling-batch-termination)
 - [Amazon EC2 R8i and R8i-Flex instances are now available in Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex-calgary/)
-- [Amazon Quick Microsoft 365 extensions are now generally available](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-microsoft-365-extensions-generally-available)
-- [Amazon OpenSearch Service now supports automatic semantic enrichment for VPC domains](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-service-vpc/)
+- [Amazon Connect Customer dashboards now support reporting on routing steps and agent proficiencies](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-routing-steps/)
+- [AWS Network Firewall Now Supports Stateful Rule Hit Counts](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-stateful-rule-hit-counts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
