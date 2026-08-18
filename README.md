@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Corretto August 2026 Critical Security Patch Updates](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-corretto-august-2026-security-updates)
 - [AgentCore payments is now generally available in Amazon Bedrock AgentCore](https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-payments-ga/)
 - [Amazon SageMaker Unified Studio now supports data profiling and anomaly detection](https://aws.amazon.com/about-aws/whats-new/2026/05/smus-data-profiling)
 - [Amazon MWAA Serverless now supports PythonOperator and BashOperator](https://aws.amazon.com/about-aws/whats-new/2026/08/mwaa-serverless-pythonoperator-bashoperator/)
 - [Amazon EC2 R8i instances are now available in Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-israel-tel-aviv/)
-- [IAM Policy Autopilot now supports Terraform plan files](https://aws.amazon.com/about-aws/whats-new/2026/08/iam-policy-autopilot-now-supports-terraform-plan-files)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
