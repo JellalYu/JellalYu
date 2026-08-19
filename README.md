@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker notebooks now support trusted identity propagation](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker/)
 - [AWS Cost Anomaly Detection supports third-party models on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cost-anomaly-detection-bedrock-3P/)
 - [Amazon OpenSearch Ingestion is now available in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-ingestion-available-govcloud-regions)
-- [AWS announces a new Availability Zone in the Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-increased-quota/)
+- [AWS announces a new Availability Zone in the Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-new-availability-zone-europe/)
 - [Amazon Quick adds deny by default for custom permissions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-deny-by-default/)
-- [Amazon WorkSpaces Applications now offers in-console monitoring capabilities](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-console-monitoring)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
