@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [AWS announces the general availability of a new AWS Local Zone in Las Vegas, Nevada](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-local-zones-las-vegas-nevada/)
 - [Amazon Timestream for InfluxDB now supports customer managed keys](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-cmk/)
+- [Amazon EC2 C8gd, M8gd and R8gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gd-m8gd/)
 - [Amazon EC2 P6-B300 instances are now available in the Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300/)
 - [Amazon EKS now supports certificate authority &lpar;CA&rpar; rotation with automated lifecycle management](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-certificate-authority-ca-rotation-automated-lifecycle-management)
-- [Amazon CloudFront now supports Origin Access Control &lpar;OAC&rpar; for Amazon S3 Multi-Region Access Points](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudfront-oac-s3-mrap)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
