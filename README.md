@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [OpenAI GPT-5.6 Terra and Luna now available on Amazon Bedrock in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/08/openai-gpt-terra-luna-govcloud/)
 - [Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol](https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing/)
 - [Amazon Connect Customer now lets managers chat with their data](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-ai-data-analytics)
 - [AWS Deadline Cloud now tracks automatic download status in the Deadline Cloud Monitor](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-auto-download-status-tracking/)
 - [Amazon EKS Capability for Argo CD now supports custom configuration](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-argo-cd-configuration)
-- [AWS Glue 6.0 delivers 30% price reduction and Iceberg v3 support](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-6-0-price-reduction-iceberg-v3)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
