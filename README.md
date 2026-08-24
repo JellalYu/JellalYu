@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [SageMaker MLflow now supports customer managed keys](https://aws.amazon.com/about-aws/whats-new/2026/08/sagemaker-mlflow-custom-keys)
+- [Amazon EKS now supports multiple external OIDC identity providers per cluster](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-multiple-oidc-providers)
 - [Amazon Aurora now supports PostgreSQL 18.4, 17.10, 16.14, 15.18, and 14.23](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-postgresql-18-4-17-10-16-14-15-18-14-23/)
 - [Amazon SageMaker HyperPod enhances support for Ray](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-hyperpod-ray)
 - [Amazon Connect Customer now supports information extraction for agent voice and chat conversations](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-information/)
-- [AWS ParallelCluster 3.16 adds an on-node diagnostics tool](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-parallelcluster/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
