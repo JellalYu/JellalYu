@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [AWS IoT Core now supports native InfluxDB routing for time-series data](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iot-core-influxdb/)
 - [AWS Batch now supports Amazon ECS Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-batch-on-ecs-managed-instances/)
-- [Amazon RDS for PostgreSQL supports minor versions 18.6, 17.11, 16.15, 15.19, and 14.24](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-postgresql-18-6-17-11-16-15-15-19-14-24/)
+- [Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2026/08/capacity-reservation-resource-groups-ec2)
+- [AWS Lambda MicroVMs now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-supports-privatelink)
 - [Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is opened](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles/)
-- [IAM Roles Anywhere now provides a Java plugin for the AWS SDK](https://aws.amazon.com/about-aws/whats-new/2026/08/iam-roles-anywhere-java/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
