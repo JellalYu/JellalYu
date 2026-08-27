@@ -51,7 +51,7 @@
 - [Amazon Connect Customer now supports unplanned shrinkage in agent schedules](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-unplanned-shrinkage/)
 - [Mountpoint for Amazon S3 adds memory usage controls](https://aws.amazon.com/about-aws/whats-new/2026/08/mountpoint-for-S3-adds-memory-usage-controls)
 - [Amazon Connect Customer now supports points-based scoring in performance evaluations](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-points-based-scoring-evaluations/)
-- [AWS Backup adds cross-Region backup copy and logically air-gapped vault support for Amazon DocumentDB in nine additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-cross-region-air-gapped-docdb/)
+- [AWS Glue 5.1 is now available in AWS European Sovereign Cloud Region](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-5-1-european-sovereign-cloud)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
