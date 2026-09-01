@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Customer dashboards now support compact mode](https://aws.amazon.com/about-aws/whats-new/2026/09/connect-dashboards-compact-mode/)
+- [Amazon MWAA supports Apache Airflow version 3.3.1](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-apache-airflow-3-3-1/)
 - [Amazon CloudWatch now supports warm-up periods for alarms](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-alarms-warmup-period)
 - [Amazon DocumentDB now supports direct major version upgrades to version 8.0](https://aws.amazon.com/about-aws/whats-new/2026/08/documentdb-major-version-upgrade-8-0/)
 - [Partner Revenue Measurement expands service coverage for User Agent string capability](https://aws.amazon.com/about-aws/whats-new/2026/08/partner-revenue-measurement-user-agent-expansion/)
-- [AWS Elemental MediaTailor introduces in-console analytics dashboard for ad monetization and streaming performance](https://aws.amazon.com/about-aws/whats-new/2026/08/mediatailor-analytics-dashboard)
-- [AWS Agent Registry agents and MCP servers now available in Amazon Quick](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-agents-mcp-servers-quick/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
