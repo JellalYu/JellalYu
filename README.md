@@ -49,9 +49,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon CloudFront announces API support for flat-rate pricing plans](https://aws.amazon.com/about-aws/whats-new/2026/09/cloudfront-flat-rate-pricing-plans-api/)
 - [Introducing Amazon Quick Max: 5x the usage for power users who want the most out of Quick](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-max-5x-usage-power-users/)
+- [AWS Gateway Load Balancer now supports TCP Reset for faster failure recovery](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-gateway-load-balancer-tcp-reset/)
 - [Amazon WorkSpaces Applications adds support for NVIDIA Blackwell GPU instances](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-applications-nvidia-blackwell-gpu-instances/)
-- [Amazon MWAA adds built-in monitoring with Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-cloudwatch-monitoring/)
-- [Amazon Linux 2027 is now available in public preview](https://aws.amazon.com/about-aws/whats-new/2026/09/announcing-amazon-linux-2027/)
+- [Amazon Redshift rg.large instances now support single-node clusters](https://aws.amazon.com/about-aws/whats-new/2026/09/redshift-rg-large-single-node)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
