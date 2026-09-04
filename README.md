@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS MCP Server adds a serverless capability for AWS Lambda functions](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-mcp-server-serverless/)
 - [Amazon EC2 C8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-c8g-instances-additional-regions/)
 - [AWS Transfer Family SFTP Connectors now support continuing file transfers during credential rotation](https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-credential-rotation/)
 - [Amazon EC2 C9g and C9gd instances are now available in Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-c9g-c9gd-asia-pacific-tokyo/)
 - [Amazon ECS Managed Daemons now support non-critical daemons](https://aws.amazon.com/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical/)
-- [Amazon EC2 M9g and M9gd instances are now available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-m9g-m9gd-four-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
