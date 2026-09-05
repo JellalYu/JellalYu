@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluence data sources](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/)
+- [Amazon Bedrock Managed Knowledge Base now supports ServiceNow as a native data source connector](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/)
+- [Amazon Bedrock Managed Knowledge Base now supports automatic sync scheduling for data source connectors](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/)
 - [Amazon EC2 now supports specifying compatible instance types on AMIs](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-images-supported-instances)
 - [Amazon ECS introduces Early Success Criteria for service deployments](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-deployments-early-success/)
-- [AWS MCP Server adds a serverless capability for AWS Lambda functions](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-mcp-server-serverless/)
-- [Amazon EC2 C8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-c8g-instances-additional-regions/)
-- [AWS Transfer Family SFTP Connectors now support continuing file transfers during credential rotation](https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-credential-rotation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
