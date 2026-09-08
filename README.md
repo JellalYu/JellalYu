@@ -51,7 +51,7 @@
 - [Amazon Bedrock Managed Knowledge Base now supports ServiceNow as a native data source connector](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/)
 - [Amazon Bedrock Managed Knowledge Base now supports automatic sync scheduling for data source connectors](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/)
 - [Amazon EC2 now supports specifying compatible instance types on AMIs](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-images-supported-instances)
-- [Amazon ECS introduces Early Success Criteria for service deployments](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-deployments-early-success/)
+- [Amazon GuardDuty adds optional threat detection rules](https://aws.amazon.com/about-aws/whats-new/2026/09/guardduty-optional-detection-rules/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
