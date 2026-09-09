@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Customer now lets you set specific capacity limits for different types of Tasks and Emails](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-capacity-limits/)
 - [AWS Transform for .NET modernization is now generally available via CLI](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-dotnet-cli)
 - [AWS Lambda now supports Graviton5-powered EC2 instances on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-graviton5-ec2/)
 - [AWS Lambda now supports 90-minute function timeout on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-90-minute-function/)
 - [Amazon Bedrock Managed Knowledge Base adds APIs and console support for debugging document-level access control](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-knowledge-base-debugging-document-access-control/)
-- [Amazon Bedrock Managed Knowledge Base now supports Confluence Data Center as a native data source connector](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-confluence-data-center-native-data-source-connector/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
