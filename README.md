@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Connect Customer now lets you set specific capacity limits for different types of Tasks and Emails](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-capacity-limits/)
-- [AWS Transform for .NET modernization is now generally available via CLI](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-dotnet-cli)
-- [AWS Lambda now supports 90-minute function timeout on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-90-minute-function/)
-- [AWS Lambda now supports Graviton5-powered EC2 instances on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-graviton5-ec2/)
-- [Amazon Bedrock Managed Knowledge Base adds APIs and console support for debugging document-level access control](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-knowledge-base-debugging-document-access-control/)
+- [CloudWatch Network Monitor now provides NHI for Transit Gateway peering](https://aws.amazon.com/amazon-cloudwatch-network-monitor-nhi-transit-gateway-peering)
+- [AWS Elemental MediaLive adds support for A/B forensic watermarking](https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-ab-forensic-watermarking/)
+- [AWS Elemental MediaTailor now offers Yield Optimization to automatically fill ad breaks with Amazon Ads demand](https://aws.amazon.com/about-aws/whats-new/2026/09/mediatailor-yield-optimization/)
+- [AWS Elemental Inference now generates contextual metadata from live video in real time](https://aws.amazon.com/about-aws/whats-new/2026/09/elemental-inference-contextual-metadata/)
+- [AWS Elemental introduces Dynamic Multiview for live video](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-dynamic-multiview-video/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
