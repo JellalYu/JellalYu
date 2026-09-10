@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [CloudWatch Network Monitor now provides NHI for Transit Gateway peering](https://aws.amazon.com/amazon-cloudwatch-network-monitor-nhi-transit-gateway-peering)
-- [AWS Elemental MediaLive adds support for A/B forensic watermarking](https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-ab-forensic-watermarking/)
-- [AWS Elemental MediaTailor now offers Yield Optimization to automatically fill ad breaks with Amazon Ads demand](https://aws.amazon.com/about-aws/whats-new/2026/09/mediatailor-yield-optimization/)
+- [Amazon MQ now supports RabbitMQ 4.3](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mq-rabbitmq-43/)
+- [Announcing second-generation single-rack AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2026/09/single-rack-aws-outposts/)
+- [Amazon Redshift RG instances now available in Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-redshift-rg-available-zurich)
+- [Amazon CloudWatch now supports network health indicator for TGW inter-Region peering using synthetic monitors](https://aws.amazon.com/about-aws/whats-new/2026/09/cloudwatch-network-monitoring-tgw-support/)
 - [AWS Elemental Inference now generates contextual metadata from live video in real time](https://aws.amazon.com/about-aws/whats-new/2026/09/elemental-inference-contextual-metadata/)
-- [AWS Elemental introduces Dynamic Multiview for live video](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-dynamic-multiview-video/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
