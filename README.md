@@ -51,7 +51,7 @@
 - [New AWS experience helps builders get started and ship faster](https://aws.amazon.com/about-aws/whats-new/2026/09/New-AWS-Builder-Experience)
 - [Amazon WorkSpaces adds support for NVIDIA Blackwell GPU instances](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-nvidia-blackwell-gpu-instances/)
 - [Amazon Connect Customer custom metrics now supports tag-based access control](https://aws.amazon.com/about-aws/whats-new/2026/09/connect-customer-custom-metrics-tag/)
-- [AWS Elemental MediaTailor Monetization Functions adds ad response hooks](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-mediatailor-functions-ad-response-hooks)
+- [Amazon Connect Customer can now import evaluation form PDFs using AI](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-import-evaluation-form-PDF/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
