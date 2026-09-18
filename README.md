@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS Express Mode now supports AWS Graviton &lpar;ARM64&rpar; workloads](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-express-mode-arm-architecture/)
+- [AWS RTB Fabric now supports configurable Availability Zone affinity](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-rtb-fabric-configurable-availability-zone-affinity/)
+- [Kimi K3 by Moonshot AI is now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/moonshot-ai-kimi-k3-on-amazon-bedrock/)
 - [The new AgentCore Runtime is now available in Amazon Bedrock AgentCore](https://aws.amazon.com/about-aws/whats-new/2026/09/new-agentcore-runtime-generally-available)
 - [AWS Transfer Family now supports source IP preservation for SFTP servers behind a Network Load Balancer &lpar;NLB&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-source-ip-nlb/)
-- [AWS HealthOmics now supports IAM session policies](https://aws.amazon.com/about-aws/whats-new/2026/09/omics-iam-session-policy/)
-- [AWS Batch now supports bulk job cancellation and termination](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-batch-bulk-cancellation/)
-- [Introducing Amazon EC2 T8i instances](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-t8i-instances-ga/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
