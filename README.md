@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS now provides real-time deployment observability in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-console-deployment-observability/)
+- [Amazon EVS now in scope for FedRAMP Class C](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-evs-fedramp-class-c/)
 - [Amazon EC2 X8i instances are now available in the South America &lpar;São Paulo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x8i-south-america-sao-paulo/)
 - [AWS Continuum now supports credential testing and accessible domain suggestions](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-security-agent/)
 - [Amazon ECS Express Mode now supports AWS Graviton &lpar;ARM64&rpar; workloads](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-express-mode-arm-architecture/)
-- [AWS Resilience Hub adds three new capabilities](https://aws.amazon.com/about-aws/whats-new/2026/09/resilience-hub-eks-dependency-policy/)
-- [Amazon EC2 I7ie instances now available in AWS Israel region](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-i7ie-instances-israel-telaviv-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
