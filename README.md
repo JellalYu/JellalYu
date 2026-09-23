@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock Managed Knowledge Base now supports Salesforce and Zendesk as native data source connectors](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-salesforce-zendesk-native-data-source-connectors/)
+- [Amazon Connect Customer now provides routing step data in the analytics data lake](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-routing-step-data/)
 - [Amazon CloudWatch Omni: AI-first observability for agents and applications](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-cloudwatch-omni-ai/)
 - [Billing Transfer now supports automatic billing group creation for two-level transfers](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-billing-transfer-supports-automatic-billing-group-creation/)
 - [OpenAI GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-sol-luna-on-amazon-bedrock/)
-- [Claude Opus 5.5 is now available on AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws-govcloud/)
-- [Claude Opus 5.5 is now available on AWS](https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
