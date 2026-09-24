@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MySQL announces Extended Support minor versions 5.7.44-rds.20260902 and 8.0.46-rds.20260908](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-mysql-extended-support-minor-5744-8046-rds/)
+- [Amazon RDS for PostgreSQL now supports post-quantum TLS key exchange](https://aws.amazon.com/about-aws/whats-new/2026/09/postgresql-post-quantum-tls-key-exchange/)
 - [Amazon Kinesis Data Streams announces Service-Managed Partition Keys for simplified data ingestion](https://aws.amazon.com/about-aws/whats-new/2026/09/kinesis/service-managed-partition-keys)
 - [Amazon Bedrock Managed Knowledge Base now supports Salesforce and Zendesk as native data source connectors](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-salesforce-zendesk-native-data-source-connectors/)
 - [Amazon Connect Customer now provides routing step data in the analytics data lake](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-routing-step-data/)
-- [Amazon EMR on EKS now supports IPv6 Amazon EKS clusters](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-eks-ipv6-support)
-- [Amazon DynamoDB global tables with multi-Region strong consistency now supports additional AWS Regions and cross-continent configurations](https://aws.amazon.com/about-aws/whats-new/2026/09/dynamodb-mrsc-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
