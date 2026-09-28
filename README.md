@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Claude Sonnet 5.5 now available on AWS](https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/)
+- [Claude Sonnet 5.5 now available on AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws-govcloud-us/)
+- [Amazon Corretto September 2026 Patch Updates](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-sept-2026-updates/)
 - [Amazon Transcribe adds customer-managed KMS keys for custom resources](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-transcribe/)
 - [Amazon EC2 M8i and M8i-flex instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-m8i-m8i-flex-thf/)
-- [Amazon EC2 R8i and R8i-flex instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-r8i-r8i-flex-thf/)
-- [Amazon EC2 C8i and C8i-flex instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/09/c8i-c8i-flex-thf-september-2026/)
-- [AWS IAM outbound identity federation now supports interface VPC endpoints for OIDC discovery](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-sts-vpc-oidc/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
