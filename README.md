@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager now supports sharing documents through AWS Resource Access Manager](https://aws.amazon.com/about-aws/whats-new/2026/09/systems-manager-sharing-documents-ram/)
 - [Amazon EC2 Future-dated Capacity Reservations Now Supports Postponing Start Dates](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-fcr-postpone-start-date/)
 - [Amazon Rekognition Face Liveness now returns Feedback Codes](https://aws.amazon.com/about-aws/whats-new/2026/09/rekognition-liveness-feedback-codes/)
 - [Grok 4.7 is now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/)
 - [Claude Sonnet 5.5 now available on AWS](https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/)
-- [Claude Sonnet 5.5 now available on AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws-govcloud-us/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
