@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Systems Manager now supports sharing documents through AWS Resource Access Manager](https://aws.amazon.com/about-aws/whats-new/2026/09/systems-manager-sharing-documents-ram/)
-- [Amazon EC2 Future-dated Capacity Reservations Now Supports Postponing Start Dates](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-fcr-postpone-start-date/)
-- [Amazon Rekognition Face Liveness now returns Feedback Codes](https://aws.amazon.com/about-aws/whats-new/2026/09/rekognition-liveness-feedback-codes/)
-- [Grok 4.7 is now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/)
-- [Claude Sonnet 5.5 now available on AWS](https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/)
+- [Amazon RDS now adds full snapshot size information to the Console and API](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-full-snapshot-size-available/)
+- [OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/)
+- [Amazon Connect Customer now lets business users manage more reference data to adjust contact center configurations in real time](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-manage-data-tables/)
+- [Amazon WorkSpaces Applications introduces unified graphics images](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-applications-unified-graphics-images/)
+- [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-service-availability/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
