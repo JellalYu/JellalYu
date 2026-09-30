@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock Managed Agents, powered by OpenAI, is now available in preview](https://aws.amazon.com/about-aws/whats-new/2026/09/bedrock-managed-agents-preview/)
 - [Amazon RDS now adds full snapshot size information to the Console and API](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-full-snapshot-size-available/)
 - [OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/)
 - [Amazon Connect Customer now lets business users manage more reference data to adjust contact center configurations in real time](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-manage-data-tables/)
 - [Amazon WorkSpaces Applications introduces unified graphics images](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-applications-unified-graphics-images/)
-- [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-service-availability/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
