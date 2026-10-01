@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon WorkSpaces Core Managed Instances adds support for NVIDIA Blackwell GPU](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-cmi-g7/)
-- [AWS CLI now supports bulk skill updates and version checks for the Agent Toolkit for AWS](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cli-agent-toolkit-update-skill/)
-- [Amazon S3 Vectors introduces metadata pre-filtering for up to 5x higher recall on filtered search](https://aws.amazon.com/about-aws/whats-new/2026/09/s3-vectors-introduces-metadata-pre-filtering/)
-- [Amazon Managed Grafana now supports creating Grafana 13.2 workspaces](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-managed-grafana-now-supports-creating-grafana-13-2-workspaces)
-- [OpenAI GPT-6 Astra now supports UltraFast mode on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-ultrafast-on-amazon-bedrock/)
+- [Amazon GuardDuty now supports centralized management using AWS Organizations declarative policies](https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-org-enablement-policies/)
+- [Amazon Corretto 8 September 2026 Patch Updates](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-8-sept-2026-updates/)
+- [Amazon S3 Object Lock variable retention with event holds is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/s3-object-lock-variable-retention-event-holds-aws-govcloud/)
+- [AWS Glue Data Catalog now supports table optimization, statistics, and crawlers for Apache Iceberg V3](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-glue-iceberg-v3-optimization/)
+- [Serverless Storage on Amazon EMR Serverless now supports terabyte-scale shuffle](https://aws.amazon.com/about-aws/whats-new/2026/10/emr-serverless-terabyte-scale-shuffle/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
