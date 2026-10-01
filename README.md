@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CLI now supports bulk skill updates and version checks for the Agent Toolkit for AWS](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cli-agent-toolkit-update-skill/)
 - [Amazon S3 Vectors introduces metadata pre-filtering for up to 5x higher recall on filtered search](https://aws.amazon.com/about-aws/whats-new/2026/09/s3-vectors-introduces-metadata-pre-filtering/)
+- [Amazon Managed Grafana now supports creating Grafana 13.2 workspaces](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-managed-grafana-now-supports-creating-grafana-13-2-workspaces)
 - [OpenAI GPT-6 Astra now supports UltraFast mode on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-ultrafast-on-amazon-bedrock/)
-- [Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads](https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-16-acu-scaling/)
-- [Amazon Aurora and RDS now support AMD-based R8a instances](https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-rds-amd-r8a/)
-- [Amazon RDS now supports AMD-based M8a instances](https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-rds-amd-m8a/)
+- [AWS Parallel Computing Service now supports scaling logs](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-pcs-scaling-logs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
