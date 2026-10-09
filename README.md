@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Capabilities by Region now offers availability notifications for individual features and advanced filters](https://aws.amazon.com/about-aws/whats-new/2026/10/awscapabilities-enhancements/)
-- [AWS Config now supports 77 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-config-new-resource-types)
-- [Claude Haiku 5.5 is now available on AWS](https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws/)
-- [Claude Haiku 5.5 is now available on AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws-govcloud/)
-- [AWS Batch now publishes job metrics to Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-batch-job-cloudwatch-metrics/)
+- [OpenAI GPT-6.1 Sol now supports Ultrafast mode on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-sol-ultrafast-amazon/)
+- [Amazon RDS for Oracle now supports minor version upgrade prechecks and a new RDS event to help reduce patching downtime](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-minor-version-upgrade-precheck-new-patching-rds-event/)
+- [AWS Network Firewall adds wildcard support for container attribute filters](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-network-firewall-container-attributes-wildcard)
+- [Amazon GameLift Servers adds CPU burstability for container fleets](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-gamelift-servers-cpu-burstability)
+- [Amazon EC2 C8gb instances now generally available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-c8gb/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
