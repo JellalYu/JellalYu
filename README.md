@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Bring deep SageMaker AI expertise to your coding agent with the AWS AI/ML skill in the Agent Toolkit for AWS](https://aws.amazon.com/about-aws/whats-new/2026/10/bring-sagemaker-ai-expertise-to-your-coding-agent/)
 - [Amazon CloudFront now supports AWS Lambda Web Functions as an origin](https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-lambda-web-functions-origin/)
 - [Amazon EC2 G7 instances now available in Europe &lpar;Frankfurt&rpar; and Europe &lpar;Stockholm&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-g7-european-regions/)
 - [Amazon Connect Customer now prefills step-by-step guides for after contact work](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-prefills-guides-acw)
 - [AWS Lambda announces Lambda Web Functions](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-web-functions/)
-- [Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore](https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-memory-consumption-based-pricing)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
