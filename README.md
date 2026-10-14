@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS License Manager now supports license type conversions for Ubuntu Pro purchased through AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-license-manager-conversions-ubuntu-pro-marketplace/)
+- [Amazon SageMaker Studio simplifies getting started for new AI/ML builders with social sign-in](https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-social-sign-in/)
+- [AWS HealthOmics introduces resource fallback order for Nextflow workflows](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-healthomics-resource-fallback-for-Nextflow/)
+- [AWS Backup now supports Amazon FSx file systems in the Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-fsx-asia-pacific-new-zealand/)
 - [AWS Security Hub now supports resource criticality for prioritization](https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-resource-criticality/)
-- [Amazon ECS adds LiveTaskCount and removes the charge for RunningTaskCount metric](https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-service-metrics/)
-- [AWS Agent Registry now supports custom metadata for registry records](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-agent-registry-custom-metadata-registry-records)
-- [Amazon DCV releases version 2026.0 with RHEL 10 support and new clients](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dcv-2026-0/)
-- [AWS Deadline Cloud now helps users find their accessible resources in the Deadline Cloud monitor](https://aws.amazon.com/about-aws/whats-new/2026/10/deadline-cloud/resources)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
