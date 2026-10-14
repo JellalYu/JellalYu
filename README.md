@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub now supports resource criticality for prioritization](https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-resource-criticality/)
 - [Amazon ECS adds LiveTaskCount and removes the charge for RunningTaskCount metric](https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-service-metrics/)
 - [AWS Agent Registry now supports custom metadata for registry records](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-agent-registry-custom-metadata-registry-records)
 - [Amazon DCV releases version 2026.0 with RHEL 10 support and new clients](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dcv-2026-0/)
 - [AWS Deadline Cloud now helps users find their accessible resources in the Deadline Cloud monitor](https://aws.amazon.com/about-aws/whats-new/2026/10/deadline-cloud/resources)
-- [Amazon Location Service launches an interactive API Playground featuring Places, Routes and Maps APIs](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-location-service-api-playground)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
