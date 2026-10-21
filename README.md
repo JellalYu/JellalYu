@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon ECS Gateway, a managed ingress solution for your ECS services](https://aws.amazon.com/about-aws/whats-new/2026/10/announcing-amazon-ecs-gateway/)
+- [Amazon DynamoDB global tables now support disassociating replicas](https://aws.amazon.com/about-aws/whats-new/2026/10/dynamodb-global-tables-disassociate/)
 - [Polly Generative engine upgraded with more natural speech, 14 new voices, and 2 new languages](https://aws.amazon.com/about-aws/whats-new/2026/10/polly-generative/)
 - [AWS announces TorchNeuron: Native PyTorch Support for AWS Trainium &lpar;Public Beta&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium)
 - [Structured outputs for Claude models available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/10/claude-structured-outputs-bedrock/)
-- [AWS Clean Rooms now supports Databricks as a data source](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-clean-rooms-supports-databricks)
-- [AWS IAM Identity Center simplifies identity source changes from Active Directory](https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-center-chg-id-src-from-ad/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
