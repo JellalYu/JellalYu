@@ -47,10 +47,10 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Web Search on AWS Bedrock now supports domain filtering and user location controls](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/)
 - [Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat)
 - [AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/)
 - [Amazon Corretto October 2026 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-october-2026-quarterly-updates)
-- [Amazon EMR on EKS reduces EMR charge by 30 percent](https://aws.amazon.com/about-aws/whats-new/2026/10/emr-eks-reduces-emr-charge-30-percent/)
 - [Amazon MWAA now available in Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central/)
 <!-- AWS-NEWS:END -->
 
