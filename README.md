@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/)
+- [Amazon WorkSpaces Core Managed Instances now supports ModifyVolume API](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-workspaces-cmi-modifyvolume/)
+- [Amazon SageMaker Unified Studio adds light mode support for IDC-based domains](https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode)
+- [Amazon Connect Customer expands testing and simulation to validate flow action outcomes](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-validate-flow-actions/)
 - [Amazon Connect Customer now lets you view metrics by customer lifetime value and repeat-caller status](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-segment/)
-- [Amazon Connect Customer now measures the outcomes that drive retention and revenue](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-metrics/)
-- [Web Search on Amazon Bedrock now supports domain filtering and user location controls](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/)
-- [Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat)
-- [AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
