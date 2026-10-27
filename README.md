@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECR now supports replication backfill for existing container images](https://aws.amazon.com/about-aws/whats-new/2026/10/replication-backfill-amazon-ecr)
 - [OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/)
 - [Amazon WorkSpaces Core Managed Instances now supports ModifyVolume API](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-workspaces-cmi-modifyvolume/)
+- [Amazon IVS Low-Latency Streaming now provides a failover slate](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ivs-low-latency-streaming-failover-slate)
 - [Amazon SageMaker Unified Studio adds light mode support for IDC-based domains](https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode)
-- [Amazon Connect Customer expands testing and simulation to validate flow action outcomes](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-validate-flow-actions/)
-- [Amazon Connect Customer now lets you view metrics by customer lifetime value and repeat-caller status](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-segment/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
