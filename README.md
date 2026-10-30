@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Glue Data Catalog now supports Apache Iceberg table optimization in the US West &lpar;N. California&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/10/glue-data-catalog-optimizers-us-west-1/)
-- [AWS Marketplace now enables partners to list once and sell through multiple subsidiary accounts](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-marketplace-subsidiary-account-authorization)
-- [Amazon RDS for Oracle and SQL Server now support storage autoscaling on additional storage volumes](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-sqlserver-autoscaling-additional-storage-volumes)
-- [Amazon Aurora now supports post-quantum TLS key exchange](https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-postgresql-post-quantum-tls-key-exchange/)
-- [Amazon MSK Connect now supports updating connector plugins and worker configurations](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-update-plugin-worker-configurations)
+- [Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/)
+- [Web Search now available on Kiro in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/10/kiro-web-search-aws-govcloud-us/)
+- [Amazon Connect Customer automatically saves in-progress emails as drafts](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-email-draft-save/)
+- [Daybreak Red from OpenAI now available to eligible customers on Amazon Bedrock in AWS GovCloud &lpar;US-East&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/10/openai-daybreak-red-govcloud-east/)
+- [Amazon CloudFront now provides viewer ISP and post-quantum TLS details](https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-viewer-isp-post-quantum-visbility/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
