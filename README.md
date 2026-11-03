@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS Capabilities now supports Argo CD Notifications](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-argo-cd-notifications)
 - [Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/)
 - [Haiku 5.5 now available on Kiro in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-haiku-5-5-aws-govcloud-us/)
 - [Amazon RDS now supports per snapshot billing](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-per-snapshot-billing/)
 - [Amazon Quick on desktop now uses your organization&#39;s existing Amazon Quick sign-in](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-desktop-organization-sign-in/)
-- [Amazon Aurora MySQL 8.4.10 is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8410-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
