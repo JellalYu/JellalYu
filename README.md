@@ -48,10 +48,10 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Connect Customer lets agents pause and resume emails](https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email/)
+- [Amazon WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops](https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-ai-agents-linux-windows-11)
 - [Amazon Connect Customer prefills the email address for new threads started from cases](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-email-addresses/)
 - [AWS Config now supports 10 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-new-resource-types)
 - [Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/)
-- [AWS Transform for mainframe improves the reimagine modernization workflow](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-mainframe-reimagine/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
