@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports copying option groups during cross-Region snapshot copy](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-oracle-cross-region-snapshot-copy-option-group/)
+- [AWS announces AWS Interconnect - last mile preview with Equinix](https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-preview-equinix/)
+- [New features for Amazon EC2 Capacity Manager](https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-manager-supportability-and-fulfillment/)
 - [Amazon Connect Customer lets agents pause and resume emails](https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email/)
 - [Amazon WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops](https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-ai-agents-linux-windows-11)
-- [Amazon Connect Customer prefills the email address for new threads started from cases](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-email-addresses/)
-- [AWS Config now supports 10 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-new-resource-types)
-- [Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
