@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS Managed Daemons can now collect json-file logs from application containers on Amazon ECS Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-managed-instances-json-file-log-driver/)
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is now available in the Asia Pacific &lpar;Taipei&rpar; and Asia Pacific &lpar;New Zealand&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-mongodb-compatibility-asia-pacific-taipei-new-zealand-regions/)
 - [Amazon RDS for Oracle now supports copying option groups during cross-Region snapshot copy](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-oracle-cross-region-snapshot-copy-option-group/)
 - [AWS announces AWS Interconnect - last mile preview with Equinix](https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-preview-equinix/)
-- [New features for Amazon EC2 Capacity Manager](https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-manager-supportability-and-fulfillment/)
-- [Amazon Connect Customer lets agents pause and resume emails](https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email/)
-- [Amazon WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops](https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-ai-agents-linux-windows-11)
+- [Amazon Connect Customer now shows associated cases in contact records](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-contact-records/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
