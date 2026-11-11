@@ -47,10 +47,10 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Quick apps are now available in Asia Pacific &lpar;Singapore&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-apps-available-in-asia-pacific-singapore/)
 - [AWS Billing and Cost Management now supports AWS Billing Conductor and AWS Billing Transfer views as source views for custom billing views](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-and-cost-management-multi-source-custom-billing-views)
 - [Amazon EC2 G7 instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-additional-regions/)
 - [Amazon OpenSearch Service announces managed cross-Region disaster recovery](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-managed-cross-region-disaster-recovery/)
-- [Amazon RDS for MySQL 26.10 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2026/11/rds-mysql-26-10-preview-environment/)
 - [Amazon RDS for PostgreSQL announces Extended Support minor versions 13.23-rds.20260819, 12.22-rds.20260820 and 11.22-rds.20260822](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-extended-support/)
 <!-- AWS-NEWS:END -->
 
