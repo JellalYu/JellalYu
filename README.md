@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Ornith-1.0-9B and Ornith-1.0-35B models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/ornith-1-0-9b-ornith-1-0-35b-on-sagemaker-jumpstart/)
-- [DeepSeek-V4-Pro, DeepSeek-V4-Flash, and DeepSeek-V4.1-Flash models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/deepseek-v4-pro-v4-flash-v4.1-flash-on-sagemaker-jumpstart/)
-- [AWS Network Security Manager now available in AWS European Sovereign Cloud and Additional New Regions](https://aws.amazon.com/about-aws/whats-new/2026/11/network-security-mgr-eu-sovereign-cloud/)
-- [AWS Cloud WAN now supports Flow Logs](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-cloud-wan-flow-logs/)
-- [Amazon EKS Provisioned Control Plane now offers a 24 GB etcd database on 4XL and 8XL tiers](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-provisioned-control-plane-larger-etcd-database/)
+- [Amazon MWAA now supports fine-grained access control with IAM Identity Center and multi-team environments](https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-fine-grained-access-control/)
+- [Amazon Connect Customer supports merging and linking related cases in the agent workspace](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-merge-link/)
+- [AWS Quick enhances granular governance with the ability to restrict structured data sources](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-structured-data-source-restrictions/)
+- [Amazon Route 53 Domains now supports self-service restore for expired and deleted domains](https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-domains-self-service-restore/)
+- [EC2 Image Builder console now integrates with the DevOps Agent for troubleshooting and resource creation](https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-image-builder-devops-agent-integration)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
