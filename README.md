@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon WorkSpaces Applications adds support for smart card redirection](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-smart-card-redirection/)
 - [Amazon EMR 8.2 is now available](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-8.2/)
 - [Introducing the Apache Spark Optimization Agent for Amazon EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-optimization-agent/)
 - [AWS Transform now accelerates migration deals for Migration Acceleration Program &lpar;MAP&rpar; benefits](https://aws.amazon.com/about-aws/whats-new/2026/11/map-integration-with-aws-transform/)
 - [Amazon EC2 C8gn instances are now available in AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8gn/)
-- [Amazon EC2 C8ine instances are now available in AWS Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8ine)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
