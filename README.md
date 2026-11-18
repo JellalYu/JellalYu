@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MySQL supports MySQL minor version 8.4.13](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-8413-available/)
+- [Amazon Cognito now supports point-in-time recovery](https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-point-in-time-recovery/)
+- [Amazon RDS now supports fast storage volume initialization](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-fast-storage-volume-initialization/)
+- [AWS Control Tower now supports existing Amazon S3 bucket for log delivery](https://aws.amazon.com/about-aws/whats-new/2026/11/control-tower-existing-s3-log-bucket/)
 - [Amazon WorkSpaces Applications adds support for smart card redirection](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-smart-card-redirection/)
-- [Amazon EMR 8.2 is now available](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-8.2/)
-- [Introducing the Apache Spark Optimization Agent for Amazon EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-optimization-agent/)
-- [AWS Transform now accelerates migration deals for Migration Acceleration Program &lpar;MAP&rpar; benefits](https://aws.amazon.com/about-aws/whats-new/2026/11/map-integration-with-aws-transform/)
-- [Amazon EC2 C8gn instances are now available in AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8gn/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
