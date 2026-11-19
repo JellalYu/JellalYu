@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon RDS for MySQL supports MySQL minor version 8.4.13](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-8413-available/)
-- [Amazon Cognito now supports point-in-time recovery](https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-point-in-time-recovery/)
-- [Amazon RDS now supports fast storage volume initialization](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-fast-storage-volume-initialization/)
-- [AWS Control Tower now supports existing Amazon S3 bucket for log delivery](https://aws.amazon.com/about-aws/whats-new/2026/11/control-tower-existing-s3-log-bucket/)
-- [Amazon WorkSpaces Applications adds support for smart card redirection](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-smart-card-redirection/)
+- [Amazon OpenSearch Memory is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-memory-generally-available/)
+- [Introducing the Apache Spark Optimization Agent for AWS Glue ETL](https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-aws-glue-etl/)
+- [Amazon SageMaker AI now supports cross-Region inference routing](https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-cross-region-routing/)
+- [AWS announces ExtendDB 1.0](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-extenddb-1-0/)
+- [AWS Transform custom now supports cross-account sharing of transformation definitions](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-custom-cross-account-td/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
