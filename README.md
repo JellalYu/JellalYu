@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Marketplace now supports buyer contact sharing at subscription](https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-contact-sharing/)
-- [AWS Systems Manager Parameter Store raises API throughput limits](https://aws.amazon.com/about-aws/whats-new/2026/11/parameter-store-raises-api-throughput-limits/)
-- [AWS Transform supports optimized storage for server migration](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-optimized-storage/)
-- [AWS Marketplace now supports buyer approval workflows](https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-approvals/)
-- [AWS Transform automates source and migration target actions to accelerate cutover](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/)
+- [AWS Marketplace now supports agentic payments with AgentCore](https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/)
+- [Amazon Cognito now supports client ID metadata documents](https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-client-id-metadata-documents/)
+- [Amazon Aurora DSQL now delivers up to 50% higher write throughput](https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-higher-write-throughput/)
+- [Amazon CloudFront adds IP based routing and connection logs to SaaS Manager](https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-ip-based-routing-connection-logging)
+- [Amazon CloudFront simplifies domain moves and onboarding for SaaS Manager](https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-domain-moves-distribution-tenants)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
