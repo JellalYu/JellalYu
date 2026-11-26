@@ -47,11 +47,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda now supports orchestrating MicroVMs with Lambda durable functions](https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm/)
+- [Amazon CloudWatch Omni now integrates with PagerDuty](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-pagerduty/)
 - [Amazon EC2 M8g instances are now available in Israel &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m8g-instances-telaviv-region/)
 - [Amazon EC2 M9gd instances are now available in Asia Pacific &lpar;Seoul&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9gd-asiapacific-seoul/)
 - [Amazon EC2 C9gd instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9gd-instances-additional-regions/)
-- [Amazon EC2 C9g instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9g-instances-additional-regions/)
-- [Amazon EC2 M9g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9g-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
